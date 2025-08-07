@@ -8,39 +8,71 @@ import os
 from bs4 import BeautifulSoup
 
 
-if __name__ == "__main__":
-    # 设置文件路径
-    html_path = "data/raw_html/WHU.html"
-    txt_path = "data/txt_tree/WHU.txt"
-    json_path = "data/json_tree/WHU.json"
 
-    # 读取本地 HTML 文件
+
+
+
+# 处理一个 HTML 文件：读取、解析、保存 txt/json
+def process_html_file(html_path, txt_path, json_path):
     with open(html_path, "r", encoding="utf-8") as f:
         html = f.read()
 
-    soup = BeautifulSoup(html, 'html.parser')
-    root = soup.find('html')
+    soup = BeautifulSoup(html, "html.parser")
+    root = soup.find("html")
+    if not root:
+        print(f"⚠️ HTML 无法解析：{html_path}")
+        return
 
-    # 生成按钮树
-    full_tree = build_tree_structure(root)
-    filtered_tree = filter_empty_nodes(full_tree)
+    tree = build_tree_structure(root)
+    filtered = filter_empty_nodes(tree)
 
-    # 保存为缩进文本结构
+    # 保存缩进结构
     with open(txt_path, "w", encoding="utf-8") as f:
-        print_tree(filtered_tree, indent=0, file=f)
+        print_tree(filtered, indent=0, file=f)
 
-    # 缩进结构清洗
+    # 修复缩进
     process_file(txt_path)
 
-    # 读取清洗后的 txt，构建 JSON 树结构
-    with open(txt_path, 'r', encoding='utf-8') as f:
+    # 构建 JSON 树结构
+    with open(txt_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    tree = build_tree(lines)
+    json_tree = build_tree(lines)
 
-    # 输出到 json
+    # 保存 JSON
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(tree, f, ensure_ascii=False, indent=2)
+        json.dump(json_tree, f, ensure_ascii=False, indent=2)
 
-    print("✅ 成功提取按钮结构并输出为 JSON！")
+    print(f" 处理完成：{html_path}")
+    print(f"  ├── TXT 输出：{txt_path}")
+    print(f"  └── JSON 输出：{json_path}")
+
+
+
+
+if __name__ == "__main__":
+    base_raw = "data/raw_html"
+    base_out = "data/output"
+
+    categories = ["chinese_university", "qs_university"]
+
+    for category in categories:
+        raw_folder = os.path.join(base_raw, category)
+        txt_folder = os.path.join(base_out, category, "txt_tree")
+        json_folder = os.path.join(base_out, category, "json_tree")
+
+        # 确保输出目录存在
+        os.makedirs(txt_folder, exist_ok=True)
+        os.makedirs(json_folder, exist_ok=True)
+
+        # 遍历该类别下的所有 HTML 文件
+        for filename in os.listdir(raw_folder):
+            if filename.lower().endswith(".html"):
+                name = os.path.splitext(filename)[0]  # 例如 WHU.html → WHU
+
+                html_path = os.path.join(raw_folder, filename)
+                txt_path = os.path.join(txt_folder, f"{name}.txt")
+                json_path = os.path.join(json_folder, f"{name}.json")
+
+                process_html_file(html_path, txt_path, json_path)
 
