@@ -12,10 +12,14 @@ web爬虫预处理
 
 
 # 使用说明
-
-pip install -r requirements.txt
-中国高校 -> data/raw_html/chinese_university/
-qs top高校 -> data/raw_html/qs_university/
+1. 安装依赖：
+>    ```
+>    pip install -r requirements.txt
+>    ```
+>
+> 2. 准备原始 HTML 数据目录：  
+>    - 中国高校 ➜ `data/raw_html/chinese_university/`  
+>    - QS Top 高校 ➜ `data/raw_html/qs_university/`
 
 
 # 输出说明
