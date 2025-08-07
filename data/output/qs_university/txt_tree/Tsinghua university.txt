@@ -1,0 +1,171 @@
+            { tag='div', class='wal', buttons=[text='', url='index.htm'] }
+                  { tag='li', buttons=[text='Students', url='Student_Life.htm'] }
+                  { tag='li', buttons=[text='Faculty & Staff', url='Faculty___Staff.htm'] }
+                  { tag='li', buttons=[text='Alumni', url='Alumni.htm'] }
+                  { tag='li', buttons=[text='Visitor', url='Visitor.htm'] }
+                  { tag='li', buttons=[text='Media', url='Media.htm'] }
+                { tag='div', class='language', buttons=[text='中文', url='https://www.tsinghua.edu.cn/'] }
+                    { tag='div', class='p-ico btn', buttons=[text='', url='search.jsp?wbtreeid=1001'] }
+                  { tag='li', buttons=[text='About', url='About.htm'] }
+                        { tag='dd', buttons=[text='General Information', url='About/General_Information.htm'] }
+                        { tag='dd', buttons=[text='History', url='About/History.htm'] }
+                        { tag='dd', buttons=[text='Current Administrators', url='About/Current_Administrators.htm'] }
+                        { tag='dd', buttons=[text='Former Presidents', url='About/Former_Presidents.htm'] }
+                        { tag='dd', buttons=[text='Facts and Figures', url='About/Facts_and_Figures.htm'] }
+                  { tag='li', buttons=[text='Admissions', url='Admissions.htm'] }
+                        { tag='dd', buttons=[text='Undergraduate', url='Admissions/Undergraduate/Overview.htm'] }
+                        { tag='dd', buttons=[text='Graduate', url='Admissions/Graduate1/Overview.htm'] }
+                        { tag='dd', buttons=[text='International Students', url='Admissions/International_Students1/Overview.htm'] }
+                        { tag='dd', buttons=[text='Non-Degree Programs', url='Admissions/Non_Degree_Programs1/Overview.htm'] }
+                        { tag='dd', buttons=[text='Summer School', url='https://www.tsinghua.edu.cn/gss/'] }
+                        { tag='dd', buttons=[text='Continuing Education', url='Admissions/Continuing_Education1/Overview.htm'] }
+                        { tag='dd', buttons=[text='Online Education', url='Admissions/Online_Education/Overview.htm'] }
+                  { tag='li', buttons=[text='Schools & Departments', url='Schools___Departments.htm'] }
+                  { tag='li', buttons=[text='Research', url='Research.htm'] }
+                        { tag='dd', buttons=[text='Research Programs', url='Research/Research_Programs/Overview.htm'] }
+                        { tag='dd', buttons=[text='Prospective Researchers', url='Research/Prospective_Researchers.htm'] }
+                        { tag='dd', buttons=[text='Collaborating Institutions', url='Research/Collaborating_Institutions.htm'] }
+                        { tag='dd', buttons=[text='Facilities', url='http://lib.tsinghua.edu.cn/'] }
+                        { tag='dd', buttons=[text='Publications', url='Research/Publications.htm'] }
+                        { tag='dd', buttons=[text='Research Feature', url='Research/Research_Feature.htm'] }
+                        { tag='dd', buttons=[text='Research Videos', url='Research/Video.htm'] }
+                  { tag='li', buttons=[text='News', url='News.htm'] }
+                  { tag='li', buttons=[text='Events', url='Events1.htm'] }
+                  { tag='li', buttons=[text='Podcast', url='Podcast.htm'] }
+                  { tag='li', buttons=[text='Campus', url='Campus.htm'] }
+                        { tag='dd', buttons=[text='Student Life', url='Campus/Student_Life/Housing___Dining.htm'] }
+                        { tag='dd', buttons=[text='Campus View', url='Campus/Campus_View/Photo_Gallery.htm'] }
+                        { tag='dd', buttons=[text='Campus Service', url='Campus/Campus_Service1/Student_Outreach.htm'] }
+                { tag='li', buttons=[text='About', url=''] }
+                  { tag='h2', buttons=[text='About', url='About.htm'] }
+                  { tag='div', class='list', buttons=[text='General Information', url='', text='History', url='', text='Current Administrators', url='', text='Former Presidents', url='', text='Facts and Figures', url=''] }
+                  { tag='h3', buttons=[text='General Information', url='About/General_Information.htm'] }
+                  { tag='h3', buttons=[text='History', url='About/History.htm'] }
+                  { tag='h3', buttons=[text='Current Administrators', url='About/Current_Administrators.htm'] }
+                  { tag='h3', buttons=[text='Former Presidents', url='About/Former_Presidents.htm'] }
+                  { tag='h3', buttons=[text='Facts and Figures', url='About/Facts_and_Figures.htm'] }
+                { tag='li', buttons=[text='Admissions', url=''] }
+                  { tag='h2', buttons=[text='Admissions', url='Admissions.htm'] }
+                  { tag='div', class='list', buttons=[text='Undergraduate', url='', text='Graduate', url='', text='International Students', url='', text='Non-Degree Programs', url='', text='Summer School', url='', text='Continuing Education', url='', text='Online Education', url=''] }
+                  { tag='h3', buttons=[text='Undergraduate', url='Admissions/Undergraduate/Overview.htm'] }
+                  { tag='h3', buttons=[text='Graduate', url='Admissions/Graduate1/Overview.htm'] }
+                  { tag='h3', buttons=[text='International Students', url='Admissions/International_Students1/Overview.htm'] }
+                  { tag='h3', buttons=[text='Non-Degree Programs', url='Admissions/Non_Degree_Programs1/Overview.htm'] }
+                  { tag='h3', buttons=[text='Summer School', url='https://www.tsinghua.edu.cn/gss/'] }
+                  { tag='h3', buttons=[text='Continuing Education', url='Admissions/Continuing_Education1/Overview.htm'] }
+                  { tag='h3', buttons=[text='Online Education', url='Admissions/Online_Education/Overview.htm'] }
+                { tag='li', buttons=[text='Schools & Departments', url=''] }
+                  { tag='h2', buttons=[text='Schools & Departments', url='Schools___Departments.htm'] }
+                { tag='li', buttons=[text='Research', url=''] }
+                  { tag='h2', buttons=[text='Research', url='Research.htm'] }
+                  { tag='div', class='list', buttons=[text='Research Programs', url='', text='Prospective Researchers', url='', text='Collaborating Institutions', url='', text='Facilities', url='', text='Publications', url='', text='Research Feature', url='', text='Research Videos', url=''] }
+                  { tag='h3', buttons=[text='Research Programs', url='Research/Research_Programs/Overview.htm'] }
+                  { tag='h3', buttons=[text='Prospective Researchers', url='Research/Prospective_Researchers.htm'] }
+                  { tag='h3', buttons=[text='Collaborating Institutions', url='Research/Collaborating_Institutions.htm'] }
+                  { tag='h3', buttons=[text='Facilities', url='http://lib.tsinghua.edu.cn/'] }
+                  { tag='h3', buttons=[text='Publications', url='Research/Publications.htm'] }
+                  { tag='h3', buttons=[text='Research Feature', url='Research/Research_Feature.htm'] }
+                  { tag='h3', buttons=[text='Research Videos', url='Research/Video.htm'] }
+                { tag='li', buttons=[text='News', url=''] }
+                  { tag='h2', buttons=[text='News', url='News.htm'] }
+                { tag='li', buttons=[text='Events', url=''] }
+                  { tag='h2', buttons=[text='Events', url='Events1.htm'] }
+                { tag='li', buttons=[text='Podcast', url=''] }
+                  { tag='h2', buttons=[text='Podcast', url='Podcast.htm'] }
+                { tag='li', buttons=[text='Campus', url=''] }
+                  { tag='h2', buttons=[text='Campus', url='Campus.htm'] }
+                  { tag='div', class='list', buttons=[text='Student Life', url='', text='Campus View', url='', text='Campus Service', url=''] }
+                  { tag='h3', buttons=[text='Student Life', url='Campus/Student_Life/Housing___Dining.htm'] }
+                  { tag='h3', buttons=[text='Campus View', url='Campus/Campus_View/Photo_Gallery.htm'] }
+                  { tag='h3', buttons=[text='Campus Service', url='Campus/Campus_Service1/Student_Outreach.htm'] }
+                { tag='li', buttons=[text='Alumni', url=''] }
+                  { tag='h2', buttons=[text='Alumni', url='Alumni.htm'] }
+                  { tag='div', class='list', buttons=[text='Useful Information', url='', text='After Graduation', url=''] }
+                  { tag='h3', buttons=[text='Useful Information', url='Alumni/Useful_Information.htm'] }
+                  { tag='h3', buttons=[text='After Graduation', url='Alumni/After_Graduation.htm'] }
+                { tag='li', buttons=[text='Media', url=''] }
+                  { tag='h2', buttons=[text='Media', url='Media.htm'] }
+                  { tag='div', class='list', buttons=[text='Media Inquiries', url='', text='Media Outreach', url='', text='Filming on Campus', url='', text='Media Resources', url='', text='In the Media', url='', text='Videos', url=''] }
+                  { tag='h3', buttons=[text='Media Inquiries', url='Media/Media_Inquiries.htm'] }
+                  { tag='h3', buttons=[text='Media Outreach', url='Media/Media_Outreach.htm'] }
+                  { tag='h3', buttons=[text='Filming on Campus', url='Media/Filming_on_Campus.htm'] }
+                  { tag='h3', buttons=[text='Media Resources', url='Media/Media_Resources.htm'] }
+                  { tag='h3', buttons=[text='In the Media', url='Media/In_the_Media.htm'] }
+                  { tag='h3', buttons=[text='Videos', url='Media/Videos.htm'] }
+                { tag='li', buttons=[text='Visitor', url=''] }
+                  { tag='h2', buttons=[text='Visitor', url='Visitor.htm'] }
+                  { tag='div', class='list', buttons=[text='Visitor Information', url='', text='Campus Information', url='', text='Experience Tsinghua', url=''] }
+                  { tag='h3', buttons=[text='Visitor Information', url='Visitor/Visitor_Information/The_Basics.htm'] }
+                  { tag='h3', buttons=[text='Campus Information', url='Visitor/Campus_Information/Visitor_Parking.htm'] }
+                  { tag='h3', buttons=[text='Experience Tsinghua', url='Campus/Campus_View/Photo_Gallery.htm'] }
+                { tag='li', buttons=[text='Student Life', url=''] }
+                  { tag='h2', buttons=[text='Student Life', url='Student_Life.htm'] }
+                  { tag='div', class='list', buttons=[text='Housing & Dining', url='', text='Athletics & Recreation', url='', text='Health & Wellness', url='', text='Arts & Culture', url='', text='Student Activities', url='', text='Student Experience', url=''] }
+                  { tag='h3', buttons=[text='Housing & Dining', url='Campus/Student_Life/Housing___Dining.htm'] }
+                  { tag='h3', buttons=[text='Athletics & Recreation', url='Campus/Student_Life/Athletics___Recreation.htm'] }
+                  { tag='h3', buttons=[text='Health & Wellness', url='Campus/Student_Life/Health___Wellness.htm'] }
+                  { tag='h3', buttons=[text='Arts & Culture', url='Campus/Student_Life/Arts___Culture.htm'] }
+                  { tag='h3', buttons=[text='Student Activities', url='Campus/Student_Life/Student_Activities.htm'] }
+                  { tag='h3', buttons=[text='Student Experience', url='Campus/Student_Life/Student_Experience.htm'] }
+              { tag='li', buttons=[text='​13th World Peace Forum opens at Tsinghua, Chinese vice president addresses the forum', url='', text='', url='index/Focus.htm'] }
+              { tag='h2', buttons=[text='​13th World Peace Forum opens at Tsinghua, Chinese vice president addresses the forum', url='info/1399/14383.htm'] }
+              { tag='div', class='more', buttons=[text='Read More', url='index/Focus.htm'] }
+              { tag='li', buttons=[text='​Tsinghua holds Commencement Ceremony for Graduate Students', url='', text='', url='index/Focus.htm'] }
+              { tag='h2', buttons=[text='​Tsinghua holds Commencement Ceremony for Graduate Students', url='info/1399/14346.htm'] }
+              { tag='div', class='more', buttons=[text='Read More', url='index/Focus.htm'] }
+              { tag='li', buttons=[text='​Tsinghua holds Commencement Ceremony for Undergraduate Students', url='', text='', url='index/Focus.htm'] }
+              { tag='h2', buttons=[text='​Tsinghua holds Commencement Ceremony for Undergraduate Students', url='info/1399/14345.htm'] }
+              { tag='div', class='more', buttons=[text='Read More', url='index/Focus.htm'] }
+                  { tag='div', class='p-tag', buttons=[text='HEADLINES', url='News/HEADLINES.htm'] }
+                  { tag='div', class='name', buttons=[text='​13th World Peace Forum opens at Tsinghua, Chinese vice president addresses the forum', url='http://www.tsinghua.edu.cn/en//info/1244/14379.htm'] }
+                  { tag='div', class='more', buttons=[text='Read More', url='News.htm'] }
+              { tag='div', class='img', buttons=[text='', url='http://www.tsinghua.edu.cn/en//info/1244/14379.htm'] }
+                  { tag='li', buttons=[text='​Luo Wei: Planting Music Like a Tree', url='http://www.tsinghua.edu.cn/en//info/1245/14406.htm'] }
+                  { tag='li', buttons=[text='​The 2025 International Congress of Basic Science opens in Beijing', url='http://www.tsinghua.edu.cn/en//info/1245/14402.htm'] }
+            { tag='div', class='btn', buttons=[text='More Tsinghua News', url='News.htm'] }
+              { tag='div', class='ztrkt', buttons=[text='', url='The_20th_National_Congress_of_the_Communist_Party_.htm', text='', url='https://www.tsinghua.edu.cn/en/Carbon_neutrality.htm', text='', url='https://www.tsinghua.edu.cn/en/Chinese_Modernization.htm'] }
+              { tag='div', class='p-title', buttons=[text='Events', url=''] }
+              { tag='div', class='more', buttons=[text='Read More', url='Events1.htm'] }
+                      { tag='div', class='img', buttons=[text='', url='https://mp.weixin.qq.com/s/nkALh5RSLJ9n3TvaxGk7uw'] }
+                      { tag='div', class='name', buttons=[text='【RESEARCH PROGRAM】2025 Global Open Research Program on Sustainable Social Value Call for Research Participation', url='https://mp.weixin.qq.com/s/nkALh5RSLJ9n3TvaxGk7uw'] }
+                      { tag='div', class='p-tag', buttons=[text='LECTURE', url='https://mp.weixin.qq.com/s/nkALh5RSLJ9n3TvaxGk7uw'] }
+                      { tag='div', class='img', buttons=[text='', url='https://climatexleadership.gauc.net/'] }
+                      { tag='div', class='name', buttons=[text='【TRAINING PROGRAM】‘Climate x’ Leadership Training Program 2025 Recruiting!', url='https://climatexleadership.gauc.net/'] }
+                      { tag='div', class='p-tag', buttons=[text='LECTURE', url='https://climatexleadership.gauc.net/'] }
+                      { tag='div', class='img', buttons=[text='', url='https://www.icbs.cn/site/pages/index/index?pageId=be780000-9bce-0ece-94a2-08dd19891e9c'] }
+                      { tag='div', class='name', buttons=[text='【CONFERENCE】Registration Opens: 2025 International Congress of Basic Science with 4 Fields Medalists & 70+ Leading Scholars', url='https://www.icbs.cn/site/pages/index/index?pageId=be780000-9bce-0ece-94a2-08dd19891e9c'] }
+                      { tag='div', class='p-tag', buttons=[text='LECTURE', url='https://www.icbs.cn/site/pages/index/index?pageId=be780000-9bce-0ece-94a2-08dd19891e9c'] }
+              { tag='div', class='p-title', buttons=[text='Research', url=''] }
+              { tag='div', class='more', buttons=[text='More about Research', url='Research/Research_Feature.htm'] }
+                  { tag='li', buttons=[text='How filling homes in China could speed decarbonization', url='info/1418/14290.htm'] }
+                    { tag='div', class='img', buttons=[text='', url='info/1418/14290.htm'] }
+                  { tag='li', buttons=[text='Tsinghua University researchers identify new plant thermosensor', url='info/1418/14262.htm'] }
+                    { tag='div', class='img', buttons=[text='', url='info/1418/14262.htm'] }
+                  { tag='li', buttons=[text='Ancient Chinese documents challenge understanding of early Confucianism', url='info/1418/14256.htm'] }
+                    { tag='div', class='img', buttons=[text='', url='info/1418/14256.htm'] }
+              { tag='div', class='more', buttons=[text='Read More', url='Research/Research_Feature.htm'] }
+            { tag='div', class='big-img', buttons=[text='', url='info/1418/14290.htm', text='', url='info/1418/14262.htm', text='', url='info/1418/14256.htm'] }
+            { tag='div', class='p-title', buttons=[text='Campus Life', url=''] }
+                { tag='li', buttons=[text='Student Life', url='Campus/Student_Life/Student_Activities.htm'] }
+                { tag='li', buttons=[text='Campus View', url='Campus/Campus_View/Photo_Gallery.htm'] }
+                { tag='li', buttons=[text='Campus Service', url='<span style='color:red;font-size:9pt'>转换链接错误</span>'] }
+                { tag='li', buttons=[text='', url='Campus.htm'] }
+                { tag='li', buttons=[text='', url='Campus.htm'] }
+                { tag='li', buttons=[text='', url='Campus.htm'] }
+                { tag='li', buttons=[text='', url='Campus.htm'] }
+            { tag='div', class='spp', buttons=[text='', url='Media/Videos.htm'] }
+            { tag='div', class='tpp', buttons=[text='', url='Media/Videos.htm'] }
+            { tag='div', class='p-title', buttons=[text='Resources', url=''] }
+                { tag='li', buttons=[text='Academic Calendar', url='Campus/Student_Life/Academic_Calendar.htm'] }
+                { tag='li', buttons=[text='Online Learning', url='https://www.xuetangx.com/'] }
+                { tag='li', buttons=[text='Giving to Tsinghua', url='https://www.tuef.tsinghua.edu.cn/en/'] }
+                { tag='li', buttons=[text='Contact', url='Contact.htm'] }
+              { tag='div', class='logo', buttons=[text='', url='index.htm'] }
+                  { tag='li', buttons=[text='', url='https://twitter.com/Tsinghua_Uni'] }
+                  { tag='li', buttons=[text='', url='https://www.facebook.com/Tsinghua/'] }
+                  { tag='li', buttons=[text='', url='https://www.youtube.com/c/TsinghuaUniversity_official'] }
+                  { tag='li', buttons=[text='', url='https://www.linkedin.com/school/14022/'] }
+                  { tag='li', buttons=[text='', url='https://www.instagram.com/tsinghua_uni/'] }
+                  { tag='li', buttons=[text='', url='image/weixin.png'] }
+                  { tag='li', buttons=[text='', url='image/gfdyewm.png'] }
+                  { tag='p', buttons=[text='15006448', url='https://beian.miit.gov.cn/#/Integrated/index'] }

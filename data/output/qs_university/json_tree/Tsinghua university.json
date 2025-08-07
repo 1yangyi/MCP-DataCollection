@@ -1,0 +1,896 @@
+[
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "Students",
+        "url": "Student_Life.htm"
+      },
+      {
+        "text": "Faculty & Staff",
+        "url": "Faculty___Staff.htm"
+      },
+      {
+        "text": "Alumni",
+        "url": "Alumni.htm"
+      },
+      {
+        "text": "Visitor",
+        "url": "Visitor.htm"
+      },
+      {
+        "text": "Media",
+        "url": "Media.htm"
+      },
+      {
+        "text": "中文",
+        "url": "https://www.tsinghua.edu.cn/",
+        "children": [
+          {
+            "text": "",
+            "url": "search.jsp?wbtreeid=1001"
+          },
+          {
+            "text": "About",
+            "url": "About.htm",
+            "children": [
+              {
+                "text": "General Information",
+                "url": "About/General_Information.htm"
+              },
+              {
+                "text": "History",
+                "url": "About/History.htm"
+              },
+              {
+                "text": "Current Administrators",
+                "url": "About/Current_Administrators.htm"
+              },
+              {
+                "text": "Former Presidents",
+                "url": "About/Former_Presidents.htm"
+              },
+              {
+                "text": "Facts and Figures",
+                "url": "About/Facts_and_Figures.htm"
+              }
+            ]
+          },
+          {
+            "text": "Admissions",
+            "url": "Admissions.htm",
+            "children": [
+              {
+                "text": "Undergraduate",
+                "url": "Admissions/Undergraduate/Overview.htm"
+              },
+              {
+                "text": "Graduate",
+                "url": "Admissions/Graduate1/Overview.htm"
+              },
+              {
+                "text": "International Students",
+                "url": "Admissions/International_Students1/Overview.htm"
+              },
+              {
+                "text": "Non-Degree Programs",
+                "url": "Admissions/Non_Degree_Programs1/Overview.htm"
+              },
+              {
+                "text": "Summer School",
+                "url": "https://www.tsinghua.edu.cn/gss/"
+              },
+              {
+                "text": "Continuing Education",
+                "url": "Admissions/Continuing_Education1/Overview.htm"
+              },
+              {
+                "text": "Online Education",
+                "url": "Admissions/Online_Education/Overview.htm"
+              }
+            ]
+          },
+          {
+            "text": "Schools & Departments",
+            "url": "Schools___Departments.htm"
+          },
+          {
+            "text": "Research",
+            "url": "Research.htm",
+            "children": [
+              {
+                "text": "Research Programs",
+                "url": "Research/Research_Programs/Overview.htm"
+              },
+              {
+                "text": "Prospective Researchers",
+                "url": "Research/Prospective_Researchers.htm"
+              },
+              {
+                "text": "Collaborating Institutions",
+                "url": "Research/Collaborating_Institutions.htm"
+              },
+              {
+                "text": "Facilities",
+                "url": "http://lib.tsinghua.edu.cn/"
+              },
+              {
+                "text": "Publications",
+                "url": "Research/Publications.htm"
+              },
+              {
+                "text": "Research Feature",
+                "url": "Research/Research_Feature.htm"
+              },
+              {
+                "text": "Research Videos",
+                "url": "Research/Video.htm"
+              }
+            ]
+          },
+          {
+            "text": "News",
+            "url": "News.htm"
+          },
+          {
+            "text": "Events",
+            "url": "Events1.htm"
+          },
+          {
+            "text": "Podcast",
+            "url": "Podcast.htm"
+          },
+          {
+            "text": "Campus",
+            "url": "Campus.htm",
+            "children": [
+              {
+                "text": "Student Life",
+                "url": "Campus/Student_Life/Housing___Dining.htm"
+              },
+              {
+                "text": "Campus View",
+                "url": "Campus/Campus_View/Photo_Gallery.htm"
+              },
+              {
+                "text": "Campus Service",
+                "url": "Campus/Campus_Service1/Student_Outreach.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "About",
+        "url": "",
+        "children": [
+          {
+            "text": "About",
+            "url": "About.htm"
+          },
+          {
+            "text": "General Information",
+            "url": ""
+          },
+          {
+            "text": "History",
+            "url": ""
+          },
+          {
+            "text": "Current Administrators",
+            "url": ""
+          },
+          {
+            "text": "Former Presidents",
+            "url": ""
+          },
+          {
+            "text": "Facts and Figures",
+            "url": ""
+          },
+          {
+            "text": "General Information",
+            "url": "About/General_Information.htm"
+          },
+          {
+            "text": "History",
+            "url": "About/History.htm"
+          },
+          {
+            "text": "Current Administrators",
+            "url": "About/Current_Administrators.htm"
+          },
+          {
+            "text": "Former Presidents",
+            "url": "About/Former_Presidents.htm"
+          },
+          {
+            "text": "Facts and Figures",
+            "url": "About/Facts_and_Figures.htm"
+          }
+        ]
+      },
+      {
+        "text": "Admissions",
+        "url": "",
+        "children": [
+          {
+            "text": "Admissions",
+            "url": "Admissions.htm"
+          },
+          {
+            "text": "Undergraduate",
+            "url": ""
+          },
+          {
+            "text": "Graduate",
+            "url": ""
+          },
+          {
+            "text": "International Students",
+            "url": ""
+          },
+          {
+            "text": "Non-Degree Programs",
+            "url": ""
+          },
+          {
+            "text": "Summer School",
+            "url": ""
+          },
+          {
+            "text": "Continuing Education",
+            "url": ""
+          },
+          {
+            "text": "Online Education",
+            "url": ""
+          },
+          {
+            "text": "Undergraduate",
+            "url": "Admissions/Undergraduate/Overview.htm"
+          },
+          {
+            "text": "Graduate",
+            "url": "Admissions/Graduate1/Overview.htm"
+          },
+          {
+            "text": "International Students",
+            "url": "Admissions/International_Students1/Overview.htm"
+          },
+          {
+            "text": "Non-Degree Programs",
+            "url": "Admissions/Non_Degree_Programs1/Overview.htm"
+          },
+          {
+            "text": "Summer School",
+            "url": "https://www.tsinghua.edu.cn/gss/"
+          },
+          {
+            "text": "Continuing Education",
+            "url": "Admissions/Continuing_Education1/Overview.htm"
+          },
+          {
+            "text": "Online Education",
+            "url": "Admissions/Online_Education/Overview.htm"
+          }
+        ]
+      },
+      {
+        "text": "Schools & Departments",
+        "url": "",
+        "children": [
+          {
+            "text": "Schools & Departments",
+            "url": "Schools___Departments.htm"
+          }
+        ]
+      },
+      {
+        "text": "Research",
+        "url": "",
+        "children": [
+          {
+            "text": "Research",
+            "url": "Research.htm"
+          },
+          {
+            "text": "Research Programs",
+            "url": ""
+          },
+          {
+            "text": "Prospective Researchers",
+            "url": ""
+          },
+          {
+            "text": "Collaborating Institutions",
+            "url": ""
+          },
+          {
+            "text": "Facilities",
+            "url": ""
+          },
+          {
+            "text": "Publications",
+            "url": ""
+          },
+          {
+            "text": "Research Feature",
+            "url": ""
+          },
+          {
+            "text": "Research Videos",
+            "url": ""
+          },
+          {
+            "text": "Research Programs",
+            "url": "Research/Research_Programs/Overview.htm"
+          },
+          {
+            "text": "Prospective Researchers",
+            "url": "Research/Prospective_Researchers.htm"
+          },
+          {
+            "text": "Collaborating Institutions",
+            "url": "Research/Collaborating_Institutions.htm"
+          },
+          {
+            "text": "Facilities",
+            "url": "http://lib.tsinghua.edu.cn/"
+          },
+          {
+            "text": "Publications",
+            "url": "Research/Publications.htm"
+          },
+          {
+            "text": "Research Feature",
+            "url": "Research/Research_Feature.htm"
+          },
+          {
+            "text": "Research Videos",
+            "url": "Research/Video.htm"
+          }
+        ]
+      },
+      {
+        "text": "News",
+        "url": "",
+        "children": [
+          {
+            "text": "News",
+            "url": "News.htm"
+          }
+        ]
+      },
+      {
+        "text": "Events",
+        "url": "",
+        "children": [
+          {
+            "text": "Events",
+            "url": "Events1.htm"
+          }
+        ]
+      },
+      {
+        "text": "Podcast",
+        "url": "",
+        "children": [
+          {
+            "text": "Podcast",
+            "url": "Podcast.htm"
+          }
+        ]
+      },
+      {
+        "text": "Campus",
+        "url": "",
+        "children": [
+          {
+            "text": "Campus",
+            "url": "Campus.htm"
+          },
+          {
+            "text": "Student Life",
+            "url": ""
+          },
+          {
+            "text": "Campus View",
+            "url": ""
+          },
+          {
+            "text": "Campus Service",
+            "url": ""
+          },
+          {
+            "text": "Student Life",
+            "url": "Campus/Student_Life/Housing___Dining.htm"
+          },
+          {
+            "text": "Campus View",
+            "url": "Campus/Campus_View/Photo_Gallery.htm"
+          },
+          {
+            "text": "Campus Service",
+            "url": "Campus/Campus_Service1/Student_Outreach.htm"
+          }
+        ]
+      },
+      {
+        "text": "Alumni",
+        "url": "",
+        "children": [
+          {
+            "text": "Alumni",
+            "url": "Alumni.htm"
+          },
+          {
+            "text": "Useful Information",
+            "url": ""
+          },
+          {
+            "text": "After Graduation",
+            "url": ""
+          },
+          {
+            "text": "Useful Information",
+            "url": "Alumni/Useful_Information.htm"
+          },
+          {
+            "text": "After Graduation",
+            "url": "Alumni/After_Graduation.htm"
+          }
+        ]
+      },
+      {
+        "text": "Media",
+        "url": "",
+        "children": [
+          {
+            "text": "Media",
+            "url": "Media.htm"
+          },
+          {
+            "text": "Media Inquiries",
+            "url": ""
+          },
+          {
+            "text": "Media Outreach",
+            "url": ""
+          },
+          {
+            "text": "Filming on Campus",
+            "url": ""
+          },
+          {
+            "text": "Media Resources",
+            "url": ""
+          },
+          {
+            "text": "In the Media",
+            "url": ""
+          },
+          {
+            "text": "Videos",
+            "url": ""
+          },
+          {
+            "text": "Media Inquiries",
+            "url": "Media/Media_Inquiries.htm"
+          },
+          {
+            "text": "Media Outreach",
+            "url": "Media/Media_Outreach.htm"
+          },
+          {
+            "text": "Filming on Campus",
+            "url": "Media/Filming_on_Campus.htm"
+          },
+          {
+            "text": "Media Resources",
+            "url": "Media/Media_Resources.htm"
+          },
+          {
+            "text": "In the Media",
+            "url": "Media/In_the_Media.htm"
+          },
+          {
+            "text": "Videos",
+            "url": "Media/Videos.htm"
+          }
+        ]
+      },
+      {
+        "text": "Visitor",
+        "url": "",
+        "children": [
+          {
+            "text": "Visitor",
+            "url": "Visitor.htm"
+          },
+          {
+            "text": "Visitor Information",
+            "url": ""
+          },
+          {
+            "text": "Campus Information",
+            "url": ""
+          },
+          {
+            "text": "Experience Tsinghua",
+            "url": ""
+          },
+          {
+            "text": "Visitor Information",
+            "url": "Visitor/Visitor_Information/The_Basics.htm"
+          },
+          {
+            "text": "Campus Information",
+            "url": "Visitor/Campus_Information/Visitor_Parking.htm"
+          },
+          {
+            "text": "Experience Tsinghua",
+            "url": "Campus/Campus_View/Photo_Gallery.htm"
+          }
+        ]
+      },
+      {
+        "text": "Student Life",
+        "url": "",
+        "children": [
+          {
+            "text": "Student Life",
+            "url": "Student_Life.htm"
+          },
+          {
+            "text": "Housing & Dining",
+            "url": ""
+          },
+          {
+            "text": "Athletics & Recreation",
+            "url": ""
+          },
+          {
+            "text": "Health & Wellness",
+            "url": ""
+          },
+          {
+            "text": "Arts & Culture",
+            "url": ""
+          },
+          {
+            "text": "Student Activities",
+            "url": ""
+          },
+          {
+            "text": "Student Experience",
+            "url": ""
+          },
+          {
+            "text": "Housing & Dining",
+            "url": "Campus/Student_Life/Housing___Dining.htm"
+          },
+          {
+            "text": "Athletics & Recreation",
+            "url": "Campus/Student_Life/Athletics___Recreation.htm"
+          },
+          {
+            "text": "Health & Wellness",
+            "url": "Campus/Student_Life/Health___Wellness.htm"
+          },
+          {
+            "text": "Arts & Culture",
+            "url": "Campus/Student_Life/Arts___Culture.htm"
+          },
+          {
+            "text": "Student Activities",
+            "url": "Campus/Student_Life/Student_Activities.htm"
+          },
+          {
+            "text": "Student Experience",
+            "url": "Campus/Student_Life/Student_Experience.htm"
+          }
+        ]
+      },
+      {
+        "text": "​13th World Peace Forum opens at Tsinghua, Chinese vice president addresses the forum",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": "index/Focus.htm"
+      },
+      {
+        "text": "​13th World Peace Forum opens at Tsinghua, Chinese vice president addresses the forum",
+        "url": "info/1399/14383.htm"
+      },
+      {
+        "text": "Read More",
+        "url": "index/Focus.htm"
+      },
+      {
+        "text": "​Tsinghua holds Commencement Ceremony for Graduate Students",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": "index/Focus.htm"
+      },
+      {
+        "text": "​Tsinghua holds Commencement Ceremony for Graduate Students",
+        "url": "info/1399/14346.htm"
+      },
+      {
+        "text": "Read More",
+        "url": "index/Focus.htm"
+      },
+      {
+        "text": "​Tsinghua holds Commencement Ceremony for Undergraduate Students",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": "index/Focus.htm"
+      },
+      {
+        "text": "​Tsinghua holds Commencement Ceremony for Undergraduate Students",
+        "url": "info/1399/14345.htm"
+      },
+      {
+        "text": "Read More",
+        "url": "index/Focus.htm",
+        "children": [
+          {
+            "text": "HEADLINES",
+            "url": "News/HEADLINES.htm"
+          },
+          {
+            "text": "​13th World Peace Forum opens at Tsinghua, Chinese vice president addresses the forum",
+            "url": "http://www.tsinghua.edu.cn/en//info/1244/14379.htm"
+          },
+          {
+            "text": "Read More",
+            "url": "News.htm"
+          }
+        ]
+      },
+      {
+        "text": "",
+        "url": "http://www.tsinghua.edu.cn/en//info/1244/14379.htm",
+        "children": [
+          {
+            "text": "​Luo Wei: Planting Music Like a Tree",
+            "url": "http://www.tsinghua.edu.cn/en//info/1245/14406.htm"
+          },
+          {
+            "text": "​The 2025 International Congress of Basic Science opens in Beijing",
+            "url": "http://www.tsinghua.edu.cn/en//info/1245/14402.htm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "More Tsinghua News",
+    "url": "News.htm",
+    "children": [
+      {
+        "text": "",
+        "url": "The_20th_National_Congress_of_the_Communist_Party_.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.tsinghua.edu.cn/en/Carbon_neutrality.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.tsinghua.edu.cn/en/Chinese_Modernization.htm"
+      },
+      {
+        "text": "Events",
+        "url": ""
+      },
+      {
+        "text": "Read More",
+        "url": "Events1.htm",
+        "children": [
+          {
+            "text": "",
+            "url": "https://mp.weixin.qq.com/s/nkALh5RSLJ9n3TvaxGk7uw"
+          },
+          {
+            "text": "【RESEARCH PROGRAM】2025 Global Open Research Program on Sustainable Social Value Call for Research Participation",
+            "url": "https://mp.weixin.qq.com/s/nkALh5RSLJ9n3TvaxGk7uw"
+          },
+          {
+            "text": "LECTURE",
+            "url": "https://mp.weixin.qq.com/s/nkALh5RSLJ9n3TvaxGk7uw"
+          },
+          {
+            "text": "",
+            "url": "https://climatexleadership.gauc.net/"
+          },
+          {
+            "text": "【TRAINING PROGRAM】‘Climate x’ Leadership Training Program 2025 Recruiting!",
+            "url": "https://climatexleadership.gauc.net/"
+          },
+          {
+            "text": "LECTURE",
+            "url": "https://climatexleadership.gauc.net/"
+          },
+          {
+            "text": "",
+            "url": "https://www.icbs.cn/site/pages/index/index?pageId=be780000-9bce-0ece-94a2-08dd19891e9c"
+          },
+          {
+            "text": "【CONFERENCE】Registration Opens: 2025 International Congress of Basic Science with 4 Fields Medalists & 70+ Leading Scholars",
+            "url": "https://www.icbs.cn/site/pages/index/index?pageId=be780000-9bce-0ece-94a2-08dd19891e9c"
+          },
+          {
+            "text": "LECTURE",
+            "url": "https://www.icbs.cn/site/pages/index/index?pageId=be780000-9bce-0ece-94a2-08dd19891e9c"
+          }
+        ]
+      },
+      {
+        "text": "Research",
+        "url": ""
+      },
+      {
+        "text": "More about Research",
+        "url": "Research/Research_Feature.htm",
+        "children": [
+          {
+            "text": "How filling homes in China could speed decarbonization",
+            "url": "info/1418/14290.htm",
+            "children": [
+              {
+                "text": "",
+                "url": "info/1418/14290.htm"
+              }
+            ]
+          },
+          {
+            "text": "Tsinghua University researchers identify new plant thermosensor",
+            "url": "info/1418/14262.htm",
+            "children": [
+              {
+                "text": "",
+                "url": "info/1418/14262.htm"
+              }
+            ]
+          },
+          {
+            "text": "Ancient Chinese documents challenge understanding of early Confucianism",
+            "url": "info/1418/14256.htm",
+            "children": [
+              {
+                "text": "",
+                "url": "info/1418/14256.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Read More",
+        "url": "Research/Research_Feature.htm"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "info/1418/14290.htm"
+  },
+  {
+    "text": "",
+    "url": "info/1418/14262.htm"
+  },
+  {
+    "text": "",
+    "url": "info/1418/14256.htm"
+  },
+  {
+    "text": "Campus Life",
+    "url": "",
+    "children": [
+      {
+        "text": "Student Life",
+        "url": "Campus/Student_Life/Student_Activities.htm"
+      },
+      {
+        "text": "Campus View",
+        "url": "Campus/Campus_View/Photo_Gallery.htm"
+      },
+      {
+        "text": "Campus Service",
+        "url": "<span style="
+      },
+      {
+        "text": "",
+        "url": "Campus.htm"
+      },
+      {
+        "text": "",
+        "url": "Campus.htm"
+      },
+      {
+        "text": "",
+        "url": "Campus.htm"
+      },
+      {
+        "text": "",
+        "url": "Campus.htm"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "Media/Videos.htm"
+  },
+  {
+    "text": "",
+    "url": "Media/Videos.htm"
+  },
+  {
+    "text": "Resources",
+    "url": "",
+    "children": [
+      {
+        "text": "Academic Calendar",
+        "url": "Campus/Student_Life/Academic_Calendar.htm"
+      },
+      {
+        "text": "Online Learning",
+        "url": "https://www.xuetangx.com/"
+      },
+      {
+        "text": "Giving to Tsinghua",
+        "url": "https://www.tuef.tsinghua.edu.cn/en/"
+      },
+      {
+        "text": "Contact",
+        "url": "Contact.htm"
+      },
+      {
+        "text": "",
+        "url": "index.htm",
+        "children": [
+          {
+            "text": "",
+            "url": "https://twitter.com/Tsinghua_Uni"
+          },
+          {
+            "text": "",
+            "url": "https://www.facebook.com/Tsinghua/"
+          },
+          {
+            "text": "",
+            "url": "https://www.youtube.com/c/TsinghuaUniversity_official"
+          },
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/school/14022/"
+          },
+          {
+            "text": "",
+            "url": "https://www.instagram.com/tsinghua_uni/"
+          },
+          {
+            "text": "",
+            "url": "image/weixin.png"
+          },
+          {
+            "text": "",
+            "url": "image/gfdyewm.png"
+          },
+          {
+            "text": "15006448",
+            "url": "https://beian.miit.gov.cn/#/Integrated/index"
+          }
+        ]
+      }
+    ]
+  }
+]

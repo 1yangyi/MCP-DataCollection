@@ -1,0 +1,123 @@
+        { tag='a', buttons=[text='OK', url=''] }
+          { tag='div', buttons=[text='Students', url='/students.html', text='Faculty & Staff', url='/staff.html', text='Alumni', url='http://www.pku.org.cn/', text='Visitors', url='/campus_left.html#cam5', text='Media', url='/collaboration/11604.html'] }
+          { tag='div', buttons=[text='ITS', url='https://its.pku.edu.cn/', text='Library', url='https://www.lib.pku.edu.cn/portal/en', text='PKUHSC', url='https://e.bjmu.edu.cn/'] }
+          { tag='div', class='lang', buttons=[text='中文', url='https://www.pku.edu.cn/'] }
+          { tag='div', buttons=[text='', url='/'] }
+            { tag='div', class='item nav-lv1-item', buttons=[text='About', url='/about.html'] }
+                  { tag='li', buttons=[text='Welcome to PKU', url='/about.html#ab1'] }
+                  { tag='li', buttons=[text='PKU Today', url='/about.html#ab2'] }
+                  { tag='li', buttons=[text='PKU History', url='/about.html#ab3'] }
+                  { tag='li', buttons=[text='International Development Strategy Reform', url='/about.html#ab4'] }
+                  { tag='li', buttons=[text='Leadership', url='/about.html#ab5'] }
+                  { tag='li', buttons=[text='Faculties', url='/about.html#ab6'] }
+                  { tag='li', buttons=[text='Facts and Figures', url='/about.html#ab7'] }
+            { tag='div', class='item nav-lv1-item', buttons=[text='Study', url='/admissions.html'] }
+                  { tag='li', buttons=[text='Admissions', url='/admissions.html#adban'] }
+                  { tag='li', buttons=[text='International Flagship Programs', url='/admissions.html#ad1'] }
+                  { tag='li', buttons=[text='Teaching Learning', url='/admissions.html#ad2'] }
+                  { tag='li', buttons=[text='Education', url='/admissions.html#ad3'] }
+            { tag='div', class='item nav-lv1-item', buttons=[text='News', url='//newsen.pku.edu.cn/newscenter.html'] }
+                  { tag='li', buttons=[text='News', url='//newsen.pku.edu.cn/news/latest.html'] }
+                  { tag='li', buttons=[text='Events', url='//newsen.pku.edu.cn/activity.html'] }
+                  { tag='li', buttons=[text='PKU in the Media', url='//newsen.pku.edu.cn/PKUmedia.html'] }
+                  { tag='li', buttons=[text='Newsletter', url='//newsen.pku.edu.cn/newsletter.html'] }
+                  { tag='li', buttons=[text='Multimedia', url='//newsen.pku.edu.cn/news/videoList.html'] }
+            { tag='div', class='item nav-lv1-item', buttons=[text='Research', url='/research.html'] }
+                  { tag='li', buttons=[text='Scientific Research Dynamic', url='/research.html#rs1'] }
+                  { tag='li', buttons=[text='Research Organizations', url='/research.html#rs2'] }
+                  { tag='li', buttons=[text='Administrative Departments', url='/research.html#rs3'] }
+                  { tag='li', buttons=[text='Journals', url='/research.html#rs4'] }
+            { tag='div', class='item nav-lv1-item', buttons=[text='Collaboration', url='/collaboration.html'] }
+            { tag='div', class='item nav-lv1-item', buttons=[text='Campus', url='/campus_left.html'] }
+                  { tag='li', buttons=[text='Videos', url='/campus_left.html#cam1'] }
+                  { tag='li', buttons=[text='Photos', url='/campus_left.html#cam2'] }
+                  { tag='li', buttons=[text='PKU RETAIL AND SERVICE GUIDE', url='/campus_left.html#cam4'] }
+                  { tag='li', buttons=[text='HAVE A GOOD TIME AT PKU', url='/campus_left.html#cam5'] }
+        { tag='div', class='logo', buttons=[text='', url='/'] }
+          { tag='div', class='lang', buttons=[text='中文', url='https://www.pku.edu.cn/'] }
+          { tag='div', class='item arr jt1', buttons=[text='About', url='/about.html'] }
+              { tag='li', buttons=[text='Welcome to PKU', url='/about.html#ab1'] }
+              { tag='li', buttons=[text='PKU Today', url='/about.html#ab2'] }
+              { tag='li', buttons=[text='PKU History', url='/about.html#ab3'] }
+              { tag='li', buttons=[text='International Development Strategy Reform', url='/about.html#ab4'] }
+              { tag='li', buttons=[text='Leadership', url='/about.html#ab5'] }
+              { tag='li', buttons=[text='Faculties', url='/about.html#ab6'] }
+              { tag='li', buttons=[text='Facts and Figures', url='/about.html#ab7'] }
+          { tag='div', class='item arr jt2', buttons=[text='Study', url='/admissions.html'] }
+              { tag='li', buttons=[text='Admissions', url='/admissions.html#adban'] }
+              { tag='li', buttons=[text='International Flagship Programs', url='/admissions.html#ad1'] }
+              { tag='li', buttons=[text='Teaching Learning', url='/admissions.html#ad2'] }
+              { tag='li', buttons=[text='Education', url='/admissions.html#ad3'] }
+          { tag='div', class='item arr jt3', buttons=[text='News', url='//newsen.pku.edu.cn/newscenter.html'] }
+              { tag='li', buttons=[text='News', url='//newsen.pku.edu.cn/news/latest.html'] }
+              { tag='li', buttons=[text='Events', url='//newsen.pku.edu.cn/activity.html'] }
+              { tag='li', buttons=[text='PKU in the Media', url='//newsen.pku.edu.cn/PKUmedia.html'] }
+              { tag='li', buttons=[text='Newsletter', url='//newsen.pku.edu.cn/newsletter.html'] }
+              { tag='li', buttons=[text='Multimedia', url='//newsen.pku.edu.cn/news/videoList.html'] }
+          { tag='div', class='item arr jt4', buttons=[text='Research', url='/research.html'] }
+              { tag='li', buttons=[text='Scientific Research Dynamic', url='/research.html#rs1'] }
+              { tag='li', buttons=[text='Research Organizations', url='/research.html#rs2'] }
+              { tag='li', buttons=[text='Administrative Departments', url='/research.html#rs3'] }
+              { tag='li', buttons=[text='Journals', url='/research.html#rs4'] }
+          { tag='div', class='item arr jt5', buttons=[text='Collaboration', url='/collaboration.html'] }
+          { tag='div', class='item arr jt6', buttons=[text='Campus', url='/campus_left.html'] }
+              { tag='li', buttons=[text='Videos', url='/campus_left.html#cam1'] }
+              { tag='li', buttons=[text='Photos', url='/campus_left.html#cam2'] }
+              { tag='li', buttons=[text='PKU RETAIL AND SERVICE GUIDE', url='/campus_left.html#cam4'] }
+              { tag='li', buttons=[text='HAVE A GOOD TIME AT PKU', url='/campus_left.html#cam5'] }
+        { tag='div', class='nav1', buttons=[text='Students', url='/students.html', text='Faculty & Staff', url='/staff.html', text='Alumni', url='http://www.pku.org.cn/', text='Visitors', url='/campus_left.html#cam5', text='Media', url='/collaboration/11604.html'] }
+        { tag='div', class='nav2', buttons=[text='ITS', url='https://its.pku.edu.cn/', text='Library', url='https://www.lib.pku.edu.cn/portal/en', text='PKUHSC', url='https://e.bjmu.edu.cn/'] }
+        { tag='div', class='child', buttons=[text='', url='/en/close-up_pku2025.html'] }
+        { tag='div', class='child', buttons=[text='', url='/en/close-up_pku2025.html'] }
+        { tag='div', class='child', buttons=[text='', url='https://newsen.pku.edu.cn/news_events/news/focus/14944.html', text='', url='/en/close-up_pku2025.html'] }
+        { tag='div', class='child', buttons=[text='', url='https://newsen.pku.edu.cn/news_events/news/research/14986.html', text='', url='/en/close-up_pku2025.html'] }
+        { tag='div', class='child', buttons=[text='', url='https://newsen.pku.edu.cn/news_events/news/campus/14984.html', text='', url='/en/close-up_pku2025.html'] }
+        { tag='div', class='child', buttons=[text='', url='/en/close-up_pku2025.html'] }
+                { tag='div', class='pic imgzoom', buttons=[text='', url='https://newsen.pku.edu.cn/news_events/news/campus/14801.html'] }
+                  { tag='div', class='f24 mt20', buttons=[text='A Dialogue with Shanghai Disney Resort Inspires PKU Audience...', url='//newsen.pku.edu.cn/news_events/news/focus/15010.html'] }
+                  { tag='div', class='item pd70', buttons=[text='', url='//newsen.pku.edu.cn/news_events/news/people/15011.html'] }
+                    { tag='div', class='f18', buttons=[text='Graduation 2025 | Chen Chuyun: A Heartfelt Farewell', url='//newsen.pku.edu.cn/news_events/news/people/15011.html'] }
+                  { tag='div', class='item pd70', buttons=[text='', url='//newsen.pku.edu.cn/news_events/news/people/15005.html'] }
+                    { tag='div', class='f18', buttons=[text='Graduation 2025| Liu Yishu: Let Life Live Through You', url='//newsen.pku.edu.cn/news_events/news/people/15005.html'] }
+                  { tag='div', class='item pd70', buttons=[text='', url='//newsen.pku.edu.cn/news_events/news/campus/15008.html'] }
+                    { tag='div', class='f18', buttons=[text='PKU men’s basketball team fires school to double championship, reprises glory after 11 years', url='//newsen.pku.edu.cn/news_events/news/campus/15008.html'] }
+              { tag='div', class='more button1 f24', buttons=[text='Read More', url='https://newsen.pku.edu.cn/news/latest.html'] }
+                  { tag='div', class='f24 mt5', buttons=[text='[Concert] The Düsseldorf Symphony Orchestra and Adam Fi...', url='//newsen.pku.edu.cn/events/14844.html'] }
+                  { tag='div', class='f24 mt5', buttons=[text='[Colloquium] Recognizing Knowledge: Intuitive and Refle...', url='//newsen.pku.edu.cn/events/14895.html'] }
+                  { tag='div', class='f24 mt5', buttons=[text='[Symposium] 1st Xingquan Book Prize for Young Scholars...', url='//newsen.pku.edu.cn/events/14896.html'] }
+                { tag='div', class='button1 f24', buttons=[text='Learn More', url='//newsen.pku.edu.cn/activity.html'] }
+                { tag='div', class='img', buttons=[text='', url='//newsen.pku.edu.cn/events/14844.html'] }
+                { tag='div', class='img', buttons=[text='', url='//newsen.pku.edu.cn/events/14895.html'] }
+                { tag='div', class='img', buttons=[text='', url='//newsen.pku.edu.cn/events/14896.html'] }
+              { tag='div', class='child imgzoom' }
+              { tag='div', class='child imgzoom' }
+              { tag='div', class='child imgzoom' }
+              { tag='div', class='child imgzoom' }
+              { tag='div', class='child imgzoom' }
+              { tag='div', class='child imgzoom' }
+            { tag='div', class='button1 f24', buttons=[text='Watch More', url='/videoList.html'] }
+                  { tag='div', class='more1 f18 mt25', buttons=[text='Apply Now', url='https://www.isd.pku.edu.cn/'] }
+                    { tag='div', class='f24', buttons=[text='Faculties', url='/about.html#ab6'] }
+                      { tag='li', buttons=[text='All Courses', url='/courses.html'] }
+                      { tag='li', buttons=[text='English-taught Courses', url='http://dean.pku.edu.cn/englishcourses/'] }
+                      { tag='li', buttons=[text='Online Courses', url='/admissions.html#ad2'] }
+                      { tag='li', buttons=[text='Undergraduate Education', url='http://www.dean.pku.edu.cn/'] }
+                      { tag='li', buttons=[text='Graduate Education', url='http://162.105.205.229/en/'] }
+                      { tag='li', buttons=[text='International Students', url='https://www.isd.pku.edu.cn/'] }
+                  { tag='div', class='item', buttons=[text='HSBC Business School (PHBS)', url='https://english.phbs.pku.edu.cn/'] }
+                  { tag='div', class='item', buttons=[text='Yenching Academy', url='https://yenchingacademy.pku.edu.cn/'] }
+                  { tag='div', class='item', buttons=[text='Belt & Road Institute', url='http://www.bri.pku.edu.cn/Home.htm'] }
+                  { tag='div', class='item', buttons=[text='School of Transnational Law', url='http://stl.pku.edu.cn/'] }
+                  { tag='div', class='item', buttons=[text='PKU International Summer Institute', url='http://www.isd.pku.edu.cn/clss/English/Home.htm'] }
+                  { tag='div', class='item', buttons=[text='Institute of South-South Cooperation and Development', url='http://www.isscad.pku.edu.cn/'] }
+              { tag='div', class='button1 mt40 f24', buttons=[text='Explore More', url='/research.html'] }
+                  { tag='div', class='more1 f24', buttons=[text='More', url='/campus_left.html'] }
+                    { tag='div', class='cont', buttons=[text='View More', url='/videoList.html'] }
+                  { tag='div', class='item imgzoom', buttons=[text='', url='/detail/14290.html'] }
+                  { tag='div', class='item imgzoom', buttons=[text='', url='/detail/14012.html'] }
+                  { tag='div', class='item imgzoom', buttons=[text='', url='/detail/13699.html'] }
+              { tag='div', class='links f16 mt30', buttons=[text='About PKU', url='https://english.pku.edu.cn/about.html', text='Library', url='https://www.lib.pku.edu.cn/portal/en', text='Faculties', url='https://english.pku.edu.cn/about.html#ab6', text='Map', url='https://english.pku.edu.cn/map.html', text='Admissions', url='https://english.pku.edu.cn/admissions.html', text='International Students Division', url='https://www.isd.pku.edu.cn/'] }
+              { tag='div', class='links f16 mt30', buttons=[text='Office of the President', url='https://english.pku.edu.cn/detail/11807.html', text='Office of International Relations', url='https://english.pku.edu.cn/collaboration.html#relations', text='Office of Hong Kong, Macao & Taiwan Affairs', url='https://english.pku.edu.cn/collaboration.html#affairs', text='Giving', url='https://www.pkuefusa.org/', text='Jobs', url='https://english.pku.edu.cn/detail/11832.html'] }
+              { tag='div', class='share mt30', buttons=[text='', url='https://www.facebook.com/PKU1898', text='', url='https://twitter.com/PKU1898', text='', url='https://www.instagram.com/pku1898/?hl=en', text='', url='https://www.linkedin.com/school/20289', text='', url='https://space.bilibili.com/434346657', text='', url='https://www.youtube.com/channel/UCE4U908y-nBHcNazDnX0xvw', text='', url='https://weibo.com/p/1002063237705130/home?from=page_100206&mod=TAB#place'] }
+      { tag='div', class='layer' }
+        { tag='div', class='box searchbox', buttons=[text='Search', url=''] }

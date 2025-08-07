@@ -1,0 +1,141 @@
+            { tag='div', class='header__top-container container', buttons=[text='Navigate back to homepage', url='https://www.ucl.ac.uk/'] }
+                  { tag='div', class='header__search-toggle', buttons=[text='Open search bar.', url='/'] }
+                  { tag='div', class='header__menu-toggle', buttons=[text='Open main navigation menu', url='/'] }
+                    { tag='form', class='ucl-search-form container component', buttons=[text='Submit search', url='/home/'] }
+                      { tag='li', class='global-navigation__item global-navigation__item--with-sub', buttons=[text='Study', url='https://www.ucl.ac.uk/prospective-students'] }
+                        { tag='div', class='global-navigation--sub-wrapper', buttons=[text='Close sub menu modal', url=''] }
+                          { tag='div', class='global-navigation--sub__image-text', buttons=[text='Study at UCL', url='https://www.ucl.ac.uk/prospective-students'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Undergraduate courses', url='https://www.ucl.ac.uk/prospective-students/undergraduate'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Graduate courses', url='https://www.ucl.ac.uk/prospective-students/graduate'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Short courses', url='https://www.ucl.ac.uk/short-courses'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Study abroad', url='https://www.ucl.ac.uk/prospective-students/study-abroad-at-ucl/'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Centre for Languages & International Education', url='https://www.ucl.ac.uk/languages-international-education/'] }
+                      { tag='li', class='global-navigation__item global-navigation__item--with-sub', buttons=[text='Research', url='https://www.ucl.ac.uk/research'] }
+                        { tag='div', class='global-navigation--sub-wrapper', buttons=[text='Close sub menu modal', url=''] }
+                          { tag='div', class='global-navigation--sub__image-text', buttons=[text='Research at UCL', url='https://www.ucl.ac.uk/research'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Engage with us', url='https://www.ucl.ac.uk/research/engage-us'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Explore our Research', url='https://www.ucl.ac.uk/research/our-research-and-impact'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Initiatives and networks', url='https://www.ucl.ac.uk/research/initiatives-and-networks'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Research news', url='https://www.ucl.ac.uk/research/research-news?collection=drupal-meta-news-news&meta_UclSubject=%22research%22&le_DateFilter=20241008'] }
+                      { tag='li', class='global-navigation__item global-navigation__item--with-sub', buttons=[text='Engage', url='https://www.ucl.ac.uk/engage'] }
+                        { tag='div', class='global-navigation--sub-wrapper', buttons=[text='Close sub menu modal', url=''] }
+                          { tag='div', class='global-navigation--sub__image-text', buttons=[text='Engage with UCL', url='https://www.ucl.ac.uk/engage'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Alumni', url='https://www.ucl.ac.uk/alumni/ucl-alumni'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Business partnerships and collaboration', url='https://www.ucl.ac.uk/enterprise/businesses'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Global engagement', url='https://www.ucl.ac.uk/global/ucl-global-engagement'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='News and Media relations', url='https://www.ucl.ac.uk/news/'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Public Policy', url='https://www.ucl.ac.uk/public-policy'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Schools and priority groups', url='https://www.ucl.ac.uk/widening-participation/access-and-widening-participation'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Visit us', url='https://www.ucl.ac.uk/about/where-ucl/tours-and-visits-explore-ucl'] }
+                      { tag='li', class='global-navigation__item global-navigation__item--with-sub', buttons=[text='About', url='https://www.ucl.ac.uk/about'] }
+                        { tag='div', class='global-navigation--sub-wrapper', buttons=[text='Close sub menu modal', url=''] }
+                          { tag='div', class='global-navigation--sub__image-text', buttons=[text='About UCL', url='https://www.ucl.ac.uk/about'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Who we are', url='https://www.ucl.ac.uk/about/who'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Faculties', url='https://www.ucl.ac.uk/about/how-ucl-works/ucl-faculties'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Governance', url='https://www.ucl.ac.uk/governance-compliance/'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='President and Provost', url='https://www.ucl.ac.uk/provost/'] }
+                            { tag='li', class='global-navigation__item global-navigation__item--sub global-navigation__item--sub-1', buttons=[text='Strategy', url='https://www.ucl.ac.uk/about/how/institutional-plans-strategies'] }
+              { tag='div', class='homepage-hero__content homepage-hero__content--video hero--video container', buttons=[text='Toggle that plays or pauses the background video.', url=''] }
+                    { tag='div', class='basic-content__column col-12 col-md-9 col-lg-7', buttons=[text='Study and research at UCL', url=''] }
+                      { tag='div', class='js-accordion-heading', buttons=[text='Undergraduate study', url=''] }
+                        { tag='h2', class='heading heading--main accordion__heading heading--small', buttons=[text='Undergraduate study', url=''] }
+                      { tag='div', class='accordion__links js-accordion-content', buttons=[text='Undergraduate courses', url='https://www.ucl.ac.uk/prospective-students/undergraduate/', text='UCL Open Days', url='https://www.ucl.ac.uk/prospective-students/open-days/', text='Access and Widening Participation', url='https://www.ucl.ac.uk/widening-participation/access-and-widening-participation', text='Information for International Students', url='https://www.ucl.ac.uk/prospective-students/international', text='Information for Parents and Guardians', url='https://www.ucl.ac.uk/parents-guardians-of-ucl-students/'] }
+                      { tag='div', class='js-accordion-heading', buttons=[text='Graduate study', url=''] }
+                        { tag='h2', class='heading heading--main accordion__heading heading--small', buttons=[text='Graduate study', url=''] }
+                      { tag='div', class='accordion__links js-accordion-content', buttons=[text='Graduate courses', url='https://www.ucl.ac.uk/prospective-students/graduate/', text='Research degree courses', url='https://www.ucl.ac.uk/prospective-students/graduate/#tab435', text='Teacher Training courses', url='https://www.ucl.ac.uk/prospective-students/graduate/#tab441'] }
+                      { tag='div', class='js-accordion-heading', buttons=[text='Short Courses, CPD and more', url=''] }
+                        { tag='h2', class='heading heading--main accordion__heading heading--small', buttons=[text='Short Courses, CPD and more', url=''] }
+                      { tag='div', class='accordion__links js-accordion-content', buttons=[text='Short Courses', url='https://www.ucl.ac.uk/short-courses', text='Graduate degree apprenticeships', url='https://www.ucl.ac.uk/prospective-students/graduate/graduate-degree-apprenticeships', text='Summer School', url='https://www.ucl.ac.uk/prospective-students/summer-school', text='Study Abroad at UCL', url='https://www.ucl.ac.uk/prospective-students/study-abroad-at-ucl/', text='Centre for Languages and International Education (CLIE)', url='https://www.ucl.ac.uk/languages-international-education/'] }
+                      { tag='div', class='cta-item__content', buttons=[text='Join UCL through Clearing', url='', text='Apply now', url='https://www.ucl.ac.uk/prospective-students/undergraduate/clearing?utm_term=homepage'] }
+                      { tag='div', class='cta-item__content', buttons=[text='Make your Master's matter', url='', text='Apply now', url='https://www.ucl.ac.uk/prospective-students/graduate/masters-matter?utm_term=homepage'] }
+                      { tag='div', class='base-card__container', buttons=[text='Your guide to Results Day', url='https://www.ucl.ac.uk/prospective-students/undergraduate/your-results?utm_term=homepage'] }
+                          { tag='div', class='base-card__heading', buttons=[text='Your guide to Results Day', url=''] }
+                      { tag='div', class='base-card__container', buttons=[text='Meet our Master's students', url='https://www.ucl.ac.uk/prospective-students/graduate/masters-matter-student-stories?utm_term=homepage'] }
+                          { tag='div', class='base-card__heading', buttons=[text='Meet our Master's students', url=''] }
+                      { tag='div', class='base-card__container', buttons=[text='How we support our students', url='https://www.ucl.ac.uk/students/support-and-wellbeing-services'] }
+                          { tag='div', class='base-card__heading', buttons=[text='How we support our students', url=''] }
+                      { tag='div', class='spotlight__content col-12 col-lg-6', buttons=[text='UCL ranked among the top 10 universities in the world', url='', text='Find out more', url='https://www.ucl.ac.uk/about/excellence-and-impact/rankings'] }
+                  { tag='div', class='feed-widget component', buttons=[text='Latest news', url=''] }
+                      { tag='div', class='feed-widget component' }
+                            { tag='div', class='base-card__container', buttons=[text='Blog: Screen Free Summer', url='https://www.ucl.ac.uk/news/2025/aug/blog-screen-free-summer'] }
+                                { tag='div', class='base-card__heading', buttons=[text='Blog: Screen Free Summer', url=''] }
+                            { tag='div', class='base-card__container', buttons=[text='Small electric shocks to ear can boost self-compassion from meditation training', url='https://www.ucl.ac.uk/news/2025/aug/small-electric-shocks-ear-can-boost-self-compassion-meditation-training'] }
+                                { tag='div', class='base-card__heading', buttons=[text='Small electric shocks to ear can boost self-compassion from meditation training', url=''] }
+                            { tag='div', class='base-card__container', buttons=[text='Opinion: Healthy screen time for children is possible, if you follow these few simple tips', url='https://www.ucl.ac.uk/news/2025/aug/opinion-healthy-screen-time-children-possible-if-you-follow-these-few-simple-tips'] }
+                                { tag='div', class='base-card__heading', buttons=[text='Opinion: Healthy screen time for children is possible, if you follow these few simple tips', url=''] }
+                            { tag='div', class='card-link__content colour-pair--4', buttons=[text='More news', url='https://www.ucl.ac.uk/news/latest-news'] }
+                      { tag='div', class='spotlight__content col-12 col-lg-6', buttons=[text='Disagreeing Well', url='', text='Find out more', url='https://www.ucl.ac.uk/about/disagreeing-well'] }
+                  { tag='div', class='feed-widget component', buttons=[text='Discover how UCL changes the world', url=''] }
+                      { tag='div', class='feed-widget component' }
+                            { tag='div', class='base-card__container', buttons=[text='First ever look at the Sun’s south pole', url='https://www.ucl.ac.uk/news/2025/jun/first-ever-look-suns-south-pole'] }
+                                { tag='div', class='base-card__heading', buttons=[text='First ever look at the Sun’s south pole', url=''] }
+                            { tag='div', class='base-card__container', buttons=[text='UCL Press celebrates 10 years of award-winning open access publishing', url='https://www.ucl.ac.uk/news/2025/jun/ucl-press-celebrates-10-years-award-winning-open-access-publishing'] }
+                                { tag='div', class='base-card__heading', buttons=[text='UCL Press celebrates 10 years of award-winning open access publishing', url=''] }
+                            { tag='div', class='base-card__container', buttons=[text='AI test to determine best prostate cancer treatment could save lives and money', url='https://www.ucl.ac.uk/news/2025/may/ai-test-determine-best-prostate-cancer-treatment-could-save-lives-and-money'] }
+                                { tag='div', class='base-card__heading', buttons=[text='AI test to determine best prostate cancer treatment could save lives and money', url=''] }
+                            { tag='div', class='card-link__content colour-pair--4', buttons=[text='More UCL research discoveries', url='https://www.ucl.ac.uk/research/research-news'] }
+                    { tag='div', class='basic-content__column col-12 col-md-9 col-lg-7', buttons=[text='UCL events open to all', url=''] }
+                          { tag='div', class='whats-on__header colour-pair--3', buttons=[text='What's on', url='', text='More public events', url='https://www.ucl.ac.uk/events/all-events'] }
+                          { tag='div', class='whats-on-item__information', buttons=[text='World of Wasps', url='https://www.ucl.ac.uk/museums-collections/events/2025/jun/world-wasps'] }
+                          { tag='div', class='whats-on-item__information', buttons=[text='Prejudice in Power: Contesting the Pseudoscience of Superiority', url='https://www.ucl.ac.uk/museums-collections/events/2025/feb/prejudice-power-contesting-pseudoscience-superiority'] }
+                          { tag='div', class='whats-on-item__information', buttons=[text='Broken, Burnt, Buried: Ritual Lives of Objects in Ancient Egypt', url='https://www.ucl.ac.uk/museums-collections/events/2025/jul/broken-burnt-buried-ritual-lives-objects-ancient-egypt'] }
+                  { tag='div', class='feed-widget component', buttons=[text='Meet our people', url=''] }
+                      { tag='div', class='feed-widget component' }
+                            { tag='div', class='base-card__container', buttons=[text='UCL announces new Vice-Provost (Health)', url='https://www.ucl.ac.uk/news/2025/jul/ucl-announces-new-vice-provost-health'] }
+                                { tag='div', class='base-card__heading', buttons=[text='UCL announces new Vice-Provost (Health)', url=''] }
+                            { tag='div', class='base-card__container', buttons=[text='UCL professors honoured as new British Academy Fellows', url='https://www.ucl.ac.uk/news/2025/jul/ucl-professors-honoured-new-british-academy-fellows'] }
+                                { tag='div', class='base-card__heading', buttons=[text='UCL professors honoured as new British Academy Fellows', url=''] }
+                            { tag='div', class='base-card__container', buttons=[text='UCL's technical talent recognised at Papin Prizes', url='https://www.ucl.ac.uk/news/2025/jul/ucls-technical-talent-recognised-papin-prizes'] }
+                                { tag='div', class='base-card__heading', buttons=[text='UCL's technical talent recognised at Papin Prizes', url=''] }
+                            { tag='div', class='card-link__content colour-pair--4', buttons=[text='More about UCL community', url='https://www.ucl.ac.uk/about/our-people'] }
+                  { tag='div', class='highlight-block row component component--top-margin', buttons=[text='Spotlight on UCL podcasts', url=''] }
+                      { tag='div', class='base-card__container colour-pair--2', buttons=[text='The Climate Podcast', url='https://www.ucl.ac.uk/climate-change/podcasts/ucl-generation-one-climate-podcast'] }
+                          { tag='div', class='base-card__heading', buttons=[text='The Climate Podcast', url=''] }
+                      { tag='div', class='base-card__container colour-pair--1', buttons=[text='Health in a Handbasket Podcast', url='https://www.ucl.ac.uk/engineering/healthcare-engineering/health-handbasket-podcast'] }
+                          { tag='div', class='base-card__heading', buttons=[text='Health in a Handbasket Podcast', url=''] }
+                      { tag='div', class='base-card__container colour-pair--2', buttons=[text='Brain Stories Podcast', url='https://www.ucl.ac.uk/research/domains/neuroscience/brain-stories-podcast'] }
+                          { tag='div', class='base-card__heading', buttons=[text='Brain Stories Podcast', url=''] }
+                      { tag='div', class='base-card__container colour-pair--1', buttons=[text='Generation UCL Podcast', url='https://generation-ucl.transistor.fm/'] }
+                          { tag='div', class='base-card__heading', buttons=[text='Generation UCL Podcast', url=''] }
+                    { tag='div', class='basic-content__column col-12 col-md-9 col-lg-7', buttons=[text='More about life at UCL', url=''] }
+                                        { tag='div', class='oembed-lazyload oembed-lazyload--youtube', buttons=[text='', url='https://www.youtube.com/watch?v=fibAxF6t11o'] }
+                                        { tag='div', class='oembed-lazyload oembed-lazyload--youtube', buttons=[text='', url='https://www.youtube.com/watch?v=5waV4RQFeSg'] }
+                                        { tag='div', class='oembed-lazyload oembed-lazyload--youtube', buttons=[text='', url='https://www.youtube.com/watch?v=ToE-_6km2cU'] }
+                                        { tag='div', class='oembed-lazyload oembed-lazyload--youtube', buttons=[text='', url='https://www.youtube.com/watch?v=h2OcbasD9vQ'] }
+                { tag='div', class='pre-footer__heading col-md-6 col-lg-3', buttons=[text='Highlights', url=''] }
+                  { tag='div', class='pre-footer-card__container', buttons=[text='Top 10 in the World', url='https://www.ucl.ac.uk/news/2025/jun/ucl-ranked-among-top-10-universities-two-major-global-rankings', text='Top 10 in the World', url=''] }
+                  { tag='div', class='pre-footer-card__container', buttons=[text='1st in UK QS Sustainability', url='https://www.ucl.ac.uk/news/2024/dec/ucl-ranks-1st-uk-and-5th-globally-qs-sustainability-rankings', text='1st in UK QS Sustainability', url=''] }
+                  { tag='div', class='pre-footer-card__container', buttons=[text='Preparing for UCL200', url='https://www.ucl.ac.uk/about/ucls-bicentenary', text='Preparing for UCL200', url=''] }
+          { tag='div', class='container', buttons=[text='UCL footer', url=''] }
+              { tag='div', class='footer__column col-md-4', buttons=[text='Visit', url=''] }
+                  { tag='li', class='menu__item', buttons=[text='Bloomsbury Theatre and Studio', url='https://www.ucl.ac.uk/bloomsbury-theatre'] }
+                  { tag='li', class='menu__item', buttons=[text='Library, Museums and Collections', url='https://www.ucl.ac.uk/lccos/library-culture-collections-and-open-science-lccos'] }
+                  { tag='li', class='menu__item', buttons=[text='UCL Maps', url='https://www.ucl.ac.uk/maps'] }
+                  { tag='li', class='menu__item', buttons=[text='UCL Shop', url='https://studentsunionucl.org/shop'] }
+                  { tag='li', class='menu__item', buttons=[text='Contact UCL', url='https://www.ucl.ac.uk/about/contact-us'] }
+              { tag='div', class='footer__column col-md-4', buttons=[text='Students', url=''] }
+                  { tag='li', class='menu__item', buttons=[text='Accommodation', url='https://www.ucl.ac.uk/accommodation/'] }
+                  { tag='li', class='menu__item', buttons=[text='Current Students', url='https://www.ucl.ac.uk/students/'] }
+                  { tag='li', class='menu__item', buttons=[text='Moodle', url='https://moodle.ucl.ac.uk/'] }
+                  { tag='li', class='menu__item', buttons=[text='Students' Union', url='https://studentsunionucl.org/'] }
+              { tag='div', class='footer__column col-md-4', buttons=[text='Staff', url=''] }
+                  { tag='li', class='menu__item', buttons=[text='Inside UCL', url='https://app.ucl.ac.uk/InsideUCL/'] }
+                  { tag='li', class='menu__item', buttons=[text='Staff Intranet', url='https://www.ucl.ac.uk/staff'] }
+                  { tag='li', class='menu__item', buttons=[text='Work at UCL', url='https://www.ucl.ac.uk/work-at-ucl/'] }
+                  { tag='li', class='menu__item', buttons=[text='Human Resources', url='https://www.ucl.ac.uk/human-resources/'] }
+                { tag='div', class='social-menu', buttons=[text='UCL social media menu', url=''] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to Soundcloud', url='https://soundcloud.com/uclsound'] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to Flickr', url='https://www.flickr.com/photos/uclnews'] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to TikTok', url='https://www.tiktok.com/@uclofficial'] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to Youtube', url='https://www.youtube.com/ucltv'] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to Instagram', url='https://www.instagram.com/ucl/'] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to Facebook', url='https://www.facebook.com/uclofficial'] }
+                    { tag='li', class='social-menu__item', buttons=[text='Link to Twitter', url='https://twitter.com/ucl'] }
+              { tag='div', class='footer__legal', buttons=[text='Essential', url=''] }
+                  { tag='li', class='menu__item', buttons=[text='Disclaimer', url='https://www.ucl.ac.uk/legal-services/disclaimer'] }
+                  { tag='li', class='menu__item', buttons=[text='Freedom of Information', url='https://www.ucl.ac.uk/foi'] }
+                  { tag='li', class='menu__item', buttons=[text='Accessibility', url='https://www.ucl.ac.uk/accessibility'] }
+                  { tag='li', class='menu__item', buttons=[text='Cookies', url='/home/cookies-settings'] }
+                  { tag='li', class='menu__item', buttons=[text='Privacy', url='https://www.ucl.ac.uk/legal-services/privacy'] }
+                  { tag='li', class='menu__item', buttons=[text='Slavery statement', url='https://www.ucl.ac.uk/commercial-procurement/modern-day-slavery-statement'] }
+                  { tag='li', class='menu__item', buttons=[text='Log in', url='/home/user/login'] }

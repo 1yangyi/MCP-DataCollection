@@ -1,0 +1,237 @@
+          { tag='div', class='header', buttons=[text='Sidebar', url='', text='×', url='./'] }
+          { tag='div', class='module-inner', buttons=[text='Main Menu', url=''] }
+                    { tag='li', buttons=[text='Home', url='/'] }
+                    { tag='li', class='mobile-mega-menu-parent', buttons=[text='Admissions', url='/admissions'] }
+                        { tag='li', buttons=[text='Undergraduate &Graduate Programmes', url='/admissions'] }
+                            { tag='li', buttons=[text='Scholarships', url='/admissions#scholarships'] }
+                            { tag='li', buttons=[text='Financial
+          aid', url='/admissions#financial-aid'] }
+                            { tag='li', buttons=[text='Staying
+          on campus', url='/admissions#staying-on-campus'] }
+                            { tag='li', buttons=[text='Undergraduate
+          Tuition Fees', url='//www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees'] }
+                            { tag='li', buttons=[text='Graduate
+          Tuition Fees', url='//www.nus.edu.sg/registrar/administrative-policies-procedures/graduate/graduate-fees'] }
+                        { tag='li', buttons=[text='Executive & Lifelong
+        Education', url='//www.nus.edu.sg/education#executive-education'] }
+                    { tag='li', class='mobile-mega-menu-parent', buttons=[text='Education', url='/'] }
+                        { tag='li', buttons=[text='Faculties & Schools', url='/education'] }
+                        { tag='li', buttons=[text='Academic
+        Calendar', url='/education#academic-calendar'] }
+                        { tag='li', buttons=[text='Global Programmes', url='//www.nus.edu.sg/gro/about-us/global-programmes'] }
+                        { tag='li', buttons=[text='Executive & Lifelong
+        Education', url='//www.nus.edu.sg/education#executive-education'] }
+                        { tag='li', buttons=[text='Specialist teaching &
+        learning', url='/'] }
+                            { tag='li', buttons=[text='Development
+            of Teaching &
+            Learning', url='//nus.edu.sg/cdtl'] }
+                            { tag='li', buttons=[text='English
+            Language
+            Communication', url='//www.nus.edu.sg/celc/'] }
+                            { tag='li', buttons=[text='Systems
+            Science', url='//www.iss.nus.edu.sg/'] }
+                        { tag='li', buttons=[text='Student Resources and Support', url='/'] }
+                            { tag='li', buttons=[text='Canvas', url='//canvas.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='Enterprise', url='//enterprise.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='Future-ready
+            Graduates', url='//nus.edu.sg/cfg/'] }
+                            { tag='li', buttons=[text='Global
+            Relations Office', url='//www.nus.edu.sg/iro/'] }
+                            { tag='li', buttons=[text='Housing
+            Services', url='//www.nus.edu.sg/ohs/'] }
+                            { tag='li', buttons=[text='Libraries', url='//lib.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='Office
+            of the University
+            Registrar', url='//www.nus.edu.sg/registrar/'] }
+                            { tag='li', buttons=[text='Student
+            Affairs', url='//www.nus.edu.sg/osa/'] }
+                            { tag='li', buttons=[text='NUSOne', url='//www.nus.edu.sg/nusone/'] }
+                            { tag='li', buttons=[text='Technology
+            Translation &
+            Commercialisation', url='//www.nus.edu.sg/ILO'] }
+                            { tag='li', buttons=[text='University
+            Health Centre', url='//www.nus.edu.sg/uhc/'] }
+                            { tag='li', buttons=[text='NUS Care
+            Unit', url='//care.nus.edu.sg/'] }
+                    { tag='li', buttons=[text='Research', url='//www.nus.edu.sg/research/'] }
+                    { tag='li', buttons=[text='Sustainability', url='//sustainability.nus.edu.sg/'] }
+                    { tag='li', buttons=[text='Enterprise', url='//enterprise.nus.edu.sg/'] }
+                    { tag='li', buttons=[text='Global', url='//www.nus.edu.sg/gro'] }
+                    { tag='li', buttons=[text='Giving', url='//giving.nus.edu.sg/'] }
+                    { tag='li', buttons=[text='News', url='//news.nus.edu.sg/'] }
+                    { tag='li', class='mobile-mega-menu-parent', buttons=[text='About', url='/about'] }
+                        { tag='li', buttons=[text='Overview', url='/'] }
+                            { tag='li', buttons=[text='Vision, Mission and
+            Values', url='/about'] }
+                            { tag='li', buttons=[text='NUS
+            Impact', url='//www.nus.edu.sg/impactreport/'] }
+                            { tag='li', buttons=[text='Enterprise', url='//enterprise.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='Global', url='//www.nus.edu.sg/gro/'] }
+                            { tag='li', buttons=[text='Corporate
+            Information', url='/about#corporate-information'] }
+                            { tag='li', buttons=[text='Institutional
+            Video', url='/about#institutional-video'] }
+                            { tag='li', buttons=[text='Publications', url='/about#publications'] }
+                            { tag='li', buttons=[text='Statutes
+            & Regulations', url='//www.nus.edu.sg/registrar/administrative-policies-procedures/nus-statutes-and-regulations'] }
+                            { tag='li', buttons=[text='Service
+            Commitment', url='/about/service-commitment'] }
+                            { tag='li', buttons=[text='Code
+            of Conduct for NUS
+            Staff', url='/docs/default-source/corporate-files/about/code-of-conduct-nus-staff.pdf'] }
+                            { tag='li', buttons=[text='Departments
+            A-Z', url='/about/departments'] }
+                        { tag='li', buttons=[text='Leadership', url='/'] }
+                            { tag='li', buttons=[text='Board
+            of Trustees', url='/about/board-of-trustees'] }
+                            { tag='li', buttons=[text='NUS
+            President', url='//president.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='Management', url='/about/management'] }
+                        { tag='li', buttons=[text='Our Heritage', url='/'] }
+                            { tag='li', buttons=[text='History', url='/about/founded-by-the-community'] }
+                            { tag='li', buttons=[text='Chancellors', url='/about/founded-by-the-community#chancellors'] }
+                            { tag='li', buttons=[text='Former
+            Vice-Chancellors &
+            Presidents', url='/about/founded-by-the-community#vice-chancellors'] }
+                        { tag='li', buttons=[text='Resources', url='/'] }
+                            { tag='li', buttons=[text='Academic
+            and Research Staff
+            Profile', url='//discovery.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='Calendar', url='//myaces.nus.edu.sg/CoE/'] }
+                            { tag='li', buttons=[text='Careers', url='//www.nus.edu.sg/careers/'] }
+                            { tag='li', buttons=[text='E-cards', url='//community.nus.edu.sg/ecards/'] }
+                            { tag='li', buttons=[text='Library', url='//lib.nus.edu.sg/'] }
+                            { tag='li', buttons=[text='LumiNUS', url='//luminus.nus.edu.sg/'] }
+              { tag='div', class='module-inner', buttons=[text='Quicklinks', url=''] }
+                    { tag='li', buttons=[text='Email', url='//exchange.nus.edu.sg'] }
+                    { tag='li', buttons=[text='Canvas', url='//canvas.nus.edu.sg/'] }
+                    { tag='li', buttons=[text='Library', url='//lib.nus.edu.sg/'] }
+                    { tag='li', buttons=[text='Student', url='//myportal.nus.edu.sg'] }
+                    { tag='li', buttons=[text='Staff', url='/inside-nus'] }
+                    { tag='li', buttons=[text='Alumni', url='//www.nus.edu.sg/alumnet/'] }
+                { tag='div', class='col-6 d-flex nus-logo clearfix', buttons=[text='', url='/'] }
+                          { tag='li', buttons=[text='Email', url='//exchange.nus.edu.sg'] }
+                          { tag='li', buttons=[text='Canvas', url='//canvas.nus.edu.sg/'] }
+                          { tag='li', buttons=[text='Library', url='//lib.nus.edu.sg'] }
+                          { tag='li', buttons=[text='Student', url='//myportal.nus.edu.sg'] }
+                          { tag='li', buttons=[text='Staff', url='/inside-nus'] }
+                          { tag='li', buttons=[text='Alumni', url='//www.nus.edu.sg/alumnet/'] }
+                      { tag='div', class='d-logo', buttons=[text='', url='https://nus.edu.sg/120th-anniversary/', text='', url='https://www.sg60.gov.sg/'] }
+                    { tag='li', class='dropdown mega-menu-parent active', buttons=[text='Home', url='/'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='Admissions', url='/admissions'] }
+                                  { tag='li', buttons=[text='Undergraduate &Graduate Programmes', url='/admissions'] }
+                                      { tag='li', buttons=[text='Scholarships', url='/admissions#scholarships'] }
+                                      { tag='li', buttons=[text='Financial aid', url='/admissions#financial-aid'] }
+                                      { tag='li', buttons=[text='Staying on campus', url='/admissions#staying-on-campus'] }
+                                          { tag='li', buttons=[text='Undergraduate Tuition Fees', url='//www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees'] }
+                                          { tag='li', buttons=[text='Graduate Tuition Fees', url='//www.nus.edu.sg/registrar/administrative-policies-procedures/graduate/graduate-fees'] }
+                                  { tag='li', buttons=[text='Executive & Lifelongeducation', url='//www.nus.edu.sg/education#executive-education'] }
+                              { tag='div', class='col-md-8 no-pad hidden', buttons=[text='', url='//www.nus.edu.sg/oam/why-nus/nusbeyond/business'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='Education', url='/education'] }
+                                    { tag='li', buttons=[text='Faculties & Schools', url='/education'] }
+                                    { tag='li', buttons=[text='Academic Calendar', url='/education#academic-calendar'] }
+                                    { tag='li', buttons=[text='Global Programmes', url='//www.nus.edu.sg/gro/about-us/global-programmes'] }
+                                    { tag='li', buttons=[text='Executive & Lifelongeducation', url='/education#executive-education'] }
+                                  { tag='li', buttons=[text='Development of Teaching & Learning', url='//nus.edu.sg/cdtl'] }
+                                  { tag='li', buttons=[text='English Language Communication', url='//www.nus.edu.sg/celc/'] }
+                                  { tag='li', buttons=[text='Systems Science', url='//www.iss.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Canvas', url='//canvas.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Enterprise', url='//enterprise.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Future-ready Graduates', url='//nus.edu.sg/cfg/'] }
+                                  { tag='li', buttons=[text='Global Relations Office', url='//www.nus.edu.sg/gro/'] }
+                                  { tag='li', buttons=[text='Housing Services', url='//www.nus.edu.sg/ohs/'] }
+                                  { tag='li', buttons=[text='Libraries', url='//lib.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Office of the University Registrar', url='//www.nus.edu.sg/registrar/'] }
+                                  { tag='li', buttons=[text='Student Affairs', url='//www.nus.edu.sg/osa/'] }
+                                  { tag='li', buttons=[text='NUSOne', url='//www.nus.edu.sg/nusone/'] }
+                                  { tag='li', buttons=[text='Technology Translation & Commercialisation', url='//www.nus.edu.sg/ILO'] }
+                                  { tag='li', buttons=[text='University Health Centre', url='//www.nus.edu.sg/uhc/'] }
+                                  { tag='li', buttons=[text='NUS Care Unit', url='//care.nus.edu.sg'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='Research', url='/research'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='Sustainability', url='https://sustainability.nus.edu.sg/'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='News', url='/news'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='Giving', url='/nus-giving'] }
+                    { tag='li', class='dropdown mega-menu-parent', buttons=[text='About', url='/about'] }
+                                  { tag='li', buttons=[text='Vision, Mission and Values', url='/about'] }
+                                  { tag='li', buttons=[text='NUS Impact', url='//www.nus.edu.sg/impactreport/'] }
+                                  { tag='li', buttons=[text='Enterprise', url='//enterprise.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Global', url='//www.nus.edu.sg/gro/'] }
+                                  { tag='li', buttons=[text='Corporate Information', url='/about#corporate-information'] }
+                                  { tag='li', buttons=[text='Institutional Video', url='/about#institutional-video'] }
+                                  { tag='li', buttons=[text='Publications', url='/about#publications'] }
+                                  { tag='li', buttons=[text='NUS Documentary', url='//news.nus.edu.sg/innovating-for-the-future/'] }
+                                  { tag='li', buttons=[text='Statutes & Regulations', url='//www.nus.edu.sg/registrar/administrative-policies-procedures/nus-statutes-and-regulations'] }
+                                  { tag='li', buttons=[text='Service Commitment', url='/about/service-commitment'] }
+                                  { tag='li', buttons=[text='Code of Conduct for NUS Staff', url='/docs/default-source/corporate-files/about/code-of-conduct-nus-staff.pdf'] }
+                                  { tag='li', buttons=[text='Departments A-Z', url='/about/departments'] }
+                                  { tag='li', buttons=[text='Board of Trustees', url='/about/board-of-trustees'] }
+                                  { tag='li', buttons=[text='NUS President', url='//president.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Management', url='/about/management'] }
+                                  { tag='li', buttons=[text='History', url='/about/founded-by-the-community'] }
+                                  { tag='li', buttons=[text='Chancellors', url='/about/founded-by-the-community#chancellors'] }
+                                  { tag='li', buttons=[text='Former Vice-Chancellors& Presidents', url='/about/founded-by-the-community#vice-chancellors'] }
+                                  { tag='li', buttons=[text='Academic and Research Staff Profile', url='//discovery.nus.edu.sg/'] }
+                                  { tag='li', buttons=[text='Calendar', url='//myaces.nus.edu.sg/CoE/'] }
+                                  { tag='li', buttons=[text='Careers', url='//www.nus.edu.sg/careers/'] }
+                                  { tag='li', buttons=[text='E-cards', url='//community.nus.edu.sg/ecards/'] }
+                                  { tag='li', buttons=[text='Library', url='//lib.nus.edu.sg'] }
+                  { tag='div', buttons=[text='', url='https://news.nus.edu.sg/smart-safe-sustainable-nus-sets-new-benchmark-for-campus-innovation-with-singapores-first-university-based-integrated-operations-centre/?utm_source=Corpsite&utm_medium=FeaturedBanner'] }
+                  { tag='div', class='jumbotron text-center', buttons=[text='NUS Highlights', url=''] }
+                        { tag='div', class='item col-md-6 col-sm-12 nopadding img1', buttons=[text='', url='https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', buttons=[text='', url='https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', class='headline bottom left', buttons=[text='Bezos Centre @NUS and EnterpriseSG launch new startup competition to boost early-stage sustainable protein innovation', url=''] }
+                            { tag='h3', buttons=[text='Bezos Centre @NUS and EnterpriseSG launch new startup competition to boost early-stage sustainable protein innovation', url='https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='arrow', buttons=[text='This new partnership aims to accelerate early-stage sustainable protein innovation through a startup competition, and is part of Bezos Centre @NUS’ US$3 million in grants over five years to support early and growth-stage startups in this space.', url='https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='small pull-right', buttons=[text='Highlights', url='https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight'] }
+                        { tag='div', class='item col-md-6 col-sm-12 nopadding img2', buttons=[text='', url='https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', buttons=[text='', url='https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', class='headline bottom left', buttons=[text='Students from Arts and Social Sciences and Business clinch top prize at 2025 UBS Finance Challenge in Shanghai', url=''] }
+                            { tag='h3', buttons=[text='Students from Arts and Social Sciences and Business clinch top prize at 2025 UBS Finance Challenge in Shanghai', url='https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='arrow', buttons=[text='The UBS Finance Challenge is a high-profile stock pitch competition that brings together some of the brightest and most innovative university students in finance from around the world to showcase their market research and equity analysis skills.', url='https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='small pull-right', buttons=[text='Highlights, Education', url='https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight'] }
+                        { tag='div', class='item col-md-6 col-sm-12 nopadding img3', buttons=[text='', url='https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', buttons=[text='', url='https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', class='headline bottom left', buttons=[text='NUS Law launches world-first AI-powered legal podcast to open up law to the public', url=''] }
+                            { tag='h3', buttons=[text='NUS Law launches world-first AI-powered legal podcast to open up law to the public', url='https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='arrow', buttons=[text='The Faculty of Law at has achieved a world's first in legal publishing: a podcast series based on articles from the Singapore Journal of Legal Studies (SJLS). Produced using Google\’s AI-powered tool, NotebookLM, this marks the first time a legal journal has used generative AI to turn peer-reviewed legal research into accessible audio content.', url='https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='small pull-right', buttons=[text='General News', url='https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight'] }
+                        { tag='div', class='item col-md-6 col-sm-12 nopadding img4', buttons=[text='', url='https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', buttons=[text='', url='https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight'] }
+                          { tag='div', class='headline bottom left', buttons=[text='Harmony in diversity: International friendships flourish at YST', url=''] }
+                            { tag='h3', buttons=[text='Harmony in diversity: International friendships flourish at YST', url='https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='arrow', buttons=[text='Diversity is especially prominent at the Yong Siew Toh Conservatory of Music (YST), which boasts one of the most culturally diverse student bodies at NUS. There are more than 20 nationalities in its undergraduate student population of about 240, creating a vibrant environment for friendships to blossom across different nationalities and cultures.', url='https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight'] }
+                            { tag='p', class='small pull-right', buttons=[text='General News, Education', url='https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight'] }
+                { tag='div', class='jumbotron text-center', buttons=[text='President's Welcome', url=''] }
+                  { tag='div', class='caption', buttons=[text='Shaping the Future', url=''] }
+                    { tag='p', buttons=[text='Learn more', url='/president'] }
+                { tag='div', class='jumbotron text-center', buttons=[text='NUS Now', url=''] }
+                  { tag='div', buttons=[text='', url='https://www.instagram.com/p/DMl42Sty7aW/', text='', url='https://www.instagram.com/p/DMl42Sty7aW/'] }
+                  { tag='div', class='icon carousel', buttons=[text='', url='https://www.instagram.com/p/DMl42Sty7aW/'] }
+                  { tag='div', buttons=[text='', url='https://www.instagram.com/p/DMkIpCtSiYp/', text='', url='https://www.instagram.com/p/DMkIpCtSiYp/'] }
+                  { tag='div', class='icon carousel', buttons=[text='', url='https://www.instagram.com/p/DMkIpCtSiYp/'] }
+                  { tag='div', buttons=[text='', url='https://www.instagram.com/p/DMrD1UhSPTL/', text='', url='https://www.instagram.com/p/DMrD1UhSPTL/'] }
+                  { tag='div', class='icon carousel', buttons=[text='', url='https://www.instagram.com/p/DMrD1UhSPTL/'] }
+                  { tag='div', buttons=[text='', url='https://www.instagram.com/p/DMpCYWixeWt/', text='', url='https://www.instagram.com/p/DMpCYWixeWt/'] }
+                  { tag='div', class='icon carousel', buttons=[text='', url='https://www.instagram.com/p/DMpCYWixeWt/'] }
+                  { tag='div', buttons=[text='', url='https://www.instagram.com/p/DMwPipgSWB0/', text='', url='https://www.instagram.com/p/DMwPipgSWB0/'] }
+                  { tag='div', class='icon carousel', buttons=[text='', url='https://www.instagram.com/p/DMwPipgSWB0/'] }
+                { tag='div', class='jumbotron text-center', buttons=[text='Thought Leadership', url=''] }
+                { tag='div', class='col-md-6 col-sm-6 nopadding', buttons=[text='', url='/thought-leadership/cinemas-struggle-in-a-world-that-cannot-sit-still'] }
+                    { tag='div', class='resizeHeight', buttons=[text='Cinemas struggle in a world that cannot sit still', url=''] }
+                      { tag='p', buttons=[text='Learn more', url='/thought-leadership/cinemas-struggle-in-a-world-that-cannot-sit-still'] }
+                { tag='div', class='col-md-6 col-sm-6 nopadding', buttons=[text='', url='/thought-leadership/the-tussle-over-retail-rents-in-singapore-cannot-go-on-like-this'] }
+                    { tag='div', class='resizeHeight', buttons=[text='The tussle over retail rents in Singapore cannot go on like this', url=''] }
+                    { tag='p', buttons=[text='Learn more', url='/thought-leadership/the-tussle-over-retail-rents-in-singapore-cannot-go-on-like-this'] }
+                { tag='div', class='jumbotron text-center' }
+                          { tag='h5', class='feed-title', buttons=[text='Product Development and Manufacturing of IVDs and SaMD: Design and Development (18 - 19 Aug)', url='https://www.duke-nus.edu.sg/core/events/upcoming-events/detail/index/2025-executive-certificate-workshop-design-and-development'] }
+                          { tag='h5', class='feed-title', buttons=[text='Product Development and Manufacturing of IVDs and SaMD: Validation and Verification (24 - 25 Sep)', url='https://www.duke-nus.edu.sg/core/events/upcoming-events/detail/index/2025-executive-certificate-workshop-validation-and-verification'] }
+                          { tag='h5', class='feed-title', buttons=[text='Product Development and Manufacturing of IVDs and SaMD: Manufacturing and Quality Management System (14 - 15 Oct)', url='https://www.duke-nus.edu.sg/core/events/upcoming-events/detail/index/2025-executive-certificate-workshop-manufacturing-and-quality-management-system'] }
+              { tag='div', class='container d-none', buttons=[text='Calendar of Events', url='https://myaces.nus.edu.sg/CoE/', text='Subscribe', url='https://myaces.nus.edu.sg/CoE/jsp/coeRss.jsp'] }
+              { tag='div', class='module-inner', buttons=[text='National University of Singapore', url=''] }
+                            { tag='div', buttons=[text='', url='//www.facebook.com/nus.singapore', text='', url='//twitter.com/NUSingapore', text='', url='//instagram.com/nus_singapore/', text='', url='//www.linkedin.com/school/5524', text='', url='//t.me/s/nusnews', text='', url='//www.youtube.com/nuscast', text='', url='//mp.weixin.qq.com/s/iP2FlRWBWhgPpsN0EjDRlg'] }
+              { tag='div', class='info', buttons=[text='National University of Singapore', url='/home'] }
+                        { tag='li', buttons=[text='Legal', url='/legal-information-notices'] }
+                        { tag='li', class='bullet', buttons=[text='Branding guidelines', url='/identity'] }
+                        { tag='li', class='bullet', buttons=[text='Contact us', url='/contact'] }
+                        { tag='li', class='bullet', buttons=[text='中文', url='/cn'] }

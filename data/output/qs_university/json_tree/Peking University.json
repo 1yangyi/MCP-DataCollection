@@ -1,0 +1,622 @@
+[
+  {
+    "text": "OK",
+    "url": "",
+    "children": [
+      {
+        "text": "Students",
+        "url": "/students.html"
+      },
+      {
+        "text": "Faculty & Staff",
+        "url": "/staff.html"
+      },
+      {
+        "text": "Alumni",
+        "url": "http://www.pku.org.cn/"
+      },
+      {
+        "text": "Visitors",
+        "url": "/campus_left.html#cam5"
+      },
+      {
+        "text": "Media",
+        "url": "/collaboration/11604.html"
+      },
+      {
+        "text": "ITS",
+        "url": "https://its.pku.edu.cn/"
+      },
+      {
+        "text": "Library",
+        "url": "https://www.lib.pku.edu.cn/portal/en"
+      },
+      {
+        "text": "PKUHSC",
+        "url": "https://e.bjmu.edu.cn/"
+      },
+      {
+        "text": "中文",
+        "url": "https://www.pku.edu.cn/"
+      },
+      {
+        "text": "",
+        "url": "/",
+        "children": [
+          {
+            "text": "About",
+            "url": "/about.html",
+            "children": [
+              {
+                "text": "Welcome to PKU",
+                "url": "/about.html#ab1"
+              },
+              {
+                "text": "PKU Today",
+                "url": "/about.html#ab2"
+              },
+              {
+                "text": "PKU History",
+                "url": "/about.html#ab3"
+              },
+              {
+                "text": "International Development Strategy Reform",
+                "url": "/about.html#ab4"
+              },
+              {
+                "text": "Leadership",
+                "url": "/about.html#ab5"
+              },
+              {
+                "text": "Faculties",
+                "url": "/about.html#ab6"
+              },
+              {
+                "text": "Facts and Figures",
+                "url": "/about.html#ab7"
+              }
+            ]
+          },
+          {
+            "text": "Study",
+            "url": "/admissions.html",
+            "children": [
+              {
+                "text": "Admissions",
+                "url": "/admissions.html#adban"
+              },
+              {
+                "text": "International Flagship Programs",
+                "url": "/admissions.html#ad1"
+              },
+              {
+                "text": "Teaching Learning",
+                "url": "/admissions.html#ad2"
+              },
+              {
+                "text": "Education",
+                "url": "/admissions.html#ad3"
+              }
+            ]
+          },
+          {
+            "text": "News",
+            "url": "//newsen.pku.edu.cn/newscenter.html",
+            "children": [
+              {
+                "text": "News",
+                "url": "//newsen.pku.edu.cn/news/latest.html"
+              },
+              {
+                "text": "Events",
+                "url": "//newsen.pku.edu.cn/activity.html"
+              },
+              {
+                "text": "PKU in the Media",
+                "url": "//newsen.pku.edu.cn/PKUmedia.html"
+              },
+              {
+                "text": "Newsletter",
+                "url": "//newsen.pku.edu.cn/newsletter.html"
+              },
+              {
+                "text": "Multimedia",
+                "url": "//newsen.pku.edu.cn/news/videoList.html"
+              }
+            ]
+          },
+          {
+            "text": "Research",
+            "url": "/research.html",
+            "children": [
+              {
+                "text": "Scientific Research Dynamic",
+                "url": "/research.html#rs1"
+              },
+              {
+                "text": "Research Organizations",
+                "url": "/research.html#rs2"
+              },
+              {
+                "text": "Administrative Departments",
+                "url": "/research.html#rs3"
+              },
+              {
+                "text": "Journals",
+                "url": "/research.html#rs4"
+              }
+            ]
+          },
+          {
+            "text": "Collaboration",
+            "url": "/collaboration.html"
+          },
+          {
+            "text": "Campus",
+            "url": "/campus_left.html",
+            "children": [
+              {
+                "text": "Videos",
+                "url": "/campus_left.html#cam1"
+              },
+              {
+                "text": "Photos",
+                "url": "/campus_left.html#cam2"
+              },
+              {
+                "text": "PKU RETAIL AND SERVICE GUIDE",
+                "url": "/campus_left.html#cam4"
+              },
+              {
+                "text": "HAVE A GOOD TIME AT PKU",
+                "url": "/campus_left.html#cam5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "/",
+    "children": [
+      {
+        "text": "中文",
+        "url": "https://www.pku.edu.cn/"
+      },
+      {
+        "text": "About",
+        "url": "/about.html",
+        "children": [
+          {
+            "text": "Welcome to PKU",
+            "url": "/about.html#ab1"
+          },
+          {
+            "text": "PKU Today",
+            "url": "/about.html#ab2"
+          },
+          {
+            "text": "PKU History",
+            "url": "/about.html#ab3"
+          },
+          {
+            "text": "International Development Strategy Reform",
+            "url": "/about.html#ab4"
+          },
+          {
+            "text": "Leadership",
+            "url": "/about.html#ab5"
+          },
+          {
+            "text": "Faculties",
+            "url": "/about.html#ab6"
+          },
+          {
+            "text": "Facts and Figures",
+            "url": "/about.html#ab7"
+          }
+        ]
+      },
+      {
+        "text": "Study",
+        "url": "/admissions.html",
+        "children": [
+          {
+            "text": "Admissions",
+            "url": "/admissions.html#adban"
+          },
+          {
+            "text": "International Flagship Programs",
+            "url": "/admissions.html#ad1"
+          },
+          {
+            "text": "Teaching Learning",
+            "url": "/admissions.html#ad2"
+          },
+          {
+            "text": "Education",
+            "url": "/admissions.html#ad3"
+          }
+        ]
+      },
+      {
+        "text": "News",
+        "url": "//newsen.pku.edu.cn/newscenter.html",
+        "children": [
+          {
+            "text": "News",
+            "url": "//newsen.pku.edu.cn/news/latest.html"
+          },
+          {
+            "text": "Events",
+            "url": "//newsen.pku.edu.cn/activity.html"
+          },
+          {
+            "text": "PKU in the Media",
+            "url": "//newsen.pku.edu.cn/PKUmedia.html"
+          },
+          {
+            "text": "Newsletter",
+            "url": "//newsen.pku.edu.cn/newsletter.html"
+          },
+          {
+            "text": "Multimedia",
+            "url": "//newsen.pku.edu.cn/news/videoList.html"
+          }
+        ]
+      },
+      {
+        "text": "Research",
+        "url": "/research.html",
+        "children": [
+          {
+            "text": "Scientific Research Dynamic",
+            "url": "/research.html#rs1"
+          },
+          {
+            "text": "Research Organizations",
+            "url": "/research.html#rs2"
+          },
+          {
+            "text": "Administrative Departments",
+            "url": "/research.html#rs3"
+          },
+          {
+            "text": "Journals",
+            "url": "/research.html#rs4"
+          }
+        ]
+      },
+      {
+        "text": "Collaboration",
+        "url": "/collaboration.html"
+      },
+      {
+        "text": "Campus",
+        "url": "/campus_left.html",
+        "children": [
+          {
+            "text": "Videos",
+            "url": "/campus_left.html#cam1"
+          },
+          {
+            "text": "Photos",
+            "url": "/campus_left.html#cam2"
+          },
+          {
+            "text": "PKU RETAIL AND SERVICE GUIDE",
+            "url": "/campus_left.html#cam4"
+          },
+          {
+            "text": "HAVE A GOOD TIME AT PKU",
+            "url": "/campus_left.html#cam5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Students",
+    "url": "/students.html"
+  },
+  {
+    "text": "Faculty & Staff",
+    "url": "/staff.html"
+  },
+  {
+    "text": "Alumni",
+    "url": "http://www.pku.org.cn/"
+  },
+  {
+    "text": "Visitors",
+    "url": "/campus_left.html#cam5"
+  },
+  {
+    "text": "Media",
+    "url": "/collaboration/11604.html"
+  },
+  {
+    "text": "ITS",
+    "url": "https://its.pku.edu.cn/"
+  },
+  {
+    "text": "Library",
+    "url": "https://www.lib.pku.edu.cn/portal/en"
+  },
+  {
+    "text": "PKUHSC",
+    "url": "https://e.bjmu.edu.cn/"
+  },
+  {
+    "text": "",
+    "url": "/en/close-up_pku2025.html"
+  },
+  {
+    "text": "",
+    "url": "/en/close-up_pku2025.html"
+  },
+  {
+    "text": "",
+    "url": "https://newsen.pku.edu.cn/news_events/news/focus/14944.html"
+  },
+  {
+    "text": "",
+    "url": "/en/close-up_pku2025.html"
+  },
+  {
+    "text": "",
+    "url": "https://newsen.pku.edu.cn/news_events/news/research/14986.html"
+  },
+  {
+    "text": "",
+    "url": "/en/close-up_pku2025.html"
+  },
+  {
+    "text": "",
+    "url": "https://newsen.pku.edu.cn/news_events/news/campus/14984.html"
+  },
+  {
+    "text": "",
+    "url": "/en/close-up_pku2025.html"
+  },
+  {
+    "text": "",
+    "url": "/en/close-up_pku2025.html",
+    "children": [
+      {
+        "text": "",
+        "url": "https://newsen.pku.edu.cn/news_events/news/campus/14801.html",
+        "children": [
+          {
+            "text": "A Dialogue with Shanghai Disney Resort Inspires PKU Audience...",
+            "url": "//newsen.pku.edu.cn/news_events/news/focus/15010.html"
+          },
+          {
+            "text": "",
+            "url": "//newsen.pku.edu.cn/news_events/news/people/15011.html",
+            "children": [
+              {
+                "text": "Graduation 2025 | Chen Chuyun: A Heartfelt Farewell",
+                "url": "//newsen.pku.edu.cn/news_events/news/people/15011.html"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "//newsen.pku.edu.cn/news_events/news/people/15005.html",
+            "children": [
+              {
+                "text": "Graduation 2025| Liu Yishu: Let Life Live Through You",
+                "url": "//newsen.pku.edu.cn/news_events/news/people/15005.html"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "//newsen.pku.edu.cn/news_events/news/campus/15008.html",
+            "children": [
+              {
+                "text": "PKU men’s basketball team fires school to double championship, reprises glory after 11 years",
+                "url": "//newsen.pku.edu.cn/news_events/news/campus/15008.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Read More",
+        "url": "https://newsen.pku.edu.cn/news/latest.html",
+        "children": [
+          {
+            "text": "Learn More",
+            "url": "//newsen.pku.edu.cn/activity.html"
+          },
+          {
+            "text": "",
+            "url": "//newsen.pku.edu.cn/events/14844.html"
+          },
+          {
+            "text": "",
+            "url": "//newsen.pku.edu.cn/events/14895.html"
+          },
+          {
+            "text": "",
+            "url": "//newsen.pku.edu.cn/events/14896.html"
+          }
+        ]
+      },
+      {
+        "text": "Watch More",
+        "url": "/videoList.html",
+        "children": [
+          {
+            "text": "Apply Now",
+            "url": "https://www.isd.pku.edu.cn/",
+            "children": [
+              {
+                "text": "Faculties",
+                "url": "/about.html#ab6",
+                "children": [
+                  {
+                    "text": "All Courses",
+                    "url": "/courses.html"
+                  },
+                  {
+                    "text": "English-taught Courses",
+                    "url": "http://dean.pku.edu.cn/englishcourses/"
+                  },
+                  {
+                    "text": "Online Courses",
+                    "url": "/admissions.html#ad2"
+                  },
+                  {
+                    "text": "Undergraduate Education",
+                    "url": "http://www.dean.pku.edu.cn/"
+                  },
+                  {
+                    "text": "Graduate Education",
+                    "url": "http://162.105.205.229/en/"
+                  },
+                  {
+                    "text": "International Students",
+                    "url": "https://www.isd.pku.edu.cn/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "HSBC Business School (PHBS)",
+            "url": "https://english.phbs.pku.edu.cn/"
+          },
+          {
+            "text": "Yenching Academy",
+            "url": "https://yenchingacademy.pku.edu.cn/"
+          },
+          {
+            "text": "Belt & Road Institute",
+            "url": "http://www.bri.pku.edu.cn/Home.htm"
+          },
+          {
+            "text": "School of Transnational Law",
+            "url": "http://stl.pku.edu.cn/"
+          },
+          {
+            "text": "PKU International Summer Institute",
+            "url": "http://www.isd.pku.edu.cn/clss/English/Home.htm"
+          },
+          {
+            "text": "Institute of South-South Cooperation and Development",
+            "url": "http://www.isscad.pku.edu.cn/"
+          },
+          {
+            "text": "Explore More",
+            "url": "/research.html",
+            "children": [
+              {
+                "text": "More",
+                "url": "/campus_left.html",
+                "children": [
+                  {
+                    "text": "View More",
+                    "url": "/videoList.html"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "/detail/14290.html"
+              },
+              {
+                "text": "",
+                "url": "/detail/14012.html"
+              },
+              {
+                "text": "",
+                "url": "/detail/13699.html"
+              }
+            ]
+          },
+          {
+            "text": "About PKU",
+            "url": "https://english.pku.edu.cn/about.html"
+          },
+          {
+            "text": "Library",
+            "url": "https://www.lib.pku.edu.cn/portal/en"
+          },
+          {
+            "text": "Faculties",
+            "url": "https://english.pku.edu.cn/about.html#ab6"
+          },
+          {
+            "text": "Map",
+            "url": "https://english.pku.edu.cn/map.html"
+          },
+          {
+            "text": "Admissions",
+            "url": "https://english.pku.edu.cn/admissions.html"
+          },
+          {
+            "text": "International Students Division",
+            "url": "https://www.isd.pku.edu.cn/"
+          },
+          {
+            "text": "Office of the President",
+            "url": "https://english.pku.edu.cn/detail/11807.html"
+          },
+          {
+            "text": "Office of International Relations",
+            "url": "https://english.pku.edu.cn/collaboration.html#relations"
+          },
+          {
+            "text": "Office of Hong Kong, Macao & Taiwan Affairs",
+            "url": "https://english.pku.edu.cn/collaboration.html#affairs"
+          },
+          {
+            "text": "Giving",
+            "url": "https://www.pkuefusa.org/"
+          },
+          {
+            "text": "Jobs",
+            "url": "https://english.pku.edu.cn/detail/11832.html"
+          },
+          {
+            "text": "",
+            "url": "https://www.facebook.com/PKU1898"
+          },
+          {
+            "text": "",
+            "url": "https://twitter.com/PKU1898"
+          },
+          {
+            "text": "",
+            "url": "https://www.instagram.com/pku1898/?hl=en"
+          },
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/school/20289"
+          },
+          {
+            "text": "",
+            "url": "https://space.bilibili.com/434346657"
+          },
+          {
+            "text": "",
+            "url": "https://www.youtube.com/channel/UCE4U908y-nBHcNazDnX0xvw"
+          },
+          {
+            "text": "",
+            "url": "https://weibo.com/p/1002063237705130/home?from=page_100206&mod=TAB#place"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Search",
+    "url": ""
+  }
+]

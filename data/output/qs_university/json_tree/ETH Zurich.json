@@ -1,0 +1,340 @@
+[
+  {
+    "text": "Homepage",
+    "url": "/en/"
+  },
+  {
+    "text": "Search",
+    "url": "https://ethz.ch/en/utils/search.html"
+  },
+  {
+    "text": "Contact",
+    "url": "/en/utils/contact.html"
+  },
+  {
+    "text": "Sitemap",
+    "url": "/en/footer/sitemap.html"
+  },
+  {
+    "text": "",
+    "url": "https://ethz.ch/en.html"
+  },
+  {
+    "text": "Header",
+    "url": ""
+  },
+  {
+    "text": "Services",
+    "url": "",
+    "children": [
+      {
+        "text": "Student portal",
+        "url": "/students/en.html"
+      },
+      {
+        "text": "Alumni association",
+        "url": "https://www.alumni.ethz.ch/en/"
+      },
+      {
+        "text": "Staffnet",
+        "url": "/staffnet/en.html"
+      },
+      {
+        "text": "Contact",
+        "url": "/en/utils/contact.html"
+      },
+      {
+        "text": "Login",
+        "url": "/login/en.html?resource=%2Fcontent%2Fmain%2Fen.html"
+      }
+    ]
+  },
+  {
+    "text": "Search",
+    "url": ""
+  },
+  {
+    "text": "",
+    "url": "/en/utils/search.html"
+  },
+  {
+    "text": "Departments",
+    "url": "",
+    "children": [
+      {
+        "text": "ETH Zurich",
+        "url": "https://ethz.ch/en.html"
+      }
+    ]
+  },
+  {
+    "text": "Language Selection",
+    "url": ""
+  },
+  {
+    "text": "Directly go to the content",
+    "url": "",
+    "children": [
+      {
+        "text": "Pure quantum state without the need for cooling",
+        "url": "",
+        "children": [
+          {
+            "text": "Other news from the ETH universe",
+            "url": "",
+            "children": [
+              {
+                "text": "Tilman Esslinger awarded the Micius Prize 2025",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Tilman Esslinger awarded the Micius Prize 2025",
+                    "url": "/staffnet/en/news-and-events/internal-news/archive/2025/08/tilman-esslinger-awarded-the-micius-prize-2025.html",
+                    "children": [
+                      {
+                        "text": "Physics",
+                        "url": "/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpmb3JtYXRlL3BoeXNpaw&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A"
+                      },
+                      {
+                        "text": "Quantum sciences",
+                        "url": "/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpmb3JtYXRlL3BoeXNpay9xdWFudGVud2lzc2Vuc2NoYWZ0ZW4&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A"
+                      },
+                      {
+                        "text": "Honours and prizes",
+                        "url": "/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpydWJyaWtlbi9pbnRlcm4tYWt0dWVsbC9laHJ1bmdlbi11bmQtcHJlaXNl&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Gut microbes: How many molecules influence our body?",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Gut microbes: How many molecules influence our body?",
+                    "url": "https://hest.ethz.ch/en/news/news-and-events/2025/07/gut-microbes-how-many-molecules-influence-our-body.html",
+                    "children": [
+                      {
+                        "text": "Health sciences",
+                        "url": "/en/news-and-events/eth-news/teaser.html?TAG=bmV3czpmb3JtYXRlL2xlYmVuc3dpc3NlbnNjaGFmdGVuLXVuZC1tZWRpemluL2dlc3VuZGhlaXRzd2lzc2Vuc2NoYWZ0ZW4&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "ERC Proof of Concept Grant awarded to Christian Degen",
+                "url": "",
+                "children": [
+                  {
+                    "text": "ERC Proof of Concept Grant awarded to Christian Degen",
+                    "url": "/staffnet/en/news-and-events/internal-news/archive/2025/07/erc-proof-of-concept-grant-awarded-to-christian-degen.html",
+                    "children": [
+                      {
+                        "text": "Honours and prizes",
+                        "url": "/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpydWJyaWtlbi9pbnRlcm4tYWt0dWVsbC9laHJ1bmdlbi11bmQtcHJlaXNl&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A"
+                      },
+                      {
+                        "text": "Internal news",
+                        "url": "/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpydWJyaWtlbi9pbnRlcm4tYWt0dWVsbA&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "See more news",
+                "url": "/en/news-and-events/eth-news/further-news.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Footer",
+        "url": "",
+        "children": [
+          {
+            "text": "Recommended links",
+            "url": "",
+            "children": [
+              {
+                "text": "Media information",
+                "url": "/en/news-and-events/media-information.html",
+                "children": [
+                  {
+                    "text": "Search",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "",
+                        "url": "/en/utils/search.html"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Follow us",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "",
+                        "url": "https://ethz.ch/en/utils/rss.html"
+                      },
+                      {
+                        "text": "",
+                        "url": "https://www.linkedin.com/school/eth-zurich/"
+                      },
+                      {
+                        "text": "",
+                        "url": "https://www.instagram.com/ethzurich/"
+                      },
+                      {
+                        "text": "",
+                        "url": "https://www.facebook.com/eth/"
+                      },
+                      {
+                        "text": "",
+                        "url": "https://www.youtube.com/user/ethzurich"
+                      },
+                      {
+                        "text": "",
+                        "url": "https://bsky.app/profile/ethz.ch"
+                      },
+                      {
+                        "text": "",
+                        "url": "https://www.tiktok.com/@ethzurich"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Services",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Student portal",
+                    "url": "/students/en.html"
+                  },
+                  {
+                    "text": "Alumni association",
+                    "url": "https://www.alumni.ethz.ch/en/"
+                  },
+                  {
+                    "text": "Staffnet",
+                    "url": "/staffnet/en.html"
+                  },
+                  {
+                    "text": "Contact",
+                    "url": "/en/utils/contact.html"
+                  },
+                  {
+                    "text": "Login",
+                    "url": "/login/en.html?resource=%2Fcontent%2Fmain%2Fen.html"
+                  }
+                ]
+              },
+              {
+                "text": "Departments",
+                "url": "",
+                "children": [
+                  {
+                    "text": "D-ARCHArchitecture",
+                    "url": "https://arch.ethz.ch/en"
+                  },
+                  {
+                    "text": "D-BAUGCivil, Environmental and Geomatic Engineering",
+                    "url": "https://baug.ethz.ch/en/"
+                  },
+                  {
+                    "text": "D-BIOLBiology",
+                    "url": "https://biol.ethz.ch/en/"
+                  },
+                  {
+                    "text": "D-BSSEBiosystems Science and Engineering",
+                    "url": "https://bsse.ethz.ch/"
+                  },
+                  {
+                    "text": "D-CHABChemistry and Applied Biosciences",
+                    "url": "https://chab.ethz.ch/en/"
+                  },
+                  {
+                    "text": "D-EAPSEarth and Planetary Sciences",
+                    "url": "https://eaps.ethz.ch/en/"
+                  },
+                  {
+                    "text": "D-GESSHumanities, Social and Political Sciences",
+                    "url": "https://gess.ethz.ch/en/"
+                  },
+                  {
+                    "text": "D-HESTHealth Sciences and Technology",
+                    "url": "https://hest.ethz.ch/en"
+                  },
+                  {
+                    "text": "D-INFKComputer Science",
+                    "url": "https://inf.ethz.ch/"
+                  },
+                  {
+                    "text": "D-ITETInformation Technology and Electrical Engineering",
+                    "url": "https://ee.ethz.ch/"
+                  },
+                  {
+                    "text": "D-MATHMathematics",
+                    "url": "https://math.ethz.ch/"
+                  },
+                  {
+                    "text": "D-MATLDepartment of Materials",
+                    "url": "https://mat.ethz.ch/"
+                  },
+                  {
+                    "text": "D-MAVTMechanical and Process Engineering",
+                    "url": "https://mavt.ethz.ch/"
+                  },
+                  {
+                    "text": "D-MTECManagement, Technology and Economics",
+                    "url": "https://mtec.ethz.ch/"
+                  },
+                  {
+                    "text": "D-PHYSPhysics",
+                    "url": "https://www.phys.ethz.ch/"
+                  },
+                  {
+                    "text": "D-USYSEnvironmental Systems Science",
+                    "url": "https://usys.ethz.ch/en/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Table of contents and legal",
+            "url": "",
+            "children": [
+              {
+                "text": "Sitemap",
+                "url": "/en/footer/sitemap.html"
+              },
+              {
+                "text": "Imprint",
+                "url": "/en/footer/imprint.html"
+              },
+              {
+                "text": "Accessibility Statement",
+                "url": "/en/footer/accessibility-statement.html"
+              },
+              {
+                "text": "Disclaimer & Copyright",
+                "url": "/en/footer/disclaimer-copyright.html"
+              },
+              {
+                "text": "Data protection",
+                "url": "/en/footer/data-protection.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

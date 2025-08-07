@@ -1,0 +1,796 @@
+[
+  {
+    "text": "Sidebar",
+    "url": ""
+  },
+  {
+    "text": "×",
+    "url": "./"
+  },
+  {
+    "text": "Main Menu",
+    "url": "",
+    "children": [
+      {
+        "text": "Home",
+        "url": "/"
+      },
+      {
+        "text": "Admissions",
+        "url": "/admissions",
+        "children": [
+          {
+            "text": "Undergraduate &Graduate Programmes",
+            "url": "/admissions",
+            "children": [
+              {
+                "text": "Scholarships",
+                "url": "/admissions#scholarships"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Education",
+        "url": "/",
+        "children": [
+          {
+            "text": "Faculties & Schools",
+            "url": "/education"
+          },
+          {
+            "text": "Global Programmes",
+            "url": "//www.nus.edu.sg/gro/about-us/global-programmes"
+          },
+          {
+            "text": "Student Resources and Support",
+            "url": "/",
+            "children": [
+              {
+                "text": "Canvas",
+                "url": "//canvas.nus.edu.sg/"
+              },
+              {
+                "text": "Enterprise",
+                "url": "//enterprise.nus.edu.sg/"
+              },
+              {
+                "text": "Libraries",
+                "url": "//lib.nus.edu.sg/"
+              },
+              {
+                "text": "NUSOne",
+                "url": "//www.nus.edu.sg/nusone/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Research",
+        "url": "//www.nus.edu.sg/research/"
+      },
+      {
+        "text": "Sustainability",
+        "url": "//sustainability.nus.edu.sg/"
+      },
+      {
+        "text": "Enterprise",
+        "url": "//enterprise.nus.edu.sg/"
+      },
+      {
+        "text": "Global",
+        "url": "//www.nus.edu.sg/gro"
+      },
+      {
+        "text": "Giving",
+        "url": "//giving.nus.edu.sg/"
+      },
+      {
+        "text": "News",
+        "url": "//news.nus.edu.sg/"
+      },
+      {
+        "text": "About",
+        "url": "/about",
+        "children": [
+          {
+            "text": "Overview",
+            "url": "/",
+            "children": [
+              {
+                "text": "Enterprise",
+                "url": "//enterprise.nus.edu.sg/"
+              },
+              {
+                "text": "Global",
+                "url": "//www.nus.edu.sg/gro/"
+              },
+              {
+                "text": "Publications",
+                "url": "/about#publications"
+              }
+            ]
+          },
+          {
+            "text": "Leadership",
+            "url": "/",
+            "children": [
+              {
+                "text": "Management",
+                "url": "/about/management"
+              }
+            ]
+          },
+          {
+            "text": "Our Heritage",
+            "url": "/",
+            "children": [
+              {
+                "text": "History",
+                "url": "/about/founded-by-the-community"
+              },
+              {
+                "text": "Chancellors",
+                "url": "/about/founded-by-the-community#chancellors"
+              }
+            ]
+          },
+          {
+            "text": "Resources",
+            "url": "/",
+            "children": [
+              {
+                "text": "Calendar",
+                "url": "//myaces.nus.edu.sg/CoE/"
+              },
+              {
+                "text": "Careers",
+                "url": "//www.nus.edu.sg/careers/"
+              },
+              {
+                "text": "E-cards",
+                "url": "//community.nus.edu.sg/ecards/"
+              },
+              {
+                "text": "Library",
+                "url": "//lib.nus.edu.sg/"
+              },
+              {
+                "text": "LumiNUS",
+                "url": "//luminus.nus.edu.sg/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Quicklinks",
+        "url": "",
+        "children": [
+          {
+            "text": "Email",
+            "url": "//exchange.nus.edu.sg"
+          },
+          {
+            "text": "Canvas",
+            "url": "//canvas.nus.edu.sg/"
+          },
+          {
+            "text": "Library",
+            "url": "//lib.nus.edu.sg/"
+          },
+          {
+            "text": "Student",
+            "url": "//myportal.nus.edu.sg"
+          },
+          {
+            "text": "Staff",
+            "url": "/inside-nus"
+          },
+          {
+            "text": "Alumni",
+            "url": "//www.nus.edu.sg/alumnet/"
+          },
+          {
+            "text": "",
+            "url": "/",
+            "children": [
+              {
+                "text": "Email",
+                "url": "//exchange.nus.edu.sg"
+              },
+              {
+                "text": "Canvas",
+                "url": "//canvas.nus.edu.sg/"
+              },
+              {
+                "text": "Library",
+                "url": "//lib.nus.edu.sg"
+              },
+              {
+                "text": "Student",
+                "url": "//myportal.nus.edu.sg"
+              },
+              {
+                "text": "Staff",
+                "url": "/inside-nus"
+              },
+              {
+                "text": "Alumni",
+                "url": "//www.nus.edu.sg/alumnet/"
+              },
+              {
+                "text": "",
+                "url": "https://nus.edu.sg/120th-anniversary/"
+              },
+              {
+                "text": "",
+                "url": "https://www.sg60.gov.sg/"
+              },
+              {
+                "text": "Home",
+                "url": "/"
+              },
+              {
+                "text": "Admissions",
+                "url": "/admissions",
+                "children": [
+                  {
+                    "text": "Undergraduate &Graduate Programmes",
+                    "url": "/admissions",
+                    "children": [
+                      {
+                        "text": "Scholarships",
+                        "url": "/admissions#scholarships"
+                      },
+                      {
+                        "text": "Financial aid",
+                        "url": "/admissions#financial-aid"
+                      },
+                      {
+                        "text": "Staying on campus",
+                        "url": "/admissions#staying-on-campus",
+                        "children": [
+                          {
+                            "text": "Undergraduate Tuition Fees",
+                            "url": "//www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees"
+                          },
+                          {
+                            "text": "Graduate Tuition Fees",
+                            "url": "//www.nus.edu.sg/registrar/administrative-policies-procedures/graduate/graduate-fees"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Executive & Lifelongeducation",
+                    "url": "//www.nus.edu.sg/education#executive-education"
+                  },
+                  {
+                    "text": "",
+                    "url": "//www.nus.edu.sg/oam/why-nus/nusbeyond/business"
+                  }
+                ]
+              },
+              {
+                "text": "Education",
+                "url": "/education",
+                "children": [
+                  {
+                    "text": "Faculties & Schools",
+                    "url": "/education"
+                  },
+                  {
+                    "text": "Academic Calendar",
+                    "url": "/education#academic-calendar"
+                  },
+                  {
+                    "text": "Global Programmes",
+                    "url": "//www.nus.edu.sg/gro/about-us/global-programmes"
+                  },
+                  {
+                    "text": "Executive & Lifelongeducation",
+                    "url": "/education#executive-education"
+                  },
+                  {
+                    "text": "Development of Teaching & Learning",
+                    "url": "//nus.edu.sg/cdtl"
+                  },
+                  {
+                    "text": "English Language Communication",
+                    "url": "//www.nus.edu.sg/celc/"
+                  },
+                  {
+                    "text": "Systems Science",
+                    "url": "//www.iss.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Canvas",
+                    "url": "//canvas.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Enterprise",
+                    "url": "//enterprise.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Future-ready Graduates",
+                    "url": "//nus.edu.sg/cfg/"
+                  },
+                  {
+                    "text": "Global Relations Office",
+                    "url": "//www.nus.edu.sg/gro/"
+                  },
+                  {
+                    "text": "Housing Services",
+                    "url": "//www.nus.edu.sg/ohs/"
+                  },
+                  {
+                    "text": "Libraries",
+                    "url": "//lib.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Office of the University Registrar",
+                    "url": "//www.nus.edu.sg/registrar/"
+                  },
+                  {
+                    "text": "Student Affairs",
+                    "url": "//www.nus.edu.sg/osa/"
+                  },
+                  {
+                    "text": "NUSOne",
+                    "url": "//www.nus.edu.sg/nusone/"
+                  },
+                  {
+                    "text": "Technology Translation & Commercialisation",
+                    "url": "//www.nus.edu.sg/ILO"
+                  },
+                  {
+                    "text": "University Health Centre",
+                    "url": "//www.nus.edu.sg/uhc/"
+                  },
+                  {
+                    "text": "NUS Care Unit",
+                    "url": "//care.nus.edu.sg"
+                  }
+                ]
+              },
+              {
+                "text": "Research",
+                "url": "/research"
+              },
+              {
+                "text": "Sustainability",
+                "url": "https://sustainability.nus.edu.sg/"
+              },
+              {
+                "text": "News",
+                "url": "/news"
+              },
+              {
+                "text": "Giving",
+                "url": "/nus-giving"
+              },
+              {
+                "text": "About",
+                "url": "/about",
+                "children": [
+                  {
+                    "text": "Vision, Mission and Values",
+                    "url": "/about"
+                  },
+                  {
+                    "text": "NUS Impact",
+                    "url": "//www.nus.edu.sg/impactreport/"
+                  },
+                  {
+                    "text": "Enterprise",
+                    "url": "//enterprise.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Global",
+                    "url": "//www.nus.edu.sg/gro/"
+                  },
+                  {
+                    "text": "Corporate Information",
+                    "url": "/about#corporate-information"
+                  },
+                  {
+                    "text": "Institutional Video",
+                    "url": "/about#institutional-video"
+                  },
+                  {
+                    "text": "Publications",
+                    "url": "/about#publications"
+                  },
+                  {
+                    "text": "NUS Documentary",
+                    "url": "//news.nus.edu.sg/innovating-for-the-future/"
+                  },
+                  {
+                    "text": "Statutes & Regulations",
+                    "url": "//www.nus.edu.sg/registrar/administrative-policies-procedures/nus-statutes-and-regulations"
+                  },
+                  {
+                    "text": "Service Commitment",
+                    "url": "/about/service-commitment"
+                  },
+                  {
+                    "text": "Code of Conduct for NUS Staff",
+                    "url": "/docs/default-source/corporate-files/about/code-of-conduct-nus-staff.pdf"
+                  },
+                  {
+                    "text": "Departments A-Z",
+                    "url": "/about/departments"
+                  },
+                  {
+                    "text": "Board of Trustees",
+                    "url": "/about/board-of-trustees"
+                  },
+                  {
+                    "text": "NUS President",
+                    "url": "//president.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Management",
+                    "url": "/about/management"
+                  },
+                  {
+                    "text": "History",
+                    "url": "/about/founded-by-the-community"
+                  },
+                  {
+                    "text": "Chancellors",
+                    "url": "/about/founded-by-the-community#chancellors"
+                  },
+                  {
+                    "text": "Former Vice-Chancellors& Presidents",
+                    "url": "/about/founded-by-the-community#vice-chancellors"
+                  },
+                  {
+                    "text": "Academic and Research Staff Profile",
+                    "url": "//discovery.nus.edu.sg/"
+                  },
+                  {
+                    "text": "Calendar",
+                    "url": "//myaces.nus.edu.sg/CoE/"
+                  },
+                  {
+                    "text": "Careers",
+                    "url": "//www.nus.edu.sg/careers/"
+                  },
+                  {
+                    "text": "E-cards",
+                    "url": "//community.nus.edu.sg/ecards/"
+                  },
+                  {
+                    "text": "Library",
+                    "url": "//lib.nus.edu.sg"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "https://news.nus.edu.sg/smart-safe-sustainable-nus-sets-new-benchmark-for-campus-innovation-with-singapores-first-university-based-integrated-operations-centre/?utm_source=Corpsite&utm_medium=FeaturedBanner"
+              },
+              {
+                "text": "NUS Highlights",
+                "url": "",
+                "children": [
+                  {
+                    "text": "",
+                    "url": "https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight",
+                    "children": [
+                      {
+                        "text": "",
+                        "url": "https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight"
+                      },
+                      {
+                        "text": "Bezos Centre @NUS and EnterpriseSG launch new startup competition to boost early-stage sustainable protein innovation",
+                        "url": "",
+                        "children": [
+                          {
+                            "text": "Bezos Centre @NUS and EnterpriseSG launch new startup competition to boost early-stage sustainable protein innovation",
+                            "url": "https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "This new partnership aims to accelerate early-stage sustainable protein innovation through a startup competition, and is part of Bezos Centre @NUS’ US$3 million in grants over five years to support early and growth-stage startups in this space.",
+                            "url": "https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "Highlights",
+                            "url": "https://news.nus.edu.sg/bezos-centre-nus-and-enterprisesg-launch-new-startup-competition/?utm_source=Corpsite&utm_medium=Highlight"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "url": "https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight",
+                    "children": [
+                      {
+                        "text": "",
+                        "url": "https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight"
+                      },
+                      {
+                        "text": "Students from Arts and Social Sciences and Business clinch top prize at 2025 UBS Finance Challenge in Shanghai",
+                        "url": "",
+                        "children": [
+                          {
+                            "text": "Students from Arts and Social Sciences and Business clinch top prize at 2025 UBS Finance Challenge in Shanghai",
+                            "url": "https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "The UBS Finance Challenge is a high-profile stock pitch competition that brings together some of the brightest and most innovative university students in finance from around the world to showcase their market research and equity analysis skills.",
+                            "url": "https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "Highlights, Education",
+                            "url": "https://news.nus.edu.sg/nus-students-clinch-top-prize-at-2025-ubs-finance-challenge/?utm_source=Corpsite&utm_medium=Highlight"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "url": "https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight",
+                    "children": [
+                      {
+                        "text": "",
+                        "url": "https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight"
+                      },
+                      {
+                        "text": "NUS Law launches world-first AI-powered legal podcast to open up law to the public",
+                        "url": "",
+                        "children": [
+                          {
+                            "text": "NUS Law launches world-first AI-powered legal podcast to open up law to the public",
+                            "url": "https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "The Faculty of Law at has achieved a world's first in legal publishing: a podcast series based on articles from the Singapore Journal of Legal Studies (SJLS). Produced using Google\\’s AI-powered tool, NotebookLM, this marks the first time a legal journal has used generative AI to turn peer-reviewed legal research into accessible audio content.",
+                            "url": "https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "General News",
+                            "url": "https://news.nus.edu.sg/nus-law-launches-world-first-ai-powered-legal-podcast-to-open-up-law-to-the-public/?utm_source=Corpsite&utm_medium=Highlight"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "url": "https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight",
+                    "children": [
+                      {
+                        "text": "",
+                        "url": "https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight"
+                      },
+                      {
+                        "text": "Harmony in diversity: International friendships flourish at YST",
+                        "url": "",
+                        "children": [
+                          {
+                            "text": "Harmony in diversity: International friendships flourish at YST",
+                            "url": "https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "Diversity is especially prominent at the Yong Siew Toh Conservatory of Music (YST), which boasts one of the most culturally diverse student bodies at NUS. There are more than 20 nationalities in its undergraduate student population of about 240, creating a vibrant environment for friendships to blossom across different nationalities and cultures.",
+                            "url": "https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight"
+                          },
+                          {
+                            "text": "General News, Education",
+                            "url": "https://news.nus.edu.sg/harmony-in-diversity-international-friendships-flourish-at-yst/?utm_source=Corpsite&utm_medium=Highlight"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "President's Welcome",
+            "url": "",
+            "children": [
+              {
+                "text": "Shaping the Future",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Learn more",
+                    "url": "/president"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "NUS Now",
+            "url": "",
+            "children": [
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMl42Sty7aW/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMl42Sty7aW/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMl42Sty7aW/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMkIpCtSiYp/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMkIpCtSiYp/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMkIpCtSiYp/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMrD1UhSPTL/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMrD1UhSPTL/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMrD1UhSPTL/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMpCYWixeWt/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMpCYWixeWt/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMpCYWixeWt/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMwPipgSWB0/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMwPipgSWB0/"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/p/DMwPipgSWB0/"
+              }
+            ]
+          },
+          {
+            "text": "Thought Leadership",
+            "url": ""
+          },
+          {
+            "text": "",
+            "url": "/thought-leadership/cinemas-struggle-in-a-world-that-cannot-sit-still",
+            "children": [
+              {
+                "text": "Cinemas struggle in a world that cannot sit still",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Learn more",
+                    "url": "/thought-leadership/cinemas-struggle-in-a-world-that-cannot-sit-still"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "/thought-leadership/the-tussle-over-retail-rents-in-singapore-cannot-go-on-like-this",
+            "children": [
+              {
+                "text": "The tussle over retail rents in Singapore cannot go on like this",
+                "url": ""
+              },
+              {
+                "text": "Learn more",
+                "url": "/thought-leadership/the-tussle-over-retail-rents-in-singapore-cannot-go-on-like-this",
+                "children": [
+                  {
+                    "text": "Product Development and Manufacturing of IVDs and SaMD: Design and Development (18 - 19 Aug)",
+                    "url": "https://www.duke-nus.edu.sg/core/events/upcoming-events/detail/index/2025-executive-certificate-workshop-design-and-development"
+                  },
+                  {
+                    "text": "Product Development and Manufacturing of IVDs and SaMD: Validation and Verification (24 - 25 Sep)",
+                    "url": "https://www.duke-nus.edu.sg/core/events/upcoming-events/detail/index/2025-executive-certificate-workshop-validation-and-verification"
+                  },
+                  {
+                    "text": "Product Development and Manufacturing of IVDs and SaMD: Manufacturing and Quality Management System (14 - 15 Oct)",
+                    "url": "https://www.duke-nus.edu.sg/core/events/upcoming-events/detail/index/2025-executive-certificate-workshop-manufacturing-and-quality-management-system"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Calendar of Events",
+        "url": "https://myaces.nus.edu.sg/CoE/"
+      },
+      {
+        "text": "Subscribe",
+        "url": "https://myaces.nus.edu.sg/CoE/jsp/coeRss.jsp"
+      },
+      {
+        "text": "National University of Singapore",
+        "url": "",
+        "children": [
+          {
+            "text": "",
+            "url": "//www.facebook.com/nus.singapore"
+          },
+          {
+            "text": "",
+            "url": "//twitter.com/NUSingapore"
+          },
+          {
+            "text": "",
+            "url": "//instagram.com/nus_singapore/"
+          },
+          {
+            "text": "",
+            "url": "//www.linkedin.com/school/5524"
+          },
+          {
+            "text": "",
+            "url": "//t.me/s/nusnews"
+          },
+          {
+            "text": "",
+            "url": "//www.youtube.com/nuscast"
+          },
+          {
+            "text": "",
+            "url": "//mp.weixin.qq.com/s/iP2FlRWBWhgPpsN0EjDRlg"
+          }
+        ]
+      },
+      {
+        "text": "National University of Singapore",
+        "url": "/home",
+        "children": [
+          {
+            "text": "Legal",
+            "url": "/legal-information-notices"
+          },
+          {
+            "text": "Branding guidelines",
+            "url": "/identity"
+          },
+          {
+            "text": "Contact us",
+            "url": "/contact"
+          },
+          {
+            "text": "中文",
+            "url": "/cn"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+        { tag='li', buttons=[text='Homepage', url='/en/'] }
+        { tag='li', buttons=[text='Search', url='https://ethz.ch/en/utils/search.html'] }
+        { tag='li', buttons=[text='Contact', url='/en/utils/contact.html'] }
+        { tag='li', buttons=[text='Sitemap', url='/en/footer/sitemap.html'] }
+        { tag='div', class='header__logos header__container', buttons=[text='', url='https://ethz.ch/en.html', text='Header', url=''] }
+        { tag='div', class='header__mobile-only', buttons=[text='Services', url=''] }
+                    { tag='li', buttons=[text='Student portal', url='/students/en.html'] }
+                    { tag='li', buttons=[text='Alumni association', url='https://www.alumni.ethz.ch/en/'] }
+                    { tag='li', buttons=[text='Staffnet', url='/staffnet/en.html'] }
+                    { tag='li', buttons=[text='Contact', url='/en/utils/contact.html'] }
+                    { tag='li', buttons=[text='Login', url='/login/en.html?resource=%2Fcontent%2Fmain%2Fen.html'] }
+        { tag='div', class='header__search-trigger no_translate', buttons=[text='Search', url=''] }
+        { tag='div', class='header__search-link-container no_translate', buttons=[text='', url='/en/utils/search.html'] }
+        { tag='nav', class='header__departments', buttons=[text='Departments', url=''] }
+                { tag='li', class='item--organization', buttons=[text='ETH Zurich', url='https://ethz.ch/en.html'] }
+        { tag='nav', class='header__services', buttons=[text='Language Selection', url=''] }
+      { tag='section', class='site-content', buttons=[text='Directly go to the content', url=''] }
+                { tag='div', class='homehero__wrapper is-last is-themed eth-grey', buttons=[text='Pure quantum state without the need for cooling', url=''] }
+                          { tag='div', class='newsfeedhomepage-header', buttons=[text='Other news from the ETH universe', url=''] }
+                                { tag='div', class='info', buttons=[text='Tilman Esslinger awarded the Micius Prize 2025', url=''] }
+                                  { tag='h3', buttons=[text='Tilman Esslinger awarded the Micius Prize 2025', url='/staffnet/en/news-and-events/internal-news/archive/2025/08/tilman-esslinger-awarded-the-micius-prize-2025.html'] }
+                                      { tag='li', class='TagCloud__item', buttons=[text='Physics', url='/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpmb3JtYXRlL3BoeXNpaw&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A'] }
+                                      { tag='li', class='TagCloud__item', buttons=[text='Quantum sciences', url='/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpmb3JtYXRlL3BoeXNpay9xdWFudGVud2lzc2Vuc2NoYWZ0ZW4&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A'] }
+                                      { tag='li', class='TagCloud__item', buttons=[text='Honours and prizes', url='/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpydWJyaWtlbi9pbnRlcm4tYWt0dWVsbC9laHJ1bmdlbi11bmQtcHJlaXNl&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A'] }
+                                { tag='div', class='info', buttons=[text='Gut microbes: How many molecules influence our body?', url=''] }
+                                  { tag='h3', buttons=[text='Gut microbes: How many molecules influence our body?', url='https://hest.ethz.ch/en/news/news-and-events/2025/07/gut-microbes-how-many-molecules-influence-our-body.html'] }
+                                      { tag='p', class='TagCloud__item', buttons=[text='Health sciences', url='/en/news-and-events/eth-news/teaser.html?TAG=bmV3czpmb3JtYXRlL2xlYmVuc3dpc3NlbnNjaGFmdGVuLXVuZC1tZWRpemluL2dlc3VuZGhlaXRzd2lzc2Vuc2NoYWZ0ZW4&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A'] }
+                                { tag='div', class='info', buttons=[text='ERC Proof of Concept Grant awarded to Christian Degen', url=''] }
+                                  { tag='h3', buttons=[text='ERC Proof of Concept Grant awarded to Christian Degen', url='/staffnet/en/news-and-events/internal-news/archive/2025/07/erc-proof-of-concept-grant-awarded-to-christian-degen.html'] }
+                                      { tag='li', class='TagCloud__item', buttons=[text='Honours and prizes', url='/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpydWJyaWtlbi9pbnRlcm4tYWt0dWVsbC9laHJ1bmdlbi11bmQtcHJlaXNl&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A'] }
+                                      { tag='li', class='TagCloud__item', buttons=[text='Internal news', url='/staffnet/en/news-and-events/internal-news/archive.html?TAG=bmV3czpydWJyaWtlbi9pbnRlcm4tYWt0dWVsbA&path=L2NvbnRlbnQvbWFpbi9lbi9qY3I6Y29udGVudC9wYXIvbmV3c2ZlZWRob21lcGFnZV9jb3A'] }
+                            { tag='div', class='loadMoreNewsContainer', buttons=[text='See more news', url='/en/news-and-events/eth-news/further-news.html'] }
+        { tag='div', class='footer__container', buttons=[text='Footer', url=''] }
+          { tag='nav', class='footer__highlighted', buttons=[text='Recommended links', url=''] }
+              { tag='li', buttons=[text='Media information', url='/en/news-and-events/media-information.html'] }
+                { tag='div', class='footer__search no_translate', buttons=[text='Search', url=''] }
+                    { tag='form', buttons=[text='', url='/en/utils/search.html'] }
+                { tag='nav', class='footer__social', buttons=[text='Follow us', url=''] }
+                    { tag='li', buttons=[text='', url='https://ethz.ch/en/utils/rss.html'] }
+                    { tag='li', buttons=[text='', url='https://www.linkedin.com/school/eth-zurich/'] }
+                    { tag='li', buttons=[text='', url='https://www.instagram.com/ethzurich/'] }
+                    { tag='li', buttons=[text='', url='https://www.facebook.com/eth/'] }
+                    { tag='li', buttons=[text='', url='https://www.youtube.com/user/ethzurich'] }
+                    { tag='li', buttons=[text='', url='https://bsky.app/profile/ethz.ch'] }
+                    { tag='li', buttons=[text='', url='https://www.tiktok.com/@ethzurich'] }
+              { tag='nav', class='footer__services', buttons=[text='Services', url=''] }
+                  { tag='li', buttons=[text='Student portal', url='/students/en.html'] }
+                  { tag='li', buttons=[text='Alumni association', url='https://www.alumni.ethz.ch/en/'] }
+                  { tag='li', buttons=[text='Staffnet', url='/staffnet/en.html'] }
+                  { tag='li', buttons=[text='Contact', url='/en/utils/contact.html'] }
+                  { tag='li', buttons=[text='Login', url='/login/en.html?resource=%2Fcontent%2Fmain%2Fen.html'] }
+            { tag='div', class='footer__section-title footer-accordion-mobile__trigger js-footer-accordion-mobile__trigger', buttons=[text='Departments', url=''] }
+                { tag='li', class='item', buttons=[text='D-ARCHArchitecture', url='https://arch.ethz.ch/en'] }
+                { tag='li', class='item', buttons=[text='D-BAUGCivil, Environmental and Geomatic Engineering', url='https://baug.ethz.ch/en/'] }
+                { tag='li', class='item', buttons=[text='D-BIOLBiology', url='https://biol.ethz.ch/en/'] }
+                { tag='li', class='item', buttons=[text='D-BSSEBiosystems Science and Engineering', url='https://bsse.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-CHABChemistry and Applied Biosciences', url='https://chab.ethz.ch/en/'] }
+                { tag='li', class='item', buttons=[text='D-EAPSEarth and Planetary Sciences', url='https://eaps.ethz.ch/en/'] }
+                { tag='li', class='item', buttons=[text='D-GESSHumanities, Social and Political Sciences', url='https://gess.ethz.ch/en/'] }
+                { tag='li', class='item', buttons=[text='D-HESTHealth Sciences and Technology', url='https://hest.ethz.ch/en'] }
+                { tag='li', class='item', buttons=[text='D-INFKComputer Science', url='https://inf.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-ITETInformation Technology and Electrical Engineering', url='https://ee.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-MATHMathematics', url='https://math.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-MATLDepartment of Materials', url='https://mat.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-MAVTMechanical and Process Engineering', url='https://mavt.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-MTECManagement, Technology and Economics', url='https://mtec.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-PHYSPhysics', url='https://www.phys.ethz.ch/'] }
+                { tag='li', class='item', buttons=[text='D-USYSEnvironmental Systems Science', url='https://usys.ethz.ch/en/'] }
+          { tag='nav', class='footer__row footer__resources', buttons=[text='Table of contents and legal', url=''] }
+              { tag='li', buttons=[text='Sitemap', url='/en/footer/sitemap.html'] }
+              { tag='li', buttons=[text='Imprint', url='/en/footer/imprint.html'] }
+              { tag='li', buttons=[text='Accessibility Statement', url='/en/footer/accessibility-statement.html'] }
+              { tag='li', buttons=[text='Disclaimer & Copyright', url='/en/footer/disclaimer-copyright.html'] }
+              { tag='li', buttons=[text='Data protection', url='/en/footer/data-protection.html'] }
+          { tag='div', class='footer__copyright', buttons=[text='Eidgenössische
+                    Technische Hochschule Zürich', url='http://www.ethz.ch/'] }
+        { tag='div', class='pswp__ui pswp__ui--hidden' }
+          { tag='div', class='pswp__top-bar' }

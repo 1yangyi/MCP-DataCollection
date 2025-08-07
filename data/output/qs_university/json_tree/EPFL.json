@@ -1,0 +1,596 @@
+[
+  {
+    "text": "",
+    "url": "https://www.epfl.ch/en/"
+  },
+  {
+    "text": "Menu",
+    "url": ""
+  },
+  {
+    "text": "About",
+    "url": "https://www.epfl.ch/about/"
+  },
+  {
+    "text": "Education",
+    "url": "https://www.epfl.ch/education/"
+  },
+  {
+    "text": "Research",
+    "url": "https://www.epfl.ch/research/"
+  },
+  {
+    "text": "Innovation",
+    "url": "https://www.epfl.ch/innovation/"
+  },
+  {
+    "text": "Schools",
+    "url": "https://www.epfl.ch/schools/"
+  },
+  {
+    "text": "Campus",
+    "url": "https://www.epfl.ch/campus/",
+    "children": [
+      {
+        "text": "Validate",
+        "url": "https://search.epfl.ch/"
+      }
+    ]
+  },
+  {
+    "text": "EN",
+    "url": "",
+    "children": [
+      {
+        "text": "FR",
+        "url": "https://www.epfl.ch/fr/"
+      },
+      {
+        "text": "DE",
+        "url": "https://www.epfl.ch/de/",
+        "children": [
+          {
+            "text": "About",
+            "url": "https://www.epfl.ch/about/"
+          },
+          {
+            "text": "Education",
+            "url": "https://www.epfl.ch/education/"
+          },
+          {
+            "text": "Research",
+            "url": "https://www.epfl.ch/research/"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://www.epfl.ch/innovation/"
+          },
+          {
+            "text": "Schools",
+            "url": "https://www.epfl.ch/schools/"
+          },
+          {
+            "text": "Campus",
+            "url": "https://www.epfl.ch/campus/"
+          },
+          {
+            "text": "Latest news",
+            "url": ""
+          },
+          {
+            "text": "Highlights",
+            "url": ""
+          },
+          {
+            "text": "EPFL Memento",
+            "url": ""
+          },
+          {
+            "text": "🚧Double Deck construction sitepractical information",
+            "url": "https://www.epfl.ch/campus/visitors/buildings/construction-projects/double-deck/"
+          },
+          {
+            "text": "🌐Help and supportcurrent initiatives",
+            "url": "https://www.epfl.ch/campus/community/current-initiatives/",
+            "children": [
+              {
+                "text": "Read moresur Tech Transfer.",
+                "url": "https://actu.epfl.ch/news/amputee-and-researcher-go-prosthetic-hand-in-hand-",
+                "children": [
+                  {
+                    "text": "Amputee and researcher go prosthetic hand in hand towards progress",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Read more",
+                "url": "https://actu.epfl.ch/news/amputee-and-researcher-go-prosthetic-hand-in-hand-",
+                "children": [
+                  {
+                    "text": "New method instantly characterizes thousands of molecules05.08.25NewsEPFLEPFL researchers have developed a new imaging method, based on the use of a single-photon camera, that can characterizes thousands of molecules quickly and simultaneously.",
+                    "url": "https://actu.epfl.ch/news/new-method-instantly-characterizes-thousands-of-mo",
+                    "children": [
+                      {
+                        "text": "New method instantly characterizes thousands of molecules",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "A hybrid photonic-terahertz chip for communications and sensing04.08.25NewsResearchResearchers at EPFL and Harvard University have engineered a chip that can convert between electromagnetic pulses in the terahertz and optical ranges on the same device. Their integrated design could enable the development of devices for ultrafast telecommunications, ranging, spectroscopy, and computing.",
+                    "url": "https://actu.epfl.ch/news/a-hybrid-photonic-terahertz-chip-for-communicati-2",
+                    "children": [
+                      {
+                        "text": "A hybrid photonic-terahertz chip for communications and sensing",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "All news",
+                    "url": "https://actu.epfl.ch/search/en/Mediacom"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Profiles",
+            "url": "",
+            "children": [
+              {
+                "text": "“My chalkboard isn't going away anytime soon!”07.08.25EPFLDamir Filipović, named best teacher in the financial engineering section for 2024, could very well have pursued a career in pure mathematics but instead chose the tumultuous field of quantitative finance.",
+                "url": "https://actu.epfl.ch/news/my-chalkboard-isn-t-going-away-anytime-soon",
+                "children": [
+                  {
+                    "text": "“My chalkboard isn't going away anytime soon!”",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "“From the outset, I knew this was more than an Olympic story”28.07.25ResearchMengke Zhang’s doctoral research at EPFL’s College of Humanities (CDH) explores how the 2022 Beijing Winter Olympics catalyzed sweeping urban and social transformations in Chongli, a once-remote mountainous region in China, shedding light on how state-driven development reshapes everyday life.",
+                "url": "https://actu.epfl.ch/news/from-the-outset-i-knew-this-was-more-than-an-olymp",
+                "children": [
+                  {
+                    "text": "“From the outset, I knew this was more than an Olympic story”",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "“I realized that, in Switzerland, you don't give students a zero!\"17.07.25EPFLAlexis Berne, an expert in precipitation and weather radars, has no qualms about setting off on research expeditions to the Antarctic. And his extended absences don’t seem to bother his students either, as they named him best teacher for the Environmental Sciences and Engineering Section for 2024.",
+                "url": "https://actu.epfl.ch/news/i-realized-that-in-switzerland-you-don-t-give-stud",
+                "children": [
+                  {
+                    "text": "“I realized that, in Switzerland, you don't give students a zero!\"",
+                    "url": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "View all profile articles",
+            "url": "https://actu.epfl.ch/search/people/",
+            "children": [
+              {
+                "text": "Read the magazine",
+                "url": "https://www.epfl.ch/about/news-and-media/dimensions-en/flipbook-pdf/",
+                "children": [
+                  {
+                    "text": "Becoming superhumans",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Read the magazine",
+                "url": "https://www.epfl.ch/about/news-and-media/dimensions-en/flipbook-pdf/"
+              },
+              {
+                "text": "About",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Overview",
+                    "url": "https://www.epfl.ch/about/"
+                  },
+                  {
+                    "text": "Schools and Colleges",
+                    "url": "https://www.epfl.ch/schools/"
+                  },
+                  {
+                    "text": "Discover life on campus",
+                    "url": "https://www.epfl.ch/campus/"
+                  },
+                  {
+                    "text": "Sign up to \"Coming Soon to EPFL\" : the newsletter of EPFL's events«Coming Soon to EPFL» is a regular newsletter which keeps you up to date with the major public events hosted on EPFL's campuses.02.06.202531.08.2025Category:Conferences – SeminarsTarget audience:General public",
+                    "url": "https://memento.epfl.ch/event/sign-up-to-coming-soon-to-epfl-the-newsletter-of-e",
+                    "children": [
+                      {
+                        "text": "Sign up to \"Coming Soon to EPFL\" : the newsletter of EPFL's events",
+                        "url": ""
+                      },
+                      {
+                        "text": "Campus Lecture of Hadi Barkat (CEO & Founder at Helvetiq, Alumni Award 2024)25.09.202518:0020:00Location:RLC E1 240Category:Conferences – SeminarsTarget audience:General public",
+                        "url": "https://memento.epfl.ch/event/campus-lecture-of-hadi-barkat-ceo-founder-at-helve"
+                      },
+                      {
+                        "text": "Public lectures during EPFL-UNIL Health Days30.09.202510.10.2025Speaker:Raphaël Cohen, Tiffen Raffray, José Haba-Riubo, Gabriel Pitt, Julie Dachez, Alexandre Berney, Roman Tschäppeler, Mikael Krogerus, Thomas InselLocation:Rolex Learning CenterCategory:Conferences – SeminarsTarget audience:General public",
+                        "url": "https://memento.epfl.ch/event/public-lectures-during-epfl-unil-health-days"
+                      },
+                      {
+                        "text": "Innovation in Mental Health10.10.202514:0015:30Speaker:Thomas Insel, Anna Fontcuberta i Morral, Giorgio Zanetti, Johannes GräffLocation:RLC E1 240Category:Conferences – SeminarsTarget audience:General public",
+                        "url": "https://memento.epfl.ch/event/innovation-in-mental-health"
+                      },
+                      {
+                        "text": "Science in strips: a selection of comics19.06.202511.09.2025Location:Espace DécouverteCategory:ExhibitionsTarget audience:General public",
+                        "url": "https://memento.epfl.ch/event/science-in-strips-a-selection-of-comics"
+                      },
+                      {
+                        "text": "See all events",
+                        "url": "https://memento.epfl.ch/epfl"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Missions",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Our training courses",
+                    "url": "https://www.epfl.ch/education/"
+                  },
+                  {
+                    "text": "Research at EPFL",
+                    "url": "https://www.epfl.ch/research/"
+                  },
+                  {
+                    "text": "Read more",
+                    "url": "https://www.epfl.ch/innovation/"
+                  },
+                  {
+                    "text": "Maps and directions",
+                    "url": "https://www.epfl.ch/campus/visitors/",
+                    "children": [
+                      {
+                        "text": "Visit EPFL",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Maps and directions",
+                    "url": "https://www.epfl.ch/campus/visitors/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Back to top",
+    "url": "",
+    "children": [
+      {
+        "text": "About",
+        "url": "",
+        "children": [
+          {
+            "text": "Who we are",
+            "url": "https://www.epfl.ch/about/overview/"
+          },
+          {
+            "text": "Associated Campuses",
+            "url": "https://www.epfl.ch/about/campus/"
+          },
+          {
+            "text": "Facts",
+            "url": "https://www.epfl.ch/about/facts/"
+          },
+          {
+            "text": "Presidency",
+            "url": "https://www.epfl.ch/about/presidency/"
+          },
+          {
+            "text": "Vice Presidencies",
+            "url": "https://www.epfl.ch/about/vice-presidencies/"
+          },
+          {
+            "text": "Working at EPFL",
+            "url": "https://www.epfl.ch/about/working/"
+          },
+          {
+            "text": "Recruiting EPFL Talents",
+            "url": "https://www.epfl.ch/about/recruiting/"
+          },
+          {
+            "text": "News & Media",
+            "url": "https://www.epfl.ch/about/news-and-media/"
+          },
+          {
+            "text": "Sustainability",
+            "url": "https://www.epfl.ch/about/sustainability/"
+          },
+          {
+            "text": "Equality & Diversity",
+            "url": "https://www.epfl.ch/about/equality/"
+          },
+          {
+            "text": "Respect",
+            "url": "https://www.epfl.ch/about/respect/"
+          },
+          {
+            "text": "Philanthropy",
+            "url": "https://www.epfl.ch/about/philanthropy/"
+          },
+          {
+            "text": "EPFL Alumni",
+            "url": "https://www.epflalumni.ch"
+          }
+        ]
+      },
+      {
+        "text": "Education",
+        "url": "",
+        "children": [
+          {
+            "text": "Bachelor",
+            "url": "https://www.epfl.ch/education/bachelor/"
+          },
+          {
+            "text": "Master",
+            "url": "https://www.epfl.ch/education/master/"
+          },
+          {
+            "text": "Doctorate",
+            "url": "https://www.epfl.ch/education/phd/"
+          },
+          {
+            "text": "Continuing Education",
+            "url": "https://www.epfl.ch/education/continuing-education/"
+          },
+          {
+            "text": "International",
+            "url": "https://www.epfl.ch/education/international/en/"
+          },
+          {
+            "text": "Teaching",
+            "url": "https://www.epfl.ch/education/teaching/"
+          },
+          {
+            "text": "Admission",
+            "url": "https://www.epfl.ch/education/admission/"
+          },
+          {
+            "text": "Study Management",
+            "url": "https://www.epfl.ch/education/studies/en/"
+          },
+          {
+            "text": "Educational Initiatives",
+            "url": "https://www.epfl.ch/education/educational-initiatives/"
+          },
+          {
+            "text": "Education & Science Outreach",
+            "url": "https://www.epfl.ch/education/education-and-science-outreach/"
+          }
+        ]
+      },
+      {
+        "text": "Research",
+        "url": "",
+        "children": [
+          {
+            "text": "Research Domains",
+            "url": "https://www.epfl.ch/research/domains/"
+          },
+          {
+            "text": "Faculty Members",
+            "url": "https://www.epfl.ch/research/faculty-members/"
+          },
+          {
+            "text": "Awards & Prizes",
+            "url": "https://www.epfl.ch/research/awards/"
+          },
+          {
+            "text": "Collaborate With Our Researchers",
+            "url": "https://www.epfl.ch/research/collaborate/"
+          },
+          {
+            "text": "EPFL Research Facilities",
+            "url": "https://www.epfl.ch/research/facilities/"
+          },
+          {
+            "text": "Access Our Technologies",
+            "url": "https://www.epfl.ch/research/access-technology/"
+          },
+          {
+            "text": "Research Ethics",
+            "url": "https://www.epfl.ch/research/ethic-statement/"
+          },
+          {
+            "text": "Research With Animals",
+            "url": "https://www.epfl.ch/research/experimentation-research-with-animals/"
+          },
+          {
+            "text": "Meet the Support Units For Research",
+            "url": "https://www.epfl.ch/research/meet-the-support-units-for-research/"
+          },
+          {
+            "text": "Services to EPFL Laboratories",
+            "url": "https://www.epfl.ch/research/services/"
+          },
+          {
+            "text": "Open Science",
+            "url": "https://www.epfl.ch/research/open-science/"
+          }
+        ]
+      },
+      {
+        "text": "Innovation",
+        "url": "",
+        "children": [
+          {
+            "text": "Innovation Initiatives",
+            "url": "https://www.epfl.ch/innovation/domains/"
+          },
+          {
+            "text": "Industry Collaboration",
+            "url": "https://www.epfl.ch/innovation/industry/"
+          },
+          {
+            "text": "Startup Launchpad",
+            "url": "https://www.epfl.ch/innovation/startup/"
+          }
+        ]
+      },
+      {
+        "text": "Campus",
+        "url": "",
+        "children": [
+          {
+            "text": "Services & Resources",
+            "url": "https://www.epfl.ch/campus/services/en/"
+          },
+          {
+            "text": "Library",
+            "url": "https://www.epfl.ch/campus/library/"
+          },
+          {
+            "text": "Restaurants, Shops & Hotels",
+            "url": "https://www.epfl.ch/campus/restaurants-shops-hotels/"
+          },
+          {
+            "text": "Security, Prevention & Health",
+            "url": "https://www.epfl.ch/campus/security-safety/en/"
+          },
+          {
+            "text": "Sports",
+            "url": "https://www.epfl.ch/campus/sports/en/"
+          },
+          {
+            "text": "Community & Support",
+            "url": "https://www.epfl.ch/campus/community/"
+          },
+          {
+            "text": "Chaplaincy",
+            "url": "https://www.epfl.ch/campus/spiritual-care/en/"
+          },
+          {
+            "text": "Events",
+            "url": "https://www.epfl.ch/campus/events/"
+          },
+          {
+            "text": "Arts & Culture",
+            "url": "https://www.epfl.ch/campus/art-culture/"
+          },
+          {
+            "text": "Associations",
+            "url": "https://www.epfl.ch/campus/associations/"
+          },
+          {
+            "text": "Visit EPFL",
+            "url": "https://www.epfl.ch/campus/visitors/"
+          },
+          {
+            "text": "Mobility & Travel",
+            "url": "https://www.epfl.ch/campus/mobility/"
+          }
+        ]
+      },
+      {
+        "text": "Schools & Colleges",
+        "url": "",
+        "children": [
+          {
+            "text": "School of Architecture, Civil & Environmental EngineeringENAC",
+            "url": "https://www.epfl.ch/schools/enac/"
+          },
+          {
+            "text": "School of Basic SciencesSB",
+            "url": "https://www.epfl.ch/schools/sb/"
+          },
+          {
+            "text": "School of EngineeringSTI",
+            "url": "https://sti.epfl.ch"
+          },
+          {
+            "text": "School of Computer & Communication SciencesIC",
+            "url": "https://www.epfl.ch/schools/ic/"
+          },
+          {
+            "text": "School of Life SciencesSV",
+            "url": "https://www.epfl.ch/schools/sv/"
+          },
+          {
+            "text": "College of Management of TechnologyCDM",
+            "url": "https://www.epfl.ch/schools/cdm/"
+          },
+          {
+            "text": "College of HumanitiesCDH",
+            "url": "https://www.epfl.ch/schools/cdh/"
+          }
+        ]
+      },
+      {
+        "text": "Services & Resources",
+        "url": "https://www.epfl.ch/campus/services/en/"
+      },
+      {
+        "text": "Emergencies: +41 21 693 3000",
+        "url": "tel:+41216933000"
+      },
+      {
+        "text": "Contact",
+        "url": "https://www.epfl.ch/about/contact-en/"
+      },
+      {
+        "text": "Map",
+        "url": "https://map.epfl.ch/?lang=en"
+      },
+      {
+        "text": "Follow us on Facebook",
+        "url": "https://www.facebook.com/epflcampus"
+      },
+      {
+        "text": "Follow us on Instagram",
+        "url": "https://instagram.com/epflcampus"
+      },
+      {
+        "text": "Follow us on LinkedIn",
+        "url": "https://www.linkedin.com/school/epfl/"
+      },
+      {
+        "text": "Follow us on Mastodon",
+        "url": "https://social.epfl.ch/@epfl/"
+      },
+      {
+        "text": "Follow us on X",
+        "url": "https://x.com/epfl_en"
+      },
+      {
+        "text": "Follow us on Youtube",
+        "url": "https://www.youtube.com/user/epflnews"
+      },
+      {
+        "text": "Accessibility",
+        "url": "https://www.epfl.ch/about/overview/regulations-and-guidelines/disclaimer/"
+      },
+      {
+        "text": "Disclaimer",
+        "url": "https://www.epfl.ch/about/overview/regulations-and-guidelines/disclaimer/"
+      },
+      {
+        "text": "Privacy policy",
+        "url": "https://go.epfl.ch/privacy-policy/"
+      }
+    ]
+  }
+]

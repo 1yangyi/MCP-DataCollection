@@ -1,0 +1,962 @@
+[
+  {
+    "text": "Skip to main navigation",
+    "url": ""
+  },
+  {
+    "text": "Skip to main content",
+    "url": ""
+  },
+  {
+    "text": "Skip to search",
+    "url": "",
+    "children": [
+      {
+        "text": "",
+        "url": "/",
+        "children": [
+          {
+            "text": "Schools",
+            "url": "",
+            "children": [
+              {
+                "text": "CNRS",
+                "url": "/ecoles-et-instituts/organismes/cnrs"
+              },
+              {
+                "text": "Inserm",
+                "url": "/ecoles-et-instituts/organismes/inserm"
+              },
+              {
+                "text": "Inria",
+                "url": "/ecoles-et-instituts/organismes/inria"
+              },
+              {
+                "text": "Chimie ParisTech - PSL",
+                "url": "/en/ecole-nationale-superieure-de-chimie-de-paris-psl"
+              },
+              {
+                "text": "Conservatoire National Supérieur d’Art Dramatique - PSL",
+                "url": "/ecoles-et-instituts/associes/conservatoire-national-superieur-dart-dramatique"
+              },
+              {
+                "text": "Dauphine - PSL",
+                "url": "/universite/nos-etablissements/luniversite-psl/universite-paris-dauphine"
+              },
+              {
+                "text": "École nationale des chartes - PSL",
+                "url": "/ecoles-et-instituts/membres/ecole-nationale-des-chartes"
+              },
+              {
+                "text": "École normale supérieure - PSL",
+                "url": "/ecoles-et-instituts/membres/ecole-normale-superieure"
+              },
+              {
+                "text": "École Pratique des Hautes Études - PSL",
+                "url": "/ecoles-et-instituts/membres/ecole-pratique-des-hautes-etudes"
+              },
+              {
+                "text": "ESPCI Paris - PSL",
+                "url": "/ecoles-et-instituts/membres/espci-paris"
+              },
+              {
+                "text": "MINES Paris - PSL",
+                "url": "/en/university/schools/mines-paris-psl"
+              },
+              {
+                "text": "Observatoire de Paris - PSL",
+                "url": "/ecoles-et-instituts/membres/observatoire-de-paris"
+              },
+              {
+                "text": "Ecole Nationale Supérieure d'Architecture de Paris Malaquais - PSL",
+                "url": "https://psl.eu/ecole-nationale-superieure-darchitecture-paris-malaquais"
+              },
+              {
+                "text": "Ecole des Arts Décoratifs de Paris - PSL",
+                "url": "https://psl.eu/ecole-des-arts-decoratifs-paris-psl"
+              },
+              {
+                "text": "Collège de France",
+                "url": "/ecoles-et-instituts/associes/college-de-france"
+              },
+              {
+                "text": "Institut Curie",
+                "url": "/ecoles-et-instituts/membres/institut-curie"
+              }
+            ]
+          },
+          {
+            "text": "Graduate programs",
+            "url": "",
+            "children": [
+              {
+                "text": "Astrophysics",
+                "url": "/en/graduate-programs/graduate-programs-astrophysics"
+              },
+              {
+                "text": "Arts",
+                "url": "/en/graduate-programs/graduate-program-arts"
+              },
+              {
+                "text": "Chemistry",
+                "url": "/en/graduate-programs/graduate-program-chemistry"
+              },
+              {
+                "text": "Law",
+                "url": "/en/graduate-programs/graduate-program-law"
+              },
+              {
+                "text": "Economics",
+                "url": "/en/graduate-programs/graduate-program-economics"
+              },
+              {
+                "text": "Finance",
+                "url": "/en/graduate-programs/graduate-program-finance"
+              },
+              {
+                "text": "Computer Science",
+                "url": "/en/graduate-programs/graduate-program-computer-science"
+              },
+              {
+                "text": "Engineering",
+                "url": "/en/graduate-programs/graduate-program-engineering-isai"
+              },
+              {
+                "text": "Management",
+                "url": "/en/graduate-programs/graduate-program-management"
+              },
+              {
+                "text": "Mathematics and Applications",
+                "url": "/en/graduate-programs/mathematics-and-applications"
+              },
+              {
+                "text": "Physics",
+                "url": "/en/graduate-programs/graduate-program-physics"
+              },
+              {
+                "text": "Earth Science and Biodiversity",
+                "url": "/en/graduate-programs/graduate-program-earth-science-and-biodiversity"
+              },
+              {
+                "text": "Religious Studies",
+                "url": "/en/graduate-programs/graduate-program-religious-studies"
+              },
+              {
+                "text": "Life Sciences",
+                "url": "/en/graduate-programs/graduate-program-life-sciences"
+              },
+              {
+                "text": "Historical Sciences",
+                "url": "/en/graduate-programs/graduate-program-historical-sciences"
+              },
+              {
+                "text": "Social Sciences",
+                "url": "/en/graduate-programs/social-sciences"
+              },
+              {
+                "text": "Cognitive Sciences",
+                "url": "/en/graduate-programs/graduate-program-cognitive-sciences"
+              },
+              {
+                "text": "Translitteræ",
+                "url": "/en/graduate-programs/translitterae-graduate-program"
+              }
+            ]
+          },
+          {
+            "text": "My profile",
+            "url": "",
+            "children": [
+              {
+                "text": "Student",
+                "url": "/en/student"
+              },
+              {
+                "text": "Company",
+                "url": "/en/company"
+              },
+              {
+                "text": "Alumni",
+                "url": "/en/alumni"
+              }
+            ]
+          },
+          {
+            "text": "Admission",
+            "url": "/en/education/admissions",
+            "children": [
+              {
+                "text": "University",
+                "url": "/en/university",
+                "children": [
+                  {
+                    "text": "University",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "About us",
+                        "url": "/en/university/sapere-aude",
+                        "children": [
+                          {
+                            "text": "Sapere Aude",
+                            "url": "/en/university/sapere-aude"
+                          },
+                          {
+                            "text": "PSL Quick facts",
+                            "url": "/en/university/about-us/psl-quick-facts"
+                          },
+                          {
+                            "text": "Excellence and Equal Opportunity",
+                            "url": "/en/university/about-us/excellence-and-equal-opportunity"
+                          },
+                          {
+                            "text": "Collections and Heritage",
+                            "url": "/en/university/about-us/collections-and-heritage"
+                          },
+                          {
+                            "text": "PSL from A to Z",
+                            "url": "/en/university/about-us/psl-z"
+                          },
+                          {
+                            "text": "10 years of Université PSL",
+                            "url": "/en/university/about-us/10-years-universite-psl"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Schools",
+                        "url": "/en/university/schools",
+                        "children": [
+                          {
+                            "text": "Université PSL",
+                            "url": "/en/university/schools#universite"
+                          },
+                          {
+                            "text": "Partners",
+                            "url": "/en/university/schools#partenaires"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "International rankings",
+                        "url": "/en/university/psl-international-rankings"
+                      },
+                      {
+                        "text": "Organization",
+                        "url": "/en/university/organization",
+                        "children": [
+                          {
+                            "text": "Governance",
+                            "url": "/en/university/organization#instances"
+                          },
+                          {
+                            "text": "Services",
+                            "url": "/en/university/organization#sms"
+                          },
+                          {
+                            "text": "PSL bylaws and regulatory documents",
+                            "url": "/en/university/organization/psl-bylaws-and-regulatory-documents"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "News",
+                        "url": "/en/news"
+                      },
+                      {
+                        "text": "PariSanté Campus",
+                        "url": "/en/universite/parisante-campus-la-ou-grandit-le-sante"
+                      },
+                      {
+                        "text": "Investments for the Future Program",
+                        "url": "/en/university/investments-future-program"
+                      },
+                      {
+                        "text": "Media Relations and Communications",
+                        "url": "/en/university/media-relations-and-communications"
+                      },
+                      {
+                        "text": "Join us",
+                        "url": "https://recrutement.psl.eu"
+                      },
+                      {
+                        "text": "The PSL Foundation",
+                        "url": "https://psl.eu/fondation-psl"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Education",
+                "url": "/en/education",
+                "children": [
+                  {
+                    "text": "Education",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Find your curriculum",
+                        "url": "https://psl.eu/en/education/find-your-curriculum",
+                        "children": [
+                          {
+                            "text": "Bachelor's degree",
+                            "url": "/en/education/find-your-curriculum/bachelors-degree"
+                          },
+                          {
+                            "text": "Master's degree",
+                            "url": "/en/education/find-your-curriculum/masters-degrees"
+                          },
+                          {
+                            "text": "Doctoral programs",
+                            "url": "/en/education/find-your-curriculum/doctoral-college-universite-psl"
+                          },
+                          {
+                            "text": "PhD Track",
+                            "url": "https://psl.eu/en/education/find-your-curriculum/psl-phd-tracks"
+                          },
+                          {
+                            "text": "Become an entrepreneur",
+                            "url": "/en/education/find-your-curriculum/become-entrepreneur"
+                          },
+                          {
+                            "text": "Life long learning",
+                            "url": "/en/education/find-your-curriculum/life-long-learning"
+                          },
+                          {
+                            "text": "Graduate Programs",
+                            "url": "/en/education/psls-graduate-programs"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Admissions",
+                        "url": "/en/education/admissions",
+                        "children": [
+                          {
+                            "text": "Undergraduate admissions",
+                            "url": "/en/education/admissions/undergraduate-admissions"
+                          },
+                          {
+                            "text": "Graduate admissions",
+                            "url": "/en/education/admissions/graduate-admissions"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "PSL voices : by students, for students",
+                        "url": "/en/education/psl-voices",
+                        "children": [
+                          {
+                            "text": "PSL student blog",
+                            "url": "/en/education/psl-voices/blog"
+                          },
+                          {
+                            "text": "Student stories",
+                            "url": "/en/education/psl-voices-students-students/student-stories"
+                          },
+                          {
+                            "text": "Get in touch with our students",
+                            "url": "/en/education/psl-voices-students-students/get-touch-our-students-and-staff"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "International students",
+                        "url": "/en/education/international-students"
+                      },
+                      {
+                        "text": "Customise your courses",
+                        "url": "/en/education/customise-your-courses",
+                        "children": [
+                          {
+                            "text": "Certifying Minors",
+                            "url": "/en/education/personnalisez-vos-cursus/certifying-minors"
+                          },
+                          {
+                            "text": "UROP internships - Research experience from undergraduate level",
+                            "url": "/en/education/keys-academic-success/urop-internships-research-experience-undergraduate-level"
+                          },
+                          {
+                            "text": "PSL Weeks",
+                            "url": "/en/education/personnalisez-vos-cursus/psl-week-immerse-yourself-discipline-your-choice"
+                          },
+                          {
+                            "text": "Language resource centre",
+                            "url": "/en/education/language-resource-center"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Schools",
+                        "url": "/en/education/schools-universite-psl",
+                        "children": [
+                          {
+                            "text": "Paris School of AI",
+                            "url": "/en/graduate-programs/paris-school-ai-universite-psl-leader-artificial-intelligence-and-data-science"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Keys to academic success",
+                        "url": "/en/education/keys-academic-success"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Research",
+                "url": "/en/research",
+                "children": [
+                  {
+                    "text": "Research",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Research at PSL",
+                        "url": "/en/research/research-psl",
+                        "children": [
+                          {
+                            "text": "HRS4R",
+                            "url": "/en/research/research-psl/hrs4r"
+                          },
+                          {
+                            "text": "Scientific integrity",
+                            "url": "/en/research/research-psl/scientific-integrity"
+                          },
+                          {
+                            "text": "Signature policy on scientific publications",
+                            "url": "https://psl.eu/en/signature-policy-on-scientific-publications"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Graduate programs",
+                        "url": "/en/education/psls-graduate-programs"
+                      },
+                      {
+                        "text": "Major Research Programs",
+                        "url": "https://psl.eu/en/research/universite-psls-major-research-programs"
+                      },
+                      {
+                        "text": "Research institutes and labs",
+                        "url": "/en/research/research-institutes-and-labs"
+                      },
+                      {
+                        "text": "Support for researchers",
+                        "url": "/en/research/support-researchers",
+                        "children": [
+                          {
+                            "text": "Call for Proposals",
+                            "url": "/en/research/support-researchers/psl-calls-proposals"
+                          },
+                          {
+                            "text": "Université PSL's 2025 Junior Professorship Campaign",
+                            "url": "/en/research/support-researchers/universite-psls-2025-junior-professorship-campaign"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Doctoral studies and Postdoctoral Fellowships",
+                        "url": "/en/research/doctoral-studies-and-postdoctoral-fellowships",
+                        "children": [
+                          {
+                            "text": "Postdoctoral fellows",
+                            "url": "/en/research/doctoral-studies-and-postdoctoral-fellowships/psl-postdoctoral-programs"
+                          },
+                          {
+                            "text": "Welcome Desk",
+                            "url": "/en/research/doctoral-studies-and-postdoctoral-fellowships/welcome-desk-researchers"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Doctoral school",
+                        "url": "/en/research/life-sciences-ds"
+                      },
+                      {
+                        "text": "Documentation and knowledge dissemination",
+                        "url": "/en/research/documentation-and-outreach",
+                        "children": [
+                          {
+                            "text": "Libraries and museums",
+                            "url": "https://explore.psl.eu/fr/ressources-et-savoirs-psl/bibliotheques-musees"
+                          },
+                          {
+                            "text": "PSL catalog",
+                            "url": "https://catalogue.explore.psl.eu/primo-explore/search?vid=33PSL_V1&lang=en_US"
+                          },
+                          {
+                            "text": "Digital collections",
+                            "url": "https://bibnum.explore.psl.eu/s/psl/page/accueil"
+                          },
+                          {
+                            "text": "Tutorials",
+                            "url": "https://explore.psl.eu/fr/se-former/tutoriels"
+                          },
+                          {
+                            "text": "Databases",
+                            "url": "https://explore.psl.eu/fr/chercher/bases-de-donnees"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Innovation",
+                "url": "/en/innovation-entrepreneurship",
+                "children": [
+                  {
+                    "text": "Innovation",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Innovate and transfer",
+                        "url": "/en/innovation/innovate-and-transfer",
+                        "children": [
+                          {
+                            "text": "Protect your innovation",
+                            "url": "/en/innovation/innovate-and-transfer/protect"
+                          },
+                          {
+                            "text": "Transfer your technology",
+                            "url": "/en/innovation/innovate-and-transfer/enhancing-and-transferring"
+                          },
+                          {
+                            "text": "Find your funding",
+                            "url": "/en/innovation/innovate-and-transfer/financing"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Innovation lab & coworking spaces",
+                        "url": "/en/innovation/psls-innovation-labs-coworking-spaces"
+                      },
+                      {
+                        "text": "Entrepreneurship at PSL",
+                        "url": "/en/innovation/entrepreneurship-psl",
+                        "children": [
+                          {
+                            "text": "Researcher entrepreneurs",
+                            "url": "/en/innovation/entrepreneurship-psl/researcher-and-entrepreneur"
+                          },
+                          {
+                            "text": "Research lab start-ups",
+                            "url": "/en/laboratory-start-ups"
+                          },
+                          {
+                            "text": "Enterpreneurship Education",
+                            "url": "/en/education/find-your-curriculum/become-entrepreneur"
+                          },
+                          {
+                            "text": "PSL Tech Seed",
+                            "url": "/en/innovation/entrepreneurship-psl/psl-tech-seed"
+                          },
+                          {
+                            "text": "PSL-iTeams",
+                            "url": "/en/innovation/entrepreneurship-psl/psl-iteams"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Corporate relations",
+                        "url": "/en/innovation/company-relations",
+                        "children": [
+                          {
+                            "text": "PSL Technology",
+                            "url": "/en/innovation/corporate-relations/psl-technology"
+                          },
+                          {
+                            "text": "Our supports and partners",
+                            "url": "/en/innovation/corporate-relations/psls-administrative-supervision-supports-and-partners"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Enterprise & Innovation - People",
+                        "url": "/en/innovation/enterprise-innovation-psl-people"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Life@PSL",
+                "url": "/en/campus-lifepsl",
+                "children": [
+                  {
+                    "text": "Life@PSL",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Get involved",
+                        "url": "/en/lifepsl/get-involved",
+                        "children": [
+                          {
+                            "text": "\"Union PSL\" PSL Student Organization",
+                            "url": "/en/vie-de-campus/vie-associative/union-psl-le-bde-de-luniversite"
+                          },
+                          {
+                            "text": "PSL Alumni",
+                            "url": "/en/lifepsl/get-involved/psl-alumni"
+                          },
+                          {
+                            "text": "Student organizations",
+                            "url": "http://unionpsl.psl.eu/annuaire.html"
+                          },
+                          {
+                            "text": "Funding for clubs & organizations",
+                            "url": "/en/lifepsl/get-involved/funding-student-organizations"
+                          },
+                          {
+                            "text": "Orchestra & Choir",
+                            "url": "/en/lifepsl/get-involved/orchestra-choir"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Student services",
+                        "url": "/en/vie-de-campus/services-etudiants",
+                        "children": [
+                          {
+                            "text": "PSL Housing",
+                            "url": "/en/lifepsl/psl-housing-service"
+                          },
+                          {
+                            "text": "Helpline against harassment and violences",
+                            "url": "/en/helpline-against-harassment-and-violences"
+                          },
+                          {
+                            "text": "Student health service",
+                            "url": "/en/lifepsl/student-services/student-health-service"
+                          },
+                          {
+                            "text": "PSL Welcome Desk",
+                            "url": "/en/lifepsl/student-services/psl-welcome-desk"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Campus life in Paris",
+                        "url": "/en/lifepsl/campus-life-paris",
+                        "children": [
+                          {
+                            "text": "Financial Aid",
+                            "url": "/en/lifepsl/campus-life-paris/financial-aids"
+                          },
+                          {
+                            "text": "Dining",
+                            "url": "/en/lifepsl/campus-life-paris/dining"
+                          },
+                          {
+                            "text": "Campus maps & directions",
+                            "url": "/en/lifepsl/campus-life-paris/campus-maps-directions"
+                          },
+                          {
+                            "text": "Athletics",
+                            "url": "/en/lifepsl/campus-life-paris/athletics"
+                          },
+                          {
+                            "text": "See, Explore, Go Out",
+                            "url": "/en/lifepsl/campus-life-paris/see-explore-go-out"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "International",
+                "url": "/en/international",
+                "children": [
+                  {
+                    "text": "International",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Study abroad",
+                        "url": "/en/international/study-abroad"
+                      },
+                      {
+                        "text": "Study / teach at PSL",
+                        "url": "/en/international/study-teach-psl",
+                        "children": [
+                          {
+                            "text": "PSL Global: strategy and international partnerships",
+                            "url": "/en/international/study-teach-psl/psl-global-strategy-and-international-partnerships"
+                          },
+                          {
+                            "text": "International students: your application at PSL",
+                            "url": "/en/education/international-students"
+                          },
+                          {
+                            "text": "Welcome Desk - Researchers",
+                            "url": "https://psl.eu/recherche/doctorat-et-post-doctorat/welcome-desk-chercheuse-chercheur"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "European University - EELISA",
+                        "url": "/en/universite/international/eelisa-european-engineering-learning-innovation-science-alliance"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Search",
+                    "url": "/en/search/result"
+                  },
+                  {
+                    "text": "",
+                    "url": "/en/search/result"
+                  }
+                ]
+              },
+              {
+                "text": "EN",
+                "url": "",
+                "children": [
+                  {
+                    "text": "FR",
+                    "url": "/"
+                  },
+                  {
+                    "text": "EN",
+                    "url": "/en"
+                  },
+                  {
+                    "text": "Read",
+                    "url": "/en/back-school-2025-welcome-your-university"
+                  },
+                  {
+                    "text": "Read",
+                    "url": "https://psl.eu/en/news/international-welcome-highest-level-university-has-been-awarded-bienvenue-en-france-level-3"
+                  },
+                  {
+                    "text": "Read",
+                    "url": "https://psl.eu/en/news/record-fundraising-ipo-acquisition-4-major-successes-psl-university-deeptech-start"
+                  }
+                ]
+              },
+              {
+                "text": "DISCOVER",
+                "url": "/en/project-universite-psl-2025-2035-0"
+              }
+            ]
+          },
+          {
+            "text": "Schools",
+            "url": "",
+            "children": [
+              {
+                "text": "",
+                "url": "https://psl.eu/en/university/schools"
+              },
+              {
+                "text": "",
+                "url": "https://youtu.be/43BIBc14PNs?si=rmPd5hKrglIqgsWu",
+                "children": [
+                  {
+                    "text": "L’université PSL, a campus in the heart of Paris",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "SEE THE CAMPUS TOUR",
+                        "url": "https://www.psl.eu/actualites/campus-tour-immersion-luniversite-psl-en-2-minutes-19"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "News",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "ResearchUniversité PSL's 2025 Junior Professorship Campaign : apply right now25 July 2025",
+                        "url": "/en/news/universite-psls-2025-junior-professorship-campaign-apply-right-now",
+                        "children": [
+                          {
+                            "text": "Université PSL's 2025 Junior Professorship Campaign : apply right now",
+                            "url": ""
+                          }
+                        ]
+                      },
+                      {
+                        "text": "ResearchProfessional development for PhD candidates in Humanities03 July 2025",
+                        "url": "/en/news/professional-development-phd-candidates-humanities",
+                        "children": [
+                          {
+                            "text": "Professional development for PhD candidates in Humanities",
+                            "url": ""
+                          }
+                        ]
+                      },
+                      {
+                        "text": "InnovationRecord fundraising, IPO, acquisition: 4 major successes for PSL University deeptech start-up02 July 2025",
+                        "url": "/en/news/record-fundraising-ipo-acquisition-4-major-successes-psl-university-deeptech-start-0",
+                        "children": [
+                          {
+                            "text": "Record fundraising, IPO, acquisition: 4 major successes for PSL University deeptech start-up",
+                            "url": ""
+                          }
+                        ]
+                      },
+                      {
+                        "text": "UniversityUniversité PSL and USP lay the foundations for a future international centre of excellence in the circular economy in São Paulo02 July 2025",
+                        "url": "/en/news/universite-psl-and-usp-lay-foundations-future-international-centre-excellence-circular-economy",
+                        "children": [
+                          {
+                            "text": "Université PSL and USP lay the foundations for a future international centre of excellence in the circular economy in São Paulo",
+                            "url": ""
+                          }
+                        ]
+                      },
+                      {
+                        "text": "UniversityQS 2026 ranking: PSL University confirms its place in the world's top 3020 June 2025",
+                        "url": "/en/news/qs-2026-ranking-psl-university-confirms-its-place-worlds-top-30",
+                        "children": [
+                          {
+                            "text": "QS 2026 ranking: PSL University confirms its place in the world's top 30",
+                            "url": ""
+                          }
+                        ]
+                      },
+                      {
+                        "text": "InnovationClone of Record fundraising, IPO, acquisition: 4 major successes for PSL University deeptech start-up06 June 2025",
+                        "url": "/en/node/8087",
+                        "children": [
+                          {
+                            "text": "Clone of Record fundraising, IPO, acquisition: 4 major successes for PSL University deeptech start-up",
+                            "url": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Science and Society",
+            "url": "",
+            "children": [
+              {
+                "text": "More information",
+                "url": "https://psl.eu/en/research/grands-programmes-de-recherche/coll-psl"
+              },
+              {
+                "text": "Find your curriculum",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Find my curriculum",
+                    "url": "/en/formations"
+                  }
+                ]
+              },
+              {
+                "text": "Student's life",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Agenda",
+                    "url": "https://www.psl.eu/agenda"
+                  }
+                ]
+              },
+              {
+                "text": "Next events",
+                "url": "",
+                "children": [
+                  {
+                    "text": "05Nov16NovExhibitionExhibition: \"Surface de réparation. Design & Creation since the ecological emergency\".",
+                    "url": "/en/events/exhibition-surface-de-reparation-design-creation-ecological-emergency"
+                  },
+                  {
+                    "text": "All Events",
+                    "url": "/en/events"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "/",
+            "children": [
+              {
+                "text": "",
+                "url": "/"
+              },
+              {
+                "text": "",
+                "url": "/"
+              },
+              {
+                "text": "Athletics",
+                "url": "/en/lifepsl/campus-life-paris/athletics"
+              },
+              {
+                "text": "News",
+                "url": "/en/news"
+              },
+              {
+                "text": "Events",
+                "url": "/en/events"
+              },
+              {
+                "text": "PSL-Explore",
+                "url": "https://explore.psl.eu/fr"
+              },
+              {
+                "text": "PSL Glossary",
+                "url": "/en/node/477"
+              },
+              {
+                "text": "Sitemap",
+                "url": "/en/sitemap"
+              },
+              {
+                "text": "Student",
+                "url": "/en/student"
+              },
+              {
+                "text": "Company",
+                "url": "/en/company"
+              },
+              {
+                "text": "Alumni",
+                "url": "/en/alumni"
+              },
+              {
+                "text": "Faire un don",
+                "url": "https://www.ledonenligne.fr/collectes/psluniv/dons/votre_don",
+                "children": [
+                  {
+                    "text": "",
+                    "url": "https://www.instagram.com/psl_univ/"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://www.facebook.com/PSLuniv"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://www.linkedin.com/edu/psl-research-university-175004"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://www.youtube.com/channel/UCJeinKLg1dOGIOvS9m07vcg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

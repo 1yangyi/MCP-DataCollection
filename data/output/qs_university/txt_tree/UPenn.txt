@@ -1,0 +1,249 @@
+        { tag='div', class='contain contain--xl', buttons=[text='Penn Home', url='/', text='Toggle Site Navigation', url='', text='Toggle Site Search', url=''] }
+        { tag='div', class='nav__menu-hassub', buttons=[text='Academics', url='/academics', text='More Academics', url=''] }
+                { tag='li', class='nav__menu-item', buttons=[text='Undergraduate', url='/academics/undergraduate'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Graduate', url='/academics/graduate'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Schools', url='/academics/schools'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Global Initiatives', url='/academics/global-initiatives'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Interdisciplinary', url='/academics/interdisciplinary'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Online Learning', url='/academics/online-learning'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Off-campus Learning', url='/academics/off-campus-learning'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Libraries', url='https://www.library.upenn.edu/'] }
+        { tag='li', class='nav__menu-item nav__menu-item--level-0', buttons=[text='Admissions & Aid', url='/admissions'] }
+        { tag='li', class='nav__menu-item nav__menu-item--level-0', buttons=[text='Athletics', url='/athletics-and-recreation'] }
+                { tag='div', class='nav__menu-hassub', buttons=[text='Research & Innovation', url='/research-and-innovation', text='More Research & Innovation', url=''] }
+                { tag='li', class='nav__menu-item', buttons=[text='Research Enterprise', url='/research-and-innovation/research-enterprise'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Research at Penn', url='/research-at-penn'] }
+                { tag='div', class='nav__menu-hassub', buttons=[text='Life at Penn', url='/life-at-penn', text='More Life at Penn', url=''] }
+                { tag='li', class='nav__menu-item', buttons=[text='Arts & Culture', url='/life-at-penn/arts'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Community Involvement', url='/life-at-penn/community', text='More Community Involvement', url=''] }
+                      { tag='li', class='nav__menu-item', buttons=[text='Penn & Philadelphia', url='/life-at-penn/philadelphia'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Groups & Organizations', url='/life-at-penn/groups-and-organizations'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Housing & Dining', url='/life-at-penn/housing-and-dining'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Health & Wellness', url='/life-at-penn/health-and-wellness'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Safety & Security', url='/life-at-penn/safety', text='More Safety & Security', url=''] }
+                      { tag='li', class='nav__menu-item', buttons=[text='Emergency Contacts', url='/life-at-penn/safety/emergency-phone-numbers'] }
+                      { tag='li', class='nav__menu-item', buttons=[text='Emergency Preparedness', url='/life-at-penn/safety/emergency-preparedness'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Spirituality & Religion', url='/life-at-penn/religion'] }
+                { tag='div', class='nav__menu-hassub', buttons=[text='About', url='/about', text='More About', url=''] }
+                { tag='li', class='nav__menu-item', buttons=[text='Office of the President', url='https://president.upenn.edu/'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Trustees & Administration', url='/about/trustees-and-administration'] }
+                { tag='li', class='nav__menu-item', buttons=[text='In Principle and Practice', url='https://in-principle-and-practice.upenn.edu/'] }
+                { tag='li', class='nav__menu-item', buttons=[text='History', url='/about/history'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Securing a Sustainable Future', url='/about/sustainability', text='More Securing a Sustainable Future', url=''] }
+                      { tag='li', class='nav__menu-item', buttons=[text='Climate Investments', url='/about/sustainability/climate-investments'] }
+                      { tag='li', class='nav__menu-item', buttons=[text='Sustainability Initiatives', url='/about/sustainability/sustainability-initiatives'] }
+                      { tag='li', class='nav__menu-item', buttons=[text='Research & Teaching', url='/about/sustainability/research-and-teaching'] }
+                      { tag='li', class='nav__menu-item', buttons=[text='News & Announcements', url='/about/sustainability/news-and-announcements'] }
+                { tag='li', class='nav__menu-item', buttons=[text='News, Media, & Communication Services', url='/about/communications'] }
+                { tag='li', class='nav__menu-item', buttons=[text='FAQ', url='/about/faq'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Policies', url='/about/policies'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Facts', url='/about/facts'] }
+                { tag='li', class='nav__menu-item', buttons=[text='University Values', url='/about/university-values'] }
+        { tag='nav', class='nav nav--secondary', buttons=[text='Toggle Site Search', url='', text='Give to Penn', url='https://giving.aws.cloud.upenn.edu/?appeal=UPNWEB'] }
+          { tag='div', class='nav-dropdown', buttons=[text='Resources', url=''] }
+                { tag='li', class='nav__menu-item', buttons=[text='Current Students', url='https://path.at.upenn.edu/student/landing'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Faculty & Staff', url='https://portal.apps.upenn.edu/penn_portal/u@penn.php'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Parents', url='/parents'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Alumni', url='https://www.alumni.upenn.edu'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Visitors', url='/visitors'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Media', url='https://university-communications.upenn.edu/for-the-media'] }
+                { tag='li', class='nav__menu-item', buttons=[text='A-Z', url='/penn-a-z'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Directory', url='/directories'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Webmail', url='https://provider.www.upenn.edu/computing/webmail/index.php'] }
+                { tag='li', class='nav__menu-item', buttons=[text='Services', url='/services'] }
+        { tag='div', class='search search--header', buttons=[text='Close', url=''] }
+          { tag='form', class='search__form', buttons=[text='Search', url='/search'] }
+              { tag='div', class='hero__text', buttons=[text='Health & Medicine', url='', text='Measuring the impact of loneliness and social isolation on the brainNew research from Penn Medicine shows the negative, yet reversible, impact of spending time in isolated, confined, extreme environments—such as an Antarctic research station.', url='https://penntoday.upenn.edu/news/penn-medicine-measuring-impact-loneliness-and-social-isolation-brain'] }
+              { tag='div', class='filter', buttons=[text='Topics', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Featured', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Arts & Humanities', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Social Sciences', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Business & Law', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Natural Sciences', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Technology', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Health & Medicine', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Campus & Community', url=''] }
+                  { tag='li', class='filter__item', buttons=[text='Global', url=''] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card article-card--featured', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Summer program for teens combines practical economics and college life', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Summer program for teens combines practical economics and college life', url='https://penntoday.upenn.edu/news/summer-program-teens-combines-practical-economics-and-college-life-economics-academy'] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Paideia Fellows build dialogue in Athens', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Paideia Fellows build dialogue in Athens', url='https://penntoday.upenn.edu/news/paideia-fellows-build-dialogue-athens'] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='What ever-growing incisors can teach us about genetic disease', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='What ever-growing incisors can teach us about genetic disease', url='https://penntoday.upenn.edu/news/penn-engineering-dental-chop-what-ever-growing-incisors-can-teach-about-genetic-disease'] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Rethinking extreme environments, from human spaceflight to heat in Philadelphia', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Rethinking extreme environments, from human spaceflight to heat in Philadelphia', url='https://penntoday.upenn.edu/news/sas-anthropology-mallika-sarma-extreme-environments-spaceflight-heat-philadelphia'] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='Preventing falls in older adults with mild cognitive impairment', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Preventing falls in older adults with mild cognitive impairment', url='https://penntoday.upenn.edu/news/penn-nursing-preventing-falls-older-adults-mild-cognitive-impairment'] }
+                  { tag='div', class='news-featured__links', buttons=[text='MORE NEWS VIA PENN TODAY', url='https://penntoday.upenn.edu/'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Arts & Humanities', url='https://penntoday.upenn.edu/topic/arts-and-humanities', text='Radio days for rising third-year Luiza Sulea', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Radio days for rising third-year Luiza Sulea', url='https://penntoday.upenn.edu/news/radio-days-wxpn-student-summer-intern'] }
+                  { tag='article', class='article-card', buttons=[text='Arts & Humanities', url='https://penntoday.upenn.edu/topic/arts-and-humanities', text='A public-facing, interdisciplinary, and student-centered approach to philosophy', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='A public-facing, interdisciplinary, and student-centered approach to philosophy', url='https://penntoday.upenn.edu/news/sas-philosophy-jennifer-morton-public-facing-interdisciplinary-student-centered'] }
+                  { tag='article', class='article-card', buttons=[text='Arts & Humanities', url='https://penntoday.upenn.edu/topic/arts-and-humanities', text='Researching cultural heritage at the Penn Museum', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Researching cultural heritage at the Penn Museum', url='https://penntoday.upenn.edu/news/researching-cultural-heritage-penn-museum-student-intern'] }
+                  { tag='article', class='article-card', buttons=[text='Arts & Humanities', url='https://penntoday.upenn.edu/topic/arts-and-humanities', text='Creating a classroom democracy', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Creating a classroom democracy', url='https://penntoday.upenn.edu/news/penn-history-paideia-program-creating-classroom-democracy'] }
+                  { tag='article', class='article-card', buttons=[text='Arts & Humanities', url='https://penntoday.upenn.edu/topic/arts-and-humanities', text='Exhibition as conversation', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Exhibition as conversation', url='https://penntoday.upenn.edu/news/weitzman-faculty-exhibition-conversation'] }
+                  { tag='article', class='article-card', buttons=[text='Arts & Humanities', url='https://penntoday.upenn.edu/topic/arts-and-humanities', text='Bringing museum filmmaking into the classroom', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Bringing museum filmmaking into the classroom', url='https://penntoday.upenn.edu/news/sas-documentary-ethnography-museums-exhibitions'] }
+              { tag='div', class='news-featured__links', buttons=[text='MORE NEWS VIA PENN TODAY', url='https://penntoday.upenn.edu/'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Understanding how young children recognize emotions in music', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Understanding how young children recognize emotions in music', url='https://penntoday.upenn.edu/news/sas-psychology-understanding-how-young-children-recognize-emotions-music'] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Summer program for teens combines practical economics and college life', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Summer program for teens combines practical economics and college life', url='https://penntoday.upenn.edu/news/summer-program-teens-combines-practical-economics-and-college-life-economics-academy'] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Merging academics with real-world, tangible experiences', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Merging academics with real-world, tangible experiences', url='https://penntoday.upenn.edu/news/summer-intern-merging-academics-real-world-tangible-experiences'] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Rethinking extreme environments, from human spaceflight to heat in Philadelphia', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Rethinking extreme environments, from human spaceflight to heat in Philadelphia', url='https://penntoday.upenn.edu/news/sas-anthropology-mallika-sarma-extreme-environments-spaceflight-heat-philadelphia'] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Japan’s election outcomes', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Japan’s election outcomes', url='https://penntoday.upenn.edu/news/japans-election-outcomes-daniel-smith-QA'] }
+                  { tag='article', class='article-card', buttons=[text='Social Sciences', url='https://penntoday.upenn.edu/topic/social-sciences', text='Lynn Meskell elected Fellow to the British Academy', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Lynn Meskell elected Fellow to the British Academy', url='https://penntoday.upenn.edu/news/lynn-meskell-elected-fellow-british-academy'] }
+              { tag='div', class='news-featured__links', buttons=[text='VISIT PENN TODAY', url='https://penntoday.upenn.edu', text='Sign up for the Penn Today Newsletter', url='https://penntoday.upenn.edu/newsletters/sign-up'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Business & Law', url='https://penntoday.upenn.edu/topic/business-and-law', text='Legal historian traces history of ‘marital privilege’ in American law', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Legal historian traces history of ‘marital privilege’ in American law', url='https://penntoday.upenn.edu/news/legal-historian-serena-mayeri-traces-history-marital-privilege-american-law'] }
+                  { tag='article', class='article-card', buttons=[text='Business & Law', url='https://penntoday.upenn.edu/topic/business-and-law', text='Who, What, Why: Lauren Nelson Hyppolite on leading Wharton AI and research initiatives', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Who, What, Why: Lauren Nelson Hyppolite on leading Wharton AI and research initiatives', url='https://penntoday.upenn.edu/news/who-what-why-lauren-nelson-hyppolite-leading-wharton-ai-and-research-initiatives'] }
+                  { tag='article', class='article-card', buttons=[text='Business & Law', url='https://penntoday.upenn.edu/topic/business-and-law', text='‘Where AI Works’', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='‘Where AI Works’', url='https://penntoday.upenn.edu/news/wharton-podcast-where-ai-works'] }
+                  { tag='article', class='article-card', buttons=[text='Business & Law', url='https://penntoday.upenn.edu/topic/business-and-law', text='Research and scholarship at the intersection of law and history', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Research and scholarship at the intersection of law and history', url='https://penntoday.upenn.edu/news/penn-carey-law-research-and-scholarship-intersection-law-and-history'] }
+                  { tag='article', class='article-card', buttons=[text='Business & Law', url='https://penntoday.upenn.edu/topic/business-and-law', text='Guardrails versus leashes: Finding a better way to regulate AI technology', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Guardrails versus leashes: Finding a better way to regulate AI technology', url='https://penntoday.upenn.edu/news/guardrails-vs-leashes-finding-better-way-regulate-ai-technology-artificial-intelligence-penn-carey-law-cary-coglianese'] }
+                  { tag='article', class='article-card', buttons=[text='Business & Law', url='https://penntoday.upenn.edu/topic/business-and-law', text='Wharton’s deep dive into wellness at work', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Wharton’s deep dive into wellness at work', url='https://penntoday.upenn.edu/news/whartons-deep-dive-wellness-work'] }
+              { tag='div', class='news-featured__links', buttons=[text='MORE NEWS VIA PENN TODAY', url='https://penntoday.upenn.edu/'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='What ever-growing incisors can teach us about genetic disease', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='What ever-growing incisors can teach us about genetic disease', url='https://penntoday.upenn.edu/news/penn-engineering-dental-chop-what-ever-growing-incisors-can-teach-about-genetic-disease'] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='The global threat of salt contamination to water supplies', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='The global threat of salt contamination to water supplies', url='https://penntoday.upenn.edu/news/weitzman-global-threat-salt-contamination-water-supplies'] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='Beneath the surface: Diving into water’s hidden carbon-cleaning capabilities', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Beneath the surface: Diving into water’s hidden carbon-cleaning capabilities', url='https://penntoday.upenn.edu/news/using-water-electricity-and-environmental-pollutants-produce-cleaner-fuels'] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='A new recipe for safer, stronger mRNA vaccines', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='A new recipe for safer, stronger mRNA vaccines', url='https://penntoday.upenn.edu/news/penn-engineering-new-recipe-safer-stronger-mrna-vaccines'] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='A hands-on education of Pennsylvania and New Jersey ecology', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='A hands-on education of Pennsylvania and New Jersey ecology', url='https://penntoday.upenn.edu/news/regional-field-ecology-class-hands-on-pennsylvania-new-jersey'] }
+                  { tag='article', class='article-card', buttons=[text='Natural Sciences', url='https://penntoday.upenn.edu/topic/natural-sciences', text='Strongest nor’easters getting stronger', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Strongest nor’easters getting stronger', url='https://penntoday.upenn.edu/news/penn-sas-michael-mann-strongest-noreasters-getting-stronger'] }
+              { tag='div', class='news-featured__links', buttons=[text='VISIT PENN TODAY', url='https://penntoday.upenn.edu', text='Sign up for the Penn Today Newsletter', url='https://penntoday.upenn.edu/newsletters/sign-up'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Technology', url='https://penntoday.upenn.edu/topic/technology', text='Wensi Wu uses digital twins to explore the hidden mechanics of the human heart', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Wensi Wu uses digital twins to explore the hidden mechanics of the human heart', url='https://penntoday.upenn.edu/news/penn-engineering-wensi-wu-uses-digital-twins-explore-hidden-mechanics-human-heart'] }
+                  { tag='article', class='article-card', buttons=[text='Technology', url='https://penntoday.upenn.edu/topic/technology', text='Teaching robots to build without blueprints', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Teaching robots to build without blueprints', url='https://penntoday.upenn.edu/news/penn-engineering-teaching-robots-build-without-blueprints'] }
+                  { tag='article', class='article-card', buttons=[text='Technology', url='https://penntoday.upenn.edu/topic/technology', text='Penn students innovate in the time of AI', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn students innovate in the time of AI', url='https://penntoday.upenn.edu/news/penn-students-innovate-time-ai'] }
+                  { tag='article', class='article-card', buttons=[text='Technology', url='https://penntoday.upenn.edu/topic/technology', text='AI x Science Postdoctoral Fellowship', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='AI x Science Postdoctoral Fellowship', url='https://penntoday.upenn.edu/news/how-penn-reimagining-research-age-artificial-intelligence'] }
+                  { tag='article', class='article-card', buttons=[text='Technology', url='https://penntoday.upenn.edu/topic/technology', text='Penn fourth-year and recent alum named 2025 Hertz Fellows', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn fourth-year and recent alum named 2025 Hertz Fellows', url='https://penntoday.upenn.edu/news/penn-fourth-year-and-recent-alum-named-2025-hertz-fellows'] }
+                  { tag='article', class='article-card', buttons=[text='Technology', url='https://penntoday.upenn.edu/topic/technology', text='The soul of an artist, the mind of a mathematician', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='The soul of an artist, the mind of a mathematician', url='https://penntoday.upenn.edu/news/rob-ghrist-soul-artist-mind-mathematician'] }
+              { tag='div', class='news-featured__links', buttons=[text='MORE NEWS VIA TODAY', url='https://penntoday.upenn.edu/'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='How Henry Daniell weds dental research with global health and sustainability', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='How Henry Daniell weds dental research with global health and sustainability', url='https://penntoday.upenn.edu/news/how-henry-daniell-tackling-challenge-cost-drug-production'] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='Key to improving survival of transplanted retinal cells', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Key to improving survival of transplanted retinal cells', url='https://penntoday.upenn.edu/news/penn-vet-key-improving-survival-transplanted-cells'] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='Preventing falls in older adults with mild cognitive impairment', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Preventing falls in older adults with mild cognitive impairment', url='https://penntoday.upenn.edu/news/penn-nursing-preventing-falls-older-adults-mild-cognitive-impairment'] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='A Penn Medicine nurse who donated her uterus helps another family’s dream come true', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='A Penn Medicine nurse who donated her uterus helps another family’s dream come true', url='https://penntoday.upenn.edu/news/penn-medicine-nurse-who-donated-her-uterus-helps-another-familys-dream-come-true'] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='Early challenges to the immune system disrupt oral health', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Early challenges to the immune system disrupt oral health', url='https://penntoday.upenn.edu/news/early-challenges-immune-system-disrupt-oral-health'] }
+                  { tag='article', class='article-card', buttons=[text='Health & Medicine', url='https://penntoday.upenn.edu/topic/health-and-medicine', text='Measuring the impact of loneliness and social isolation on the brain', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Measuring the impact of loneliness and social isolation on the brain', url='https://penntoday.upenn.edu/news/penn-medicine-measuring-impact-loneliness-and-social-isolation-brain'] }
+              { tag='div', class='news-featured__links', buttons=[text='MORE NEWS VIA PENN TODAY', url='https://penntoday.upenn.edu/'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Penn powers up AI learning for faculty and staff', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn powers up AI learning for faculty and staff', url='https://penntoday.upenn.edu/news/penn-powers-ai-learning-faculty-and-staff'] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Paideia Fellows build dialogue in Athens', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Paideia Fellows build dialogue in Athens', url='https://penntoday.upenn.edu/news/paideia-fellows-build-dialogue-athens'] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Penn hosts nine other colleges for op-ed panel', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn hosts nine other colleges for op-ed panel', url='https://penntoday.upenn.edu/news/ucomms-op-ed-writing-workshop-event'] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Staff Q&A with Peter Fixler', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Staff Q&A with Peter Fixler', url='https://penntoday.upenn.edu/news/staff-qa-peter-fixler'] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Johanna Burton appointed director of ICA at Penn', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Johanna Burton appointed director of ICA at Penn', url='https://penntoday.upenn.edu/news/johanna-burton-appointed-director-ica-penn'] }
+                  { tag='article', class='article-card', buttons=[text='Campus & Community', url='https://penntoday.upenn.edu/topic/campus-and-community', text='Tyler Hagstrom named Head Volleyball Coach', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Tyler Hagstrom named Head Volleyball Coach', url='https://penntoday.upenn.edu/news/tyler-hagstrom-named-head-volleyball-coach-penn'] }
+              { tag='div', class='news-featured__links', buttons=[text='MORE NEWS VIA PENN TODAY', url='https://penntoday.upenn.edu/'] }
+              { tag='header', class='section-header', buttons=[text='News', url=''] }
+                  { tag='article', class='article-card', buttons=[text='Global', url='https://penntoday.upenn.edu/topic/global', text='Penn Glee Club performs in Tokyo, Hong Kong, and Beijing', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn Glee Club performs in Tokyo, Hong Kong, and Beijing', url='https://penntoday.upenn.edu/news/penn-glee-club-performs-tokyo-hong-kong-and-beijing'] }
+                  { tag='article', class='article-card', buttons=[text='Global', url='https://penntoday.upenn.edu/topic/global', text='Penn Washington names Celeste Wallander as inaugural executive director', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn Washington names Celeste Wallander as inaugural executive director', url='https://penntoday.upenn.edu/news/penn-washington-names-celeste-wallander-inaugural-executive-director'] }
+                  { tag='article', class='article-card', buttons=[text='Global', url='https://penntoday.upenn.edu/topic/global', text='Penn leaders-turned-diplomats reflect on American statecraft and foreign policy', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Penn leaders-turned-diplomats reflect on American statecraft and foreign policy', url='https://penntoday.upenn.edu/news/penn-pwh-leaders-turned-diplomats-reflect-american-statecraft-and-foreign-policy'] }
+                  { tag='article', class='article-card', buttons=[text='Global', url='https://penntoday.upenn.edu/topic/global', text='Turning bicycles into an engineering study tool', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Turning bicycles into an engineering study tool', url='https://penntoday.upenn.edu/news/penn-global-turning-bicycles-engineering-study-tool'] }
+                  { tag='article', class='article-card', buttons=[text='Global', url='https://penntoday.upenn.edu/topic/global', text='Using climate modeling to guide global economic and political decisions', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='Using climate modeling to guide global economic and political decisions', url='https://penntoday.upenn.edu/news/penn-sas-using-climate-modeling-guide-global-economic-and-political-decisions'] }
+                  { tag='article', class='article-card', buttons=[text='Global', url='https://penntoday.upenn.edu/topic/global', text='How climate change impacts food security', url=''] }
+                  { tag='h3', class='article-card__title', buttons=[text='How climate change impacts food security', url='https://penntoday.upenn.edu/news/penn-perry-world-house-how-climate-change-impacts-food-security'] }
+              { tag='div', class='news-featured__links', buttons=[text='VISIT PENN TODAY', url='https://penntoday.upenn.edu', text='Sign up for the Penn Today Newsletter', url='https://penntoday.upenn.edu/newsletters/sign-up'] }
+              { tag='div', class='featured-initiative-card__wrap', buttons=[text='Health & Medicine', url='', text='Keeping food safe and animals healthy', url='', text='LEARN MORE', url='https://penntoday.upenn.edu/news/penn-vet-keeping-food-safe-and-animals-healthy'] }
+              { tag='h2', class='featured-initiative-card__title', buttons=[text='Keeping food safe and animals healthy', url='https://penntoday.upenn.edu/news/penn-vet-keeping-food-safe-and-animals-healthy'] }
+            { tag='header', class='section-header', buttons=[text='Upcoming Events', url=''] }
+              { tag='article', class='event-card', buttons=[text='', url='https://penntoday.upenn.edu/events/water-features-tour-0'] }
+                { tag='div', class='event-card__content', buttons=[text='Water Features Tour', url=''] }
+                  { tag='h3', class='event-card__title', buttons=[text='Water Features Tour', url='https://penntoday.upenn.edu/events/water-features-tour-0'] }
+              { tag='article', class='event-card', buttons=[text='', url='https://penntoday.upenn.edu/events/ai-and-teaching-early-american-studies'] }
+                { tag='div', class='event-card__content', buttons=[text='AI and Teaching Early American Studies', url=''] }
+                  { tag='h3', class='event-card__title', buttons=[text='AI and Teaching Early American Studies', url='https://penntoday.upenn.edu/events/ai-and-teaching-early-american-studies'] }
+              { tag='article', class='event-card', buttons=[text='', url='https://penntoday.upenn.edu/events/new-student-resource-fair'] }
+                { tag='div', class='event-card__content', buttons=[text='New Student Resource Fair', url=''] }
+                  { tag='h3', class='event-card__title', buttons=[text='New Student Resource Fair', url='https://penntoday.upenn.edu/events/new-student-resource-fair'] }
+          { tag='div', class='contain', buttons=[text='MORE EVENTS VIA PENN TODAY', url='https://penntoday.upenn.edu/events'] }
+              { tag='div', class='featured-initiative-card__wrap', buttons=[text='Federal Government Updates', url=''] }
+                  { tag='p', buttons=[text='Learn more', url='https://university-communications.upenn.edu/federal-government-updates'] }
+              { tag='div', class='featured-initiative-card__wrap', buttons=[text='Title IX Compliance in Athletics', url='', text='Learn More', url='https://penntoday.upenn.edu/announcements/penns-title-ix-resolution-us-department-education-office-civil-rights'] }
+            { tag='header', class='section-header section-header--centered section-header--dark section-header--bottom-padding', buttons=[text='Penn Priorities', url=''] }
+            { tag='article', class='priority-card', buttons=[text='In Principle & Practice', url='https://in-principle-and-practice.upenn.edu/'] }
+              { tag='a', class='priority-card__link', buttons=[text='In Principle & Practice', url=''] }
+            { tag='article', class='priority-card', buttons=[text='Climate and Sustainability Action Plan', url='/about/sustainability'] }
+              { tag='a', class='priority-card__link', buttons=[text='Climate and Sustainability Action Plan', url=''] }
+            { tag='article', class='priority-card', buttons=[text='Belonging at Penn', url='https://diversity.upenn.edu/'] }
+              { tag='a', class='priority-card__link', buttons=[text='Belonging at Penn', url=''] }
+            { tag='article', class='priority-card', buttons=[text='Campaign for Community', url='https://provost.upenn.edu/campaign-for-community/'] }
+              { tag='a', class='priority-card__link', buttons=[text='Campaign for Community', url=''] }
+            { tag='article', class='priority-card', buttons=[text='Research & Innovation', url='https://www.upenn.edu/research-and-innovation'] }
+              { tag='a', class='priority-card__link', buttons=[text='Research & Innovation', url=''] }
+            { tag='header', class='section-header section-header--centered', buttons=[text='Stay Connected', url=''] }
+              { tag='div', class='social-card social-card--image bg-color bg-red', buttons=[text='After learning about @PennMedicine’s uterus transplant program, @LancasterGeneralHealth nurse Sara Leister (right) decided to donate her own. Emma Dolezal, born without a uterus, received Leister’s and gave birth to baby Olivia. Earlier this month, all three met each other for the first time to celebrate the life-changing transplant.@uofpenn', url='https://www.instagram.com/p/DMyHpr2OYVn/'] }
+              { tag='div', class='social-card social-card__twitter bg-color bg-blue', buttons=[text='@PennEngineers have found a way to redesign mRNA vaccines that sidestep the most common side effects.@penn', url='https://www.threads.com/@uofpenn/post/DMtLyWMqNYw'] }
+              { tag='div', class='social-card social-card--image bg-color bg-red', buttons=[text='Here’s the thing. There are just under 4 fantastic weeks left until the fall term starts. Still time to stretch summer a little longer, ignite a few last adventures, and vanish for a bit before everything kicks into gear.@uofpenn', url='https://www.instagram.com/p/DMvu16ePgw6/'] }
+            { tag='div', class='social__media', buttons=[text='Follow us on social media', url=''] }
+                { tag='li', class='social__item', buttons=[text='Instagram', url='https://instagram.com/uofpenn'] }
+                { tag='li', class='social__item', buttons=[text='Facebook', url='https://www.facebook.com/UnivPennsylvania'] }
+                { tag='li', class='social__item', buttons=[text='Twitter', url='https://www.threads.net/@uofpenn'] }
+                { tag='li', class='social__item', buttons=[text='Flickr', url='https://www.flickr.com/photos/universityofpennsylvania/albums'] }
+                { tag='li', class='social__item', buttons=[text='YouTube', url='http://www.youtube.com/user/univpennsylvania'] }
+                { tag='li', class='social__item', buttons=[text='LinkedIn', url='https://www.linkedin.com/school/university-of-pennsylvania'] }
+          { tag='div', class='wysiwyg section-padding section-margin-top contain clearfix', buttons=[text='Equal Opportunity and Nondiscrimination at Penn', url=''] }
+            { tag='p', class='text-align-center', buttons=[text='Nondiscrimination Statement', url='https://oeop.upenn.edu/about'] }
+              { tag='p', class='footer__info', buttons=[text='(215) 898-5000', url='tel:2158985000'] }
+                  { tag='li', class='footer__item', buttons=[text='Contact Us', url='/about/contact'] }
+                  { tag='li', class='footer__item', buttons=[text='Maps', url='https://www.facilities.upenn.edu/maps'] }
+                  { tag='li', class='footer__item', buttons=[text='Parking', url='https://cms.business-services.upenn.edu/transportation/'] }
+              { tag='section', class='footer__section', buttons=[text='Navigate', url=''] }
+                  { tag='li', class='footer__item', buttons=[text='Alumni', url='https://www.alumni.upenn.edu'] }
+                  { tag='li', class='footer__item', buttons=[text='Athletics', url='https://pennathletics.com/'] }
+                  { tag='li', class='footer__item', buttons=[text='Belonging', url='https://diversity.upenn.edu/'] }
+                  { tag='li', class='footer__item', buttons=[text='Health Care', url='/life-at-penn/health-and-wellness'] }
+                  { tag='li', class='footer__item', buttons=[text='Libraries', url='https://www.library.upenn.edu/'] }
+                  { tag='li', class='footer__item', buttons=[text='Online Learning', url='https://platform.onlinelearning.upenn.edu/'] }
+                  { tag='li', class='footer__item', buttons=[text='Penn Global', url='https://global.upenn.edu/'] }
+                { tag='div', buttons=[text='Penn's Heritage', url='', text='Our History', url='/about'] }
+                { tag='li', class='footer__item', buttons=[text='Disclaimer', url='/about/disclaimer'] }
+                { tag='li', class='footer__item', buttons=[text='Emergency Services', url='https://www.publicsafety.upenn.edu/contact/'] }
+                { tag='li', class='footer__item', buttons=[text='Nondiscrimination', url='https://oaaeop.upenn.edu/resources/policies-handbooks-procedures'] }
+                { tag='li', class='footer__item', buttons=[text='Privacy Policy', url='/about/privacy-policy'] }
+                { tag='li', class='footer__item', buttons=[text='Report Accessibility Issues and Get Help', url='https://accessibility.web-resources.upenn.edu/get-help'] }
+                { tag='li', class='footer__item', buttons=[text='Report Copyright Infringement', url='/about/report-copyright-infringement'] }

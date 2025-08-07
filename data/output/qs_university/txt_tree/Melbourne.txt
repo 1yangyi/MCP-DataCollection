@@ -1,0 +1,36 @@
+            { tag='div', class='campaign-banner-alt__content', buttons=[text='View eventArrow-right', url='https://study.unimelb.edu.au/openday?in_c=unimelb_homepage'] }
+                  { tag='div', class='pathfinder-today__link', buttons=[text='CoursesArrow-right', url='https://study.unimelb.edu.au/?in_c=home-path'] }
+                  { tag='div', class='pathfinder-today__link', buttons=[text='ResearchArrow-right', url='https://research.unimelb.edu.au/?in_c=home-path'] }
+                  { tag='div', class='pathfinder-today__link', buttons=[text='PartnershipArrow-right', url='https://research.unimelb.edu.au/work-with-us/?in_c=home-path'] }
+                  { tag='div', class='pathfinder-today__link', buttons=[text='EventsArrow-right', url='https://events.unimelb.edu.au/?in_c=home-path'] }
+          { tag='div', class='section-alt__inner max', buttons=[text='Featured articles', url=''] }
+                { tag='div', class='card-article-large__content', buttons=[text='University of Melbourne leading Australia in research excellence', url=''] }
+                  { tag='p', buttons=[text='Read moreArrow-right', url='https://www.unimelb.edu.au/newsroom/news/2025/july/university-of-melbourne-leading-australia-in-research-excellence'] }
+                    { tag='div', class='progressive-image', buttons=[text='', url='https://www.unimelb.edu.au/newsroom/news/2025/july/university-of-melbourne-leading-australia-in-research-excellence'] }
+                { tag='div', class='article-card__inner border-top', buttons=[text='How scientific tools are tracing the evolution of ancient biblical manuscriptsArrow-right', url=''] }
+                  { tag='h3', class='article-card__title heading-sm', buttons=[text='How scientific tools are tracing the evolution of ancient biblical manuscriptsArrow-right', url='https://pursuit.unimelb.edu.au/articles/scientific-tools-are-tracing-the-evolution-of-ancient-biblical-manuscripts?in_c=topstoryblock_1?in_c=home-path'] }
+                { tag='div', class='article-card__inner border-top', buttons=[text='Climate interventions to save our oceans need stronger governanceArrow-right', url=''] }
+                  { tag='h3', class='article-card__title heading-sm', buttons=[text='Climate interventions to save our oceans need stronger governanceArrow-right', url='https://www.unimelb.edu.au/newsroom/news/2025/august/climate-interventions-to-save-our-oceans-need-stronger-governance?in_c=home-path'] }
+                { tag='div', class='article-card__inner border-top', buttons=[text='Taylor Swift is filling a ‘blank space’ in academic researchArrow-right', url=''] }
+                  { tag='h3', class='article-card__title heading-sm', buttons=[text='Taylor Swift is filling a ‘blank space’ in academic researchArrow-right', url='https://pursuit.unimelb.edu.au/articles/Taylor-swift-is-filling-a-blank-space-in-academic-research?in_c=topstoryblock_1?in_c=home-path'] }
+                { tag='div', buttons=[text='Study in a place like no other', url=''] }
+                    { tag='li', buttons=[text='Our sustainability commitmentArrow-right', url='https://about.unimelb.edu.au/priorities-and-partnerships/sustainability?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='Our campuses', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Take a virtual tourArrow-right', url='https://study.unimelb.edu.au/discover/virtual-tour?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='Research facilities', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Our research infrastructureArrow-right', url='https://research.unimelb.edu.au/facilities-and-resources/research-infrastructure?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='Libraries, museums, galleries and collections', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Get involved in our cultural facilitiesArrow-right', url='https://museumsandcollections.unimelb.edu.au?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='University Accommodation', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Discover accommodationArrow-right', url='https://study.unimelb.edu.au/accommodation?in_c=home-path'] }
+                { tag='div', buttons=[text='Partner with us for the future', url=''] }
+                    { tag='li', buttons=[text='Partner with usArrow-right', url='https://research.unimelb.edu.au/work-with-us/the-benefits-of-working-with-us?in_c=home-path'] }
+                    { tag='li', buttons=[text='Partnership case studiesArrow-right', url='https://research.unimelb.edu.au/work-with-us/case-studies?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='An innovation and collaboration community', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Discover Melbourne ConnectArrow-right', url='https://melbconnect.com.au/?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='Our bold new engineering and design campus', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='More about Fishermans BendArrow-right', url='https://about.unimelb.edu.au/priorities-and-partnerships/fishermans-bend?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='Partnering for parity in Greater Shepparton', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Learn about MunarraArrow-right', url='https://www.munarra.com.au/?in_c=home-path'] }
+                    { tag='div', class='card-flat', buttons=[text='A partnership to power genomics research', url=''] }
+                      { tag='div', class='shim-mb1', buttons=[text='Explore the Genomics HubArrow-right', url='https://genomic-cancer-medicine.unimelb.edu.au/collaborate?in_c=home-path'] }

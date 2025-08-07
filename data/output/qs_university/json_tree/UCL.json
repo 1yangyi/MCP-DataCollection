@@ -1,0 +1,724 @@
+[
+  {
+    "text": "Navigate back to homepage",
+    "url": "https://www.ucl.ac.uk/",
+    "children": [
+      {
+        "text": "Open search bar.",
+        "url": "/"
+      },
+      {
+        "text": "Open main navigation menu",
+        "url": "/",
+        "children": [
+          {
+            "text": "Submit search",
+            "url": "/home/",
+            "children": [
+              {
+                "text": "Study",
+                "url": "https://www.ucl.ac.uk/prospective-students",
+                "children": [
+                  {
+                    "text": "Close sub menu modal",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Study at UCL",
+                        "url": "https://www.ucl.ac.uk/prospective-students",
+                        "children": [
+                          {
+                            "text": "Undergraduate courses",
+                            "url": "https://www.ucl.ac.uk/prospective-students/undergraduate"
+                          },
+                          {
+                            "text": "Graduate courses",
+                            "url": "https://www.ucl.ac.uk/prospective-students/graduate"
+                          },
+                          {
+                            "text": "Short courses",
+                            "url": "https://www.ucl.ac.uk/short-courses"
+                          },
+                          {
+                            "text": "Study abroad",
+                            "url": "https://www.ucl.ac.uk/prospective-students/study-abroad-at-ucl/"
+                          },
+                          {
+                            "text": "Centre for Languages & International Education",
+                            "url": "https://www.ucl.ac.uk/languages-international-education/"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Research",
+                "url": "https://www.ucl.ac.uk/research",
+                "children": [
+                  {
+                    "text": "Close sub menu modal",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Research at UCL",
+                        "url": "https://www.ucl.ac.uk/research",
+                        "children": [
+                          {
+                            "text": "Engage with us",
+                            "url": "https://www.ucl.ac.uk/research/engage-us"
+                          },
+                          {
+                            "text": "Explore our Research",
+                            "url": "https://www.ucl.ac.uk/research/our-research-and-impact"
+                          },
+                          {
+                            "text": "Initiatives and networks",
+                            "url": "https://www.ucl.ac.uk/research/initiatives-and-networks"
+                          },
+                          {
+                            "text": "Research news",
+                            "url": "https://www.ucl.ac.uk/research/research-news?collection=drupal-meta-news-news&meta_UclSubject=%22research%22&le_DateFilter=20241008"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Engage",
+                "url": "https://www.ucl.ac.uk/engage",
+                "children": [
+                  {
+                    "text": "Close sub menu modal",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "Engage with UCL",
+                        "url": "https://www.ucl.ac.uk/engage",
+                        "children": [
+                          {
+                            "text": "Alumni",
+                            "url": "https://www.ucl.ac.uk/alumni/ucl-alumni"
+                          },
+                          {
+                            "text": "Business partnerships and collaboration",
+                            "url": "https://www.ucl.ac.uk/enterprise/businesses"
+                          },
+                          {
+                            "text": "Global engagement",
+                            "url": "https://www.ucl.ac.uk/global/ucl-global-engagement"
+                          },
+                          {
+                            "text": "News and Media relations",
+                            "url": "https://www.ucl.ac.uk/news/"
+                          },
+                          {
+                            "text": "Public Policy",
+                            "url": "https://www.ucl.ac.uk/public-policy"
+                          },
+                          {
+                            "text": "Schools and priority groups",
+                            "url": "https://www.ucl.ac.uk/widening-participation/access-and-widening-participation"
+                          },
+                          {
+                            "text": "Visit us",
+                            "url": "https://www.ucl.ac.uk/about/where-ucl/tours-and-visits-explore-ucl"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "About",
+                "url": "https://www.ucl.ac.uk/about",
+                "children": [
+                  {
+                    "text": "Close sub menu modal",
+                    "url": "",
+                    "children": [
+                      {
+                        "text": "About UCL",
+                        "url": "https://www.ucl.ac.uk/about",
+                        "children": [
+                          {
+                            "text": "Who we are",
+                            "url": "https://www.ucl.ac.uk/about/who"
+                          },
+                          {
+                            "text": "Faculties",
+                            "url": "https://www.ucl.ac.uk/about/how-ucl-works/ucl-faculties"
+                          },
+                          {
+                            "text": "Governance",
+                            "url": "https://www.ucl.ac.uk/governance-compliance/"
+                          },
+                          {
+                            "text": "President and Provost",
+                            "url": "https://www.ucl.ac.uk/provost/"
+                          },
+                          {
+                            "text": "Strategy",
+                            "url": "https://www.ucl.ac.uk/about/how/institutional-plans-strategies"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Toggle that plays or pauses the background video.",
+        "url": "",
+        "children": [
+          {
+            "text": "Study and research at UCL",
+            "url": "",
+            "children": [
+              {
+                "text": "Undergraduate study",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Undergraduate study",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Undergraduate courses",
+                "url": "https://www.ucl.ac.uk/prospective-students/undergraduate/"
+              },
+              {
+                "text": "UCL Open Days",
+                "url": "https://www.ucl.ac.uk/prospective-students/open-days/"
+              },
+              {
+                "text": "Access and Widening Participation",
+                "url": "https://www.ucl.ac.uk/widening-participation/access-and-widening-participation"
+              },
+              {
+                "text": "Information for International Students",
+                "url": "https://www.ucl.ac.uk/prospective-students/international"
+              },
+              {
+                "text": "Information for Parents and Guardians",
+                "url": "https://www.ucl.ac.uk/parents-guardians-of-ucl-students/"
+              },
+              {
+                "text": "Graduate study",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Graduate study",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Graduate courses",
+                "url": "https://www.ucl.ac.uk/prospective-students/graduate/"
+              },
+              {
+                "text": "Research degree courses",
+                "url": "https://www.ucl.ac.uk/prospective-students/graduate/#tab435"
+              },
+              {
+                "text": "Teacher Training courses",
+                "url": "https://www.ucl.ac.uk/prospective-students/graduate/#tab441"
+              },
+              {
+                "text": "Short Courses, CPD and more",
+                "url": "",
+                "children": [
+                  {
+                    "text": "Short Courses, CPD and more",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Short Courses",
+                "url": "https://www.ucl.ac.uk/short-courses"
+              },
+              {
+                "text": "Graduate degree apprenticeships",
+                "url": "https://www.ucl.ac.uk/prospective-students/graduate/graduate-degree-apprenticeships"
+              },
+              {
+                "text": "Summer School",
+                "url": "https://www.ucl.ac.uk/prospective-students/summer-school"
+              },
+              {
+                "text": "Study Abroad at UCL",
+                "url": "https://www.ucl.ac.uk/prospective-students/study-abroad-at-ucl/"
+              },
+              {
+                "text": "Centre for Languages and International Education (CLIE)",
+                "url": "https://www.ucl.ac.uk/languages-international-education/"
+              },
+              {
+                "text": "Join UCL through Clearing",
+                "url": ""
+              },
+              {
+                "text": "Apply now",
+                "url": "https://www.ucl.ac.uk/prospective-students/undergraduate/clearing?utm_term=homepage"
+              },
+              {
+                "text": "Make your Master's matter",
+                "url": ""
+              },
+              {
+                "text": "Apply now",
+                "url": "https://www.ucl.ac.uk/prospective-students/graduate/masters-matter?utm_term=homepage"
+              },
+              {
+                "text": "Your guide to Results Day",
+                "url": "https://www.ucl.ac.uk/prospective-students/undergraduate/your-results?utm_term=homepage",
+                "children": [
+                  {
+                    "text": "Your guide to Results Day",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Meet our Master's students",
+                "url": "https://www.ucl.ac.uk/prospective-students/graduate/masters-matter-student-stories?utm_term=homepage",
+                "children": [
+                  {
+                    "text": "Meet our Master's students",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "How we support our students",
+                "url": "https://www.ucl.ac.uk/students/support-and-wellbeing-services",
+                "children": [
+                  {
+                    "text": "How we support our students",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "UCL ranked among the top 10 universities in the world",
+                "url": ""
+              },
+              {
+                "text": "Find out more",
+                "url": "https://www.ucl.ac.uk/about/excellence-and-impact/rankings"
+              }
+            ]
+          },
+          {
+            "text": "Latest news",
+            "url": "",
+            "children": [
+              {
+                "text": "Blog: Screen Free Summer",
+                "url": "https://www.ucl.ac.uk/news/2025/aug/blog-screen-free-summer",
+                "children": [
+                  {
+                    "text": "Blog: Screen Free Summer",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Small electric shocks to ear can boost self-compassion from meditation training",
+                "url": "https://www.ucl.ac.uk/news/2025/aug/small-electric-shocks-ear-can-boost-self-compassion-meditation-training",
+                "children": [
+                  {
+                    "text": "Small electric shocks to ear can boost self-compassion from meditation training",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Opinion: Healthy screen time for children is possible, if you follow these few simple tips",
+                "url": "https://www.ucl.ac.uk/news/2025/aug/opinion-healthy-screen-time-children-possible-if-you-follow-these-few-simple-tips",
+                "children": [
+                  {
+                    "text": "Opinion: Healthy screen time for children is possible, if you follow these few simple tips",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "More news",
+                "url": "https://www.ucl.ac.uk/news/latest-news"
+              },
+              {
+                "text": "Disagreeing Well",
+                "url": ""
+              },
+              {
+                "text": "Find out more",
+                "url": "https://www.ucl.ac.uk/about/disagreeing-well"
+              }
+            ]
+          },
+          {
+            "text": "Discover how UCL changes the world",
+            "url": "",
+            "children": [
+              {
+                "text": "First ever look at the Sun’s south pole",
+                "url": "https://www.ucl.ac.uk/news/2025/jun/first-ever-look-suns-south-pole",
+                "children": [
+                  {
+                    "text": "First ever look at the Sun’s south pole",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "UCL Press celebrates 10 years of award-winning open access publishing",
+                "url": "https://www.ucl.ac.uk/news/2025/jun/ucl-press-celebrates-10-years-award-winning-open-access-publishing",
+                "children": [
+                  {
+                    "text": "UCL Press celebrates 10 years of award-winning open access publishing",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "AI test to determine best prostate cancer treatment could save lives and money",
+                "url": "https://www.ucl.ac.uk/news/2025/may/ai-test-determine-best-prostate-cancer-treatment-could-save-lives-and-money",
+                "children": [
+                  {
+                    "text": "AI test to determine best prostate cancer treatment could save lives and money",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "More UCL research discoveries",
+                "url": "https://www.ucl.ac.uk/research/research-news"
+              },
+              {
+                "text": "UCL events open to all",
+                "url": "",
+                "children": [
+                  {
+                    "text": "What's on",
+                    "url": ""
+                  },
+                  {
+                    "text": "More public events",
+                    "url": "https://www.ucl.ac.uk/events/all-events"
+                  },
+                  {
+                    "text": "World of Wasps",
+                    "url": "https://www.ucl.ac.uk/museums-collections/events/2025/jun/world-wasps"
+                  },
+                  {
+                    "text": "Prejudice in Power: Contesting the Pseudoscience of Superiority",
+                    "url": "https://www.ucl.ac.uk/museums-collections/events/2025/feb/prejudice-power-contesting-pseudoscience-superiority"
+                  },
+                  {
+                    "text": "Broken, Burnt, Buried: Ritual Lives of Objects in Ancient Egypt",
+                    "url": "https://www.ucl.ac.uk/museums-collections/events/2025/jul/broken-burnt-buried-ritual-lives-objects-ancient-egypt"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Meet our people",
+            "url": "",
+            "children": [
+              {
+                "text": "UCL announces new Vice-Provost (Health)",
+                "url": "https://www.ucl.ac.uk/news/2025/jul/ucl-announces-new-vice-provost-health",
+                "children": [
+                  {
+                    "text": "UCL announces new Vice-Provost (Health)",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "UCL professors honoured as new British Academy Fellows",
+                "url": "https://www.ucl.ac.uk/news/2025/jul/ucl-professors-honoured-new-british-academy-fellows",
+                "children": [
+                  {
+                    "text": "UCL professors honoured as new British Academy Fellows",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "UCL's technical talent recognised at Papin Prizes",
+                "url": "https://www.ucl.ac.uk/news/2025/jul/ucls-technical-talent-recognised-papin-prizes",
+                "children": [
+                  {
+                    "text": "UCL's technical talent recognised at Papin Prizes",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "More about UCL community",
+                "url": "https://www.ucl.ac.uk/about/our-people"
+              }
+            ]
+          },
+          {
+            "text": "Spotlight on UCL podcasts",
+            "url": "",
+            "children": [
+              {
+                "text": "The Climate Podcast",
+                "url": "https://www.ucl.ac.uk/climate-change/podcasts/ucl-generation-one-climate-podcast",
+                "children": [
+                  {
+                    "text": "The Climate Podcast",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Health in a Handbasket Podcast",
+                "url": "https://www.ucl.ac.uk/engineering/healthcare-engineering/health-handbasket-podcast",
+                "children": [
+                  {
+                    "text": "Health in a Handbasket Podcast",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Brain Stories Podcast",
+                "url": "https://www.ucl.ac.uk/research/domains/neuroscience/brain-stories-podcast",
+                "children": [
+                  {
+                    "text": "Brain Stories Podcast",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "Generation UCL Podcast",
+                "url": "https://generation-ucl.transistor.fm/",
+                "children": [
+                  {
+                    "text": "Generation UCL Podcast",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "More about life at UCL",
+                "url": "",
+                "children": [
+                  {
+                    "text": "",
+                    "url": "https://www.youtube.com/watch?v=fibAxF6t11o"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://www.youtube.com/watch?v=5waV4RQFeSg"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://www.youtube.com/watch?v=ToE-_6km2cU"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://www.youtube.com/watch?v=h2OcbasD9vQ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Highlights",
+            "url": "",
+            "children": [
+              {
+                "text": "Top 10 in the World",
+                "url": "https://www.ucl.ac.uk/news/2025/jun/ucl-ranked-among-top-10-universities-two-major-global-rankings"
+              },
+              {
+                "text": "Top 10 in the World",
+                "url": ""
+              },
+              {
+                "text": "1st in UK QS Sustainability",
+                "url": "https://www.ucl.ac.uk/news/2024/dec/ucl-ranks-1st-uk-and-5th-globally-qs-sustainability-rankings"
+              },
+              {
+                "text": "1st in UK QS Sustainability",
+                "url": ""
+              },
+              {
+                "text": "Preparing for UCL200",
+                "url": "https://www.ucl.ac.uk/about/ucls-bicentenary"
+              },
+              {
+                "text": "Preparing for UCL200",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "UCL footer",
+    "url": "",
+    "children": [
+      {
+        "text": "Visit",
+        "url": "",
+        "children": [
+          {
+            "text": "Bloomsbury Theatre and Studio",
+            "url": "https://www.ucl.ac.uk/bloomsbury-theatre"
+          },
+          {
+            "text": "Library, Museums and Collections",
+            "url": "https://www.ucl.ac.uk/lccos/library-culture-collections-and-open-science-lccos"
+          },
+          {
+            "text": "UCL Maps",
+            "url": "https://www.ucl.ac.uk/maps"
+          },
+          {
+            "text": "UCL Shop",
+            "url": "https://studentsunionucl.org/shop"
+          },
+          {
+            "text": "Contact UCL",
+            "url": "https://www.ucl.ac.uk/about/contact-us"
+          }
+        ]
+      },
+      {
+        "text": "Students",
+        "url": "",
+        "children": [
+          {
+            "text": "Accommodation",
+            "url": "https://www.ucl.ac.uk/accommodation/"
+          },
+          {
+            "text": "Current Students",
+            "url": "https://www.ucl.ac.uk/students/"
+          },
+          {
+            "text": "Moodle",
+            "url": "https://moodle.ucl.ac.uk/"
+          },
+          {
+            "text": "Students' Union",
+            "url": "https://studentsunionucl.org/"
+          }
+        ]
+      },
+      {
+        "text": "Staff",
+        "url": "",
+        "children": [
+          {
+            "text": "Inside UCL",
+            "url": "https://app.ucl.ac.uk/InsideUCL/"
+          },
+          {
+            "text": "Staff Intranet",
+            "url": "https://www.ucl.ac.uk/staff"
+          },
+          {
+            "text": "Work at UCL",
+            "url": "https://www.ucl.ac.uk/work-at-ucl/"
+          },
+          {
+            "text": "Human Resources",
+            "url": "https://www.ucl.ac.uk/human-resources/"
+          },
+          {
+            "text": "UCL social media menu",
+            "url": "",
+            "children": [
+              {
+                "text": "Link to Soundcloud",
+                "url": "https://soundcloud.com/uclsound"
+              },
+              {
+                "text": "Link to Flickr",
+                "url": "https://www.flickr.com/photos/uclnews"
+              },
+              {
+                "text": "Link to TikTok",
+                "url": "https://www.tiktok.com/@uclofficial"
+              },
+              {
+                "text": "Link to Youtube",
+                "url": "https://www.youtube.com/ucltv"
+              },
+              {
+                "text": "Link to Instagram",
+                "url": "https://www.instagram.com/ucl/"
+              },
+              {
+                "text": "Link to Facebook",
+                "url": "https://www.facebook.com/uclofficial"
+              },
+              {
+                "text": "Link to Twitter",
+                "url": "https://twitter.com/ucl"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Essential",
+        "url": "",
+        "children": [
+          {
+            "text": "Disclaimer",
+            "url": "https://www.ucl.ac.uk/legal-services/disclaimer"
+          },
+          {
+            "text": "Freedom of Information",
+            "url": "https://www.ucl.ac.uk/foi"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://www.ucl.ac.uk/accessibility"
+          },
+          {
+            "text": "Cookies",
+            "url": "/home/cookies-settings"
+          },
+          {
+            "text": "Privacy",
+            "url": "https://www.ucl.ac.uk/legal-services/privacy"
+          },
+          {
+            "text": "Slavery statement",
+            "url": "https://www.ucl.ac.uk/commercial-procurement/modern-day-slavery-statement"
+          },
+          {
+            "text": "Log in",
+            "url": "/home/user/login"
+          }
+        ]
+      }
+    ]
+  }
+]

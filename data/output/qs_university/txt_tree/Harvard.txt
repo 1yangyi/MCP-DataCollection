@@ -1,0 +1,219 @@
+              { tag='div', class='logo', buttons=[text='Harvard University', url='https://www.harvard.edu/'] }
+                { tag='div', class='site-trigger-item site-trigger-item--hot-links site-hot-links--single', buttons=[text='1site notification', url=''] }
+                        { tag='li', class='nav-hot-links__item', buttons=[text='Learn about our lawsuits to protect our students and researchers', url='https://www.harvard.edu/federal-lawsuits/'] }
+                  { tag='div', class='site-trigger-item site-trigger-item--search', buttons=[text='Search', url=''] }
+                    { tag='div', class='site-search' }
+                            { tag='li', class='nav-quick-links-search__item', buttons=[text='A to Z index', url='https://www.harvard.edu/a-to-z/'] }
+                  { tag='div', class='site-trigger-item', buttons=[text='Menu', url=''] }
+                        { tag='li', class='nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children', buttons=[text='Academics', url=''] }
+                              { tag='div', class='nav-primary__back nav-primary__back--depth-1', buttons=[text='Academics', url=''] }
+                                { tag='strong', class='nav-primary__subsec-title', buttons=[text='Academics', url='https://www.harvard.edu/academics/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Degree programs', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='Academics', url=''] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Undergraduate Degrees', url='https://www.harvard.edu//programs/?degree_levels=undergraduate'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Graduate Degrees', url='https://www.harvard.edu//programs/?degree_levels=graduate'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Other', url='https://www.harvard.edu/academics/professional-and-lifelong-learning/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Professional and Lifelong Learning', url='https://www.harvard.edu/academics/professional-and-lifelong-learning/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Harvard Online', url='https://www.harvardonline.harvard.edu/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Harvard Schools', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='Academics', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Explore more', url='/schools/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard College', url='https://college.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Business School', url='http://www.hbs.edu'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Division of Continuing Education', url='https://www.dce.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Divinity School', url='https://hds.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Faculty of Arts and Sciences', url='https://www.fas.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Kenneth C. Griffin Graduate School of Arts and Sciences', url='https://gsas.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Graduate School of Design', url='https://www.gsd.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Graduate School of Education', url='https://www.gse.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard John A. Paulson School of Engineering and Applied Sciences', url='https://www.seas.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Kennedy School', url='https://www.hks.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Law School', url='https://hls.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Medical School', url='https://hms.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Radcliffe Institute', url='https://www.radcliffe.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard School of Dental Medicine', url='https://hsdm.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard T.H. Chan School of Public Health', url='https://www.hsph.harvard.edu/'] }
+                        { tag='li', class='nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children', buttons=[text='Campus', url=''] }
+                              { tag='div', class='nav-primary__back nav-primary__back--depth-1', buttons=[text='Campus', url=''] }
+                                { tag='strong', class='nav-primary__subsec-title', buttons=[text='Harvard's Campus', url='https://www.harvard.edu/campus/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Libraries', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='Campus', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Explore our libraries', url='https://www.harvard.edu/campus/libraries/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Arnold Arboretum Horticultural Library', url='https://arboretum.harvard.edu/research/library/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Baker Library and Special Collections', url='https://www.library.hbs.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Biblioteca Berenson', url='http://itatti.harvard.edu/berenson-library'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Botany Libraries', url='https://huh.harvard.edu/libraries'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Cabot Science Library', url='https://library.harvard.edu/libraries/cabot'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Countway Library', url='https://countway.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Dumbarton Oaks Research Library', url='https://www.doaks.org/research/library-archives'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Ernst Mayr Library', url='https://library.mcz.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Fine Arts Library', url='https://library.harvard.edu/libraries/fine-arts'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Frances Loeb Library', url='https://www.gsd.harvard.edu/frances-loeb-library/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Fung Library', url='https://library.harvard.edu/libraries/fung'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Gutman Library', url='https://www.gse.harvard.edu/community/library'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Divinity School Library', url='https://library.hds.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Film Archive', url='https://harvardfilmarchive.org/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Law School Library', url='https://hls.harvard.edu/library/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Map Collection', url='https://library.harvard.edu/libraries/harvard-map-collection'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard University Archives', url='https://library.harvard.edu/libraries/harvard-university-archives'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard-Yenching Library', url='https://library.harvard.edu/libraries/yenching'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='HKS Library and Knowledge Services', url='https://www.hks.harvard.edu/research-insights/library-knowledge-services'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Houghton Library', url='https://library.harvard.edu/libraries/houghton'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Lamont Library', url='https://library.harvard.edu/libraries/lamont'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Loeb Music Library', url='https://library.harvard.edu/libraries/loeb-music'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Robbins Library of Philosophy', url='https://library.harvard.edu/libraries/robbins-philosophy'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Schlesinger Library on the History of Women in America', url='https://www.radcliffe.harvard.edu/schlesinger-library'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Tozzer Library', url='https://library.harvard.edu/libraries/tozzer'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Widener Library', url='https://library.harvard.edu/libraries/widener'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Woodberry Poetry Room', url='https://library.harvard.edu/libraries/poetryroom'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Museums', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='Campus', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Explore our museums', url='https://www.harvard.edu/campus/museums/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='The Arnold Arboretum', url='http://www.arboretum.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Carpenter Center for the Visual Arts', url='http://ccva.fas.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Collection of Historical Scientific Instruments', url='http://chsi.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Graduate School of Design Exhibitions', url='http://www.gsd.harvard.edu/exhibitions/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Art Museums', url='http://www.harvardartmuseums.org/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Forest', url='https://harvardforest.fas.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Museum of Natural History', url='http://www.hmnh.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='The Harvard Museum of the Ancient Near East', url='https://hmane.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Museums of Science and Culture', url='http://hmsc.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard University Herbaria', url='http://www.huh.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Mineralogical and Geological Museum', url='http://mgmh.fas.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Museum of Comparative Zoology', url='http://www.mcz.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='The Peabody Museum of Archaeology and Ethnology', url='http://www.peabody.harvard.edu/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Warren Anatomical Museum', url='https://countway.harvard.edu/center-history-medicine/collections-research-access/warren-anatomical-museum-collection'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Athletics', url='https://www.harvard.edu/campus/athletics/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Work at Harvard', url='https://www.harvard.edu/campus/work-at-harvard/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Events', url='https://news.harvard.edu/gazette/harvard-events/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Commencement', url='http://commencement.harvard.edu/'] }
+                        { tag='li', class='nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children', buttons=[text='In Focus', url=''] }
+                              { tag='div', class='nav-primary__back nav-primary__back--depth-1', buttons=[text='In Focus', url=''] }
+                                { tag='strong', class='nav-primary__subsec-title', buttons=[text='In Focus', url='https://www.harvard.edu/in-focus/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Progress at Risk', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='In Focus', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Learn what's at risk', url='https://www.harvard.edu/in-focus/progress-at-risk/'] }
+                                        { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-content_cards', buttons=[text='How federal funding transformed American research', url='https://magazine.hms.harvard.edu/articles/brief-history-federal-funding-basic-science'] }
+                                        { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-content_cards', buttons=[text='Why threats to research are threats to U.S. innovation and growth', url='https://news.harvard.edu/gazette/story/2025/05/funding-today-entrepreneurship-tomorrow-or-not/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Driving American Innovation', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='In Focus', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Explore our innovation', url='https://www.harvard.edu/in-focus/driving-american-innovation/'] }
+                                        { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-content_cards', buttons=[text='How Harvard innovation moves from lab to market', url='https://www.youtube.com/watch?v=zg_YhoUSKbk'] }
+                                        { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-content_cards', buttons=[text='The world’s longest-running scientific examination of human health and happiness', url='https://news.harvard.edu/gazette/story/2025/05/things-money-cant-buy-like-happiness-and-better-health/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Ideas to Enterprise', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='In Focus', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Venture in', url='https://www.harvard.edu/in-focus/businesses-from-harvard/'] }
+                                        { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-content_cards', buttons=[text='How innovation moves from lab to market', url='https://www.youtube.com/watch?v=zg_YhoUSKbk'] }
+                                        { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-content_cards', buttons=[text='The 2025 Harvard President’s Innovation Challenge winners', url='https://news.harvard.edu/gazette/story/2025/05/redefining-whats-possible/'] }
+                        { tag='li', class='nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children', buttons=[text='Visit', url=''] }
+                              { tag='div', class='nav-primary__back nav-primary__back--depth-1', buttons=[text='Visit', url=''] }
+                                { tag='strong', class='nav-primary__subsec-title', buttons=[text='Visit Harvard', url='https://www.harvard.edu/visit/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Tours', url='https://www.harvard.edu/visit/tours/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Maps and directions', url='https://www.harvard.edu/visit/maps-directions/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Tour Providers', url='https://www.harvard.edu/visit/tour-providers/'] }
+                        { tag='li', class='nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children', buttons=[text='About', url=''] }
+                              { tag='div', class='nav-primary__back nav-primary__back--depth-1', buttons=[text='About', url=''] }
+                                { tag='strong', class='nav-primary__subsec-title', buttons=[text='About Harvard', url='https://www.harvard.edu/about/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='History of Harvard', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='About', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Learn more about Harvard's history', url='https://www.harvard.edu/about/history/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='History timeline', url='https://www.harvard.edu/about/history/timeline/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Nobel Laureates', url='https://www.harvard.edu/about/history/nobel-laureates/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Honorary Degrees', url='https://www.harvard.edu/about/history/honorary-degrees/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard shields', url='https://www.harvard.edu/about/history/shields/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Leadership and governance', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='About', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Learn about our Leadership', url='https://www.harvard.edu/about/leadership-and-governance/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='President', url='https://www.harvard.edu//president/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Officers and Deans', url='https://www.harvard.edu/about/leadership-and-governance/officers-and-deans/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Harvard Corporation', url='https://www.harvard.edu/about/leadership-and-governance/harvard-corporation/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-standard_list', buttons=[text='Board of Overseers', url='https://www.harvard.edu/about/leadership-and-governance/board-of-overseers/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='University Professorships', url='https://www.harvard.edu/about/university-professorships/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Endowment', url='https://www.harvard.edu/about/endowment/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Belonging', url='https://sites.harvard.edu/ccl/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Harvard in the Community', url='https://www.harvard.edu/about/harvard-in-the-community/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Harvard in the World', url='https://www.harvard.edu/about/harvard-in-the-world/'] }
+                        { tag='li', class='nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children', buttons=[text='News', url=''] }
+                              { tag='div', class='nav-primary__back nav-primary__back--depth-1', buttons=[text='News', url=''] }
+                                { tag='strong', class='nav-primary__subsec-title', buttons=[text='The Harvard Gazette', url='https://news.harvard.edu/gazette/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1 nav-primary__item--has-children nav-primary__item--sub-mob-vis-true', buttons=[text='Trending News Stories', url=''] }
+                                    { tag='div', class='nav-primary__back nav-primary__back--depth-2', buttons=[text='News', url=''] }
+                                    { tag='div', class='nav-primary__subsec-header', buttons=[text='Read more news', url='http://news.harvard.edu'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-gazette', buttons=[text='Will your job survive AI?Expert on future of work says it’s a little early for dire predictions, but there are signs significant change may be coming', url='https://news.harvard.edu/gazette/story/2025/07/will-your-job-survive-ai/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-gazette', buttons=[text='AI leaps from math dunce to whizExperts describe how rapid advances are transforming field and classroom and expanding idea of what’s possible — ‘sky’s the limit’', url='https://news.harvard.edu/gazette/story/2025/07/ai-leaps-from-math-dunce-to-whiz/'] }
+                                    { tag='li', class='nav-primary__item nav-primary__item--depth-2 nav-primary__item--layout-gazette', buttons=[text='Harvard appoints Rabbi Getzel Davis as inaugural director of interfaith engagementPresidential initiative will promote religious literacy and dialogue across faith and non-faith traditions', url='https://news.harvard.edu/gazette/story/2025/07/harvard-appoints-rabbi-getzel-davis-as-inaugural-director-of-interfaith-engagement/'] }
+                              { tag='li', class='nav-primary__item nav-primary__item--depth-1', buttons=[text='Sign up for the Daily Gazette', url='https://www.pages01.net/harvard/gazette?email='] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='A to Z index', url='https://www.harvard.edu/a-to-z/'] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='Find a person', url='https://connections.harvard.edu/'] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='Events', url='https://news.harvard.edu/gazette/harvard-events/'] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='Media Relations', url='/media-relations'] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='Alumni', url='https://alumni.harvard.edu/'] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='Give Now', url='https://alumni.harvard.edu/giving/givenow'] }
+                      { tag='li', class='nav-quick-links-nav__item', buttons=[text='Emergency', url='https://www.harvard.edu/emergency/'] }
+              { tag='div', class='site-nav__brand-inner', buttons=[text='Close', url=''] }
+                { tag='div', class='logo', buttons=[text='Harvard University', url='https://www.harvard.edu/'] }
+                { tag='header', class='c-block__content-block c-block__header b-hero__content-container c-content-block c-content-block--layout-center', buttons=[text='Progress at Risk', url=''] }
+                { tag='header', class='c-block__content-block c-block__header b-stats__header c-content-block c-content-block--layout-layout', buttons=[text='How research funds are used', url=''] }
+                      { tag='p', buttons=[text='thorough, competitive application process', url='https://news.harvard.edu/gazette/story/2025/05/scientists-say-securing-federal-grants-is-worth-the-grind/'] }
+                        { tag='p', buttons=[text='infectious diseases', url='https://www.hsdm.harvard.edu/news/2025/06/impact-federal-funding-hsdms-research', text='the next generation of drugs', url='https://news.harvard.edu/gazette/story/2025/05/miracle-drugs-dont-come-out-of-nowhere/'] }
+                        { tag='p', buttons=[text='slow the economy', url='https://wyss.harvard.edu/news/killing-science-will-strangle-the-economy/', text='shrink the U.S. gross domestic product', url='https://news.harvard.edu/gazette/story/2025/05/funding-today-entrepreneurship-tomorrow-or-not/'] }
+                        { tag='p', buttons=[text='hurt communities and put American lives at risk', url='https://hsph.harvard.edu/news/federal-funding-cuts-will-make-us-less-safe-says-expert/'] }
+                  { tag='div', class='c-video--lazy c-video c-video--trigger-bottom', buttons=[text='Click to Play Video', url='https://www.youtube.com/watch?v=CbqOFd4dwyQ'] }
+                { tag='div', class='c-block__content-block c-block__header b-media-text__content-container c-content-block c-content-block--layout-left', buttons=[text='How Harvard research changes lives', url=''] }
+                { tag='div', class='c-block__content-block c-block__header b-media-text__content-container c-content-block c-content-block--layout-left', buttons=[text='How federal research funding changed America', url=''] }
+                      { tag='p', buttons=[text='For 75 years, the federal government has partnered with academic institutions', url='https://magazine.hms.harvard.edu/articles/brief-history-federal-funding-basic-science'] }
+                      { tag='p', buttons=[text='356 new drugs approved over the past decade, 354 received funding from the National Institutes of Health', url='https://pmc.ncbi.nlm.nih.gov/articles/PMC10148199/'] }
+              { tag='header', class='c-block__content-block c-block__header b-columns__header c-content-block c-content-block--layout-left' }
+                  { tag='div', class='b-columns__col-content t-sink s-sink', buttons=[text='Funding cuts to Harvard have a broad impact', url=''] }
+              { tag='header', class='c-block__content-block c-block__header b-courses__header c-content-block c-content-block--layout-left', buttons=[text='Research at risk', url=''] }
+                  { tag='p', class='c-content-block__cta', buttons=[text='Explore more Harvard research that is threatened', url='https://hms.harvard.edu/research/examples-current-research'] }
+                  { tag='div', class='c-card has-target-link', buttons=[text='Read more', url='https://news.harvard.edu/gazette/story/2025/04/fighting-alzheimers-one-discovery-at-a-time/'] }
+                  { tag='div', class='c-card has-target-link', buttons=[text='Read more', url='https://news.harvard.edu/gazette/story/2025/04/he-got-the-stop-work-order-then-the-scrambling-began/'] }
+                  { tag='div', class='c-card has-target-link', buttons=[text='Read more', url='https://www.hsdm.harvard.edu/news/2025/07/rural-dental-residency-program-new-hampshire-created-pipeline-young-dentists-serve'] }
+                  { tag='div', class='c-card has-target-link', buttons=[text='Read more', url='https://news.harvard.edu/gazette/story/2025/06/young-researchers-als-attack-plan-is-now-a-no-go/'] }
+                  { tag='div', class='c-card has-target-link', buttons=[text='Read more', url='https://hsph.harvard.edu/news/study-to-reduce-infants-life-threatening-food-allergies-at-risk-due-to-federal-cuts/'] }
+                  { tag='div', class='c-card has-target-link', buttons=[text='Read more', url='https://news.harvard.edu/gazette/story/2025/07/as-reading-scores-decline-a-study-primed-to-help-grinds-to-a-halt/'] }
+              { tag='header', class='c-block__content-block c-block__header b-header__header c-content-block c-content-block--layout-left', buttons=[text='From the researchers', url=''] }
+                  { tag='p', class='c-content-block__cta', buttons=[text='Explore other researchers and their work', url='https://hsph.harvard.edu/news/federal-funding-drives-groundbreaking-discoveries-at-harvard-chan-school/'] }
+                      { tag='div', class='c-video--lazy c-video c-video--trigger-bottom', buttons=[text='Click to Play Video', url='https://www.youtube.com/watch?v=VGNRHz5426k'] }
+                              { tag='div', class='c-quote__quote-cta', buttons=[text='Learn more about cuts to his work with veterans', url='https://magazine.hms.harvard.edu/articles/enormous-potential-save-veterans-lives'] }
+                      { tag='div', class='c-quote__quote-cta', buttons=[text='Learn more about cuts to her tuberculosis research', url='https://hsph.harvard.edu/news/tuberculosis-scientist-speaks-out-on-importance-of-research-after-stop-work-order/'] }
+                      { tag='div', class='c-video--lazy c-video c-video--trigger-bottom', buttons=[text='Click to Play Video', url='https://www.youtube.com/watch?v=k_lBj9NjGww'] }
+                              { tag='div', class='c-quote__quote-cta', buttons=[text='Learn more about cuts to his Alzheimer’s work', url='https://magazine.hms.harvard.edu/articles/my-research-devastating-disease-now-threatened'] }
+                      { tag='div', class='c-quote__quote-cta', buttons=[text='Learn more about cuts to her work combating antibiotic-resistant bacteria', url='https://magazine.hms.harvard.edu/articles/i-never-imagined-i-could-be-scientist'] }
+                      { tag='div', class='c-video--lazy c-video c-video--trigger-bottom', buttons=[text='Click to Play Video', url='https://www.youtube.com/watch?v=6wPQCletphk'] }
+              { tag='header', class='c-block__content-block c-block__header b-news__header c-content-block c-content-block--layout-left', buttons=[text='Funding cuts halt medical, technological, and scientific progress', url=''] }
+                  { tag='p', class='c-content-block__cta', buttons=[text='Explore more of Harvard’s research', url='https://news.harvard.edu/gazette/tag/research-powers-progress/'] }
+                  { tag='div', class='b-news__first', buttons=[text='Researchers talk about the uncertain future of their projects', url='', text='Researchers talk about the uncertain future of their projects', url='https://news.harvard.edu/gazette/story/2025/04/freezing-funding-halts-medical-engineering-and-scientific-research/'] }
+                  { tag='div', class='b-news__side-wrap', buttons=[text='Threats to research are a threat to innovation, entrepreneurship, and growth', url='https://wyss.harvard.edu/news/a-letter-from-our-founding-director-bringing-the-american-economic-flywheel-to-a-screeching-halt/'] }
+                    { tag='div', class='b-news__side-content', buttons=[text='Threats to research are a threat to innovation, entrepreneurship, and growth', url=''] }
+                  { tag='div', class='b-news__side-wrap', buttons=[text='Some studies would take decades to recreate if the samples are lost', url='https://hsph.harvard.edu/news/pioneering-nutrition-and-chronic-disease-risk-research-may-soon-be-lost/'] }
+                    { tag='div', class='b-news__side-content', buttons=[text='Some studies would take decades to recreate if the samples are lost', url=''] }
+                  { tag='div', class='b-news__side-wrap', buttons=[text='What’s lost when federal funding for research is abruptly terminated', url='https://hsph.harvard.edu/news/whats-lost-when-federal-funding-for-research-is-abruptly-terminated/'] }
+                    { tag='div', class='b-news__side-content', buttons=[text='What’s lost when federal funding for research is abruptly terminated', url=''] }
+                  { tag='div', class='b-news__side-wrap', buttons=[text='A halt in funding risks the protection of patients in medical research', url='https://news.harvard.edu/gazette/story/2025/04/how-halt-in-funding-hurts-efforts-to-ensure-safety-of-patients-in-medical-research/'] }
+                    { tag='div', class='b-news__side-content', buttons=[text='A halt in funding risks the protection of patients in medical research', url=''] }
+                  { tag='div', class='b-news__side-wrap', buttons=[text='Cuts to climate research endangers all Americans', url='https://salatainstitute.harvard.edu/axing-climate-research-endangers-americans-say-former-officials/'] }
+                    { tag='div', class='b-news__side-content', buttons=[text='Cuts to climate research endangers all Americans', url=''] }
+                { tag='header', class='c-block__content-block c-block__header b-link-list__header c-content-block c-content-block--layout-left', buttons=[text='Related In Focus topics', url=''] }
+                  { tag='li', class='b-link-list__item', buttons=[text='Research Powers Progress', url='https://www.harvard.edu/in-focus/research-powers-progress/'] }
+                  { tag='li', class='b-link-list__item', buttons=[text='What We Learned in 2024', url='https://www.harvard.edu/in-focus/what-we-learned-in-2024/'] }
+                  { tag='li', class='b-link-list__item', buttons=[text='Nobels at Harvard', url='https://www.harvard.edu/in-focus/nobels-at-harvard/'] }
+            { tag='div', class='site-footer__menu-col', buttons=[text='Security & Brand', url=''] }
+                  { tag='li', class='footer-one__item', buttons=[text='Report Copyright Infringement', url='https://www.harvard.edu/copyright-issue/'] }
+                  { tag='li', class='footer-one__item', buttons=[text='Report Security Issue', url='https://www.harvard.edu/security-issue/'] }
+                  { tag='li', class='footer-one__item', buttons=[text='Trademark Notice', url='https://trademark.harvard.edu/pages/trademark-notice'] }
+            { tag='div', class='site-footer__menu-col', buttons=[text='Website', url=''] }
+                  { tag='li', class='footer-two__item', buttons=[text='Accessibility', url='https://accessibility.harvard.edu/'] }
+                  { tag='li', class='footer-two__item', buttons=[text='Digital Accessibility', url='https://accessibility.huit.harvard.edu/digital-accessibility-policy'] }
+                  { tag='li', class='footer-two__item', buttons=[text='Privacy statement', url='https://www.harvard.edu/privacy-statement/'] }
+            { tag='div', class='site-footer__menu-col', buttons=[text='Get In Touch', url=''] }
+                  { tag='li', class='footer-three__item', buttons=[text='Contact Harvard', url='/contact-harvard'] }
+                  { tag='li', class='footer-three__item', buttons=[text='Maps & Directions', url='/maps-directions'] }
+                  { tag='li', class='footer-three__item', buttons=[text='Jobs', url='https://hr.harvard.edu/careers'] }
+            { tag='div', class='site-footer__logo', buttons=[text='', url='https://www.harvard.edu/'] }
+                  { tag='li', class='social-follow__item social-follow__item--instagram', buttons=[text='Instagram', url='https://www.instagram.com/harvard/'] }
+                  { tag='li', class='social-follow__item social-follow__item--tiktok', buttons=[text='TikTok', url='https://www.tiktok.com/@harvard'] }
+                  { tag='li', class='social-follow__item social-follow__item--linkedin', buttons=[text='LinkedIn', url='https://www.linkedin.com/school/harvard-university'] }
+                  { tag='li', class='social-follow__item social-follow__item--facebook', buttons=[text='Facebook', url='https://www.facebook.com/Harvard/'] }
+                  { tag='li', class='social-follow__item social-follow__item--youtube', buttons=[text='YouTube', url='https://www.youtube.com/harvard'] }
