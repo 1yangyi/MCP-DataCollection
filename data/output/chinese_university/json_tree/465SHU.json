@@ -1,0 +1,1968 @@
+[
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "English",
+        "url": "http://en.shu.edu.cn/",
+        "children": [
+          {
+            "text": "招聘",
+            "url": "https://jobs.shu.edu.cn/"
+          },
+          {
+            "text": "访客",
+            "url": "fk.htm"
+          },
+          {
+            "text": "学生",
+            "url": "xs.htm"
+          },
+          {
+            "text": "教师",
+            "url": "js.htm"
+          },
+          {
+            "text": "考生",
+            "url": "https://bkzsw.shu.edu.cn/"
+          },
+          {
+            "text": "校友",
+            "url": "https://alumni.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "学校概况",
+        "url": "xxgk/xxjj.htm",
+        "children": [
+          {
+            "text": "学校简介",
+            "url": "xxgk/xxjj.htm"
+          },
+          {
+            "text": "上大校史",
+            "url": "xxgk/sdxs2.htm"
+          },
+          {
+            "text": "学校机构",
+            "url": "xxgk/xxjg.htm"
+          },
+          {
+            "text": "现任领导",
+            "url": "xxgk/xrld.htm"
+          },
+          {
+            "text": "历任领导",
+            "url": "xxgk/lrld.htm"
+          },
+          {
+            "text": "上大文化",
+            "url": "xxgk/sdwh.htm"
+          },
+          {
+            "text": "上大章程",
+            "url": "xxgk/sdzc.htm"
+          },
+          {
+            "text": "校园风景",
+            "url": "xyfj/bsxq.htm"
+          }
+        ]
+      },
+      {
+        "text": "招生就业",
+        "url": "zsjy.htm",
+        "children": [
+          {
+            "text": "本科生招生",
+            "url": "https://bkzsw.shu.edu.cn/"
+          },
+          {
+            "text": "研究生招生",
+            "url": "https://yjszs.shu.edu.cn/"
+          },
+          {
+            "text": "留学生招生",
+            "url": "https://apply.shu.edu.cn/"
+          },
+          {
+            "text": "继续教育",
+            "url": "https://cce.shu.edu.cn/"
+          },
+          {
+            "text": "就业信息服务网",
+            "url": "https://zbb.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "院系设置",
+        "url": "yxsz.htm"
+      },
+      {
+        "text": "上大书院",
+        "url": "sdsy/sdsygk.htm",
+        "children": [
+          {
+            "text": "上大书院概况",
+            "url": "sdsy/sdsygk.htm"
+          },
+          {
+            "text": "伟长书院",
+            "url": "sdsy/wcsy.htm"
+          },
+          {
+            "text": "秋白书院",
+            "url": "sdsy/qbsy.htm"
+          },
+          {
+            "text": "宏嘉书院",
+            "url": "sdsy/hjsy.htm"
+          },
+          {
+            "text": "青云书院",
+            "url": "sdsy/qysy.htm"
+          },
+          {
+            "text": "泮池书院",
+            "url": "sdsy/pcsy.htm"
+          },
+          {
+            "text": "文荟书院",
+            "url": "sdsy/whsy.htm"
+          },
+          {
+            "text": "日新书院",
+            "url": "sdsy/rxsy.htm"
+          },
+          {
+            "text": "闳约书院",
+            "url": "sdsy/hysy.htm"
+          },
+          {
+            "text": "自强书院",
+            "url": "sdsy/zqsy.htm"
+          },
+          {
+            "text": "尚理书院",
+            "url": "sdsy/slsy1.htm"
+          },
+          {
+            "text": "溯微书院",
+            "url": "sdsy/swsy.htm"
+          },
+          {
+            "text": "丝路书院",
+            "url": "sdsy/slsy.htm"
+          },
+          {
+            "text": "书院管理中心",
+            "url": "sdsy/syglzx.htm"
+          }
+        ]
+      },
+      {
+        "text": "教育教学",
+        "url": "jyjx.htm",
+        "children": [
+          {
+            "text": "教务部",
+            "url": "https://jwb.shu.edu.cn"
+          },
+          {
+            "text": "研究生院",
+            "url": "https://gs.shu.edu.cn/"
+          },
+          {
+            "text": "留学生",
+            "url": "http://www.issc.shu.edu.cn/"
+          },
+          {
+            "text": "继续教育",
+            "url": "https://cce.shu.edu.cn/"
+          },
+          {
+            "text": "西南片联合办学",
+            "url": "http://swuni.shec.edu.cn/"
+          },
+          {
+            "text": "网上教学",
+            "url": "https://learning.shu.edu.cn/portal"
+          },
+          {
+            "text": "教育质量考察与评估办公室",
+            "url": "https://oiqa.shu.edu.cn/"
+          },
+          {
+            "text": "现代教育技术中心",
+            "url": "https://metc.shu.edu.cn/"
+          },
+          {
+            "text": "图书馆",
+            "url": "https://lib.shu.edu.cn/"
+          },
+          {
+            "text": "本科教育教学审核评估",
+            "url": "https://shpg2023.shu.edu.cn"
+          }
+        ]
+      },
+      {
+        "text": "科学研究",
+        "url": "kxyj.htm",
+        "children": [
+          {
+            "text": "上大科研",
+            "url": "kxyj.htm#sdky"
+          },
+          {
+            "text": "科研机构",
+            "url": "kxyj.htm#kyjg"
+          },
+          {
+            "text": "大仪共享",
+            "url": "https://lab.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "领军人物",
+        "url": "ljrw/lyys.htm",
+        "children": [
+          {
+            "text": "两院院士",
+            "url": "ljrw/lyys.htm"
+          },
+          {
+            "text": "国家级教学名师",
+            "url": "ljrw/gjjjxms.htm"
+          }
+        ]
+      },
+      {
+        "text": "合作交流",
+        "url": "https://global.shu.edu.cn/"
+      },
+      {
+        "text": "校园生活",
+        "url": "xysheng_huo.htm",
+        "children": [
+          {
+            "text": "服务指南",
+            "url": "xysheng_huo.htm#1F"
+          },
+          {
+            "text": "信息服务",
+            "url": "xysheng_huo.htm#2F"
+          },
+          {
+            "text": "校园文化",
+            "url": "xysheng_huo.htm#3F"
+          }
+        ]
+      },
+      {
+        "text": "新闻中心",
+        "url": "https://news.shu.edu.cn/",
+        "children": [
+          {
+            "text": "本科生在线教学",
+            "url": "https://learning.shu.edu.cn/portal"
+          },
+          {
+            "text": "研究生在线教学",
+            "url": "http://shuyjs.fanya.chaoxing.com/portal"
+          },
+          {
+            "text": "继续教育在线教学",
+            "url": "http://www.icce.shu.edu.cn/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "首页",
+        "url": "",
+        "children": [
+          {
+            "text": "首页",
+            "url": "index.htm"
+          }
+        ]
+      },
+      {
+        "text": "学校概况",
+        "url": "",
+        "children": [
+          {
+            "text": "学校概况",
+            "url": "xxgk/xxjj.htm"
+          },
+          {
+            "text": "学校简介",
+            "url": ""
+          },
+          {
+            "text": "上大校史",
+            "url": ""
+          },
+          {
+            "text": "学校机构",
+            "url": ""
+          },
+          {
+            "text": "现任领导",
+            "url": ""
+          },
+          {
+            "text": "历任领导",
+            "url": ""
+          },
+          {
+            "text": "上大文化",
+            "url": ""
+          },
+          {
+            "text": "上大章程",
+            "url": ""
+          },
+          {
+            "text": "校园风景",
+            "url": ""
+          },
+          {
+            "text": "学校简介",
+            "url": "xxgk/xxjj.htm"
+          },
+          {
+            "text": "上大校史",
+            "url": "xxgk/sdxs2.htm"
+          },
+          {
+            "text": "学校机构",
+            "url": "xxgk/xxjg.htm"
+          },
+          {
+            "text": "现任领导",
+            "url": "xxgk/xrld.htm"
+          },
+          {
+            "text": "历任领导",
+            "url": "xxgk/lrld.htm"
+          },
+          {
+            "text": "上大文化",
+            "url": "xxgk/sdwh.htm"
+          },
+          {
+            "text": "上大章程",
+            "url": "xxgk/sdzc.htm"
+          },
+          {
+            "text": "校园风景",
+            "url": "xyfj/bsxq.htm"
+          }
+        ]
+      },
+      {
+        "text": "招生就业",
+        "url": "",
+        "children": [
+          {
+            "text": "招生就业",
+            "url": "zsjy.htm"
+          },
+          {
+            "text": "本科生招生",
+            "url": ""
+          },
+          {
+            "text": "研究生招生",
+            "url": ""
+          },
+          {
+            "text": "留学生招生",
+            "url": ""
+          },
+          {
+            "text": "继续教育",
+            "url": ""
+          },
+          {
+            "text": "就业信息服务网",
+            "url": ""
+          },
+          {
+            "text": "本科生招生",
+            "url": "https://bkzsw.shu.edu.cn/"
+          },
+          {
+            "text": "研究生招生",
+            "url": "https://yjszs.shu.edu.cn/"
+          },
+          {
+            "text": "留学生招生",
+            "url": "https://apply.shu.edu.cn/"
+          },
+          {
+            "text": "继续教育",
+            "url": "https://cce.shu.edu.cn/"
+          },
+          {
+            "text": "就业信息服务网",
+            "url": "https://zbb.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "院系设置",
+        "url": "",
+        "children": [
+          {
+            "text": "院系设置",
+            "url": "yxsz.htm"
+          }
+        ]
+      },
+      {
+        "text": "上大书院",
+        "url": "",
+        "children": [
+          {
+            "text": "上大书院",
+            "url": "sdsy/sdsygk.htm"
+          },
+          {
+            "text": "上大书院概况",
+            "url": ""
+          },
+          {
+            "text": "伟长书院",
+            "url": ""
+          },
+          {
+            "text": "秋白书院",
+            "url": ""
+          },
+          {
+            "text": "宏嘉书院",
+            "url": ""
+          },
+          {
+            "text": "青云书院",
+            "url": ""
+          },
+          {
+            "text": "泮池书院",
+            "url": ""
+          },
+          {
+            "text": "文荟书院",
+            "url": ""
+          },
+          {
+            "text": "日新书院",
+            "url": ""
+          },
+          {
+            "text": "闳约书院",
+            "url": ""
+          },
+          {
+            "text": "自强书院",
+            "url": ""
+          },
+          {
+            "text": "尚理书院",
+            "url": ""
+          },
+          {
+            "text": "溯微书院",
+            "url": ""
+          },
+          {
+            "text": "丝路书院",
+            "url": ""
+          },
+          {
+            "text": "书院管理中心",
+            "url": ""
+          },
+          {
+            "text": "上大书院概况",
+            "url": "sdsy/sdsygk.htm"
+          },
+          {
+            "text": "伟长书院",
+            "url": "sdsy/wcsy.htm"
+          },
+          {
+            "text": "秋白书院",
+            "url": "sdsy/qbsy.htm"
+          },
+          {
+            "text": "宏嘉书院",
+            "url": "sdsy/hjsy.htm"
+          },
+          {
+            "text": "青云书院",
+            "url": "sdsy/qysy.htm"
+          },
+          {
+            "text": "泮池书院",
+            "url": "sdsy/pcsy.htm"
+          },
+          {
+            "text": "文荟书院",
+            "url": "sdsy/whsy.htm"
+          },
+          {
+            "text": "日新书院",
+            "url": "sdsy/rxsy.htm"
+          },
+          {
+            "text": "闳约书院",
+            "url": "sdsy/hysy.htm"
+          },
+          {
+            "text": "自强书院",
+            "url": "sdsy/zqsy.htm"
+          },
+          {
+            "text": "尚理书院",
+            "url": "sdsy/slsy1.htm"
+          },
+          {
+            "text": "溯微书院",
+            "url": "sdsy/swsy.htm"
+          },
+          {
+            "text": "丝路书院",
+            "url": "sdsy/slsy.htm"
+          },
+          {
+            "text": "书院管理中心",
+            "url": "sdsy/syglzx.htm"
+          }
+        ]
+      },
+      {
+        "text": "教育教学",
+        "url": "",
+        "children": [
+          {
+            "text": "教育教学",
+            "url": "jyjx.htm"
+          },
+          {
+            "text": "教务部",
+            "url": ""
+          },
+          {
+            "text": "研究生院",
+            "url": ""
+          },
+          {
+            "text": "留学生",
+            "url": ""
+          },
+          {
+            "text": "继续教育",
+            "url": ""
+          },
+          {
+            "text": "西南片联合办学",
+            "url": ""
+          },
+          {
+            "text": "网上教学",
+            "url": ""
+          },
+          {
+            "text": "教育质量考察与评估办公室",
+            "url": ""
+          },
+          {
+            "text": "现代教育技术中心",
+            "url": ""
+          },
+          {
+            "text": "人才学院",
+            "url": ""
+          },
+          {
+            "text": "图书馆",
+            "url": ""
+          },
+          {
+            "text": "本科教育教学审核评估",
+            "url": ""
+          },
+          {
+            "text": "教务部",
+            "url": "https://jwb.shu.edu.cn"
+          },
+          {
+            "text": "研究生院",
+            "url": "https://gs.shu.edu.cn/"
+          },
+          {
+            "text": "留学生",
+            "url": "http://www.issc.shu.edu.cn/"
+          },
+          {
+            "text": "继续教育",
+            "url": "https://cce.shu.edu.cn/"
+          },
+          {
+            "text": "西南片联合办学",
+            "url": "http://swuni.shec.edu.cn/"
+          },
+          {
+            "text": "网上教学",
+            "url": "https://learning.shu.edu.cn/portal"
+          },
+          {
+            "text": "教育质量考察与评估办公室",
+            "url": "https://oiqa.shu.edu.cn/"
+          },
+          {
+            "text": "现代教育技术中心",
+            "url": "https://metc.shu.edu.cn/"
+          },
+          {
+            "text": "图书馆",
+            "url": "https://lib.shu.edu.cn/"
+          },
+          {
+            "text": "本科教育教学审核评估",
+            "url": "https://shpg2023.shu.edu.cn"
+          }
+        ]
+      },
+      {
+        "text": "科学研究",
+        "url": "",
+        "children": [
+          {
+            "text": "科学研究",
+            "url": "kxyj.htm"
+          },
+          {
+            "text": "上大科研",
+            "url": ""
+          },
+          {
+            "text": "科研机构",
+            "url": ""
+          },
+          {
+            "text": "大仪共享",
+            "url": ""
+          },
+          {
+            "text": "上大科研",
+            "url": "kxyj.htm#sdky"
+          },
+          {
+            "text": "科研机构",
+            "url": "kxyj.htm#kyjg"
+          },
+          {
+            "text": "大仪共享",
+            "url": "https://lab.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "领军人物",
+        "url": "",
+        "children": [
+          {
+            "text": "领军人物",
+            "url": "ljrw/lyys.htm"
+          },
+          {
+            "text": "两院院士",
+            "url": ""
+          },
+          {
+            "text": "国家级教学名师",
+            "url": ""
+          },
+          {
+            "text": "两院院士",
+            "url": "ljrw/lyys.htm"
+          },
+          {
+            "text": "国家级教学名师",
+            "url": "ljrw/gjjjxms.htm"
+          }
+        ]
+      },
+      {
+        "text": "合作交流",
+        "url": "",
+        "children": [
+          {
+            "text": "合作交流",
+            "url": "https://global.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "校园生活",
+        "url": "",
+        "children": [
+          {
+            "text": "校园生活",
+            "url": "xysheng_huo.htm"
+          },
+          {
+            "text": "服务指南",
+            "url": ""
+          },
+          {
+            "text": "信息服务",
+            "url": ""
+          },
+          {
+            "text": "校园文化",
+            "url": ""
+          },
+          {
+            "text": "服务指南",
+            "url": "xysheng_huo.htm#1F"
+          },
+          {
+            "text": "信息服务",
+            "url": "xysheng_huo.htm#2F"
+          },
+          {
+            "text": "校园文化",
+            "url": "xysheng_huo.htm#3F"
+          }
+        ]
+      },
+      {
+        "text": "新闻中心",
+        "url": "",
+        "children": [
+          {
+            "text": "新闻中心",
+            "url": "https://news.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "网上教学",
+        "url": "",
+        "children": [
+          {
+            "text": "本科生在线教学",
+            "url": ""
+          },
+          {
+            "text": "研究生在线教学",
+            "url": ""
+          },
+          {
+            "text": "继续教育在线教学",
+            "url": ""
+          },
+          {
+            "text": "本科生在线教学",
+            "url": "https://learning.shu.edu.cn/portal"
+          },
+          {
+            "text": "研究生在线教学",
+            "url": "http://shuyjs.fanya.chaoxing.com/portal"
+          },
+          {
+            "text": "继续教育在线教学",
+            "url": "http://www.icce.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "2025毕业典礼点播",
+        "url": "",
+        "children": [
+          {
+            "text": "2025毕业典礼点播",
+            "url": "bydl.htm"
+          }
+        ]
+      },
+      {
+        "text": "2024开学典礼点播",
+        "url": "",
+        "children": [
+          {
+            "text": "2024开学典礼点播",
+            "url": "kxdl.htm"
+          }
+        ]
+      },
+      {
+        "text": "2024迎新晚会点播",
+        "url": "",
+        "children": [
+          {
+            "text": "2024迎新晚会点播",
+            "url": "yxwhdb.htm"
+          }
+        ]
+      },
+      {
+        "text": "访客",
+        "url": "fk.htm"
+      },
+      {
+        "text": "学生",
+        "url": "xs.htm"
+      },
+      {
+        "text": "教师",
+        "url": "js.htm"
+      },
+      {
+        "text": "考生",
+        "url": "https://bkzsw.shu.edu.cn/"
+      },
+      {
+        "text": "校友",
+        "url": "https://alumni.shu.edu.cn/"
+      },
+      {
+        "text": "招聘",
+        "url": "https://jobs.shu.edu.cn"
+      },
+      {
+        "text": "English",
+        "url": "http://en.shu.edu.cn/"
+      },
+      {
+        "text": "一网通办",
+        "url": "https://eportal.shu.edu.cn/"
+      },
+      {
+        "text": "",
+        "url": "https://mp.weixin.qq.com/s/2PXD3vPc1m3Kgcv9vZ4QOg"
+      },
+      {
+        "text": "",
+        "url": "xyfj/bsxq.htm"
+      },
+      {
+        "text": "",
+        "url": "xyfj/bsxq.htm"
+      },
+      {
+        "text": "",
+        "url": "https://mp.weixin.qq.com/s/2PXD3vPc1m3Kgcv9vZ4QOg"
+      },
+      {
+        "text": "",
+        "url": "xyfj/bsxq.htm"
+      },
+      {
+        "text": "",
+        "url": "xyfj/bsxq.htm"
+      },
+      {
+        "text": "信息门户",
+        "url": "https://eportal.shu.edu.cn/"
+      },
+      {
+        "text": "一网通办",
+        "url": "https://eportal.shu.edu.cn/"
+      },
+      {
+        "text": "电子邮件",
+        "url": "https://newmail.shu.edu.cn/"
+      },
+      {
+        "text": "PIM流程",
+        "url": "https://pim.shu.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "url": "https://lib.shu.edu.cn/"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "bydldb.htm"
+  },
+  {
+    "text": "",
+    "url": "kxdl.htm"
+  },
+  {
+    "text": "",
+    "url": "yxwhdb.htm"
+  },
+  {
+    "text": "重要新闻Important News",
+    "url": "",
+    "children": [
+      {
+        "text": "",
+        "url": "zyxw.htm",
+        "children": [
+          {
+            "text": "",
+            "url": "https://mp.weixin.qq.com/s/YggY8oOYyE9hb--66Tp5yg"
+          },
+          {
+            "text": "环球自然日2025年度全国总决选在上海大学开幕",
+            "url": "https://mp.weixin.qq.com/s/YggY8oOYyE9hb--66Tp5yg"
+          },
+          {
+            "text": "",
+            "url": "https://mp.weixin.qq.com/s/ZVjt5YBJ2nZ5R6LLjBZbWw"
+          },
+          {
+            "text": "上海大学召开干部大会宣布领导班子调整决定",
+            "url": "https://mp.weixin.qq.com/s/ZVjt5YBJ2nZ5R6LLjBZbWw"
+          },
+          {
+            "text": "",
+            "url": "info/1053/378385.htm"
+          },
+          {
+            "text": "光影十载 筑梦未来！",
+            "url": "info/1053/378385.htm"
+          },
+          {
+            "text": "",
+            "url": "info/1053/378165.htm"
+          },
+          {
+            "text": "中国共产党上海大学第四届委员会第三次全体（扩大）会...",
+            "url": "info/1053/378165.htm"
+          },
+          {
+            "text": "",
+            "url": "https://mp.weixin.qq.com/s/sXx3q6uCEJOblopdP8ZiLg"
+          },
+          {
+            "text": "上海大学召开庆祝中国共产党成立104周年座谈会",
+            "url": "https://mp.weixin.qq.com/s/sXx3q6uCEJOblopdP8ZiLg"
+          },
+          {
+            "text": "上大要闻College News",
+            "url": ""
+          },
+          {
+            "text": "环球自然日2025年度全国总决选在上海大学开幕",
+            "url": "https://mp.weixin.qq.com/s/YggY8oOYyE9hb--66Tp5yg"
+          },
+          {
+            "text": "",
+            "url": "zyxw.htm"
+          },
+          {
+            "text": "上大要闻College News",
+            "url": ""
+          },
+          {
+            "text": "上海大学召开干部大会宣布领导班子调整决定",
+            "url": "https://mp.weixin.qq.com/s/ZVjt5YBJ2nZ5R6LLjBZbWw"
+          },
+          {
+            "text": "",
+            "url": "zyxw.htm"
+          },
+          {
+            "text": "上大要闻College News",
+            "url": ""
+          },
+          {
+            "text": "光影十载 筑梦未来！",
+            "url": "info/1053/378385.htm"
+          },
+          {
+            "text": "",
+            "url": "zyxw.htm"
+          },
+          {
+            "text": "上大要闻College News",
+            "url": ""
+          },
+          {
+            "text": "中国共产党上海大学第四届委员会第三次全体（扩大）会议召开",
+            "url": "info/1053/378165.htm"
+          },
+          {
+            "text": "",
+            "url": "zyxw.htm"
+          },
+          {
+            "text": "上大要闻College News",
+            "url": ""
+          },
+          {
+            "text": "上海大学召开庆祝中国共产党成立104周年座谈会",
+            "url": "https://mp.weixin.qq.com/s/sXx3q6uCEJOblopdP8ZiLg"
+          },
+          {
+            "text": "",
+            "url": "zyxw.htm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "通知公告Notice",
+    "url": "",
+    "children": [
+      {
+        "text": "",
+        "url": "tzgg.htm",
+        "children": [
+          {
+            "text": "关于2024-2025学年暑假工作安排的通知",
+            "url": "info/1051/376565.htm"
+          },
+          {
+            "text": "嘉定校区扩建工程施工公告",
+            "url": "info/1051/374395.htm"
+          },
+          {
+            "text": "关于教工体检开放预约的通知",
+            "url": "info/1051/373705.htm"
+          },
+          {
+            "text": "施工公告",
+            "url": "info/1051/372455.htm"
+          },
+          {
+            "text": "关于全面加强2025年春季爱国卫生运动的通知",
+            "url": "info/1051/371945.htm"
+          },
+          {
+            "text": "关于2025年清明节、劳动节、端午节放假安排的通知",
+            "url": "info/1051/369125.htm"
+          }
+        ]
+      },
+      {
+        "text": "综合新闻Comprehensive News",
+        "url": "",
+        "children": [
+          {
+            "text": "",
+            "url": "zhxw.htm",
+            "children": [
+              {
+                "text": "我校马克思主义学院学子赴贵州遵义开展暑期社会实践并亮相全国性展演",
+                "url": "info/1056/379135.htm"
+              },
+              {
+                "text": "2025·第十届中学生ETS大会在上海大学举行",
+                "url": "info/1056/379125.htm"
+              },
+              {
+                "text": "2025国际可靠性维修性安全性会议在上海大学成功举行",
+                "url": "info/1056/379105.htm"
+              },
+              {
+                "text": "马克思主义学院“青马之声”理论宣讲团赴新疆喀什宣讲并成为“沪喀青年宣讲联盟”首批成员",
+                "url": "info/1056/379095.htm"
+              },
+              {
+                "text": "学校召开学期制优化改革第七次工作推进会",
+                "url": "info/1056/379085.htm"
+              },
+              {
+                "text": "全国高校商务管理研究会第36次年会成功举办",
+                "url": "info/1056/379075.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "科研动态Scientific Research",
+        "url": "",
+        "children": [
+          {
+            "text": "",
+            "url": "kydt1.htm",
+            "children": [
+              {
+                "text": "理学院赵宏滨/叶代新团队在《Journal of the A...",
+                "url": "info/1055/379115.htm"
+              },
+              {
+                "text": "法学院、知识产权学院青年教师蔡葵在《光明日...",
+                "url": "info/1055/379005.htm"
+              },
+              {
+                "text": "Cell子刊：DNA水凝胶调控雌性生殖干细胞命运取...",
+                "url": "info/1055/378975.htm"
+              },
+              {
+                "text": "环化学院石国升研究员团队在《Physical Review...",
+                "url": "info/1055/378955.htm"
+              },
+              {
+                "text": "社会学院纪莺莺教授在《社会学研究》发表最新...",
+                "url": "info/1055/378905.htm"
+              },
+              {
+                "text": "欧洲催化理事会主席Weckhuysen教授受聘我校荣...",
+                "url": "info/1055/378745.htm"
+              },
+              {
+                "text": "环化学院蒋永课题组在《Advanced Materials》...",
+                "url": "info/1055/378665.htm"
+              },
+              {
+                "text": "上海大学CAST团队热裂纹预测研究取得新进展",
+                "url": "info/1055/378635.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "媒体聚焦Media News",
+        "url": "",
+        "children": [
+          {
+            "text": "",
+            "url": "mtjj.htm",
+            "children": [
+              {
+                "text": "中国科学报：上海大学校长刘昌胜：做时代的“解码者”“行动派”“弄潮儿”",
+                "url": "https://rmtzx.sciencenet.cn/mixmedia/a/202507/02/WS6864ebe8e4b0cb2d1eeda64f.html"
+              },
+              {
+                "text": "新民·上观：上海大学举办专题展览，弘扬伟大抗战精神",
+                "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=938944"
+              },
+              {
+                "text": "东方教育时报：“上海归国影人培育基地”揭牌成立，温仕培、周全、赵浩等人入驻",
+                "url": "https://article.xuexi.cn/articles/index.html?art_id=8737813994352384788&source=share&study_style_id=feeds_opaque&reco_id=103294e9cacfc0a88580000o&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=8737813994352384788"
+              },
+              {
+                "text": "新民·上观：上海大学毕业典礼，勉励毕业生“乘时向新 图南致远”",
+                "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=938610"
+              },
+              {
+                "text": "解放·上观：从院士校长到新任校长，这些都是毕业季他们最想说的诤言",
+                "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=938474"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "",
+        "url": "zhxw.htm"
+      },
+      {
+        "text": "",
+        "url": "kydt1.htm"
+      },
+      {
+        "text": "",
+        "url": "mtjj.htm",
+        "children": [
+          {
+            "text": "",
+            "url": "info/1056/378005.htm"
+          },
+          {
+            "text": "2025新闻传播学院举办中央八项规定精神学习教育警示教育会议暨党委理论学习中心组（扩大）学习会",
+            "url": "info/1056/378005.htm"
+          },
+          {
+            "text": "我校马克思主义学院学子赴贵州遵义开展暑期社会实践并亮相全国性展演",
+            "url": "info/1056/379135.htm"
+          },
+          {
+            "text": "2025·第十届中学生ETS大会在上海大学举行",
+            "url": "info/1056/379125.htm"
+          },
+          {
+            "text": "2025国际可靠性维修性安全性会议在上海大学成功举行",
+            "url": "info/1056/379105.htm"
+          },
+          {
+            "text": "马克思主义学院“青马之声”理论宣讲团赴新疆喀什宣讲并成为“沪喀青年宣讲联盟”首批成员",
+            "url": "info/1056/379095.htm"
+          },
+          {
+            "text": "学校召开学期制优化改革第七次工作推进会",
+            "url": "info/1056/379085.htm"
+          },
+          {
+            "text": "理学院赵宏滨/叶代新团队在《Journal of the American Chemical Society》上发表最新研究成果",
+            "url": "info/1055/379115.htm"
+          },
+          {
+            "text": "法学院、知识产权学院青年教师蔡葵在《光明日报》发表研究论文",
+            "url": "info/1055/379005.htm"
+          },
+          {
+            "text": "Cell子刊：DNA水凝胶调控雌性生殖干细胞命运取得重要进展",
+            "url": "info/1055/378975.htm"
+          },
+          {
+            "text": "环化学院石国升研究员团队在《Physical Review Letters》发表最新研究成果",
+            "url": "info/1055/378955.htm"
+          },
+          {
+            "text": "社会学院纪莺莺教授在《社会学研究》发表最新研究成果",
+            "url": "info/1055/378905.htm"
+          },
+          {
+            "text": "欧洲催化理事会主席Weckhuysen教授受聘我校荣誉教授并作学术报告",
+            "url": "info/1055/378745.htm"
+          },
+          {
+            "text": "环化学院蒋永课题组在《Advanced Materials》上发表固态电解质锂电池研究成果",
+            "url": "info/1055/378665.htm"
+          },
+          {
+            "text": "上海大学CAST团队热裂纹预测研究取得新进展",
+            "url": "info/1055/378635.htm"
+          },
+          {
+            "text": "中国科学报：上海大学校长刘昌胜：做时代的“解码者”“行动派”“弄潮儿”",
+            "url": "https://rmtzx.sciencenet.cn/mixmedia/a/202507/02/WS6864ebe8e4b0cb2d1eeda64f.html"
+          },
+          {
+            "text": "新民·上观：上海大学举办专题展览，弘扬伟大抗战精神",
+            "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=938944"
+          },
+          {
+            "text": "东方教育时报：“上海归国影人培育基地”揭牌成立，温仕培、周全、赵浩等人入驻",
+            "url": "https://article.xuexi.cn/articles/index.html?art_id=8737813994352384788&source=share&study_style_id=feeds_opaque&reco_id=103294e9cacfc0a88580000o&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=8737813994352384788"
+          },
+          {
+            "text": "新民·上观：上海大学毕业典礼，勉励毕业生“乘时向新 图南致远”",
+            "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=938610"
+          },
+          {
+            "text": "解放·上观：从院士校长到新任校长，这些都是毕业季他们最想说的诤言",
+            "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=938474"
+          },
+          {
+            "text": "更多",
+            "url": "xnrc/xsbg.htm",
+            "children": [
+              {
+                "text": "523期行健讲坛：基于双光频梳的光纤传感",
+                "url": "info/1062/378935.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1062/378935.htm"
+              },
+              {
+                "text": "524期行健讲坛：光纤成像传输技术的最新进展",
+                "url": "info/1062/378925.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1062/378925.htm"
+              },
+              {
+                "text": "基于调制函数的非渐近状态估计",
+                "url": "info/1062/378705.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1062/378705.htm"
+              },
+              {
+                "text": "维修权与产品设计：经济及环境效益启示",
+                "url": "info/1062/378695.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1062/378695.htm"
+              },
+              {
+                "text": "基于纳米线的混合集成光子电路",
+                "url": "info/1062/378685.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1062/378685.htm"
+              }
+            ]
+          },
+          {
+            "text": "更多",
+            "url": "xnrc/whxx.htm",
+            "children": [
+              {
+                "text": "关于组织参加第八届上海高校网络文化节的通知",
+                "url": "info/1060/378775.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1060/378775.htm"
+              },
+              {
+                "text": "“丰碑永驻——上海大学纪念中国人民抗日战争暨 世界反法西斯战争胜利...",
+                "url": "info/1060/377295.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1060/377295.htm"
+              },
+              {
+                "text": "上海高校江南文化与海派文化育人联盟工作交流研讨会召开",
+                "url": "info/1060/377025.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1060/377025.htm"
+              },
+              {
+                "text": "展览预告 | “斯文在兹：西南联大学人墨迹展”即将在上海大学博物馆举...",
+                "url": "info/1060/373725.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1060/373725.htm"
+              },
+              {
+                "text": "“云上一公里”｜2025上海美术学院毕业作品展启幕",
+                "url": "info/1060/372825.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1060/372825.htm"
+              }
+            ]
+          },
+          {
+            "text": "更多",
+            "url": "xnrc/xnhy.htm",
+            "children": [
+              {
+                "text": "2024年上海大学“敬老月”活动协调会",
+                "url": "info/1059/352875.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1059/352875.htm"
+              },
+              {
+                "text": "人工智能时代的人才培养:机遇与挑战2024年第九届上海大学国际教育论坛",
+                "url": "info/1059/347545.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1059/347545.htm"
+              },
+              {
+                "text": "2023年上海大学“敬老月”活动协调会",
+                "url": "info/1059/318725.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1059/318725.htm"
+              },
+              {
+                "text": "上海大学关工委工作推进会",
+                "url": "info/1059/309934.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1059/309934.htm"
+              },
+              {
+                "text": "上海大学党委学习贯彻习近平新时代中国特色社会主义思想主题教育读书...",
+                "url": "info/1059/309544.htm"
+              },
+              {
+                "text": "了解详情",
+                "url": "info/1059/309544.htm"
+              },
+              {
+                "text": "蔡和森1895—1931中国无产阶级革命家，中国共产党的早期领导人。",
+                "url": "info/1666/272752.htm"
+              },
+              {
+                "text": "邓中夏1894—1933中国无产阶级革命家，中国早期工人运动领导人。",
+                "url": "info/1666/272862.htm"
+              },
+              {
+                "text": "关向应1902—19461924年5月进入上海大学学习。1934年10月与贺龙、任弼时创建了湘鄂川黔革命根据地。",
+                "url": "info/1666/272962.htm"
+              },
+              {
+                "text": "秦邦宪1907—19461925年9月，进入上海大学学习。1931年9月起为中共临时中央局成员、临时中央局政治局书记和负责人。",
+                "url": "info/1666/273382.htm"
+              },
+              {
+                "text": "任弼时1904—1950马克思列宁主义者，无产阶级革命家、政治家、组织家，中国共产党、中国人民解放军的主要领导人。",
+                "url": "info/1666/273412.htm"
+              },
+              {
+                "text": "沈雁冰1896—1981中国共产党发起组织成员。1923年到上海大学任教。",
+                "url": "info/1666/273462.htm"
+              },
+              {
+                "text": "萧楚女1893—1927中国共产党早期理论家。1925年5月到上海大学任教。",
+                "url": "info/1666/273612.htm"
+              },
+              {
+                "text": "杨尚昆1907—1998新中国成立后，任中共中央办公厅主任、中共中央军委常务副主席兼秘书长、中央政治局委员等职。1988年4月当选为中华人民共和国主席。",
+                "url": "info/1666/273702.htm"
+              },
+              {
+                "text": "恽代英1895—1931中国无产阶级革命家，中国共产党早期领导人。",
+                "url": "info/1666/273792.htm"
+              },
+              {
+                "text": "陈望道1891—1977中国教育家，语言学家、中国共产党发起组织成员。",
+                "url": "info/1666/272822.htm"
+              },
+              {
+                "text": "丁玲1904—1986作家、社会活动家。",
+                "url": "info/1666/272872.htm"
+              },
+              {
+                "text": "李硕勋1903—19311923 年底进入上海大学学习。先后任第七届全国学生联合总会会长兼党团书记、第八届全国学联总会会长。",
+                "url": "info/1666/273222.htm"
+              },
+              {
+                "text": "瞿秋白1899—1935中国无产阶级革命家、理论家、宣传家，中国共产党早期领导人。",
+                "url": "info/1666/273402.htm"
+              },
+              {
+                "text": "邵力子1882—1967中国共产党发起组织成员。1922年10月任上海大学副校长。",
+                "url": "info/1666/273432.htm"
+              },
+              {
+                "text": "王稼祥1906—1974无产阶级革命家。1925年8月进入上海大学学习。",
+                "url": "info/1666/273532.htm"
+              },
+              {
+                "text": "许继慎1901—19311923年秋进入上海大学学习。1924年5月考取黄埔军校，为第一期学员。",
+                "url": "info/1666/273642.htm"
+              },
+              {
+                "text": "于右任1879—19641922年10月任上海大学校长。",
+                "url": "info/1666/273752.htm"
+              },
+              {
+                "text": "张太雷1898—1927中国无产阶级革命家。1924年8月到上海大学任教。后任中国共产主义青年团中央总书记。",
+                "url": "info/1666/273852.htm"
+              },
+              {
+                "text": "《上海大学章程》（20世纪20年代）",
+                "url": "info/1667/269312.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269312.htm"
+              },
+              {
+                "text": "《社会主义释疑》等系列演讲",
+                "url": "info/1667/269322.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269322.htm"
+              },
+              {
+                "text": "《劳动常识》（上海大学平民学校教材）",
+                "url": "info/1667/269302.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269302.htm"
+              },
+              {
+                "text": "《社会科学讲义》丛书（《现代社会学》(瞿秋白)、《社会哲学概论》(瞿秋白)、《现代经济学》（安体诚）、《社会运动史》（施存统）、《社会思想史》（施存统）、《社会问题》（施存统）、《唯物史观》（董亦湘）、《民族革命讲演大纲》（董亦湘））",
+                "url": "info/1667/269332.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269332.htm"
+              },
+              {
+                "text": "《马克思政治学》",
+                "url": "info/1667/270102.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/270102.htm"
+              },
+              {
+                "text": "上大五卅特刊",
+                "url": "info/1667/270322.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/270322.htm"
+              },
+              {
+                "text": "《社会进化史》",
+                "url": "info/1667/270022.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/270022.htm"
+              },
+              {
+                "text": "《少年漂泊者》",
+                "url": "info/1667/270252.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/270252.htm"
+              },
+              {
+                "text": "《通俗资本论》（李季编译）",
+                "url": "info/1667/269342.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269342.htm"
+              },
+              {
+                "text": "微波原理著作；单模光纤技术，国内第一根单模光纤；建立了变速旋扭双折射特种光纤的一套完整理论。",
+                "url": "info/1667/270302.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/270302.htm"
+              },
+              {
+                "text": "《工业电视》上下册，科学出版社； 6*6多功能组合屏彩色电视墙； 三维自由视点电视关键技术研发及在世博会中国馆中的应用",
+                "url": "info/1667/269412.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269412.htm"
+              },
+              {
+                "text": "不锈钢冶炼新工艺",
+                "url": "info/1667/269382.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269382.htm"
+              },
+              {
+                "text": "热收缩薄膜的研制；红旗渠潜水泵的密封材料",
+                "url": "info/1667/269392.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269392.htm"
+              },
+              {
+                "text": "不可压缩黏性流的数值计算（1978）；流体力学中的差分方法（1986年）；非线性偏微分方程谱解法和拟谱解法及其应用（1990年）；非线性偏微分方程的差分方法和谱方法及应用（1995年）",
+                "url": "info/1667/269362.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269362.htm"
+              },
+              {
+                "text": "膦胂叶立德在合成含氟有机化合物中应用的研究",
+                "url": "info/1667/269422.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269422.htm"
+              },
+              {
+                "text": "汉字宏观字形编码（钱码）及中文系统",
+                "url": "info/1667/269372.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269372.htm"
+              },
+              {
+                "text": "建立国家激光洛氏和表面洛氏硬度基准",
+                "url": "info/1667/269402.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269402.htm"
+              },
+              {
+                "text": "直线异步电机",
+                "url": "info/1667/269352.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269352.htm"
+              },
+              {
+                "text": "S76渣油粘结剂",
+                "url": "info/1667/269432.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/269432.htm"
+              },
+              {
+                "text": "《评〈楚辞新考〉》",
+                "url": "info/1667/270112.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1667/270112.htm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "数读上大",
+    "url": "",
+    "children": [
+      {
+        "text": "本科生",
+        "url": "https://bkzsw.shu.edu.cn",
+        "children": [
+          {
+            "text": "本科生",
+            "url": "https://bkzsw.shu.edu.cn"
+          },
+          {
+            "text": "Undergraduate",
+            "url": "https://bkzsw.shu.edu.cn"
+          }
+        ]
+      },
+      {
+        "text": "研究生",
+        "url": "https://yjszs.shu.edu.cn/",
+        "children": [
+          {
+            "text": "研究生",
+            "url": "https://yjszs.shu.edu.cn/"
+          },
+          {
+            "text": "Postgraduate",
+            "url": "https://yjszs.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "留学生",
+        "url": "https://apply.shu.edu.cn/",
+        "children": [
+          {
+            "text": "留学生",
+            "url": "https://apply.shu.edu.cn/"
+          },
+          {
+            "text": "International Students",
+            "url": "https://apply.shu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "继续教育",
+        "url": "https://cce.shu.edu.cn/",
+        "children": [
+          {
+            "text": "继续教育",
+            "url": "https://cce.shu.edu.cn/"
+          },
+          {
+            "text": "Continuing Education",
+            "url": "https://cce.shu.edu.cn/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "更多",
+    "url": "gjjgathz.htm",
+    "children": [
+      {
+        "text": "国际及港澳台合作",
+        "url": "",
+        "children": [
+          {
+            "text": "根特大学Ghent University",
+            "url": "https://www.ugent.be/en"
+          },
+          {
+            "text": "肯塔基大学University of Kentucky",
+            "url": "https://www.uky.edu/"
+          },
+          {
+            "text": "多伦多大学University of Toronto",
+            "url": "https://www.utoronto.ca/"
+          },
+          {
+            "text": "科克大学University College Cork",
+            "url": "https://www.ucc.ie/en/"
+          },
+          {
+            "text": "香港浸会大学Hong Kong Baptist University",
+            "url": "https://www.hkbu.edu.hk/en"
+          },
+          {
+            "text": "拉夫堡大学Loughborough University",
+            "url": "https://www.lboro.ac.uk"
+          },
+          {
+            "text": "法国技术大学集团University of Technology",
+            "url": "https://www.groupe-ut.fr/"
+          },
+          {
+            "text": "澳门大学University of Macau",
+            "url": "https://www.um.edu.mo"
+          },
+          {
+            "text": "土耳其海峡大学Boğaziçi University",
+            "url": "https://www.boun.edu.tr/tr-TR/Index"
+          },
+          {
+            "text": "日本东北大学Tohoku University",
+            "url": "https://www.tohoku.ac.jp/en/"
+          },
+          {
+            "text": "悉尼科技大学University of Technology Sydney",
+            "url": "https://www.uts.edu.au"
+          },
+          {
+            "text": "爱丁堡大学University of Edinburgh",
+            "url": "https://www.ed.ac.uk"
+          },
+          {
+            "text": "萨塞克斯大学University of Sussex",
+            "url": "https://www.sussex.ac.uk"
+          },
+          {
+            "text": "纽约州立大学石溪分校Stony Brook University, New York",
+            "url": "https://www.stonybrook.edu"
+          },
+          {
+            "text": "新泽西州立罗格斯大学Rutgers, The State University of New Jersey",
+            "url": "https://www.rutgers.edu"
+          },
+          {
+            "text": "蒙特雷科技大学Tecnológico de Monterrey",
+            "url": "https://tec.mx/en"
+          },
+          {
+            "text": "布宜诺斯艾利斯大学Universidad de Buenos Aires",
+            "url": "https://uba.ar"
+          },
+          {
+            "text": "亚琛工业大学RWTH Aachen University",
+            "url": "https://www.rwth-aachen.de/cms/~a/root/"
+          },
+          {
+            "text": "里斯本大学University of Lisbon",
+            "url": "https://www.ulisboa.pt/en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "更多",
+    "url": "gjjgathz.htm",
+    "children": [
+      {
+        "text": "国际交流",
+        "url": ""
+      },
+      {
+        "text": "焦点关注",
+        "url": "",
+        "children": [
+          {
+            "text": "上海大学综合改革",
+            "url": "https://www.shu.edu.cn/info/1051/366425.htm"
+          },
+          {
+            "text": "党史学习教育",
+            "url": "https://dsxxjyztw.shu.edu.cn/"
+          },
+          {
+            "text": "上大溯园",
+            "url": "https://museum.shu.edu.cn/sy/sy/sygk.htm"
+          },
+          {
+            "text": "上海大学博物馆",
+            "url": "https://museum.shu.edu.cn/"
+          },
+          {
+            "text": "进入“上大内控”主页",
+            "url": "http://shangdaneikong.shu.edu.cn/"
+          },
+          {
+            "text": "社交媒体",
+            "url": ""
+          },
+          {
+            "text": "",
+            "url": "sjmt.htm",
+            "children": [
+              {
+                "text": "更多",
+                "url": "sjmt.htm",
+                "children": [
+                  {
+                    "text": "⏰放假通知！",
+                    "url": "https://mp.weixin.qq.com/s/ykyfZlUNuXXZoMGYGeX6AQ"
+                  },
+                  {
+                    "text": "这个春天，有SHU陪你→",
+                    "url": "https://mp.weixin.qq.com/s/IR5aLSnkiszzKhDafYcQhQ"
+                  },
+                  {
+                    "text": "世界读书日 | “书香上大”全校阅读系列活动启动",
+                    "url": "https://mp.weixin.qq.com/s/x8HXupQV3dIpdeUAYOy1OA"
+                  },
+                  {
+                    "text": "展览上新！知识产权创新服务，上海大学这样做→",
+                    "url": "https://mp.weixin.qq.com/s/GwPl73p-Jamd25WPExBueQ"
+                  },
+                  {
+                    "text": "川沙文化IP，上大携手打造！这个村庄，艺术正在发芽→",
+                    "url": "https://mp.weixin.qq.com/s/LQMzYX9R3yfvxlUUKXoqsA"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "index.htm",
+                "children": [
+                  {
+                    "text": "上海大学新闻网",
+                    "url": "https://news.shu.edu.cn/"
+                  },
+                  {
+                    "text": "信息公开",
+                    "url": "https://xxgk.shu.edu.cn/"
+                  },
+                  {
+                    "text": "招聘信息",
+                    "url": "https://jobs.shu.edu.cn"
+                  },
+                  {
+                    "text": "文明校园创建",
+                    "url": "https://wmzx.shu.edu.cn/"
+                  },
+                  {
+                    "text": "校报电子版",
+                    "url": "http://shdx.ihwrm.com"
+                  },
+                  {
+                    "text": "海外学习与实习",
+                    "url": "https://global.shu.edu.cn/jjy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1282"
+                  },
+                  {
+                    "text": "非学历教育",
+                    "url": "https://fxl.shu.edu.cn/recruit/front"
+                  },
+                  {
+                    "text": "招标信息",
+                    "url": "https://czb.shu.edu.cn/"
+                  },
+                  {
+                    "text": "校友会",
+                    "url": "http://alumni.shu.edu.cn/"
+                  },
+                  {
+                    "text": "教育发展基金会",
+                    "url": "https://shuedf.shu.edu.cn/"
+                  },
+                  {
+                    "text": "校医院",
+                    "url": "https://xyy.shu.edu.cn"
+                  },
+                  {
+                    "text": "网络安全小贴士",
+                    "url": "wlaqxts.htm"
+                  },
+                  {
+                    "text": "校长信箱",
+                    "url": "mailto:xiaozhang@shu.edu.cn"
+                  },
+                  {
+                    "text": "校园地图",
+                    "url": "https://map.shu.edu.cn/"
+                  },
+                  {
+                    "text": "毕业典礼点播",
+                    "url": "bydldb.htm"
+                  },
+                  {
+                    "text": "网络安全知识宣传手册",
+                    "url": "info/4023/316705.htm"
+                  },
+                  {
+                    "text": "学期制优化改革",
+                    "url": "https://www.shu.edu.cn/info/1051/366425.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://bszs.conac.cn/sitename?method=show&id=3391D1150963066CE053022819ACEB0B"
+              },
+              {
+                "text": "",
+                "url": "http://www.shjbzx.cn/"
+              }
+            ]
+          },
+          {
+            "text": "举报电话",
+            "url": "dhcx.htm",
+            "children": [
+              {
+                "text": "沪ICP备09014157",
+                "url": "https://beian.miit.gov.cn/"
+              },
+              {
+                "text": "校内电话查询",
+                "url": "dhcx.htm"
+              },
+              {
+                "text": "互联网违法和不良信息举报",
+                "url": "http://www.shjbzx.cn/"
+              },
+              {
+                "text": "举报邮箱",
+                "url": "mailto:info@shu.edu.cn"
+              },
+              {
+                "text": "沪公网安备31009102000049号",
+                "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31009102000049"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+      { tag='div', class='container', buttons=[text='English Version', url='http://en.ustc.edu.cn/'] }
+        { tag='div', class='hot-link', buttons=[text='网络课堂', url='http://wlkt.ustc.edu.cn', text='报考科大', url='http://zsb.ustc.edu.cn', text='科大校友', url='http://aga.ustc.edu.cn/', text='在校师生', url='zxss.htm'] }
+        { tag='li', buttons=[text='学校概况', url='xxgk/xxjj.htm'] }
+                { tag='li', buttons=[text='学校简介', url='xxgk/xxjj.htm'] }
+                { tag='li', buttons=[text='现任领导', url='xxgk/xrld.htm'] }
+                { tag='li', buttons=[text='管理机构', url='xxgk/gljg.htm'] }
+                { tag='li', buttons=[text='校园地图', url='xxgk/xydt.htm'] }
+        { tag='li', buttons=[text='院系介绍', url='yxjs.htm'] }
+                { tag='li', buttons=[text='师德教育', url='http://jgb.ustc.edu.cn'] }
+                { tag='li', buttons=[text='师资力量', url='http://hr.ustc.edu.cn/cn/shizi.aspx'] }
+                { tag='li', buttons=[text='教师主页', url='https://faculty.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='本科生教育', url='https://www.teach.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='研究生教育', url='https://gradschool.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='理论学习', url='http://djyszw.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='信息公开', url='http://xxgk.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='党建文化', url='http://news.ustc.edu.cn/djwh.htm'] }
+        { tag='li', buttons=[text='科学研究', url='kxyj/kygk.htm'] }
+                { tag='li', buttons=[text='科研概况', url='kxyj/kygk.htm'] }
+                { tag='li', buttons=[text='科研项目', url='http://kyb.ustc.edu.cn/6049/list.htm'] }
+                { tag='li', buttons=[text='科研机构', url='jianj.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021'] }
+                { tag='li', buttons=[text='科研特色', url='kxyj/kyts.htm'] }
+                { tag='li', buttons=[text='科研亮点', url='kxyj/kyld.htm'] }
+        { tag='li', buttons=[text='发展规划', url='https://fc.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='人才招聘', url='http://employment.ustc.edu.cn/cn/'] }
+        { tag='li', buttons=[text='信息门户', url='https://i.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='公共服务', url='ggfw/rdlj.htm'] }
+                { tag='li', buttons=[text='热点链接', url='ggfw/rdlj.htm'] }
+        { tag='li', buttons=[text='电子邮件', url='https://mail.ustc.edu.cn'] }
+                  { tag='li', class='nav-item i1', buttons=[text='学校概况', url='xxgk/xxjj.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='院系介绍', url='yxjs.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='本科生教育', url='https://www.teach.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='研究生教育', url='https://gradschool.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='理论学习', url='http://djyszw.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='信息公开', url='http://xxgk.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='党建文化', url='http://news.ustc.edu.cn/djwh.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='科学研究', url='kxyj/kygk.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='发展规划', url='https://fc.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='人才招聘', url='http://employment.ustc.edu.cn/cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='信息门户', url='https://i.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='公共服务', url='ggfw/rdlj.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='电子邮件', url='https://mail.ustc.edu.cn'] }
+                  { tag='li', class='nav-item i1', buttons=[text='网络课堂', url='http://wlkt.ustc.edu.cn'] }
+                  { tag='li', class='nav-item i1', buttons=[text='报考科大', url='http://zsb.ustc.edu.cn'] }
+                  { tag='li', class='nav-item i1', buttons=[text='科大校友', url='http://aga.ustc.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='在校师生', url='zxss.htm'] }
+        { tag='section', class='news', buttons=[text='科大要闻', url='', text='RSS', url='http://www.ustc.edu.cn/system/resource/code/rss/rssfeedg.jsp?type=list&treeid=1175&viewid=249541&mode=10&dbname=vsb&owner=1585251974&ownername=zz&contentid=236926&number=20&httproot=', text='更多', url='http://news.ustc.edu.cn/'] }
+        { tag='h2', buttons=[text='科大要闻', url='http://news.ustc.edu.cn/'] }
+              { tag='div', class='pic upic', buttons=[text='', url='http://news.ustc.edu.cn/info/1055/92435.htm'] }
+                { tag='h4', class='on', buttons=[text='学校举办领导干部暑期读书班专题研讨“十五五”发展规划', url='http://news.ustc.edu.cn/info/1055/92435.htm'] }
+                { tag='h4', buttons=[text='学校举行党委理论学习中心组集中学习（扩大）会暨专题党课报告会', url='http://news.ustc.edu.cn/info/1055/92425.htm'] }
+                { tag='h4', buttons=[text='一体推进“学查改” 驰而不息“强作风”——中国科大在“学查改”...', url='http://news.ustc.edu.cn/info/1055/92433.htm'] }
+            { tag='li', buttons=[text='中国科大与滁州市举行市校合作座谈会暨战略合作协议签约仪式', url='http://news.ustc.edu.cn/info/1055/92429.htm'] }
+            { tag='li', buttons=[text='校长常进带队开展暑假走访慰问', url='http://news.ustc.edu.cn/info/1055/92418.htm'] }
+            { tag='li', buttons=[text='校党委在中央党校（国家行政学院）举办双肩挑干部和高层次人才培训班', url='http://news.ustc.edu.cn/info/1055/92403.htm'] }
+            { tag='li', buttons=[text='基于大科学装置的交叉应用高端研讨会在我校召开', url='http://news.ustc.edu.cn/info/1055/92441.htm'] }
+            { tag='li', buttons=[text='中国科大利用詹姆斯·韦伯空间望远镜数据取得强相互作用暗物质新约束', url='http://news.ustc.edu.cn/info/1055/92447.htm'] }
+            { tag='li', buttons=[text='中国科大实现多取代环烷烃立体发散合成', url='http://news.ustc.edu.cn/info/1055/92448.htm'] }
+            { tag='li', buttons=[text='中国科大研制可见光波段矢量光谱分析仪', url='http://news.ustc.edu.cn/info/1055/92430.htm'] }
+            { tag='li', buttons=[text='我校开展安徽省第七届高校青年教师教学竞赛备赛专项培训', url='http://news.ustc.edu.cn/info/1055/92432.htm'] }
+            { tag='li', buttons=[text='中国科大学子在第十一届全国大学生物理实验竞赛（教学）中荣获佳绩', url='http://news.ustc.edu.cn/info/1055/92419.htm'] }
+        { tag='section', class='notice ztzl', buttons=[text='专题推荐', url='', text='更多', url='http://news.ustc.edu.cn/ztxw.htm'] }
+          { tag='h2', buttons=[text='专题推荐', url='http://news.ustc.edu.cn/ztxw.htm'] }
+              { tag='div', class='sss-zttj', buttons=[text='', url='https://www.ustc.edu.cn/xxgcxjpxsdzgtsshzysx/'] }
+              { tag='div', class='sss-zttj', buttons=[text='', url='http://news.ustc.edu.cn/ztxw1.htm'] }
+              { tag='div', class='sss-zttj', buttons=[text='', url='https://news.ustc.edu.cn/zybxgd/'] }
+              { tag='div', class='sss-zttj', buttons=[text='', url='http://news.ustc.edu.cn/djxxjyztw/'] }
+        { tag='section', class='notice', buttons=[text='通知公告', url='', text='RSS', url='https://www.ustc.edu.cn/system/resource/code/rss/rssfeedg.jsp?type=list&treeid=1002&viewid=249541&mode=10&dbname=vsb&owner=1585251974&ownername=zz&contentid=221571,221572,221573,221574&number=100&httproot=', text='更多', url='tzgg.htm'] }
+          { tag='h2', buttons=[text='通知公告', url='tzgg.htm'] }
+              { tag='li', buttons=[text='一周会议安排（2025年7月21日—7月25日）', url='tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1059&wbnewsid=23646'] }
+              { tag='li', buttons=[text='夏季防蚊重点提示', url='info/1366/23686.htm'] }
+              { tag='li', buttons=[text='关于对国家重点研发计划“长江黄河等重点流...', url='info/1362/23722.htm'] }
+              { tag='li', buttons=[text='关于2025年国家留学基金委青年骨干教师出国...', url='tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=23721'] }
+              { tag='li', buttons=[text='科学种子亚洲基金资助计划', url='https://oic.ustc.edu.cn/?post_type=news&p=18752'] }
+              { tag='li', buttons=[text='我校2025年度“创新创业教育研究课题”拟立...', url='info/1364/23719.htm'] }
+              { tag='li', buttons=[text='关于征集2026年度“中国科学院—昆士兰州合...', url='https://oic.ustc.edu.cn/?post_type=news&p=18742'] }
+              { tag='li', buttons=[text='关于东校区金寨路西大门机动车暂停进校的通知', url='info/1364/23715.htm'] }
+              { tag='li', buttons=[text='关于对国家重点研发计划“平方公里阵列射电...', url='info/1362/23714.htm'] }
+        { tag='li', buttons=[text='', url='https://zsb.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='', url='https://yz.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='', url='http://www.job.ustc.edu.cn/'] }
+        { tag='li', buttons=[text='', url='http://fc.ustc.edu.cn/'] }
+        { tag='p', buttons=[text='皖ICP备05002528号', url='http://beian.miit.gov.cn'] }
+            { tag='span', buttons=[text='联系我们', url='index/lxwm.htm'] }
+        { tag='p', buttons=[text='', url='http://bszs.conac.cn/sitename?method=show&id=0A0FE1CE25C25FA3E053022819AC0B82'] }

@@ -1,0 +1,146 @@
+        { tag='div', class='browser-text', buttons=[text='网站页面已加载完成', url=''] }
+              { tag='div', class='top-con-right1', buttons=[text='学生', url='fktd/xs.htm', text='教工', url='fktd/jg.htm', text='校友', url='http://xyh.nwpu.edu.cn/', text='访客', url='fktd/fk.htm'] }
+              { tag='div', class='top-con-right2', buttons=[text='常用链接', url=''] }
+                { tag='div', class='links', buttons=[text='翱翔门户', url='https://uis.nwpu.edu.cn/cas/login?service=https%3A%2F%2Fecampus.nwpu.edu.cn%2Fc%2Fportal%2Flogin%3Fredirect%3D%252Fc', text='翱翔办公', url='https://oa.nwpu.edu.cn', text='电子邮件', url='http://mail.nwpu.edu.cn/'] }
+              { tag='div', class='top-con-right3', buttons=[text='书记', url='sjxx.htm', text='校长', url='xzxx.htm'] }
+              { tag='div', class='top-con-right4', buttons=[text='ENG', url='http://en.nwpu.edu.cn/'] }
+            { tag='div', class='logo1', buttons=[text='', url='index.htm'] }
+                  { tag='li', class='li-one', buttons=[text='学校概况', url='xxgk.htm'] }
+                      { tag='li', buttons=[text='学校简介', url='xxgk/xxjj.htm'] }
+                      { tag='li', buttons=[text='学校历史', url='xxgk/xxls.htm'] }
+                      { tag='li', buttons=[text='现任领导', url='xxgk/ld.htm'] }
+                      { tag='li', buttons=[text='历任领导', url='xxgk/oleader.htm'] }
+                  { tag='li', class='li-one', buttons=[text='组织机构', url='jgsz_cd_/dzjg/dqbm.htm'] }
+                      { tag='li', buttons=[text='党政机关', url='jgsz_cd_/dzjg/dqbm.htm'] }
+                      { tag='li', buttons=[text='教学科研机构', url='jgsz_cd_/jxkyjg/xy_xb.htm'] }
+                      { tag='li', buttons=[text='支撑和服务保障机构', url='jgsz_cd_/zhichenghe/zcdw.htm'] }
+                      { tag='li', buttons=[text='科研平台', url='jgsz_cd_/kypt.htm'] }
+                      { tag='li', buttons=[text='本科生教育', url='http://jiaowu.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='研究生教育', url='http://gs.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='留学生教育', url='http://npuinternationalcollege.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='继续教育', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='网络教育', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='出国（境）交流', url='https://axsh.nwpu.edu.cn/'] }
+                  { tag='li', class='li-one', buttons=[text='师资队伍', url='http://renshi.nwpu.edu.cn/new/szdw/szgk.htm'] }
+                      { tag='li', buttons=[text='两院院士', url='http://renshi.nwpu.edu.cn/new/szdw/lyys.htm'] }
+                      { tag='li', buttons=[text='杰出人才', url='http://renshi.nwpu.edu.cn/new/szdw/jcrc.htm'] }
+                      { tag='li', buttons=[text='青年人才', url='http://renshi.nwpu.edu.cn/new/szdw/qnrc.htm'] }
+                      { tag='li', buttons=[text='教师主页', url='https://teacher.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='科研平台', url='http://kypt.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='设备共享', url='https://equip.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='学术活动', url='http://xygg.nwpu.edu.cn/xygg/xsdt.htm'] }
+                      { tag='li', buttons=[text='学术科研', url='https://news.nwpu.edu.cn/xsky.htm'] }
+                      { tag='li', buttons=[text='战略合作', url='https://dangzheng.nwpu.edu.cn'] }
+                      { tag='li', buttons=[text='海外合作', url='http://guoji.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='本科生招生', url='http://zsb.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='研究生招生', url='http://yzb.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='留学生招生', url='http://npuinternationalcollege.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='继续教育招生', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='网络教育招生', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='就业信息网', url='http://job.nwpu.edu.cn/home.do'] }
+                  { tag='li', class='li-one', buttons=[text='人才招聘', url='http://renshi.nwpu.edu.cn/rczp/index.htm'] }
+            { tag='div', class='logo1', buttons=[text='', url='index.htm'] }
+                  { tag='li', class='li-one', buttons=[text='学校概况', url='xxgk.htm'] }
+                      { tag='li', buttons=[text='学校简介', url='xxgk/xxjj.htm'] }
+                      { tag='li', buttons=[text='学校历史', url='xxgk/xxls.htm'] }
+                      { tag='li', buttons=[text='现任领导', url='xxgk/ld.htm'] }
+                      { tag='li', buttons=[text='历任领导', url='xxgk/oleader.htm'] }
+                  { tag='li', class='li-one', buttons=[text='组织机构', url='jgsz_cd_/dzjg/dqbm.htm'] }
+                      { tag='li', buttons=[text='党政机关', url='jgsz_cd_/dzjg/dqbm.htm'] }
+                      { tag='li', buttons=[text='教学科研机构', url='jgsz_cd_/jxkyjg/xy_xb.htm'] }
+                      { tag='li', buttons=[text='支撑和服务保障机构', url='jgsz_cd_/zhichenghe/zcdw.htm'] }
+                      { tag='li', buttons=[text='科研平台', url='jgsz_cd_/kypt.htm'] }
+                      { tag='li', buttons=[text='本科生教育', url='http://jiaowu.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='研究生教育', url='http://gs.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='留学生教育', url='http://npuinternationalcollege.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='继续教育', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='网络教育', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='出国（境）交流', url='https://axsh.nwpu.edu.cn/'] }
+                  { tag='li', class='li-one', buttons=[text='师资队伍', url='http://renshi.nwpu.edu.cn/new/szdw/szgk.htm'] }
+                      { tag='li', buttons=[text='两院院士', url='http://renshi.nwpu.edu.cn/new/szdw/lyys.htm'] }
+                      { tag='li', buttons=[text='杰出人才', url='http://renshi.nwpu.edu.cn/new/szdw/jcrc.htm'] }
+                      { tag='li', buttons=[text='青年人才', url='http://renshi.nwpu.edu.cn/new/szdw/qnrc.htm'] }
+                      { tag='li', buttons=[text='教师主页', url='https://teacher.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='科研平台', url='http://kypt.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='设备共享', url='https://equip.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='学术活动', url='http://xygg.nwpu.edu.cn/xygg/xsdt.htm'] }
+                      { tag='li', buttons=[text='学术科研', url='https://news.nwpu.edu.cn/xsky.htm'] }
+                      { tag='li', buttons=[text='战略合作', url='https://dangzheng.nwpu.edu.cn'] }
+                      { tag='li', buttons=[text='海外合作', url='http://guoji.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='本科生招生', url='http://zsb.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='研究生招生', url='http://yzb.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='留学生招生', url='http://npuinternationalcollege.nwpu.edu.cn/'] }
+                      { tag='li', buttons=[text='继续教育招生', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='网络教育招生', url='http://www.nwpunec.net/'] }
+                      { tag='li', buttons=[text='就业信息网', url='http://job.nwpu.edu.cn/home.do'] }
+                  { tag='li', class='li-one', buttons=[text='人才招聘', url='http://renshi.nwpu.edu.cn/rczp/index.htm'] }
+            { tag='li', buttons=[text='', url='https://www.nwpu.edu.cn/info/1208/106298.htm'] }
+            { tag='li', buttons=[text='', url='https://www.nwpu.edu.cn/info/1198/107068.htm'] }
+          { tag='div', buttons=[text='工大映像', url='index/gdyx/a2025/a5y.htm'] }
+          { tag='div', buttons=[text='>>', url='index/gdyx/a2025/a2y.htm'] }
+              { tag='div', class='dsfsfsgg', buttons=[text='更多>', url='xwtz/gdyw.htm'] }
+                { tag='span', class='top-left', buttons=[text='工大要闻', url='xwtz/gdyw.htm'] }
+              { tag='span', class='hasjdkad', buttons=[text='更多>', url='xwtz/zhxw.htm'] }
+              { tag='div', class='top-right', buttons=[text='新闻网', url='http://news.nwpu.edu.cn/index.htm'] }
+                      { tag='div', class='li-top', buttons=[text='', url='info/1208/108668.htm'] }
+                        { tag='p', buttons=[text='西工大邀您申报新增批次海外优青', url='info/1208/108668.htm'] }
+                      { tag='div', class='li-top', buttons=[text='', url='info/1208/108678.htm'] }
+                        { tag='p', buttons=[text='再创新高！西工大2025年本科招生工作圆满完成！', url='info/1208/108678.htm'] }
+                      { tag='div', class='li-top', buttons=[text='', url='info/1208/107988.htm'] }
+                        { tag='p', buttons=[text='西北工业大学成立人工智能学院', url='info/1208/107988.htm'] }
+                      { tag='div', class='li-top', buttons=[text='', url='info/1208/107928.htm'] }
+                        { tag='p', buttons=[text='学校召开2025年上半年工作总结会', url='info/1208/107928.htm'] }
+                  { tag='li', buttons=[text='2025年全国工业和信息化主管部门负责同志座谈会在京召开', url='info/1198/108518.htm'] }
+                  { tag='li', buttons=[text='校长宋保维检查长安校区暑期校园开放运行情况', url='info/1198/108548.htm'] }
+                  { tag='li', buttons=[text='高等教育国际化：涉外办学研讨会在我校召开', url='info/1198/108608.htm'] }
+                  { tag='li', buttons=[text='校长宋保维检查指导本科招生录取和教学管理工作', url='info/1198/108418.htm'] }
+                  { tag='li', buttons=[text='校长宋保维带队赴哈尔滨工程大学调研交流', url='info/1198/108468.htm'] }
+                  { tag='li', buttons=[text='学校召开2025年第六次人才工作推进会', url='info/1198/108628.htm'] }
+                  { tag='li', buttons=[text='生态环境学院蔡晶教授团队最新研究成果在《Nature Plants》发表', url='info/1198/108588.htm'] }
+                  { tag='li', buttons=[text='文化遗产研究院杨欢副教授研究成果在国际顶级期刊Journal of Ar...', url='info/1198/108568.htm'] }
+                  { tag='li', buttons=[text='电子信息学院谢松云教授受邀在AI4G“脑机接口研讨会”作主题演...', url='http://news.nwpu.edu.cn/info/1380/138679.htm'] }
+                  { tag='li', buttons=[text='我校在中国国际大学生创新大赛（2025）陕西赛区省级复赛中取得...', url='info/1198/108538.htm'] }
+            { tag='div', class='main-box2-con-xueshu', buttons=[text='学术&交流更多>', url=''] }
+              { tag='h3', buttons=[text='学术&交流', url='xwtz/xsjl.htm', text='更多>', url='xwtz/xsjl.htm'] }
+              { tag='li', buttons=[text='【学术会议】第一届(2025)高新技术创新发展大会——未来材...', url='info/1039/106938.htm'] }
+              { tag='li', buttons=[text='【学术报告】研究生出国（境）交流项目系列报告 ——苏梅梅...', url='http://xygg.nwpu.edu.cn/info/1007/33807.htm'] }
+              { tag='li', buttons=[text='【学术报告】研究生出国（境）交流项目系列报告 ——康美琳...', url='http://xygg.nwpu.edu.cn/info/1007/33827.htm'] }
+              { tag='li', buttons=[text='【学术报告】研究生出国（境）交流项目系列报告 ——张文婷...', url='http://xygg.nwpu.edu.cn/info/1007/33817.htm'] }
+              { tag='li', buttons=[text='【学术报告】研究生出国（境）交流项目系列报告——陈秦虎...', url='http://xygg.nwpu.edu.cn/info/1007/33797.htm'] }
+              { tag='li', buttons=[text='【学术报告】研究生出国（境）交流项目系列报告——刘冠闻...', url='http://xygg.nwpu.edu.cn/info/1007/33617.htm'] }
+            { tag='div', class='main-box2-con-meiti', buttons=[text='媒体&关注更多>', url=''] }
+              { tag='h3', buttons=[text='媒体&关注', url='xwtz/mtgd.htm', text='更多>', url='xwtz/mtgd.htm'] }
+              { tag='li', buttons=[text='[央视新闻]蔡奇看望慰问北戴河暑期休假专家', url='https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=2636876543058034382&t=1754220194877&toc_style_id=video_default&share_to=wechat&track_id=234de066-541a-4aa3-995b-0695f07021bd'] }
+              { tag='li', buttons=[text='[中国教育报]把工程硕博士学位论文“写”在国之重器上！西...', url='https://mp.weixin.qq.com/s/SMKR-k2s64UYAeBRvTF22g'] }
+              { tag='li', buttons=[text='[微言教育]把工程硕博士学位论文“写”在国之重器上！西北...', url='https://mp.weixin.qq.com/s/HV1Eg6crSxWKhqqiKp9_uA'] }
+              { tag='li', buttons=[text='[中国教育报]构建实践育人体系锻造“总师型”人才', url='https://share.app3.jyb.cn/paper_d/2ac5b8f58b35508439b71384a8d9a68c?from=UC92azc3djZYbnBlb2NaNkRvdVR4WUFHU1ZXbGdYS25Md1NFdE00ZGhETk5LenBDb3ErTnUxQnVPUDdjYTZ5RA=='] }
+              { tag='li', buttons=[text='[央视]东方时空：如何培养卓越工程师？“订单式”选拔 严把...', url='https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1113894333980664646&t=1752672099055&toc_style_id=video_default&share_to=wechat&track_id=238044e2-c52d-4188-81e4-de7db2d68701'] }
+              { tag='li', buttons=[text='[央视]带着企业“真问题”上学 卓越工程师培养开启“实战”...', url='https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13669957654472479858&t=1752688302182&toc_style_id=feeds_default&share_to=wechat&track_id=96dc9f1e-b26e-4e85-8122-da4d01900583'] }
+              { tag='div', class='li-box', buttons=[text='数字校园', url=''] }
+                    { tag='span', buttons=[text='翱翔门户', url='https://uis.nwpu.edu.cn/cas/login?service=https%3A%2F%2Fecampus.nwpu.edu.cn%2Fc%2Fportal%2Flogin'] }
+                    { tag='span', buttons=[text='翱翔办公', url='https://oa.nwpu.edu.cn'] }
+                    { tag='span', buttons=[text='电子邮件', url='http://mail.nwpu.edu.cn/'] }
+                    { tag='span', buttons=[text='校园公告', url='http://xygg.nwpu.edu.cn/'] }
+                    { tag='span', buttons=[text='图书文献', url='http://tushuguan.nwpu.edu.cn/'] }
+              { tag='div', class='li-two', buttons=[text='校园服务信息公开校园地图校历校车预约平台全校统一报修', url=''] }
+                      { tag='span', buttons=[text='信息公开', url='http://xxgk.nwpu.edu.cn/'] }
+                      { tag='span', buttons=[text='校园地图', url='index/xydt.htm'] }
+                      { tag='span', buttons=[text='校历校车', url='http://xygg.nwpu.edu.cn/info/1003/22073.htm'] }
+                      { tag='span', buttons=[text='预约平台', url='http://atcrs.nwpu.edu.cn/lims/'] }
+                      { tag='span', buttons=[text='全校统一报修', url='http://baoxiu.nwpu.edu.cn'] }
+              { tag='li', buttons=[text='', url='https://www.nwpu.edu.cn/ddh/'] }
+              { tag='li', buttons=[text='', url='https://z.nwpu.edu.cn/djxxjy/'] }
+                { tag='div', class='ht', buttons=[text='', url='https://z.nwpu.edu.cn/djxxjy/'] }
+                { tag='div', class='li-one', buttons=[text='文化工大形象识别系统数字校史馆菁菁校园西工大宣传片', url=''] }
+                      { tag='span', buttons=[text='形象识别系统', url='http://news.nwpu.edu.cn/xcb/index/xxsbxt.htm'] }
+                      { tag='span', buttons=[text='数字校史馆', url='https://www.jt720.cn/t/f4bf97cf4b047e05?s=scene_b68e32d2cec7bcf3'] }
+                      { tag='span', buttons=[text='菁菁校园', url='https://news.nwpu.edu.cn/index/jjxy.htm'] }
+                      { tag='span', buttons=[text='西工大宣传片', url='https://news.nwpu.edu.cn/info/1212/83049.htm'] }
+                { tag='div', class='li-two', buttons=[text='', url='https://xgdst.nwpu.edu.cn/'] }
+              { tag='li', buttons=[text='', url='https://news.nwpu.edu.cn/xsky.htm'] }
+              { tag='li', buttons=[text='', url='https://pinggu.nwpu.edu.cn'] }
+                { tag='a', buttons=[text='', url='https://zsb.nwpu.edu.cn/'] }
+                { tag='div', class='footer-con-left', buttons=[text='', url='index.htm'] }
+                  { tag='p', buttons=[text='ICP备案号：陕ICP备05010979号', url='https://beian.miit.gov.cn'] }
+                { tag='div', class='bqpic pic', buttons=[text='', url='http://bszs.conac.cn/sitename?method=show&id=119A15AAE94A05CBE053012819AC00C3'] }
+                  { tag='div', buttons=[text='', url='https://www.ipv6enabled.cn/index/certificate.html?logoid=100&&renz_result=0'] }

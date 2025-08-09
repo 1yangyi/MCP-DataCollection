@@ -1,0 +1,214 @@
+        { tag='div', class='browser-text', buttons=[text='请升级浏览器版本', url=''] }
+          { tag='div', class='browser-item', buttons=[text='Chrome', url='https://www.google.cn/intl/zh-CN/chrome/'] }
+          { tag='div', class='browser-item', buttons=[text='Firefox', url='http://www.firefox.com.cn/'] }
+          { tag='div', class='browser-item', buttons=[text='Safari', url='https://www.apple.com.cn/safari/'] }
+          { tag='div', class='browser-item', buttons=[text='Edge', url='https://www.microsoft.com/zh-cn/edge'] }
+        { tag='div', class='logo', buttons=[text='', url='index.htm'] }
+                    { tag='li', buttons=[text='深大新闻', url='index/sdxw.htm'] }
+                    { tag='li', buttons=[text='通知公告', url='index/tzgg.htm'] }
+                    { tag='li', buttons=[text='媒体深大', url='index/mtsd.htm'] }
+                    { tag='li', buttons=[text='学校简介', url='xxgk/xxjj.htm'] }
+                    { tag='li', buttons=[text='深大标识', url='xxgk/sdbs.htm'] }
+                    { tag='li', buttons=[text='现任领导', url='xxgk/xrld.htm'] }
+                    { tag='li', buttons=[text='历任领导', url='xxgk/lrld.htm'] }
+                    { tag='li', buttons=[text='杰出校友', url='xxgk/jcxy.htm'] }
+                    { tag='li', buttons=[text='校园地图', url='xxgk/xydt.htm'] }
+                    { tag='li', buttons=[text='校园风光', url='xxgk/xyfg/yhxq.htm'] }
+                    { tag='li', buttons=[text='校历', url='xxgk/xl.htm'] }
+                    { tag='li', buttons=[text='学部学院', url='yxjg/xbxy.htm'] }
+                    { tag='li', buttons=[text='相对独立科研机构', url='yxjg/xddlkyjg.htm'] }
+                    { tag='li', buttons=[text='教授委员会', url='yxjg/jswyh.htm'] }
+                    { tag='li', buttons=[text='职能部门', url='yxjg/znbm.htm'] }
+                    { tag='li', buttons=[text='直属单位', url='yxjg/zsdw.htm'] }
+                    { tag='li', buttons=[text='附属单位', url='yxjg/fsdw.htm'] }
+                    { tag='li', buttons=[text='教师简介', url='szdw/jsjj.htm'] }
+                    { tag='li', buttons=[text='岗位招聘', url='https://hr.szu.edu.cn/rczp1.htm'] }
+                    { tag='li', buttons=[text='博士后招聘', url='https://hr.szu.edu.cn/bsh.htm'] }
+                    { tag='li', buttons=[text='教学动态', url='jyjx1/jxdt.htm'] }
+                    { tag='li', buttons=[text='本科生教育', url='https://jwb.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='研究生教育', url='http://gra.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='留学生教育', url='http://lxs.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='继续教育', url='http://cce.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='非学历教育', url='https://jxjy.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='自然科学', url='kxyj/zrkx.htm'] }
+                    { tag='li', buttons=[text='人文社科', url='kxyj/rwsk.htm'] }
+                    { tag='li', buttons=[text='学术动态', url='kxyj/xsdt.htm'] }
+                    { tag='li', buttons=[text='研究机构', url='kxyj/yjjg.htm'] }
+                    { tag='li', buttons=[text='学术期刊', url='kxyj/xsqk.htm'] }
+                    { tag='li', buttons=[text='国际交流', url='hzjl/gjjl.htm'] }
+                    { tag='li', buttons=[text='港澳台交流', url='https://hmt.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='外事资讯', url='https://szupu.szu.edu.cn/cmsArticlesController/synopsi/000000006cd1e966016cdd42c3e90024'] }
+                    { tag='li', buttons=[text='本科生招生', url='zsyjy1/bkszs.htm'] }
+                    { tag='li', buttons=[text='研究生招生', url='zsyjy1/yjszs1.htm'] }
+                    { tag='li', buttons=[text='留学生招生', url='zsyjy1/lxszs1.htm'] }
+                    { tag='li', buttons=[text='继续教育招生', url='zsyjy1/jxjyzs1.htm'] }
+                    { tag='li', buttons=[text='出国留学招生', url='zsyjy1/cglxzs.htm'] }
+                    { tag='li', buttons=[text='就业招聘', url='https://jobszu.jysd.com/'] }
+                    { tag='li', buttons=[text='学生资助', url='zsyjy1/xszz.htm'] }
+              { tag='li', class='topnav-9', buttons=[text='校园生活', url='xysh1/xshd.htm'] }
+                    { tag='li', buttons=[text='工会活动', url='https://sdgh.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='创新创业', url='https://cxcy.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='学科竞赛', url='http://jingsai.szu.edu.cn/'] }
+                    { tag='li', buttons=[text='学生活动', url='xysh1/xshd.htm'] }
+                      { tag='li', buttons=[text='学生', url='jsrk/xs.htm'] }
+                      { tag='li', buttons=[text='教工', url='jsrk/jg.htm'] }
+                      { tag='li', buttons=[text='校友', url='jsrk/xy.htm'] }
+                      { tag='li', buttons=[text='考生', url='jsrk/ks.htm'] }
+                      { tag='li', buttons=[text='访客', url='jsrk/fk.htm'] }
+                { tag='div', class='row', buttons=[text='', url='qwjs.jsp?wbtreeid=1001'] }
+          { tag='div', class='en1', buttons=[text='En', url='https://en.szu.edu.cn/'] }
+            { tag='div', class='item on item-1', buttons=[text='首页', url='index.htm'] }
+            { tag='div', class='item item-2', buttons=[text='学校概况', url='xxgk/xxjj.htm'] }
+            { tag='div', class='item item-3', buttons=[text='院系机构', url='yxjg/xbxy.htm'] }
+            { tag='div', class='item item-4', buttons=[text='师资队伍', url='https://www.szu.edu.cn/szdw/jsjj.htm'] }
+            { tag='div', class='item item-5', buttons=[text='教育教学', url='jyjx1/jxdt.htm'] }
+            { tag='div', class='item item-6', buttons=[text='科学研究', url='kxyj.htm'] }
+            { tag='div', class='item item-7', buttons=[text='交流合作', url='hzjl/gjjl.htm'] }
+            { tag='div', class='item item-8', buttons=[text='招生与就业', url='https://www.szu.edu.cn/zsyjy1/bkszs.htm'] }
+            { tag='div', class='item item-9', buttons=[text='校园生活', url='xysh1/xshd.htm'] }
+              { tag='li', buttons=[text='深大新闻网', url='https://news.szu.edu.cn/'] }
+              { tag='li', buttons=[text='内部网', url='http://www1.szu.edu.cn/'] }
+              { tag='li', buttons=[text='图书馆', url='http://www.lib.szu.edu.cn/'] }
+              { tag='li', buttons=[text='预决算公开', url='http://xxgk.szu.edu.cn/cw_zcjsf1/ndbmys.htm'] }
+              { tag='li', buttons=[text='OA', url='http://210.39.3.155:9090/goLogin.do'] }
+              { tag='li', buttons=[text='办事大厅', url='http://ehall.szu.edu.cn/'] }
+              { tag='li', buttons=[text='教师邮箱', url='https://mail.szu.edu.cn/'] }
+              { tag='li', buttons=[text='学生邮箱', url='https://www1.szu.edu.cn/nc/view.asp?id=633'] }
+          { tag='p', buttons=[text='学生', url='jsrk/xs.htm'] }
+          { tag='p', buttons=[text='教工', url='jsrk/jg.htm'] }
+          { tag='p', buttons=[text='校友', url='jsrk/xy.htm'] }
+          { tag='p', buttons=[text='考生', url='jsrk/ks.htm'] }
+          { tag='p', buttons=[text='访客', url='jsrk/fk.htm'] }
+        { tag='div', class='ani-0 ani-01', buttons=[text='SZUer请收藏！暑假温馨提示看这篇~', url=''] }
+          { tag='h3', buttons=[text='SZUer请收藏！暑假温馨提示看这篇~', url='https://mp.weixin.qq.com/s/kvmt53veR6Ul8oEGaatP3Q'] }
+        { tag='div', class='ani-0 ani-02', buttons=[text='深圳大学召开2025春季学期期末工作会议', url=''] }
+          { tag='h3', buttons=[text='深圳大学召开2025春季学期期末工作会议', url='https://mp.weixin.qq.com/s/sConnXXtwBtEXbTVQtYH4g'] }
+        { tag='div', class='ani-0 ani-03', buttons=[text='关注！深圳大学2025年高考录取日程来了~', url=''] }
+          { tag='h3', buttons=[text='关注！深圳大学2025年高考录取日程来了~', url='https://mp.weixin.qq.com/s/ZJjN0CSnNehbfn3sRtXgLQ'] }
+        { tag='li', class='li01', buttons=[text='学生', url='jsrk/xs.htm'] }
+        { tag='li', class='li01', buttons=[text='教工', url='jsrk/jg.htm'] }
+        { tag='li', class='li01', buttons=[text='校友', url='jsrk/xy.htm'] }
+        { tag='li', class='li01', buttons=[text='考生', url='jsrk/ks.htm'] }
+        { tag='li', class='li01', buttons=[text='访客', url='jsrk/fk.htm'] }
+        { tag='div', class='wp', buttons=[text='深大新闻', url=''] }
+          { tag='h3', class='g-t1 wow fadeInDown', buttons=[text='深大新闻', url='index/sdxw.htm'] }
+                { tag='li', class='item', buttons=[text='2025-08-05深圳大学与教育部（中国）留学服务中心签署全面战略合作协议', url='info/1161/20358.htm'] }
+                    { tag='div', class='txt', buttons=[text='深圳大学与教育部（中国）留学服务中心签署全面战略合作协议', url=''] }
+                { tag='li', buttons=[text='2025-08-01出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开', url='info/1161/20357.htm'] }
+                    { tag='div', class='txt', buttons=[text='出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开', url=''] }
+                { tag='li', buttons=[text='2025-07-25深圳大学与青岛大学举行战略合作签约仪式', url='info/1161/20350.htm'] }
+                    { tag='div', class='txt', buttons=[text='深圳大学与青岛大学举行战略合作签约仪式', url=''] }
+            { tag='div', class='col-r wow fadeInUp', buttons=[text='进入深大新闻网', url='http://news.szu.edu.cn/'] }
+                { tag='li', buttons=[text='052025-08深圳大学与教育部（中国）留学服务中心签署全面战略合作协议', url='info/1161/20358.htm'] }
+                  { tag='a', class='con', buttons=[text='深圳大学与教育部（中国）留学服务中心签署全面战略合作协议', url=''] }
+                { tag='li', buttons=[text='012025-08出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开', url='info/1161/20357.htm'] }
+                  { tag='a', class='con', buttons=[text='出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开', url=''] }
+                { tag='li', buttons=[text='252025-07深圳大学与青岛大学举行战略合作签约仪式', url='info/1161/20350.htm'] }
+                  { tag='a', class='con', buttons=[text='深圳大学与青岛大学举行战略合作签约仪式', url=''] }
+                { tag='li', buttons=[text='182025-072025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动', url='info/1161/20347.htm'] }
+                  { tag='a', class='con', buttons=[text='2025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动', url=''] }
+                { tag='li', buttons=[text='152025-072025年第四届深圳高校台湾师生嘉年华在深圳大学启动', url='info/1161/20344.htm'] }
+                  { tag='a', class='con', buttons=[text='2025年第四届深圳高校台湾师生嘉年华在深圳大学启动', url=''] }
+        { tag='div', class='m-notice', buttons=[text='通知公告', url=''] }
+          { tag='h3', class='g-t1 g-t1-1 wow fadeInDown', buttons=[text='通知公告', url='index/tzgg.htm'] }
+              { tag='div', class='item', buttons=[text='2025-07-10关注！深圳大学2025年高考录取日程来了', url='https://mp.weixin.qq.com/s/ZJjN0CSnNehbfn3sRtXgLQ'] }
+                { tag='a', class='con', buttons=[text='关注！深圳大学2025年高考录取日程来了', url=''] }
+              { tag='div', class='item', buttons=[text='2025-06-21关于拟推荐参加第十九届“挑战杯”全国大学生课外学术科技作品竞赛的公示', url='info/1154/20345.htm'] }
+                { tag='a', class='con', buttons=[text='关于拟推荐参加第十九届“挑战杯”全国大学生课外学术科技作品竞赛的公示', url=''] }
+              { tag='div', class='item', buttons=[text='2025-05-19关于2025年“6·9”国际档案日主题海报设计大赛获奖作品名单的公示', url='info/1154/20215.htm'] }
+                { tag='a', class='con', buttons=[text='关于2025年“6·9”国际档案日主题海报设计大赛获奖作品名单的公示', url=''] }
+              { tag='div', class='item', buttons=[text='2025-05-09深圳大学2025年夏季普通高考招生章程（内含咨询群）', url='https://mp.weixin.qq.com/s/zGazwxFPle6H1QXIEUweVw'] }
+                { tag='a', class='con', buttons=[text='深圳大学2025年夏季普通高考招生章程（内含咨询群）', url=''] }
+              { tag='div', class='item', buttons=[text='2025-05-06深圳大学“双百行动”校地合作共建项目清单（2025）公告', url='info/1154/20187.htm'] }
+                { tag='a', class='con', buttons=[text='深圳大学“双百行动”校地合作共建项目清单（2025）公告', url=''] }
+          { tag='div', class='wp', buttons=[text='媒体深大', url=''] }
+            { tag='h3', class='g-t1 g-t1-1 wow fadeInDown', buttons=[text='媒体深大', url='index/mtsd.htm'] }
+                  { tag='li', class='l1 wow fadeInUp', buttons=[text='听！维也纳金色大厅来了一群中国少年072025-08', url='https://mp.weixin.qq.com/s/TGaKtBLDb7O37cz-p5z1AQ'] }
+                      { tag='div', class='txt', buttons=[text='听！维也纳金色大厅来了一群中国少年', url=''] }
+                  { tag='li', class='l2 wow fadeInUp', buttons=[text='《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年062025-08', url='https://m.bjnews.com.cn/detail/1754449976129831.html'] }
+                      { tag='div', class='txt', buttons=[text='《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年', url=''] }
+                  { tag='li', class='l3 wow fadeInUp', buttons=[text='《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年062025-08', url='http://hs.china.com.cn/2025-08/06/content_43195301.html'] }
+                      { tag='div', class='txt', buttons=[text='《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年', url=''] }
+                  { tag='li', class='l4 wow fadeInUp', buttons=[text='深大就业数据亮眼！已落实去向研究生中，每2人就有1人进入腾讯华为等名企302025-07', url='https://site.szplus.com/content/s6889c42fe4b0a181ee16c3eb.html'] }
+                      { tag='div', class='txt', buttons=[text='深大就业数据亮眼！已落实去向研究生中，每2人就有1人进入腾讯华为等名企', url=''] }
+                  { tag='li', class='l1 wow fadeInUp', buttons=[text='AI教育圳行动沙龙聚焦福田：探索人工智能教育的先锋密码232025-07', url='https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx17458fd100376282&redirect_uri=https%3A%2F%2Fm.mp.oeeee.com%2Fuser.php%3Fm%3DWXOAuth2%26a%3DbaseScopeCallback&response_type=code&scope=snsapi_base&state=#wechat_redirect'] }
+                      { tag='div', class='txt', buttons=[text='AI教育圳行动沙龙聚焦福田：探索人工智能教育的先锋密码', url=''] }
+                  { tag='li', class='l2 wow fadeInUp', buttons=[text='2025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动212025-07', url='https://site.szplus.com/content/s687dda0ee4b0a181ee16b350.html'] }
+                      { tag='div', class='txt', buttons=[text='2025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动', url=''] }
+                  { tag='li', class='l3 wow fadeInUp', buttons=[text='聚焦“双创”主题，探索创新密码！粤港澳多所高校师生汇聚深大192025-07', url='https://appdetail.netwin.cn/dc-h5s/dc_new/newdetail?id=s687b0b13e4b0da3882cfe633'] }
+                      { tag='div', class='txt', buttons=[text='聚焦“双创”主题，探索创新密码！粤港澳多所高校师生汇聚深大', url=''] }
+                  { tag='li', class='l4 wow fadeInUp', buttons=[text='先锋快报 | 国家社科基金重大项目“中国文学在世界文明进程中的作用和影响研究”开题报告会在深大举办152025-07', url='https://www.sztv.com.cn/ysz/yszlm/mt/xfkb/80471134.shtml'] }
+                      { tag='div', class='txt', buttons=[text='先锋快报 | 国家社科基金重大项目“中国文学在世界文明进程中的作用和影响研究”开题报告会在深大举办', url=''] }
+          { tag='div', class='wow fadeInLeft', buttons=[text='科学研究', url=''] }
+            { tag='h3', class='g-t1 g-t1-1', buttons=[text='科学研究', url='kxyj/xsdt.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1302/20343.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1302/20342.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1302/20320.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1302/20322.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1302/20306.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1302/20307.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1303/20205.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1303/20030.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1303/20022.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1303/19979.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1303/19910.htm'] }
+                    { tag='div', class='more', buttons=[text='查看详情', url='info/1303/19879.htm'] }
+            { tag='div', class='col-l wow fadeInLeft', buttons=[text='教育教学', url=''] }
+              { tag='h3', class='g-t1 g-t1-1', buttons=[text='教育教学', url='jyjx1/jxdt.htm'] }
+                  { tag='div', class='item', buttons=[text='2025-06-25广东 | 招多少人？多少分能上深大？', url='https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI3MDA1MjU5Ng==&scene=1&album_id=4045892607208325121&count=3#wechat_redirect'] }
+                      { tag='div', class='txt', buttons=[text='广东 | 招多少人？多少分能上深大？', url=''] }
+                  { tag='div', class='item', buttons=[text='2025-06-04深大招生重磅升级！六大院士领航“科创营”+五大“院士班”，锻造科创新生力', url='https://mp.weixin.qq.com/s/UULzzsmXEO8MTFgIOW0BVQ'] }
+                      { tag='div', class='txt', buttons=[text='深大招生重磅升级！六大院士领航“科创营”+五大“院士班”，锻造科创新生力', url=''] }
+                  { tag='div', class='item', buttons=[text='2025-07-01深圳首家！国内外院士与诺奖得主“坐镇”，深大医学发展速度惊人！', url='https://mp.weixin.qq.com/s/v5U9c8dTGPdYa8HsAaCaxg'] }
+                      { tag='div', class='txt', buttons=[text='深圳首家！国内外院士与诺奖得主“坐镇”，深大医学发展速度惊人！', url=''] }
+                  { tag='div', class='item', buttons=[text='2025-06-26院士领衔×10个ESI全球前1%｜深大生科院：40万亿生物经济风口，等你定义未来', url='https://mp.weixin.qq.com/s/n059PiVQF1jlp44aL4hsfw'] }
+                      { tag='div', class='txt', buttons=[text='院士领衔×10个ESI全球前1%｜深大生科院：40万亿生物经济风口，等你定义未来', url=''] }
+              { tag='div', class='scroll-con', buttons=[text='交流合作', url=''] }
+                    { tag='li', class='item l1', buttons=[text='国际交流', url='hzjl/gjjl.htm'] }
+                      { tag='a', class='con', buttons=[text='国际交流', url=''] }
+                    { tag='li', class='item l2', buttons=[text='港澳台交流', url='https://hmt.szu.edu.cn/'] }
+                      { tag='a', class='con', buttons=[text='港澳台交流', url=''] }
+                    { tag='li', class='item l3', buttons=[text='外事资讯', url='https://szupu.szu.edu.cn/cmsArticlesController/synopsi/000000006cd1e966016cdd42c3e90024'] }
+                      { tag='a', class='con', buttons=[text='外事资讯', url=''] }
+          { tag='div', class='m-life', buttons=[text='校园生活', url=''] }
+                  { tag='li', class='l1 wow fadeInUp', buttons=[text='人物', url='indexxyxh/rw.htm'] }
+                  { tag='li', class='l2 wow fadeInUp', buttons=[text='文娱', url='indexxyxh/wy.htm'] }
+                  { tag='li', class='l3 wow fadeInUp', buttons=[text='风情', url='indexxyxh/fq.htm'] }
+                  { tag='li', class='l4 wow fadeInUp', buttons=[text='故事', url='indexxyxh/gs.htm'] }
+              { tag='li', class='l1 wow fadeInUp', buttons=[text='研究生招生研究生招生', url='http://yz.szu.edu.cn/'] }
+              { tag='li', class='l2 wow fadeInUp', buttons=[text='本科生招生本科生招生', url='http://zs.szu.edu.cn/'] }
+              { tag='li', class='l3 wow fadeInUp', buttons=[text='继续教育招生继续教育招生', url='http://cce.szu.edu.cn/'] }
+              { tag='li', class='l4 wow fadeInUp', buttons=[text='留学生招生留学生招生', url='http://lxs.szu.edu.cn/'] }
+                  { tag='div', class='txt', buttons=[text='查看详情', url='https://giving.szu.edu.cn/'] }
+                  { tag='div', class='txt', buttons=[text='查看详情', url='https://xxgk.szu.edu.cn/'] }
+                  { tag='div', class='txt', buttons=[text='查看详情', url='https://bidding.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='教学动态', url='jyjx1/jxdt.htm'] }
+                    { tag='dd', buttons=[text='本科生教育', url='https://jwb.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='研究生教育', url='http://gra.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='留学生教育', url='http://lxs.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='继续教育', url='http://cce.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='非学历教育', url='https://jxjy.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='国际交流', url='hzjl/gjjl.htm'] }
+                    { tag='dd', buttons=[text='港澳台交流', url='https://hmt.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='外事资讯', url='https://szupu.szu.edu.cn/cmsArticlesController/synopsi/000000006cd1e966016cdd42c3e90024'] }
+                    { tag='dd', buttons=[text='本科生招生', url='zsyjy1/bkszs.htm'] }
+                    { tag='dd', buttons=[text='研究生招生', url='zsyjy1/yjszs1.htm'] }
+                    { tag='dd', buttons=[text='留学生招生', url='zsyjy1/lxszs1.htm'] }
+                    { tag='dd', buttons=[text='继续教育招生', url='zsyjy1/jxjyzs1.htm'] }
+                    { tag='dd', buttons=[text='出国留学招生', url='zsyjy1/cglxzs.htm'] }
+                    { tag='dd', buttons=[text='就业招聘', url='https://jobszu.jysd.com/'] }
+                    { tag='dd', buttons=[text='学生资助', url='zsyjy1/xszz.htm'] }
+                    { tag='dd', buttons=[text='工会活动', url='https://sdgh.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='创新创业', url='https://cxcy.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='学科竞赛', url='http://jingsai.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='学生活动', url='xysh1/xshd.htm'] }
+                    { tag='dd', buttons=[text='预决算公开', url='https://xxgk.szu.edu.cn/cw_zcjsf1/ndbmys.htm'] }
+                    { tag='dd', buttons=[text='图书馆', url='http://www.lib.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='总医院', url='http://sugh.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='附属华南医院', url='https://sch.szu.edu.cn/hnyycmsweb/'] }
+                    { tag='dd', buttons=[text='招标采购', url='http://bidding.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='深大基金会', url='http://edf.szu.edu.cn/'] }
+                    { tag='dd', buttons=[text='深圳大学报', url='http://szunews.ihwrm.com/'] }
+                    { tag='dd', buttons=[text='深大广播电台', url='https://weibo.com/u/7671203007'] }
+              { tag='p', buttons=[text='粤ICP备11018045号', url='https://beian.miit.gov.cn/'] }
+          { tag='span', buttons=[text='', url='https://bszs.conac.cn/sitename?method=show&id=2E14CEE4F4D16601E053012819ACC44D'] }

@@ -1,0 +1,1142 @@
+[
+  {
+    "text": "English",
+    "url": "http://english.ecnu.edu.cn/"
+  },
+  {
+    "text": "Français",
+    "url": "http://french.ecnu.edu.cn/"
+  },
+  {
+    "text": "Русский",
+    "url": "https://russian.ecnu.edu.cn"
+  },
+  {
+    "text": "学校概况",
+    "url": "",
+    "children": [
+      {
+        "text": "学校概况",
+        "url": "wzcd/xxgk.htm",
+        "children": [
+          {
+            "text": "学校章程",
+            "url": "wzcd/xxgk/xxzc.htm"
+          },
+          {
+            "text": "校情简介",
+            "url": "wzcd/xxgk/xqjj.htm"
+          },
+          {
+            "text": "学校领导",
+            "url": "wzcd/xxgk/xxld.htm"
+          },
+          {
+            "text": "机构设置",
+            "url": "wzcd/xxgk/jgsz.htm"
+          },
+          {
+            "text": "院系设置",
+            "url": "wzcd/xxgk/yxsz.htm"
+          },
+          {
+            "text": "校史沿革",
+            "url": "wzcd/xxgk/xsyg.htm"
+          },
+          {
+            "text": "学校标识",
+            "url": "wzcd/xxgk/xxbs.htm"
+          },
+          {
+            "text": "党务公开",
+            "url": "http://dwgk.ecnu.edu.cn/"
+          },
+          {
+            "text": "信息公开",
+            "url": "http://xxgk.ecnu.edu.cn/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "招生就业",
+    "url": "",
+    "children": [
+      {
+        "text": "学生就业",
+        "url": "https://career.ecnu.edu.cn/common/index.aspx"
+      },
+      {
+        "text": "本科生招生",
+        "url": "https://zsb.ecnu.edu.cn/"
+      },
+      {
+        "text": "研究生招生",
+        "url": "https://yjszs.ecnu.edu.cn/"
+      },
+      {
+        "text": "非学历教育",
+        "url": "https://zsjy.ecnu.edu.cn/47721/list.htm"
+      },
+      {
+        "text": "成人高等教育）",
+        "url": "https://www.sole.ecnu.edu.cn/"
+      },
+      {
+        "text": "International Students",
+        "url": "http://lxs.ecnu.edu.cn/"
+      }
+    ]
+  },
+  {
+    "text": "学术研究",
+    "url": "",
+    "children": [
+      {
+        "text": "学术组织",
+        "url": "wzcd/xsyj/xszz.htm"
+      },
+      {
+        "text": "研究机构",
+        "url": "wzcd/xsyj/yjjg2/zdsysyyjjd1.htm"
+      },
+      {
+        "text": "学科建设",
+        "url": "http://fzghb.ecnu.edu.cn/"
+      },
+      {
+        "text": "管理部门（科技处、",
+        "url": "http://www.kjc.ecnu.edu.cn/"
+      },
+      {
+        "text": "人文与社会科学研究院）",
+        "url": "http://www.skc.ecnu.edu.cn/"
+      },
+      {
+        "text": "学术期刊",
+        "url": "https://rwsk.ecnu.edu.cn/25037/list.htm"
+      },
+      {
+        "text": "学术文化",
+        "url": "wzcd/xsyj/xswh.htm"
+      }
+    ]
+  },
+  {
+    "text": "教育教学",
+    "url": "",
+    "children": [
+      {
+        "text": "大夏学堂",
+        "url": "http://ecnu.fanya.chaoxing.com/portal"
+      },
+      {
+        "text": "本科生教育",
+        "url": "https://bksy.ecnu.edu.cn"
+      },
+      {
+        "text": "研究生教育",
+        "url": "https://yjsy.ecnu.edu.cn"
+      }
+    ]
+  },
+  {
+    "text": "师资队伍",
+    "url": "",
+    "children": [
+      {
+        "text": "高层次人才",
+        "url": "wzcd/szdw/gccrc.htm"
+      },
+      {
+        "text": "教师名录",
+        "url": "https://faculty.ecnu.edu.cn/"
+      },
+      {
+        "text": "人才招聘",
+        "url": "http://www.jobs.ecnu.edu.cn"
+      }
+    ]
+  },
+  {
+    "text": "合作交流",
+    "url": "",
+    "children": [
+      {
+        "text": "国际交流",
+        "url": "https://ied.ecnu.edu.cn/"
+      },
+      {
+        "text": "港澳台交流",
+        "url": "https://ied.ecnu.edu.cn/37455/list.htm"
+      },
+      {
+        "text": "国际中文教育",
+        "url": "http://chinese.ecnu.edu.cn/"
+      },
+      {
+        "text": "上海纽约大学",
+        "url": "https://shanghai.nyu.edu/"
+      },
+      {
+        "text": "国际本科教育",
+        "url": "https://ijec.ecnu.edu.cn"
+      },
+      {
+        "text": "教育基金会",
+        "url": "http://foundation.ecnu.edu.cn/"
+      },
+      {
+        "text": "校友会",
+        "url": "http://alumni.ecnu.edu.cn/"
+      }
+    ]
+  },
+  {
+    "text": "校园生活",
+    "url": "",
+    "children": [
+      {
+        "text": "学生工作部",
+        "url": "https://xsgzb.ecnu.edu.cn/main.htm"
+      },
+      {
+        "text": "学生资助管理中心",
+        "url": "https://zizhu.ecnu.edu.cn/"
+      },
+      {
+        "text": "心理健康教育与咨询中心",
+        "url": "http://xlzx.ecnu.edu.cn/"
+      },
+      {
+        "text": "学生校长助理",
+        "url": "http://www.zhuli.ecnu.edu.cn/"
+      },
+      {
+        "text": "校历",
+        "url": "https://bksy.ecnu.edu.cn/c7/d7/c40558a706519/page.htm"
+      },
+      {
+        "text": "班车时刻表",
+        "url": "http://houqin.ecnu.edu.cn/28837/list.htm"
+      }
+    ]
+  },
+  {
+    "text": "学校邮箱",
+    "url": "https://mail.ecnu.edu.cn/login"
+  },
+  {
+    "text": "公共数据库",
+    "url": "https://portal2023.ecnu.edu.cn/"
+  },
+  {
+    "text": "图书馆",
+    "url": "https://lib.ecnu.edu.cn"
+  },
+  {
+    "text": "大夏学堂",
+    "url": "http://ecnu.fanya.chaoxing.com/portal"
+  },
+  {
+    "text": "教师名录",
+    "url": "https://faculty.ecnu.edu.cn/"
+  },
+  {
+    "text": "干部公示",
+    "url": "http://zzb.ecnu.edu.cn/_upload/tpl/09/17/2327/template2327/gbgz/gbgz.html"
+  },
+  {
+    "text": "人才招聘平台",
+    "url": "https://jobs.ecnu.edu.cn/product/recruit/website/RecruitIndex.jsp?FM_SYS_ID=hdsfdx_hr"
+  },
+  {
+    "text": "校历",
+    "url": "https://bksy.ecnu.edu.cn/c7/d7/c40558a706519/page.htm"
+  },
+  {
+    "text": "校史上的今天",
+    "url": "http://archives.ecnu.edu.cn/public/"
+  },
+  {
+    "text": "校园地图",
+    "url": "https://3dmap.ecnu.edu.cn/"
+  },
+  {
+    "text": "博物馆",
+    "url": "http://museum.ecnu.edu.cn/"
+  },
+  {
+    "text": "公共创新服务平台",
+    "url": "http://mpi.ecnu.edu.cn"
+  },
+  {
+    "text": "文明在线",
+    "url": "http://wmzx.ecnu.edu.cn/"
+  },
+  {
+    "text": "我要捐赠",
+    "url": "http://foundation.ecnu.edu.cn/3395/list.htm"
+  },
+  {
+    "text": "通知公告",
+    "url": "tzgg.htm",
+    "children": [
+      {
+        "text": "毕业校友",
+        "url": "https://alumni.ecnu.edu.cn/xyh/home"
+      },
+      {
+        "text": "未来学生",
+        "url": "alxxz/wlxs.htm"
+      },
+      {
+        "text": "人才招聘",
+        "url": "http://www.jobs.ecnu.edu.cn/product/recruit/website/RecruitIndex.jsp?FM_SYS_ID=hdsfdx_hr"
+      },
+      {
+        "text": "在校学生",
+        "url": "alxxz/zxxs.htm"
+      },
+      {
+        "text": "教职员工",
+        "url": "alxxz/jzyg1.htm"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "index.htm"
+  },
+  {
+    "text": "搜索你想要找的",
+    "url": "",
+    "children": [
+      {
+        "text": "",
+        "url": "jzbg/ssjg.jsp?wbtreeid=1001"
+      }
+    ]
+  },
+  {
+    "text": "新闻热点",
+    "url": "",
+    "children": [
+      {
+        "text": "新闻热点",
+        "url": "xwlm/xwrd.htm",
+        "children": [
+          {
+            "text": "",
+            "url": "info/1094/70041.htm",
+            "children": [
+              {
+                "text": "固本强基筑堡垒！华东师大与中共四大纪念馆共建党的支部建设研究中心",
+                "url": "info/1094/70041.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70072.htm"
+          },
+          {
+            "text": "开学前的特训！华东师大志愿者：“我们都是你的眼”",
+            "url": "info/1094/70072.htm",
+            "children": [
+              {
+                "text": "校园",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1029.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70071.htm"
+          },
+          {
+            "text": "2025年青少年高校科学营华东师大分营圆满收官",
+            "url": "info/1094/70071.htm",
+            "children": [
+              {
+                "text": "卓越育人",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1011.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70063.htm"
+          },
+          {
+            "text": "华东师大学子走遍全国，听听他们的实践故事",
+            "url": "info/1094/70063.htm",
+            "children": [
+              {
+                "text": "卓越育人",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1011.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70058.htm"
+          },
+          {
+            "text": "八一，讲6个华东师大“战士归来”的故事",
+            "url": "info/1094/70058.htm"
+          },
+          {
+            "text": "",
+            "url": "info/1094/70057.htm"
+          },
+          {
+            "text": "华东师大举办第36期新入职教职工培训",
+            "url": "info/1094/70057.htm",
+            "children": [
+              {
+                "text": "卓越育人",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1011.htm"
+              }
+            ]
+          },
+          {
+            "text": "第二届大中小学生公益创客论坛举行",
+            "url": "info/1094/70056.htm",
+            "children": [
+              {
+                "text": "卓越育人",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1011.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70053.htm"
+          },
+          {
+            "text": "华东师范大学陈振楼和吴瑞君受聘为上海市政府参事",
+            "url": "info/1094/70053.htm",
+            "children": [
+              {
+                "text": "统一战线",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1201.htm"
+              }
+            ]
+          },
+          {
+            "text": "法国蔚蓝海岸大学代表团访问华东师大",
+            "url": "info/1094/70050.htm",
+            "children": [
+              {
+                "text": "中法交流",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1264.htm"
+              },
+              {
+                "text": "合作交流",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1181.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70021.htm"
+          },
+          {
+            "text": "华东师大牵头计划“CROSS Coastz”入选联合国“科学十年”首批计划",
+            "url": "info/1094/70021.htm",
+            "children": [
+              {
+                "text": "卓越学术",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1024.htm"
+              },
+              {
+                "text": "生态+",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1043.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "info/1094/70044.htm"
+          },
+          {
+            "text": "第九届全国大学生集成电路创新创业大赛“苏河芯湾·芯聚未来”华东分赛区决赛在校举行",
+            "url": "info/1094/70044.htm",
+            "children": [
+              {
+                "text": "卓越育人",
+                "url": "https://www.ecnu.edu.cn/info/contenttag/1011.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "查看更多",
+        "url": "xwlm/xwrd.htm"
+      }
+    ]
+  },
+  {
+    "text": "专题聚焦",
+    "url": "",
+    "children": [
+      {
+        "text": "",
+        "url": "https://www.ecnu.edu.cn/info/contenttag/1281.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecnu.edu.cn/info/contenttag/1313.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecnu.edu.cn/info/contenttag/1262.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecnu.edu.cn/info/contenttag/1011.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecnu.edu.cn/info/contenttag/1024.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecnu.edu.cn/info/contenttag/1221.htm"
+      },
+      {
+        "text": "查看全部",
+        "url": "xwlm/ztjj.htm"
+      }
+    ]
+  },
+  {
+    "text": "媒体关注",
+    "url": "",
+    "children": [
+      {
+        "text": "媒体关注",
+        "url": "xwlm/mtgz1/xzgd.htm",
+        "children": [
+          {
+            "text": "竺洪波：《西游记》何以一次次在当代改写中呈现出职场模样2025-08-07",
+            "url": "info/1425/70080.htm"
+          },
+          {
+            "text": "闫方洁：数字文明时代的技术重构与人的主体性2025-08-07",
+            "url": "info/1425/70077.htm"
+          },
+          {
+            "text": "陈琳 高悦蓬：人工智能对劳动力市场的结构性影响及应对2025-08-04",
+            "url": "info/1425/70067.htm",
+            "children": [
+              {
+                "text": "科技推动力 海南三亚 “海洋守护者”能自主“吞废” 还能创新降解072025-08",
+                "url": "info/1426/70079.htm"
+              },
+              {
+                "text": "媒体关注丨“我是你的眼”，华东师大志愿者助力视障准大学生解锁大学生活新技能072025-08",
+                "url": "info/1426/70076.htm"
+              },
+              {
+                "text": "99名高中生在华东师大解锁“科学家”体验，跳出课本后他们学到了啥？072025-08",
+                "url": "info/1426/70075.htm"
+              },
+              {
+                "text": "媒体关注丨华东师大发布“大中小学校公益创客教育伙伴计划”022025-08",
+                "url": "info/1426/70059.htm"
+              },
+              {
+                "text": "媒体关注 | 入选联合国科学十年！上海这所高校牵头大科学计划，引领全球海岸带可持续发展012025-08",
+                "url": "info/1426/70068.htm"
+              },
+              {
+                "text": "媒体关注 | 【WAIC】华东师范大学空间人工智能学院建设启动302025-07",
+                "url": "info/1426/70052.htm"
+              }
+            ]
+          },
+          {
+            "text": "世界国别与区域地理研究丛书”（第二辑）编写推进会在华东师范大学召开2025-08-04",
+            "url": "info/1426/70065.htm"
+          },
+          {
+            "text": "以党章为指引持续推进党的作风建设2025-08-04",
+            "url": "info/1426/70064.htm"
+          },
+          {
+            "text": "破解科技成果转化“最初一公里”，华师大智能软件与AI+概念验证中心揭牌2025-08-03",
+            "url": "info/1426/70062.htm"
+          }
+        ]
+      },
+      {
+        "text": "查看全部",
+        "url": "xwlm/mtgz1/xzgd.htm"
+      }
+    ]
+  },
+  {
+    "text": "发展聚焦",
+    "url": "",
+    "children": [
+      {
+        "text": "发展聚焦",
+        "url": "xwlm/fzjj.htm",
+        "children": [
+          {
+            "text": "华东师范大学《卓越学术纲要》《卓越育人纲要》《通识课程纲要》",
+            "url": "info/1096/60204.htm"
+          },
+          {
+            "text": "华东师大“十四五”发展规划发布",
+            "url": "info/1096/59479.htm"
+          },
+          {
+            "text": "量子思维宣言 The Manifesto of Quantum Thinking",
+            "url": "info/1096/58378.htm"
+          },
+          {
+            "text": "教师教育",
+            "url": "jzbg/fznews_details.jsp?urltype=news.NewsContentUrl&wbtreeid=1096&wbnewsid=66188"
+          },
+          {
+            "text": "华东师范大学教师教育发展报告（2013-2022）",
+            "url": "jzbg/fznews_details.jsp?urltype=news.NewsContentUrl&wbtreeid=1096&wbnewsid=66188"
+          },
+          {
+            "text": "幸福之花战略",
+            "url": "info/1096/60204.htm"
+          },
+          {
+            "text": "华东师范大学《卓越学术纲要》《卓越育人纲要》《通识课程纲要》",
+            "url": "info/1096/60204.htm"
+          },
+          {
+            "text": "幸福之花战略",
+            "url": "info/1096/59479.htm"
+          },
+          {
+            "text": "华东师大“十四五”发展规划发布",
+            "url": "info/1096/59479.htm"
+          }
+        ]
+      },
+      {
+        "text": "查看全部",
+        "url": "xwlm/fzjj.htm"
+      }
+    ]
+  },
+  {
+    "text": "学术文化",
+    "url": "",
+    "children": [
+      {
+        "text": "学术文化",
+        "url": "wzcd/xsyj/xswh.htm",
+        "children": [
+          {
+            "text": "已结束2025-06-156月25日 鲁晓鹏：海外的中西比较文学方法的发展和创新",
+            "url": "info/1034/69827.htm"
+          },
+          {
+            "text": "已结束2025-06-166月24日 袁方：法学论文的选题、写作与投稿（2025年第75场百场校级学术讲座）",
+            "url": "info/1034/69835.htm"
+          },
+          {
+            "text": "已结束2025-06-156月24日 Jung Won Sonn：东亚在比较城市研究中的位置——方法反思与理论化建议（2025年第52场百场校级学术讲座）",
+            "url": "info/1034/69830.htm"
+          },
+          {
+            "text": "已结束2025-06-156月21日 肖铁：“肉的气息”——重读胡也频的“左转”（2025年第77场百场校级学术讲座）",
+            "url": "info/1034/69829.htm"
+          },
+          {
+            "text": "已结束2025-06-156月19日 张礼恒：朝鲜创设近代海关的自主性探索——以“朝士视察团”为中心的考察（历史学系“大夏中国史论坛”前沿讲座第42场）",
+            "url": "info/1034/69825.htm"
+          },
+          {
+            "text": "已结束2025-06-036月19日 彭牧：民歌复兴、学科独立与表演转型——以罗杰·亚伯拉罕斯为中心（2025年第62场百场校级学术讲座）",
+            "url": "info/1034/69734.htm"
+          }
+        ]
+      },
+      {
+        "text": "历史沿革",
+        "url": "wzcd/xxgk/xsyg.htm",
+        "children": [
+          {
+            "text": "华东师范大学成立暨开学典礼",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学被确定为全国重点师范大学。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学被中共中央指定为全国16所重点高等学校之一。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学再次被确定为全国重点高等院校。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学成为我国首批博士学位和硕士学位授予单位。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学成为国务院批准设立研究生院的33 所高等院校之一。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学成为国家“211 工程”建设大学。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学启动闵行校区规划建设。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学进入国家“985 工程”高校行列。学校主体搬迁到闵行校区，形成一校两区的办学格局。",
+            "url": ""
+          },
+          {
+            "text": "华东师范大学进入国家世界一流大学建设高校A 类行列，全面开启扎根中国大地建设一流大学的新征程。",
+            "url": ""
+          },
+          {
+            "text": "2021年，华东师范大学制定“十四五”规划，紧抓建党百年和建校70 周年契机，围绕“育人、文明、发展”三大核心使命加快“双一流”建设。",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "大学数读",
+    "url": "",
+    "children": [
+      {
+        "text": "大学区位",
+        "url": "",
+        "children": [
+          {
+            "text": "普陀校区",
+            "url": ""
+          },
+          {
+            "text": "闵行校区",
+            "url": ""
+          },
+          {
+            "text": "以青春赴山海！华东师大2025届毕业典礼举行",
+            "url": "info/1100/69858.htm"
+          },
+          {
+            "text": "赏樱寻雅韵 民俗绘华章",
+            "url": "info/1100/69098.htm"
+          },
+          {
+            "text": "秋@华东师大",
+            "url": "info/1100/68221.htm"
+          },
+          {
+            "text": "世界同梦：华东师大国际文化节举行",
+            "url": "info/1100/68071.htm"
+          },
+          {
+            "text": "快看你入镜了！直击华东师大运动会",
+            "url": "info/1100/67772.htm"
+          },
+          {
+            "text": "青春“戎”颜！华东师大新生军训全景直击",
+            "url": "info/1100/67397.htm"
+          },
+          {
+            "text": "热爱在沸腾！华东师大2024年开学典礼举行",
+            "url": "info/1100/67387.htm"
+          },
+          {
+            "text": "一见倾“新”！直击华东师大本科新生报到现场",
+            "url": "info/1100/67238.htm"
+          },
+          {
+            "text": "追求卓越 逐梦远航：华东师范大学2024届毕业典礼举行",
+            "url": "info/1100/66809.htm"
+          },
+          {
+            "text": "传承大夏精神 奋楫师大新程",
+            "url": "info/1100/66680.htm"
+          },
+          {
+            "text": "更多",
+            "url": "wzcd/xsyj/xswh.htm",
+            "children": [
+              {
+                "text": "6月25日 鲁晓鹏：海外的中西比较文学方法的发展和创新",
+                "url": "info/1034/69827.htm"
+              },
+              {
+                "text": "6月24日 袁方：法学论文的选题、写作与投稿（2025年第75场百场校级学术讲座）",
+                "url": "info/1034/69835.htm"
+              },
+              {
+                "text": "6月24日 Jung Won Sonn：东亚在比较城市研究中的位置——方法反思与理论化建议（2025年第52场百场校级学术讲座）",
+                "url": "info/1034/69830.htm"
+              },
+              {
+                "text": "6月21日 肖铁：“肉的气息”——重读胡也频的“左转”（2025年第77场百场校级学术讲座）",
+                "url": "info/1034/69829.htm"
+              },
+              {
+                "text": "6月19日 张礼恒：朝鲜创设近代海关的自主性探索——以“朝士视察团”为中心的考察（历史学系“大夏中国史论坛”前沿讲座第42场）",
+                "url": "info/1034/69825.htm"
+              },
+              {
+                "text": "6月19日 Graham Priest：Logical Abductivism and Logical Pluralism",
+                "url": "info/1034/69736.htm"
+              },
+              {
+                "text": "6月19日 彭牧：民歌复兴、学科独立与表演转型——以罗杰·亚伯拉罕斯为中心（2025年第62场百场校级学术讲座）",
+                "url": "info/1034/69734.htm"
+              },
+              {
+                "text": "6月18日 马晓霖：国别区域研究与田野调查—以也门胡塞控制区调研为例（2025年第55场知名学者学术讲座）",
+                "url": "info/1034/69735.htm"
+              },
+              {
+                "text": "6月18日 赵峥：冷战时期两岸三地足球运动的竞争与交互（1949-1979）",
+                "url": "info/1034/69729.htm"
+              },
+              {
+                "text": "6月17日 李利安：中国宗教学自主知识体系的基点——中国宗教“超人间”概念的现代诠释（华东师范大学哲学系“宗教、思想与文化”学术讲座（第6辑））",
+                "url": "info/1034/69785.htm"
+              },
+              {
+                "text": "6月17日 钮心毅：时空大数据与城市空间结构研究（2025年第65场百场校级学术讲座）",
+                "url": "info/1034/69733.htm"
+              },
+              {
+                "text": "6月13日 黄圣松：由“复封”诸侯论《左传》 崇礼、尊王之矛盾与选择",
+                "url": "info/1034/69787.htm"
+              },
+              {
+                "text": "6月13日 王福华：AI 法官——人工智能裁判的诉讼法理（2025年第72场百场校级学术讲座）",
+                "url": "info/1034/69786.htm"
+              },
+              {
+                "text": "6月13日 张力锋：自然种类词——翻译不确定和严格指示",
+                "url": "info/1034/69737.htm"
+              },
+              {
+                "text": "6月13日 陆建德：莱斯利·斯蒂芬论十八世纪英国文学与社会（2025年第67场百场校级学术讲座）",
+                "url": "info/1034/69727.htm"
+              },
+              {
+                "text": "6月11日 倪咏梅：美国教育领导力准备项目的系统性评估研究——基于INSPIRE调查数据的实证分析",
+                "url": "info/1034/69783.htm"
+              },
+              {
+                "text": "6月11日 黄琼瑶：“视而不见”——近代中国视觉文化的研究实践",
+                "url": "info/1034/69740.htm"
+              },
+              {
+                "text": "6月11日 顾维遐：以国际仲裁作为中国涉外法治发展的动力",
+                "url": "info/1034/69739.htm"
+              },
+              {
+                "text": "6月11日 李国华：当代水墨及艺术家",
+                "url": "info/1034/69724.htm"
+              },
+              {
+                "text": "6月10日 安靖如：思与文讲座——进步儒学的“内外公民”概念",
+                "url": "info/1034/69784.htm"
+              },
+              {
+                "text": "6月9日 宁镇疆：金文中的军功资料与西周的“尚贤”问题（大夏中国史论坛前沿讲座第39场）",
+                "url": "info/1034/69730.htm"
+              },
+              {
+                "text": "6月9日 邵栋：螺狮道场——小说戏剧性的阅读与实践",
+                "url": "info/1034/69728.htm"
+              },
+              {
+                "text": "6月9日 马建标：从门罗主义到门户开放的“区域谅解”——美国法律帝国主义在东亚世界的施展",
+                "url": "info/1034/69725.htm"
+              },
+              {
+                "text": "6月8日 曹寅：从毛淡棉到棉兰——印度洋资源边疆的兴衰（“大夏世界史论坛”前沿讲座第16场）",
+                "url": "info/1034/69732.htm"
+              },
+              {
+                "text": "6月6日 彼特·杜特科维奇：“岛国”美国——特朗普与国际秩序（2025年第25场百场校级学术讲座）",
+                "url": "info/1034/69741.htm"
+              },
+              {
+                "text": "6月6日 成谨济：死者能不能求援生者——韩江与韩国文艺术的前途",
+                "url": "info/1034/69738.htm"
+              },
+              {
+                "text": "6月6日 同钰莹：理解香港的无子女现象——教育水平、时间趋势与移民差异（2025年第66场百场校级学术讲座）",
+                "url": "info/1034/69731.htm"
+              },
+              {
+                "text": "6月6日 王苍龙：现代政治主体塑造的中国路径（2025年第68场百场校级学术讲座）",
+                "url": "info/1034/69726.htm"
+              },
+              {
+                "text": "5月28日 张东波：从语文能力到学科素养——跨越课程的语文教育探索（第239场大夏讲坛）",
+                "url": "info/1034/69586.htm"
+              },
+              {
+                "text": "5月28日 李广健：唐初政治与史学",
+                "url": "info/1034/69584.htm"
+              },
+              {
+                "text": "5月28日 王海之：金融研究中的计量经济学",
+                "url": "info/1034/69580.htm"
+              },
+              {
+                "text": "5月28日 陈以爱：民初上海政治——以五四运动为例（思勉人文讲座第544讲）",
+                "url": "info/1034/69577.htm"
+              },
+              {
+                "text": "5月28日 李静：新科玄？新人文？——以《赛先生在当代：科技升格与文学转型》为例",
+                "url": "info/1034/69568.htm"
+              },
+              {
+                "text": "5月27日 余红兵：从“文本解读”到“文化符号域”（2025年第53场百场校级学术讲座）",
+                "url": "info/1034/69576.htm"
+              },
+              {
+                "text": "5月27日 韩东育：欧美人观察下的“新文明”载体（2025年第51场知名学者学术讲座）",
+                "url": "info/1034/69573.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "index.htm",
+            "children": [
+              {
+                "text": "学校章程",
+                "url": "wzcd/xxgk/xxzc.htm"
+              },
+              {
+                "text": "校情简介",
+                "url": "wzcd/xxgk/xqjj.htm"
+              },
+              {
+                "text": "学校领导",
+                "url": "wzcd/xxgk/xxld.htm"
+              },
+              {
+                "text": "机构设置",
+                "url": "wzcd/xxgk/jgsz.htm"
+              },
+              {
+                "text": "院系设置",
+                "url": "wzcd/xxgk/yxsz.htm"
+              },
+              {
+                "text": "校史沿革",
+                "url": "wzcd/xxgk/xsyg.htm"
+              },
+              {
+                "text": "学校标识",
+                "url": "wzcd/xxgk/xxbs.htm"
+              },
+              {
+                "text": "党务公开",
+                "url": "http://dwgk.ecnu.edu.cn/"
+              },
+              {
+                "text": "信息公开",
+                "url": "http://xxgk.ecnu.edu.cn/"
+              },
+              {
+                "text": "学生就业",
+                "url": "https://career.ecnu.edu.cn/common/index.aspx"
+              },
+              {
+                "text": "本科生招生",
+                "url": "https://zsb.ecnu.edu.cn/"
+              },
+              {
+                "text": "研究生招生",
+                "url": "https://yjszs.ecnu.edu.cn/"
+              },
+              {
+                "text": "继续教育",
+                "url": "https://www.sole.ecnu.edu.cn/"
+              },
+              {
+                "text": "International Students",
+                "url": "http://lxs.ecnu.edu.cn/"
+              },
+              {
+                "text": "学术组织",
+                "url": "wzcd/xsyj/xszz.htm"
+              },
+              {
+                "text": "研究机构",
+                "url": "wzcd/xsyj/yjjg2/zdsysyyjjd1.htm"
+              },
+              {
+                "text": "学科建设",
+                "url": "http://fzghb.ecnu.edu.cn/"
+              },
+              {
+                "text": "学报",
+                "url": "http://www.xb.ecnu.edu.cn/"
+              },
+              {
+                "text": "学术期刊",
+                "url": "https://rwsk.ecnu.edu.cn/25037/list.htm"
+              },
+              {
+                "text": "学术文化",
+                "url": "wzcd/xsyj/xswh.htm"
+              },
+              {
+                "text": "大夏学堂",
+                "url": "http://ecnu.fanya.chaoxing.com/portal"
+              },
+              {
+                "text": "本科生教育",
+                "url": "https://bksy.ecnu.edu.cn"
+              },
+              {
+                "text": "研究生教育",
+                "url": "https://yjsy.ecnu.edu.cn"
+              },
+              {
+                "text": "高层次人才",
+                "url": "wzcd/szdw/gccrc.htm"
+              },
+              {
+                "text": "教师名录",
+                "url": "https://faculty.ecnu.edu.cn/"
+              },
+              {
+                "text": "人才招聘",
+                "url": "http://www.jobs.ecnu.edu.cn"
+              },
+              {
+                "text": "国际交流",
+                "url": "https://ied.ecnu.edu.cn/"
+              },
+              {
+                "text": "港澳台交流",
+                "url": "https://ied.ecnu.edu.cn/37455/list.htm"
+              },
+              {
+                "text": "国际中文教育",
+                "url": "http://chinese.ecnu.edu.cn/"
+              },
+              {
+                "text": "上海纽约大学",
+                "url": "https://shanghai.nyu.edu/"
+              },
+              {
+                "text": "国际本科教育",
+                "url": "https://ijec.ecnu.edu.cn"
+              },
+              {
+                "text": "教育基金会",
+                "url": "http://foundation.ecnu.edu.cn/"
+              },
+              {
+                "text": "校友会",
+                "url": "http://alumni.ecnu.edu.cn/"
+              },
+              {
+                "text": "学生工作部",
+                "url": "https://xsgzb.ecnu.edu.cn/main.htm"
+              },
+              {
+                "text": "学生资助管理中心",
+                "url": "https://zizhu.ecnu.edu.cn/"
+              },
+              {
+                "text": "心理健康教育与咨询中心",
+                "url": "http://xlzx.ecnu.edu.cn/"
+              },
+              {
+                "text": "学生校长助理",
+                "url": "http://www.zhuli.ecnu.edu.cn/"
+              },
+              {
+                "text": "校历",
+                "url": "https://bksy.ecnu.edu.cn/c7/d7/c40558a706519/page.htm"
+              },
+              {
+                "text": "班车时刻表",
+                "url": "http://houqin.ecnu.edu.cn/28837/list.htm"
+              },
+              {
+                "text": "",
+                "url": "https://www.ecnu.edu.cn/"
+              },
+              {
+                "text": "",
+                "url": "https://english.ecnu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1599"
+              },
+              {
+                "text": "",
+                "url": "https://ecnuxb.ihwrm.com/index/index/index/release_id/223161/paper_id/1243632.html"
+              },
+              {
+                "text": "",
+                "url": "https://twitter.com/ECNUER"
+              },
+              {
+                "text": "",
+                "url": "https://www.instagram.com/east_china_normal_university/"
+              },
+              {
+                "text": "",
+                "url": "https://www.linkedin.com/school/east-china-normal-university/"
+              },
+              {
+                "text": "",
+                "url": "https://www.youtube.com/channel/UCozdZ2rNaDeKoJI0Ep7Fvxw"
+              }
+            ]
+          },
+          {
+            "text": "我要捐赠",
+            "url": "http://giving.ecnu.edu.cn/index.action",
+            "children": [
+              {
+                "text": "地理科学学院",
+                "url": "http://www.geo.ecnu.edu.cn/"
+              }
+            ]
+          },
+          {
+            "text": "沪ICP备05003394号-26",
+            "url": "https://beian.miit.gov.cn/#/Integrated/index"
+          },
+          {
+            "text": "华东师范大学沪公网安备31009102000042号",
+            "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31009102000042"
+          }
+        ]
+      },
+      {
+        "text": "学生邮箱",
+        "url": "https://mail.stu.ecnu.edu.cn/"
+      },
+      {
+        "text": "教师邮箱",
+        "url": "https://mail.ecnu.edu.cn/login"
+      }
+    ]
+  }
+]

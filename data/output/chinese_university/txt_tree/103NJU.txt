@@ -1,0 +1,300 @@
+          { tag='div', class='logo', buttons=[text='', url='index.htm'] }
+                  { tag='li', buttons=[text='党代会专题', url='https://ddh.nju.edu.cn/'] }
+                  { tag='li', buttons=[text='电子邮箱', url='https://mail.nju.edu.cn/'] }
+                  { tag='li', buttons=[text='信息公开', url='https://xxgk.nju.edu.cn/main.htm'] }
+                  { tag='li', buttons=[text='捐赠', url='https://njuedf.nju.edu.cn/main.htm'] }
+                  { tag='li', buttons=[text='网上办事服务大厅', url='https://ehall.nju.edu.cn/ywtb-portal/official/index.html#/hall'] }
+                  { tag='li', buttons=[text='OA', url='https://oa.nju.edu.cn'] }
+                  { tag='li', buttons=[text='English', url='http://www.nju.edu.cn/en'] }
+                    { tag='li', buttons=[text='南大概况', url='ndgk/ndjj.htm'] }
+                      { tag='a', buttons=[text='南大概况', url=''] }
+                        { tag='div', class='box', buttons=[text='南大简介', url='ndgk/ndjj.htm', text='现任领导', url='ndgk/xrld.htm', text='历任领导', url='ndgk/lrld.htm', text='南大校史', url='https://dawww.nju.edu.cn/xswh/ndxs.htm', text='南大标识', url='ndgk/ndbs.htm'] }
+                    { tag='li', buttons=[text='南大新闻', url='xww/zhxw.htm'] }
+                      { tag='a', buttons=[text='南大新闻', url=''] }
+                    { tag='li', buttons=[text='学院部门', url='xybm.htm'] }
+                      { tag='a', buttons=[text='学院部门', url=''] }
+                    { tag='li', buttons=[text='招生就业', url='zsjy/zs.htm'] }
+                      { tag='a', buttons=[text='招生就业', url=''] }
+                        { tag='div', class='box', buttons=[text='招生', url='zsjy/zs.htm', text='奖助学金', url='zsjy/jzxj.htm', text='就业指导', url='zsjy/jyzd.htm'] }
+                    { tag='li', buttons=[text='人才招聘', url='https://rczp.nju.edu.cn/'] }
+                      { tag='a', buttons=[text='人才招聘', url=''] }
+                      { tag='a', buttons=[text='教育教学', url=''] }
+                        { tag='div', class='box', buttons=[text='本科生', url='https://jw.nju.edu.cn/main.htm', text='研究生', url='https://grawww.nju.edu.cn/', text='留学生', url='https://hwxy.nju.edu.cn/', text='非学历教育', url='http://fxljyglzx.nju.edu.cn', text='远程教育', url='https://de.nju.edu.cn/', text='学生交流', url='https://stuex.nju.edu.cn/main.htm'] }
+                      { tag='a', buttons=[text='科学研究', url=''] }
+                        { tag='div', class='box', buttons=[text='科技动态', url='https://www.nju.edu.cn/xww/kjdt.htm', text='社科动态', url='https://www.nju.edu.cn/xww/skdt.htm', text='科研机构', url='kxyj/kyjg.htm', text='成果查询', url='http://114.212.186.134/pub/?id=42', text='学术期刊', url='kxyj/xsqk.htm'] }
+                      { tag='a', buttons=[text='合作交流', url=''] }
+                        { tag='div', class='box', buttons=[text='国际合作', url='https://wb.nju.edu.cn/main.htm', text='成果转化', url='https://ttc.nju.edu.cn/main.htm'] }
+                      { tag='a', buttons=[text='校园服务', url=''] }
+                        { tag='div', class='box', buttons=[text='校园地图', url='http://vr.nju.edu.cn/#/', text='鼓楼服务大厅', url='xyfw/glfwdt.htm', text='南大校历', url='https://jw.nju.edu.cn/24809/list.htm', text='图书馆', url='http://lib.nju.edu.cn/', text='档案馆 校史馆', url='https://dawww.nju.edu.cn/', text='信息化服务', url='https://itsc.nju.edu.cn/main.htm', text='心理健康教育与研究中心', url='https://njuxlzx.nju.edu.cn/main.htm', text='后勤服务', url='xyfw/hqfw.htm', text='在线支付', url='https://njupay.nju.edu.cn', text='超算服务', url='https://hpcc.nju.edu.cn/main.htm'] }
+                  { tag='li', buttons=[text='党代会专题', url='https://ddh.nju.edu.cn/'] }
+                  { tag='li', buttons=[text='电子邮箱', url='https://mail.nju.edu.cn/'] }
+                  { tag='li', buttons=[text='信息公开', url='https://xxgk.nju.edu.cn/main.htm'] }
+                  { tag='li', buttons=[text='捐赠', url='https://njuedf.nju.edu.cn/main.htm'] }
+                  { tag='li', buttons=[text='网上办事服务大厅', url='https://ehall.nju.edu.cn/ywtb-portal/official/index.html#/hall'] }
+                  { tag='li', buttons=[text='OA', url='https://oa.nju.edu.cn'] }
+                  { tag='li', buttons=[text='English', url='http://www.nju.edu.cn/en'] }
+          { tag='div', class='logo', buttons=[text='', url='index.htm'] }
+                { tag='li', buttons=[text='南大概况', url='ndgk/ndjj.htm'] }
+                  { tag='a', buttons=[text='南大概况', url=''] }
+                    { tag='div', class='box', buttons=[text='南大简介', url='ndgk/ndjj.htm', text='现任领导', url='ndgk/xrld.htm', text='历任领导', url='ndgk/lrld.htm', text='南大校史', url='https://dawww.nju.edu.cn/xswh/ndxs.htm', text='南大标识', url='ndgk/ndbs.htm'] }
+                { tag='li', buttons=[text='南大新闻', url='xww/zhxw.htm'] }
+                  { tag='a', buttons=[text='南大新闻', url=''] }
+                { tag='li', buttons=[text='学院部门', url='xybm.htm'] }
+                  { tag='a', buttons=[text='学院部门', url=''] }
+                { tag='li', buttons=[text='招生就业', url='zsjy/zs.htm'] }
+                  { tag='a', buttons=[text='招生就业', url=''] }
+                    { tag='div', class='box', buttons=[text='招生', url='zsjy/zs.htm', text='奖助学金', url='zsjy/jzxj.htm', text='就业指导', url='zsjy/jyzd.htm'] }
+                { tag='li', buttons=[text='人才招聘', url='https://rczp.nju.edu.cn/'] }
+                  { tag='a', buttons=[text='人才招聘', url=''] }
+                  { tag='a', buttons=[text='教育教学', url=''] }
+                    { tag='div', class='box', buttons=[text='本科生', url='https://jw.nju.edu.cn/main.htm', text='研究生', url='https://grawww.nju.edu.cn/', text='留学生', url='https://hwxy.nju.edu.cn/', text='非学历教育', url='http://fxljyglzx.nju.edu.cn', text='远程教育', url='https://de.nju.edu.cn/', text='学生交流', url='https://stuex.nju.edu.cn/main.htm'] }
+                  { tag='a', buttons=[text='科学研究', url=''] }
+                    { tag='div', class='box', buttons=[text='科技动态', url='https://www.nju.edu.cn/xww/kjdt.htm', text='社科动态', url='https://www.nju.edu.cn/xww/skdt.htm', text='科研机构', url='kxyj/kyjg.htm', text='成果查询', url='http://114.212.186.134/pub/?id=42', text='学术期刊', url='kxyj/xsqk.htm'] }
+                  { tag='a', buttons=[text='合作交流', url=''] }
+                    { tag='div', class='box', buttons=[text='国际合作', url='https://wb.nju.edu.cn/main.htm', text='成果转化', url='https://ttc.nju.edu.cn/main.htm'] }
+                  { tag='a', buttons=[text='校园服务', url=''] }
+                    { tag='div', class='box', buttons=[text='校园地图', url='http://vr.nju.edu.cn/#/', text='鼓楼服务大厅', url='xyfw/glfwdt.htm', text='南大校历', url='https://jw.nju.edu.cn/24809/list.htm', text='图书馆', url='http://lib.nju.edu.cn/', text='档案馆 校史馆', url='https://dawww.nju.edu.cn/', text='信息化服务', url='https://itsc.nju.edu.cn/main.htm', text='心理健康教育与研究中心', url='https://njuxlzx.nju.edu.cn/main.htm', text='后勤服务', url='xyfw/hqfw.htm', text='在线支付', url='https://njupay.nju.edu.cn', text='超算服务', url='https://hpcc.nju.edu.cn/main.htm'] }
+              { tag='li', buttons=[text='南大概况', url=''] }
+                { tag='h3', buttons=[text='南大概况', url='ndgk/ndjj.htm'] }
+                  { tag='dd', buttons=[text='南大简介', url='ndgk/ndjj.htm'] }
+                  { tag='dd', buttons=[text='现任领导', url='ndgk/xrld.htm'] }
+                  { tag='dd', buttons=[text='历任领导', url='ndgk/lrld.htm'] }
+                  { tag='dd', buttons=[text='南大校史', url='https://dawww.nju.edu.cn/xswh/ndxs.htm'] }
+                  { tag='dd', buttons=[text='南大标识', url='ndgk/ndbs.htm'] }
+              { tag='li', buttons=[text='南大新闻', url=''] }
+                { tag='h3', buttons=[text='南大新闻', url='xww/zhxw.htm'] }
+              { tag='li', buttons=[text='学院部门', url=''] }
+                { tag='h3', buttons=[text='学院部门', url='xybm.htm'] }
+              { tag='li', buttons=[text='招生就业', url=''] }
+                { tag='h3', buttons=[text='招生就业', url='zsjy/zs.htm'] }
+                  { tag='dd', buttons=[text='招生', url='zsjy/zs.htm'] }
+                  { tag='dd', buttons=[text='奖助学金', url='zsjy/jzxj.htm'] }
+                  { tag='dd', buttons=[text='就业指导', url='zsjy/jyzd.htm'] }
+              { tag='li', buttons=[text='人才招聘', url=''] }
+                { tag='h3', buttons=[text='人才招聘', url='https://rczp.nju.edu.cn/'] }
+              { tag='li', buttons=[text='教育教学', url=''] }
+                  { tag='dd', buttons=[text='本科生', url='https://jw.nju.edu.cn/main.htm'] }
+                  { tag='dd', buttons=[text='研究生', url='https://grawww.nju.edu.cn/'] }
+                  { tag='dd', buttons=[text='留学生', url='https://hwxy.nju.edu.cn/'] }
+                  { tag='dd', buttons=[text='非学历教育', url='http://fxljyglzx.nju.edu.cn'] }
+                  { tag='dd', buttons=[text='远程教育', url='https://de.nju.edu.cn/'] }
+                  { tag='dd', buttons=[text='学生交流', url='https://stuex.nju.edu.cn/main.htm'] }
+              { tag='li', buttons=[text='科学研究', url=''] }
+                  { tag='dd', buttons=[text='科技动态', url='https://www.nju.edu.cn/xww/kjdt.htm'] }
+                  { tag='dd', buttons=[text='社科动态', url='https://www.nju.edu.cn/xww/skdt.htm'] }
+                  { tag='dd', buttons=[text='科研机构', url='kxyj/kyjg.htm'] }
+                  { tag='dd', buttons=[text='成果查询', url='http://114.212.186.134/pub/?id=42'] }
+                  { tag='dd', buttons=[text='学术期刊', url='kxyj/xsqk.htm'] }
+              { tag='li', buttons=[text='合作交流', url=''] }
+                  { tag='dd', buttons=[text='国际合作', url='https://wb.nju.edu.cn/main.htm'] }
+                  { tag='dd', buttons=[text='成果转化', url='https://ttc.nju.edu.cn/main.htm'] }
+              { tag='li', buttons=[text='校园服务', url=''] }
+                  { tag='dd', buttons=[text='校园地图', url='http://vr.nju.edu.cn/#/'] }
+                  { tag='dd', buttons=[text='鼓楼服务大厅', url='xyfw/glfwdt.htm'] }
+                  { tag='dd', buttons=[text='南大校历', url='https://jw.nju.edu.cn/24809/list.htm'] }
+                  { tag='dd', buttons=[text='图书馆', url='http://lib.nju.edu.cn/'] }
+                  { tag='dd', buttons=[text='档案馆 校史馆', url='https://dawww.nju.edu.cn/'] }
+                  { tag='dd', buttons=[text='信息化服务', url='https://itsc.nju.edu.cn/main.htm'] }
+                  { tag='dd', buttons=[text='心理健康教育与研究中心', url='https://njuxlzx.nju.edu.cn/main.htm'] }
+                  { tag='dd', buttons=[text='后勤服务', url='xyfw/hqfw.htm'] }
+                  { tag='dd', buttons=[text='在线支付', url='https://njupay.nju.edu.cn'] }
+                  { tag='dd', buttons=[text='超算服务', url='https://hpcc.nju.edu.cn/main.htm'] }
+          { tag='div', buttons=[text='', url='index.htm'] }
+          { tag='li', buttons=[text='党代会专题', url='https://ddh.nju.edu.cn/'] }
+          { tag='li', buttons=[text='电子邮箱', url='https://mail.nju.edu.cn/'] }
+          { tag='li', buttons=[text='信息公开', url='https://xxgk.nju.edu.cn/main.htm'] }
+          { tag='li', buttons=[text='捐赠', url='https://njuedf.nju.edu.cn/main.htm'] }
+          { tag='li', buttons=[text='网上办事服务大厅', url='https://ehall.nju.edu.cn/ywtb-portal/official/index.html#/hall'] }
+          { tag='li', buttons=[text='OA', url='https://oa.nju.edu.cn'] }
+          { tag='li', buttons=[text='English', url='http://www.nju.edu.cn/en'] }
+            { tag='div', class='con', buttons=[text='南大概况', url='ndgk/ndjj.htm'] }
+            { tag='div', class='list', buttons=[text='南大简介', url='ndgk/ndjj.htm', text='现任领导', url='ndgk/xrld.htm', text='历任领导', url='ndgk/lrld.htm', text='南大校史', url='https://dawww.nju.edu.cn/xswh/ndxs.htm', text='南大标识', url='ndgk/ndbs.htm'] }
+            { tag='div', class='con', buttons=[text='南大新闻', url='xww/zhxw.htm'] }
+            { tag='div', class='con', buttons=[text='学院部门', url='xybm.htm'] }
+            { tag='div', class='con', buttons=[text='招生就业', url='zsjy/zs.htm'] }
+            { tag='div', class='list', buttons=[text='招生', url='zsjy/zs.htm', text='奖助学金', url='zsjy/jzxj.htm', text='就业指导', url='zsjy/jyzd.htm'] }
+            { tag='div', class='con', buttons=[text='人才招聘', url='https://rczp.nju.edu.cn/'] }
+            { tag='div', class='list', buttons=[text='本科生', url='https://jw.nju.edu.cn/main.htm', text='研究生', url='https://grawww.nju.edu.cn/', text='留学生', url='https://hwxy.nju.edu.cn/', text='非学历教育', url='http://fxljyglzx.nju.edu.cn', text='远程教育', url='https://de.nju.edu.cn/', text='学生交流', url='https://stuex.nju.edu.cn/main.htm'] }
+            { tag='div', class='list', buttons=[text='科技动态', url='https://www.nju.edu.cn/xww/kjdt.htm', text='社科动态', url='https://www.nju.edu.cn/xww/skdt.htm', text='科研机构', url='kxyj/kyjg.htm', text='成果查询', url='http://114.212.186.134/pub/?id=42', text='学术期刊', url='kxyj/xsqk.htm'] }
+            { tag='div', class='list', buttons=[text='国际合作', url='https://wb.nju.edu.cn/main.htm', text='成果转化', url='https://ttc.nju.edu.cn/main.htm'] }
+            { tag='div', class='list', buttons=[text='校园地图', url='http://vr.nju.edu.cn/#/', text='鼓楼服务大厅', url='xyfw/glfwdt.htm', text='南大校历', url='https://jw.nju.edu.cn/24809/list.htm', text='图书馆', url='http://lib.nju.edu.cn/', text='档案馆 校史馆', url='https://dawww.nju.edu.cn/', text='信息化服务', url='https://itsc.nju.edu.cn/main.htm', text='心理健康教育与研究中心', url='https://njuxlzx.nju.edu.cn/main.htm', text='后勤服务', url='xyfw/hqfw.htm', text='在线支付', url='https://njupay.nju.edu.cn', text='超算服务', url='https://hpcc.nju.edu.cn/main.htm'] }
+            { tag='div', class='visual-img', buttons=[text='', url='https://www.nju.edu.cn/info/1067/432771.htm'] }
+            { tag='div', class='visual-img', buttons=[text='', url='https://www.nju.edu.cn/info/1045/432401.htm'] }
+            { tag='div', class='visual-img', buttons=[text='', url='https://mp.weixin.qq.com/s/MRbhCF9vKmpK3op5d7AK2g'] }
+            { tag='div', class='visual-img', buttons=[text='', url='https://www.nju.edu.cn/info/1045/430071.htm'] }
+            { tag='div', class='visual-img', buttons=[text='', url='https://mp.weixin.qq.com/s/an3zgdVmm_jSMFOj60TCWA'] }
+            { tag='div', class='swiper-pagination_box', buttons=[text='more', url='index/sydt.htm'] }
+          { tag='div', class='ban-ss', buttons=[text='高频搜索内容>学习贯彻党的二十大精神奋进行动苏州校区高考倒计时研究生招生', url=''] }
+            { tag='h3', buttons=[text='学习贯彻党的二十大精神', url='https://news.nju.edu.cn/ztxw/xxxcgcesdjs/index.html', text='奋进行动', url='https://news.nju.edu.cn/ztxw/njdxfjxdztwz/index.html', text='苏州校区', url='https://njusz.nju.edu.cn/', text='高考倒计时', url='https://mp.weixin.qq.com/s/JYOSSrpWqL5fPZDJBNyFYQ', text='研究生招生', url='https://yzb.nju.edu.cn/47831/list.htm'] }
+            { tag='div', class='ll', buttons=[text='南大新闻NJU News', url='xww/zhxw.htm'] }
+                { tag='a', buttons=[text='南大新闻', url=''] }
+                { tag='div', class='more001', buttons=[text='查看更多', url='xww/zhxw.htm'] }
+                  { tag='li', class='active swiper-slide', buttons=[text='2025年07月23日脑机接口产业培育大会举行 南京大学成立脑机接口研究院7月22日，脑机接口产业培育大会在南京市举行。江苏省委常委、南京市委书记周红波，江苏省副省长李忠军，中国科学院院士、南京大学校长谈哲敏出席并致辞。', url='info/1055/433141.htm'] }
+                  { tag='li', class='active swiper-slide', buttons=[text='2025年07月18日南京大学与重庆大学签署战略合作协议7月17日，重庆大学校长、中国工程院院士王树新率团来访，双方签署战略合作协议，携手开启合作新篇章。南京大学党委书记、中国科学院院士谭铁牛会见王树新一行。南京大学校长、中国科学院院士谈哲敏出席活动。', url='info/1055/432731.htm'] }
+                  { tag='li', class='active swiper-slide', buttons=[text='2025年07月11日第三届中外院士前沿科技论坛在南京大学苏州校区举行7月10日至12日，第三届中外院士前沿科技论坛在南京大学苏州校区举行。本届论坛由南京大学、全英华人教授协会、江苏省科学技术协会主办，以“人工智能赋能科技：AI for Science and Technology”为主题，汇聚了全球顶尖院士、AI领域先驱和交叉学科领军学者，共同探索AI驱动下的科研范式变革与技术创新路径。', url='info/1055/431641.htm'] }
+                  { tag='li', class='active swiper-slide', buttons=[text='2025年06月18日李强在江苏调研 了解南京大学原子级制造技术发展等情况6月18日央视《新闻联播》报道，中共中央政治局常委、国务院总理李强6月16日至18日在江苏调研。', url='info/1055/427571.htm'] }
+                  { tag='li', buttons=[text='302025.07教育部副部长杜江峰调研南京大学并主持召开座谈会', url='info/1055/433741.htm'] }
+                        { tag='div', class='time', buttons=[text='30', url=''] }
+                  { tag='li', buttons=[text='182025.07谭铁牛书记在仙林校区开展暑期安全检查、调研走访及慰问工作', url='info/1055/432831.htm'] }
+                        { tag='div', class='time', buttons=[text='18', url=''] }
+                  { tag='li', buttons=[text='谈哲敏校长赴云南省楚雄州双柏县调研定点帮扶工作', url='info/1055/432951.htm'] }
+                  { tag='li', buttons=[text='“华为杯”第八届中国研究生创“芯”大赛在南京大学苏州校区举行', url='info/1055/433881.htm'] }
+                  { tag='li', buttons=[text='南京大学第五届国际组织人才暑期实训营成果汇报会举行', url='info/1055/433811.htm'] }
+            { tag='div', class='ll', buttons=[text='媒体南大', url=''] }
+                { tag='div', class='more001', buttons=[text='查看更多', url='xww/mtcz.htm'] }
+            { tag='li', buttons=[text='【人民网】谭铁牛：以教育家精神铸魂强师 全力支撑教育强国建设', url='info/1056/429821.htm'] }
+            { tag='li', buttons=[text='【中国党政干部论坛】谈哲敏：特稿丨正确处理五个重大关系 以大学高质量发展助推教育强国建设', url='info/1056/424861.htm'] }
+            { tag='li', buttons=[text='【新华社】南京大学在分子骨架编辑领域取得新进展', url='info/1056/433151.htm'] }
+            { tag='li', buttons=[text='【人民日报】完善收入分配机制与发展新质生产力', url='info/1056/433671.htm'] }
+            { tag='div', class='ll', buttons=[text='校园动态', url=''] }
+                { tag='div', class='more001', buttons=[text='查看更多', url='xww/xydt.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='【学院师生在奋进】智能科学与技术学院教师龙霄潇、傅朝友荣获2025WAIC·云帆奖「明日之星」', url='info/3341/433711.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='【学院师生在奋进】我校校友边晓斌同志被追授“全国模范法官”“江苏省优秀共产党员”称号', url='info/3341/431711.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='【机关单位在奋进】“以巡代训”见成效 我校干部获省委巡视表彰', url='info/3341/431691.htm'] }
+                { tag='li', buttons=[text='【学院师生在奋进】南京大学“沿着马克思的足迹继续前进”本科生全球科考团队赴德国开展研学活动', url='info/3341/433681.htm'] }
+                { tag='li', buttons=[text='【学院师生在奋进】南京大学项目获文化和旅游部非遗研培绩效考核优秀', url='info/3341/433171.htm'] }
+                  { tag='div', class='title001 title001w', buttons=[text='视觉南大', url=''] }
+                  { tag='div', class='more001', buttons=[text='查看更多', url='https://www.nju.edu.cn/xww/yxnd.htm'] }
+            { tag='div', class='title001 title001w', buttons=[text='南大人物', url=''] }
+            { tag='div', class='more001 more001s more001w', buttons=[text='查看更多', url='ndrw.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：谭铁牛谭铁牛，模式识别与计算机视觉专家，中国科学院院士、英国皇家工程院外籍院士、发展中国家科学院院士，中国科学院自动化研究所研究员，南京大学党委书记。曾任中国科学院副院长、中央人民政府驻香港特别行政区联络办公室副主任。查看详情', url='https://dawww.nju.edu.cn/info/2991/45791.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：谭铁牛', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：谈哲敏谈哲敏，男，1965年1月生，江苏宜兴人。南京大学校长、党委副书记，中国科学院院士，理学博士、大气科学学院教授、博士生导师。历任南京大学大气科学系主任、中尺度灾害性天气教育部重点实验室主任、南京大学校长助理、南京大学副校长、...查看详情', url='https://dawww.nju.edu.cn/info/2991/45821.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：谈哲敏', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：郑海荣郑海荣，男，回族，1977年11月生，中共党员，中国科学院院士，研究生学历，博士，研究员。主要研究方向为医学成像信息技术与仪器设备、声学/磁学生物物理。曾获国家杰出青年基金资助、国家技术发明二等奖、国家科技进步一等奖。主持完成...查看详情', url='https://dawww.nju.edu.cn/info/2991/38841.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：郑海荣', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：顾宁顾宁，中国科学院院士、南京大学教授、博士生导师。教育部“长江学者”特聘教授、国家杰出青年科学基金获得者、第七届“全国优秀科技工作者”。中国微米纳米技术学会会士、美国医学与生物工程院会士（AIMBE Fellow）。国家纳米研究重大...查看详情', url='https://dawww.nju.edu.cn/info/2991/68031.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：顾宁', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：马余强马余强，1993年获南京大学理学博士学位，1995年被聘为南京大学物理学教授，1997年入选教育部跨世纪优秀人才培养计划，1999年荣获国家杰出青年科学基金，2001年入选教育部长江学者奖励计划特聘教授。主要从事物理学与化学和生命科学交叉...查看详情', url='https://dawww.nju.edu.cn/info/2991/60721.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：马余强', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：杨经绥杨经绥，岩石大地构造学家。中国地质科学院地质研究所研究员。1950年6月生于浙江省杭州市，籍贯浙江余杭。1977年毕业于长春地质学院地质勘探系，1992年毕业于加拿大达霍西（Dalhousie）大学获博士学位。2017年当选为中国科学院院士。201...查看详情', url='https://dawww.nju.edu.cn/info/2991/33181.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：杨经绥', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国工程院院士：任洪强任洪强，男，1964 年出生，博士研究生学历，1985 年 9 月至 2000 年 12 月，先后任职河北科技大学环境科学与工程学院助教、讲师、副教授、教授；2001 年 1 月至 2003 年 2 月，在南京大学环境科学与工程博士后流动站工作；2003 年 3 月...查看详情', url='https://dawww.nju.edu.cn/info/2991/42721.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国工程院院士：任洪强', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：沈树忠沈树忠，1961年10月出生于浙江湖州，地层古生物学家，中国科学院院士，南京大学地球科学与工程学院教授、博士生导师，南京大学生物演化与环境科教融合中心主任查看详情', url='https://dawww.nju.edu.cn/info/2991/43491.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：沈树忠', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：郭子建郭子建，教授、博士生导师。1989-1994年在意大利帕多瓦大学并获得博士学位。曾在英国伦敦大学、加拿大不列颠哥伦比亚大学、英国爱丁堡大学从事研究工作，研究方向为抗肿瘤金属配合物的作用机理研究。1999年起担任南京大学教授、博士生导...查看详情', url='https://dawww.nju.edu.cn/info/2991/68311.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：郭子建', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：许志琴许志琴，构造地质学家，女，1941年8月14日生于上海市。1964年毕业于北京大学地质地理系。1987年获法国蒙贝利埃大学构造地质博士学位。1995年当选为中国科学院院士。中国地质科学院地质研究所研究员。曾任中国地质科学院副院长、地质研究...查看详情', url='https://dawww.nju.edu.cn/info/2991/32781.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：许志琴', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：陈颙地球物理学家 1942年12月31日生于重庆，籍贯江苏宿迁。1965年毕业于中国科学技术大学地球物理系。1993年当选为中国科学院院士。2000年当选为第三世界科学院院士。南京大学教授、中国地震局研究员。曾任国家地震局副局长、地球物理研究所...查看详情', url='https://dawww.nju.edu.cn/info/2991/64541.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：陈颙', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：陈骏陈骏，1954年11月生，江苏扬州人。1973年参加工作，1984年加入中国共产党，1985年获矿床学博士学位并留校任教，1988年赴英国帝国理工学院地质系从事博士后研究，1992年聘为南京大学教授。先后担任地球科学系主任、南京大学副校长、党委...查看详情', url='https://dawww.nju.edu.cn/info/2991/63611.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：陈骏', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：陈懿陈懿，男，1933年生于福建福州，物理化学家。1955年南京大学化学系毕业，1979—1981年美国Wisconsin大学访问学者，2005年当选为中科院院士。现任南京大学教授、校务委员会顾问、校发展委员会顾问、华英文化教育基金南京大学遴选委员会召...查看详情', url='https://dawww.nju.edu.cn/info/2991/64501.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：陈懿', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='中国科学院院士：陈洪渊分析化学家，1937年12月24日生于浙江三门。1961年毕业于南京大学化学系。1981-1984年在联邦德国美茵兹大学留学。南京大学化学化工学院教授、学术委员会主任、分析科学和化学生物学研究所所长，兼任教育部科技委化学化工学部主任。2001年...查看详情', url='https://dawww.nju.edu.cn/info/2991/63371.htm'] }
+                    { tag='div', class='ll', buttons=[text='中国科学院院士：陈洪渊', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='文科资深教授：周宪周宪，文学博士，南京大学艺术学院教授，博导，教育部长江学者特聘教授，南京大学人文社会科学资深教授。
+
+学术研究主要集中在美学、艺术理论、文学理论和文化研究等领域。著有《艺术理论的文化逻辑》（2018）、《文化间的理论旅行》...查看详情', url='https://dawww.nju.edu.cn/info/2991/39971.htm'] }
+                    { tag='div', class='ll', buttons=[text='文科资深教授：周宪', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='文科资深教授：周晓虹周晓虹，1957年生于杭州。自1977年起先后考入南京医学院医学系、南开大学社会学系和南京大学历史学系，并获学士、硕士和博士学位。现为南京大学人文社会科学资深教授、当代中国研究院院长、博士研究生导师，并兼任国务院社会学学科评议...查看详情', url='https://dawww.nju.edu.cn/info/2991/39991.htm'] }
+                    { tag='div', class='ll', buttons=[text='文科资深教授：周晓虹', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='文科资深教授：张异宾张异宾（笔名张一兵），1956年3月17日生于南京，祖籍山东茌平。1981年8月毕业于南京大学哲学系。哲学博士。现任南京大学文科资深教授，南京大学学术委员会主任，马克思主义社会理论研究中心主任，哲学系博士生导师。中央马克思主义理论...查看详情', url='https://dawww.nju.edu.cn/info/2991/37751.htm'] }
+                    { tag='div', class='ll', buttons=[text='文科资深教授：张异宾', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='文科资深教授：王守仁王守仁，男，1955年1月出生于江苏省苏州市，本科毕业于南京大学，1988年获英国伦敦大学英国文学博士学位。1993年起任南京大学教授，历任南京大学英语系主任、外国语学院院长、南京大学教师教学发展中心主任，现为南京大学当代外国文学与...查看详情', url='https://dawww.nju.edu.cn/info/2991/47771.htm'] }
+                    { tag='div', class='ll', buttons=[text='文科资深教授：王守仁', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='文科资深教授：丁帆丁帆，男，1952年出生于苏州,现为南京大学中国新文学研究中心主任，教授，博士生导师。南京大学校务委员会副主任、南京大学学位委员会委员、南京大学人文社科资深教授。国务院学位委员会委员会中文学科组第四、五届评审委员，国家社科项...查看详情', url='https://dawww.nju.edu.cn/info/2991/65611.htm'] }
+                    { tag='div', class='ll', buttons=[text='文科资深教授：丁帆', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='文科资深教授：张永桃张永桃，1943年12月生，上海市人。1965年7月复旦大学经济系毕业后任教于南京大学，1988年10月-1993年2月任南京大学法政学院院长，1993年3月-1997年6月任南京大学副校长，1998年10月-2004年3月任南京大学社会工程与管理学院、公共管理学...查看详情', url='https://dawww.nju.edu.cn/info/2991/37821.htm'] }
+                    { tag='div', class='ll', buttons=[text='文科资深教授：张永桃', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='谭铁牛', url='https://dawww.nju.edu.cn/info/2991/45791.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='谈哲敏', url='https://dawww.nju.edu.cn/info/2991/45821.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='郑海荣', url='https://dawww.nju.edu.cn/info/2991/38841.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='顾宁', url='https://dawww.nju.edu.cn/info/2991/68031.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='马余强', url='https://dawww.nju.edu.cn/info/2991/60721.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='杨经绥', url='https://dawww.nju.edu.cn/info/2991/33181.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='任洪强', url='https://dawww.nju.edu.cn/info/2991/42721.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='沈树忠', url='https://dawww.nju.edu.cn/info/2991/43491.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='郭子建', url='https://dawww.nju.edu.cn/info/2991/68311.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='许志琴', url='https://dawww.nju.edu.cn/info/2991/32781.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='陈颙', url='https://dawww.nju.edu.cn/info/2991/64541.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='陈骏', url='https://dawww.nju.edu.cn/info/2991/63611.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='陈懿', url='https://dawww.nju.edu.cn/info/2991/64501.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='陈洪渊', url='https://dawww.nju.edu.cn/info/2991/63371.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='周宪', url='https://dawww.nju.edu.cn/info/2991/39971.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='周晓虹', url='https://dawww.nju.edu.cn/info/2991/39991.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='张异宾', url='https://dawww.nju.edu.cn/info/2991/37751.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='王守仁', url='https://dawww.nju.edu.cn/info/2991/47771.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='丁帆', url='https://dawww.nju.edu.cn/info/2991/65611.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='张永桃', url='https://dawww.nju.edu.cn/info/2991/37821.htm'] }
+              { tag='div', class='ll', buttons=[text='科技动态', url=''] }
+                { tag='div', class='more001', buttons=[text='查看更多', url='xww/kjdt.htm'] }
+                { tag='li', class='on on1', buttons=[text='金钟、左景林、马晶等研发新型双功能COF材料用于长寿命水系锌离子电池随着全球对可持续能源解决方案需求的增长，开发高效可靠储能系统已成为实现碳中和的关键焦点。在各种储...2025年08月04日', url='info/1067/434131.htm'] }
+                { tag='li', class='on on1', buttons=[text='南京大学陆红健团队《Science》发文：氮原子插入的骨架编辑技术南京大学化学化工学院陆红健教授团队，通过在温和条件下使用市售O‑二苯基膦羟胺（DPPH）对吡咯烷进行 ...2025年07月18日', url='info/1067/432771.htm'] }
+              { tag='div', class='ll', buttons=[text='社科动态', url=''] }
+                { tag='div', class='more001', buttons=[text='查看更多', url='xww/skdt.htm'] }
+                { tag='li', buttons=[text='《现代中国经济学大典》英文版新书发布会在京举办2025年06月20日', url='info/1070/428121.htm'] }
+                { tag='li', buttons=[text='“敦煌文化国际传播与敦煌学研究国际化”学术研讨会在南京大学举行', url='info/1070/433731.htm'] }
+                { tag='li', buttons=[text='“融合·振兴·共建：中华民族共同体视域下的县域发展与乡村振兴研讨会” 在云南双柏举办', url='info/1070/433721.htm'] }
+                { tag='li', buttons=[text='江苏省重点智库发展蓝皮书项目推进会顺利召开', url='info/1070/430921.htm'] }
+                { tag='li', buttons=[text='《求是》刊登莫砺锋教授署名文章《简论中华文化的诗性之美》', url='info/1070/430051.htm'] }
+        { tag='div', class='title001', buttons=[text='专题聚焦', url=''] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/xjpxsdzgtsshzysxztjywz/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/njdxfjxdztwz/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://www.nju.edu.cn/gcgggjrwjy.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/xxxcgcesdjs/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/dsxxjy/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/xjpxsdzgtsshzysxztjywz/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/njdxfjxdztwz/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://www.nju.edu.cn/gcgggjrwjy.htm'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/xxxcgcesdjs/index.html'] }
+                { tag='li', class='swiper-slide', buttons=[text='', url='https://ztwz.nju.edu.cn/ztxw/dsxxjy/index.html'] }
+          { tag='div', class='title001', buttons=[text='南大印象', url=''] }
+              { tag='ul', class='mathColor', buttons=[text='红色南大', url='', text='朝气南大', url='', text='卓越南大', url='', text='励学敦行', url='', text='诚朴雄伟', url='', text='文学院“职业面对面”综合性求职经验分享交流会圆满结束', url='', text='南大版“万物皆可发”的快乐，谁懂？', url='', text='Science发刊！他们用NJU命名突破性成果', url='', text='90后企业市值超700亿！南大系创业天团有多强？', url='', text='青年学术科创日回顾丨“智启新程，聚焦‘人工智能+’领航未来”宣讲会顺利举办', url='', text='喃喃系语丨破茧之翼，远行之诗 ——学术候鸟的迁徙指“南”', url='', text='临别前的一封信 | 感恩有您，这座城有了家的温度', url='', text='毕业赠言丨致2025届毕业生，来自老师们的祝福请查收', url='', text='“南”说再见｜告别南大的n种方式', url='', text='躬行致道丨青年学习社成员走进校史馆探寻“大先生”足迹', url='', text='2025南京大学商学院“满天星”暑期实践调研团出征仪式圆满举行', url='', text='厚重南大', url=''] }
+              { tag='li', buttons=[text='红色南大', url='https://www.nju.edu.cn/ndgk/ndjj.htm'] }
+              { tag='li', buttons=[text='朝气南大', url='https://www.nju.edu.cn/ndgk/ndjj.htm'] }
+              { tag='li', buttons=[text='卓越南大', url='https://www.nju.edu.cn/ndgk/ndjj.htm'] }
+              { tag='li', buttons=[text='励学敦行', url='https://www.nju.edu.cn/ndgk/ndjj.htm'] }
+              { tag='li', buttons=[text='诚朴雄伟', url='https://www.nju.edu.cn/ndgk/ndjj.htm'] }
+              { tag='li', buttons=[text='文学院“职业面对面”综合性求职经验分享交流会圆满结束', url='https://mp.weixin.qq.com/s/WiCOmXrcbTMEYQnMh-x7ZQ'] }
+              { tag='li', buttons=[text='南大版“万物皆可发”的快乐，谁懂？', url='https://mp.weixin.qq.com/s/g0bsbMB7mW1c50Cla0QE4g'] }
+              { tag='li', buttons=[text='Science发刊！他们用NJU命名突破性成果', url='https://mp.weixin.qq.com/s/uehTFVDsyyfBng4TcgW3Jg'] }
+              { tag='li', buttons=[text='90后企业市值超700亿！南大系创业天团有多强？', url='https://mp.weixin.qq.com/s/woba25QQi7IfvA8AnORONA'] }
+              { tag='li', buttons=[text='青年学术科创日回顾丨“智启新程，聚焦‘人工智能+’领航未来”宣讲会顺利举办', url='https://mp.weixin.qq.com/s/dCgxClg9kV_I1FSvqC7OEg'] }
+              { tag='li', buttons=[text='喃喃系语丨破茧之翼，远行之诗 ——学术候鸟的迁徙指“南”', url='https://mp.weixin.qq.com/s/Gji87k-z9LRNtG2BUJcI-Q'] }
+              { tag='li', buttons=[text='临别前的一封信 | 感恩有您，这座城有了家的温度', url='https://mp.weixin.qq.com/s/V_iPy4e0FJO5gmZRN6TSGg'] }
+              { tag='li', buttons=[text='毕业赠言丨致2025届毕业生，来自老师们的祝福请查收', url='https://mp.weixin.qq.com/s/s91J3FoxMs1kV8KXqsh-pQ'] }
+              { tag='li', buttons=[text='“南”说再见｜告别南大的n种方式', url='https://mp.weixin.qq.com/s/PXmeR8B4OnCFkOfV482Y8Q'] }
+              { tag='li', buttons=[text='躬行致道丨青年学习社成员走进校史馆探寻“大先生”足迹', url='https://mp.weixin.qq.com/s/h2KefhZbk5lzA-8OOTe6aw'] }
+              { tag='li', buttons=[text='2025南京大学商学院“满天星”暑期实践调研团出征仪式圆满举行', url='https://mp.weixin.qq.com/s/gy_VMQmJDmGslzuwPEGG3A'] }
+              { tag='li', buttons=[text='厚重南大', url='https://www.nju.edu.cn/ndgk/ndjj.htm'] }
+              { tag='div', class='title001', buttons=[text='数说南大', url=''] }
+                      { tag='div', class='rr', buttons=[text='40', url='', text='学院40个', url=''] }
+                      { tag='div', class='rr', buttons=[text='7', url='', text='本科新生书院7个', url=''] }
+                      { tag='div', class='rr', buttons=[text='15448', url='', text='本科生15448人', url=''] }
+                      { tag='div', class='rr', buttons=[text='19066', url='', text='硕士研究生19066人', url=''] }
+                      { tag='div', class='rr', buttons=[text='10269', url='', text='博士研究生10269人', url=''] }
+                      { tag='div', class='rr', buttons=[text='1332', url='', text='留学生1332人', url=''] }
+                      { tag='div', class='rr', buttons=[text='674万', url='', text='图书馆藏书674万册', url=''] }
+                      { tag='div', class='rr', buttons=[text='779万', url='', text='电子图书779万册', url=''] }
+                      { tag='div', class='rr', buttons=[text='35', url='', text='现有两院院士35人', url=''] }
+                      { tag='div', class='rr', buttons=[text='6', url='', text='“两弹一星”元勋校友6位', url=''] }
+                      { tag='div', class='rr', buttons=[text='16', url='', text='“双一流”建设学科16个', url=''] }
+                      { tag='div', class='rr', buttons=[text='5', url='', text='国家最高科技奖获得者校友5位', url=''] }
+        { tag='div', class='title001', buttons=[text='祝福南大', url=''] }
+              { tag='li', buttons=[text='祝福留言', url='index/zfnd.htm'] }
+              { tag='div', class='more3', buttons=[text='查看更多', url='xww/mtcz.htm'] }
+              { tag='li', buttons=[text='抖音南大校园里的夏夜荷塘🪷', url='https://v.douyin.com/j-6NeZTjSfY/'] }
+              { tag='li', buttons=[text='微信南大科普进社会 | 今晚，向上看！', url='https://mp.weixin.qq.com/s/WpkYM3RqBFQYOd0YqDLR4Q'] }
+                { tag='li', buttons=[text='在南大🌃共赏璀璨星空', url='http://xhslink.com/m/5SQhVpYZmYh'] }
+                        { tag='h5', buttons=[text='故人生死各千秋', url='https://nju.ihwrm.com/index/article/articleinfo.html?doc_id=4614250'] }
+                        { tag='h5', buttons=[text='学术研究要警惕 AI 幻觉', url='https://nju.ihwrm.com/index/article/articleinfo.html?doc_id=4614252'] }
+                        { tag='h5', buttons=[text='星星为什么会“眨眼睛”？', url='https://nju.ihwrm.com/index/article/articleinfo.html?doc_id=4624618'] }
+                        { tag='h5', buttons=[text='一字之差的改动', url='https://nju.ihwrm.com/index/article/articleinfo.html?doc_id=4606803'] }
+                        { tag='h5', buttons=[text='用青春热忱叩开“冷门绝学”之门', url='https://nju.ihwrm.com/index/article/articleinfo.html?doc_id=4599767'] }
+                        { tag='h5', buttons=[text='宁可少些', url='https://nju.ihwrm.com/index/article/articleinfo.html?doc_id=4599767'] }
+                { tag='div', class='more3s', buttons=[text='查看更多', url='http://nju.ihwrm.com/'] }
+              { tag='li', buttons=[text='VR地图', url='http://vr.nju.edu.cn/#/'] }
+              { tag='li', buttons=[text='新闻网', url='https://www.nju.edu.cn/xww/zhxw.htm'] }
+              { tag='li', buttons=[text='电子邮箱', url='https://mail.nju.edu.cn/'] }
+              { tag='li', buttons=[text='校友总会', url='https://alumni.nju.edu.cn/main.htm'] }
+              { tag='li', buttons=[text='基金会', url='https://njuedf.nju.edu.cn/main.htm'] }
+            { tag='div', class='box', buttons=[text='仙林校区', url=''] }
+            { tag='div', class='box', buttons=[text='鼓楼校区', url=''] }
+            { tag='div', class='box', buttons=[text='浦口校区', url=''] }
+            { tag='div', class='box', buttons=[text='苏州校区', url=''] }
+          { tag='div', class='center', buttons=[text='', url='index.htm'] }
+          { tag='p', buttons=[text='苏ICP备10085945号', url='https://beian.miit.gov.cn/'] }
+    { tag='div', class='xuanfu', buttons=[text='', url='https://ddh.nju.edu.cn/'] }

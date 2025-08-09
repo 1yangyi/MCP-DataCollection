@@ -1,0 +1,152 @@
+            { tag='form', class='search', buttons=[text='搜索', url='/cms/web/search/index.jsp'] }
+          { tag='div', class='top_lf', buttons=[text='信息门户', url='https://one.bnu.edu.cn', text='信息公开', url='http://xxgk.bnu.edu.cn/', text='联系校领导', url='lxxld/index.htm', text='教师邮箱', url='https://email.bnu.edu.cn/', text='学生邮箱', url='https://www.mail.bnu.edu.cn/', text='师大云盘', url='https://pan.bnu.edu.cn/'] }
+          { tag='div', class='top_rt', buttons=[text='师大新闻', url='http://news.bnu.edu.cn/', text='English Version', url='http://english.bnu.edu.cn/', text='校友之家', url='http://xyh.bnu.edu.cn/', text='珠海校区', url='http://www.bnuzh.edu.cn/'] }
+        { tag='div', class='logo', buttons=[text='', url='index.htm'] }
+            { tag='li', buttons=[text='学校概况', url='xxgk/index.htm'] }
+                { tag='dd', buttons=[text='学校简介', url='xxgk/xxjj/index.htm'] }
+                { tag='dd', buttons=[text='校史沿革', url='xxgk/xsyg/index.htm'] }
+                { tag='dd', buttons=[text='现任领导', url='xxgk/xrld/index.htm'] }
+                { tag='dd', buttons=[text='历任领导', url='xxgk/lrld/index.htm'] }
+                { tag='dd', buttons=[text='著名学者', url='xxgk/zmxz/index.htm'] }
+                { tag='dd', buttons=[text='名师先贤', url='xxgk/lsmr/index.htm'] }
+            { tag='li', buttons=[text='组织机构', url='zzjg/index.htm'] }
+            { tag='li', buttons=[text='学部院系', url='xbyx/index.htm'] }
+            { tag='li', buttons=[text='教育教学', url='jyjx/index.htm'] }
+                { tag='dd', buttons=[text='本科生教育', url='http://jwb.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='研究生教育', url='http://jwb.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='留学生教育', url='http://iso.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='继续教育', url='jyjx/1/index.htm'] }
+            { tag='li', buttons=[text='科学研究', url='https://keyanyuan.bnu.edu.cn/'] }
+            { tag='li', buttons=[text='招生就业', url='zsjy/index.htm'] }
+                { tag='dd', buttons=[text='本科生招生', url='http://admission.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='研究生招生', url='http://yz.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='留学生招生', url='https://admission-is.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='就业创业', url='http://career.bnu.edu.cn/'] }
+            { tag='li', buttons=[text='人才招聘', url='http://hr.bnu.edu.cn/rcgzbgs/index.html'] }
+            { tag='li', buttons=[text='合作交流', url='hzjl/index.htm'] }
+                { tag='dd', buttons=[text='国际交流与合作', url='http://oiec.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='教育基金会', url='http://www.bnuef.org/'] }
+                { tag='dd', buttons=[text='中国文化国际传播研究院', url='http://aiccc.bnu.edu.cn'] }
+            { tag='li', buttons=[text='图书档案', url='tsda/index.htm'] }
+                { tag='dd', buttons=[text='图书馆', url='http://www.lib.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='档案馆', url='http://dangan.bnu.edu.cn/'] }
+            { tag='li', buttons=[text='校园生活', url='xysh/index.htm'] }
+        { tag='div', class='mobile-inner-header', buttons=[text='教师邮箱学生邮箱', url=''] }
+          { tag='h3', class='mobile_title', buttons=[text='教师邮箱', url='http://email.bnu.edu.cn/', text='学生邮箱', url='https://www.mail.bnu.edu.cn/'] }
+          { tag='li', buttons=[text='首页', url='index.htm'] }
+          { tag='li', buttons=[text='学校概况', url='xxgk/index.htm'] }
+                { tag='dd', buttons=[text='学校简介', url='xxgk/xxjj/index.htm'] }
+                { tag='dd', buttons=[text='校史沿革', url='xxgk/xsyg/index.htm'] }
+                { tag='dd', buttons=[text='现任领导', url='xxgk/xrld/index.htm'] }
+                { tag='dd', buttons=[text='历任领导', url='xxgk/lrld/index.htm'] }
+                { tag='dd', buttons=[text='著名学者', url='xxgk/zmxz/index.htm'] }
+                { tag='dd', buttons=[text='名师先贤', url='xxgk/lsmr/index.htm'] }
+          { tag='li', buttons=[text='组织机构', url='zzjg/index.htm'] }
+          { tag='li', buttons=[text='学部院系', url='xbyx/index.htm'] }
+          { tag='li', buttons=[text='教育教学', url='jyjx/index.htm'] }
+                { tag='dd', buttons=[text='本科生教育', url='http://jwb.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='研究生教育', url='http://jwb.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='留学生教育', url='http://iso.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='继续教育', url='jyjx/1/index.htm'] }
+          { tag='li', buttons=[text='科学研究', url='https://keyanyuan.bnu.edu.cn/'] }
+          { tag='li', buttons=[text='招生就业', url='zsjy/index.htm'] }
+                { tag='dd', buttons=[text='本科生招生', url='http://admission.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='研究生招生', url='http://yz.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='留学生招生', url='https://admission-is.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='就业创业', url='http://career.bnu.edu.cn/'] }
+          { tag='li', buttons=[text='人才招聘', url='http://hr.bnu.edu.cn/rcgzbgs/index.html'] }
+          { tag='li', buttons=[text='合作交流', url='hzjl/index.htm'] }
+                { tag='dd', buttons=[text='国际交流与合作', url='http://oiec.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='教育基金会', url='http://www.bnuef.org/'] }
+          { tag='li', buttons=[text='图书档案', url='tsda/index.htm'] }
+                { tag='dd', buttons=[text='图书馆', url='http://www.lib.bnu.edu.cn/'] }
+                { tag='dd', buttons=[text='档案馆', url='http://dangan.bnu.edu.cn/'] }
+          { tag='li', buttons=[text='校园生活', url='xysh/index.htm'] }
+          { tag='span', buttons=[text='信息门户', url='https://one.bnu.edu.cn'] }
+          { tag='span', buttons=[text='信息公开', url='http://xxgk.bnu.edu.cn/'] }
+          { tag='span', buttons=[text='联系校领导', url='lxxld/index.htm'] }
+          { tag='span', buttons=[text='师大新闻', url='http://news.bnu.edu.cn/'] }
+          { tag='span', buttons=[text='English Version', url='http://english.bnu.edu.cn/'] }
+          { tag='span', buttons=[text='校友之家', url='http://xyh.bnu.edu.cn/'] }
+          { tag='span', buttons=[text='珠海校区', url='http://www.bnuzh.edu.cn/'] }
+          { tag='span', buttons=[text='师大云盘', url='https://pan.bnu.edu.cn/'] }
+          { tag='form', class='search', buttons=[text='', url='/cms/web/search/index.jsp'] }
+          { tag='li', buttons=[text='', url='https://mp.weixin.qq.com/s/trR4U_DXCpLneo62B2k7aA'] }
+          { tag='li', buttons=[text='', url='https://news.bnu.edu.cn//zx/ttgz/8e9c988dab384611b059b0a5fed6ec39.htm'] }
+          { tag='li', buttons=[text='', url='https://news.bnu.edu.cn//zx/zhxw/775253fcf716465aa8ec7c1ca9b9ce1d.htm'] }
+          { tag='li', buttons=[text='', url='https://mp.weixin.qq.com/s/nrP9cZh8ekZwhx2-RTvgnw'] }
+          { tag='li', buttons=[text='', url='https://news.bnu.edu.cn/zx/ttgz/65691d4533324c579df59726f89806c1.htm'] }
+          { tag='li', buttons=[text='', url='https://news.bnu.edu.cn/zx/ztxw/srgczybxgdjsxxjy/index.htm'] }
+      { tag='div', class='review_news', buttons=[text='More >', url='tt/index.htm'] }
+          { tag='div', class='listTitle01', buttons=[text='', url='http://news.bnu.edu.cn/zx/ttgz/index.htm'] }
+            { tag='a' }
+            { tag='li', class='liBg3', buttons=[text='“京校协同・智启未来”校城融合论坛在北京师范大学召开', url='http://news.bnu.edu.cn//zx/ttgz/259d541479284180b02b8ff6951d6ee5.htm'] }
+                { tag='div', class='item-txt01', buttons=[text='“京校协同・智启未来”校城融合论坛在北京师范大学召开', url=''] }
+            { tag='li', class='liBg4', buttons=[text='北京师范大学云浮实验学校项目动工活动举行', url='http://news.bnu.edu.cn//zx/ttgz/28f82b2414bd4fa09dbbc6d06d69eaf7.htm'] }
+                { tag='div', class='item-txt01', buttons=[text='北京师范大学云浮实验学校项目动工活动举行', url=''] }
+            { tag='li', class='liBg3', buttons=[text='北师大召开2024年青年教师校内挂职工作总结会暨2025年启动会', url='http://news.bnu.edu.cn//zx/ttgz/8c0ab88a39e44898a47a5ac269b55556.htm'] }
+                { tag='div', class='item-txt01', buttons=[text='北师大召开2024年青年教师校内挂职工作总结会暨2025年启动会', url=''] }
+            { tag='li', class='liBg4', buttons=[text='首都师范大学一行来访北师大', url='http://news.bnu.edu.cn//zx/ttgz/246c61ff3c3a48bab2f12d3f91c92b29.htm'] }
+                { tag='div', class='item-txt01', buttons=[text='首都师范大学一行来访北师大', url=''] }
+          { tag='div', class='listTitle01 listTitle02', buttons=[text='', url='http://news.bnu.edu.cn/zx/zhxw/index.htm'] }
+            { tag='a' }
+              { tag='div', buttons=[text='格桑计划——教育学科共建帮扶行动 | 师范教育协同提质计划教育学部2025年专项系列活动（...7月6日，由北京师范大学强师工程办公室统筹、教育学部承办的“格桑计划——教育学科共建帮扶项目”在阿坝师范学院开启，通过系统化的学科帮扶机制，有效促进了阿坝师范学院教师教育体系的完善...', url='http://news.bnu.edu.cn//zx/zhxw/d36528d990c24552955abb289df33c1d.htm'] }
+                  { tag='div', class='item-txt02', buttons=[text='格桑计划——教育学科共建帮扶行动 | 师范教育协同提质计划教育学部2025年专项系列活动（...', url=''] }
+                { tag='span', class='more02', buttons=[text='', url='http://news.bnu.edu.cn//zx/zhxw/d36528d990c24552955abb289df33c1d.htm'] }
+              { tag='div', buttons=[text='一带一路学院组织留学生开展暑期社会实践活动7月7日至9日，北京师范大学一带一路学院组织来自16个国家的23名留学生赴湖北宜昌秭归县开展暑期社会实践活动。', url='http://news.bnu.edu.cn//zx/zhxw/9df76c37908f4052b307a6b2e7aabbe3.htm'] }
+                  { tag='div', class='item-txt02', buttons=[text='一带一路学院组织留学生开展暑期社会实践活动', url=''] }
+                { tag='span', class='more02', buttons=[text='', url='http://news.bnu.edu.cn//zx/zhxw/9df76c37908f4052b307a6b2e7aabbe3.htm'] }
+              { tag='div', buttons=[text='刘长旭带队对昌平校园和育荣校园开展暑期安全检查​为切实做好暑期校园安全生产工作，确保校园安全稳定，7月14日，北师大党委常委、副校长刘长旭率总务部相关负责同志，深入昌平校园和育荣校园一线，开展安全检查工作。', url='http://news.bnu.edu.cn//zx/zhxw/1e6217ba3d8f465dbbc8114fb73f509f.htm'] }
+                  { tag='div', class='item-txt02', buttons=[text='刘长旭带队对昌平校园和育荣校园开展暑期安全检查', url=''] }
+                { tag='span', class='more02', buttons=[text='', url='http://news.bnu.edu.cn//zx/zhxw/1e6217ba3d8f465dbbc8114fb73f509f.htm'] }
+              { tag='div', buttons=[text='致公党广东省委会一行到北师大珠海校区调研座谈​7月10日上午，全国政协常委、广东省政协副主席、致公党广东省委会主委黄武一行莅临北师大珠海校区，围绕“深化科教合作，推进科技创新同产业创新深度融合”主题开展专题调研。', url='http://news.bnu.edu.cn//zx/zhxw/ff08fb73ecf249ff9faa5ea8511822e8.htm'] }
+                  { tag='div', class='item-txt02', buttons=[text='致公党广东省委会一行到北师大珠海校区调研座谈', url=''] }
+                { tag='span', class='more02', buttons=[text='', url='http://news.bnu.edu.cn//zx/zhxw/ff08fb73ecf249ff9faa5ea8511822e8.htm'] }
+          { tag='div', class='listTitle01 listTitle03', buttons=[text='', url='http://news.bnu.edu.cn/zx/xzdt/index.htm'] }
+            { tag='a' }
+            { tag='li', class='d-bg02', buttons=[text='[成果]化学学院教授毛兰群和吴菲课题组在Nature Communications发表重要研究成果：中间体位阻效应诱导三维共价有机框架的形成如何实现高选择性的活体电化学传感，一直是脑化学测量领域的关键科学问题。在国家自然科学基金委和科技部的大力支持下，北京师范大学化学学院毛兰群课题组近年来在基于新材料的活体原位电化学传感原理和方法研究方面持续取得突破。', url='http://news.bnu.edu.cn//zx/xzdt/f2a056900e704d438f4caab654a54205.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[成果]化学学院教授毛兰群和吴菲课题组在Nature Communications发表重要研究成果：中间体位阻效应诱导三维共价有机框架的形成', url=''] }
+            { tag='li', buttons=[text='[成果]化学学院教授王文光课题组在JACS发表重要研究成果：铁-钼协同催化电化学还原亚硝酸根选择性转化研究近期，北师大化学学院教授王文光课题组联合中山大学教授叶生发、华中科技大学教授廖荣臻课题组，报道了一种Fe(II)Mo(IV) 双金属电催化剂。该催化剂在NO₂⁻还原反应中表现出卓越性能：TOF值高达103 s⁻¹，NO选择性达93.8%，创下单相催化剂最高活性纪录。这一发现为含氮小分子的高选择性转化提供了新范式。', url='http://news.bnu.edu.cn//zx/xzdt/cf3dfad8d108400aa8e2a30b9e01b0d4.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[成果]化学学院教授王文光课题组在JACS发表重要研究成果：铁-钼协同催化电化学还原亚硝酸根选择性转化研究', url=''] }
+            { tag='li', class='d-bg02', buttons=[text='[论坛]北京师范大学代表团赴巴布亚新几内亚参加“中国-太平洋岛国教师教育论坛”7月3日至7月8日，北京师范大学校务委员会副主任、联合国教科文组织国际农村教育研究与培训中心主任周作宇率团访问巴布亚新几内亚，出席在巴新东高地省戈罗卡大学（UOG）举办的“中国-太平洋岛国教师教育论坛”。', url='http://news.bnu.edu.cn//zx/xzdt/c412d5fb5e384651b7a73261651e3b95.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[论坛]北京师范大学代表团赴巴布亚新几内亚参加“中国-太平洋岛国教师教育论坛”', url=''] }
+            { tag='li', buttons=[text='[会议]2025年国际认知心理测评与提升大会在北师大举办由北京师范大学主办、北京师范大学心理学部与剑桥大学心理测量中心联合承办的“2025年国际认知心理测评与提升大会（International Conference on Cognitive and Psychological Assessment and Enhancement，ICCPAE）”于7月11日至12日在北京师范大学海淀校园举行。', url='http://news.bnu.edu.cn//zx/xzdt/69837e4448f341abb028b23995168642.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[会议]2025年国际认知心理测评与提升大会在北师大举办', url=''] }
+            { tag='li', buttons=[text='[会议]第七期“京师大模型”媒体应用创新工作坊在四川大凉山举办6月27日至29日，第七期“京师大模型”媒体创新应用工作坊在四川省凉山州西昌市举办，与会者围绕“AI 赋能・文化创新”主题，探索大模型技术在媒体与文化领域的创新应用。', url='http://news.bnu.edu.cn//zx/xzdt/9ca56e68a2f74f639cd743e00dc9f08e.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[会议]第七期“京师大模型”媒体应用创新工作坊在四川大凉山举办', url=''] }
+            { tag='li', class='d-bg02', buttons=[text='[会议]2025年北京师范大学基础教育学科共同体体育高端学科年会举行6月28日至30日，2025年北京师范大学基础教日育学科共同体体育高端学科年会在北京师范大学保定实验学校举行，以“体育核心素养导向下的体育与健康课程研讨”为主题，通过开展专家讲座、课例展示与观摩、专家点评指导与交流研讨、工作坊交流指导等方式，围绕活动主题探讨体育核心素养导向下的体育与健康课程，提升体育教师的教学能力，促进基础教育阶段体育教师的专业发展。', url='http://news.bnu.edu.cn//zx/xzdt/600f6e03a5ee40a58d5ea1f3b3dd5f92.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[会议]2025年北京师范大学基础教育学科共同体体育高端学科年会举行', url=''] }
+            { tag='li', buttons=[text='[观点]林崇德：人与人工智能和谐共生——读《创造力与人工智能》在心理学与认知神经科学中，创造性长期被视为人类独有的“天赋”，涵盖创新思维、人格特质与动机等心理要素。而今，新型生成式人工智能的出现打破了这一局面，机器不仅能够写诗作画、谱曲成文，还能在科研探索、工业生产及教育领域提供助力。这一变革促使我们思考：人工智能是否已成为真正的“创作者”？当下的创造生态又将发生何种改变？', url='http://news.bnu.edu.cn//zx/xzdt/7a65f0b1b11b4683acc820a48578f0f4.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[观点]林崇德：人与人工智能和谐共生——读《创造力与人工智能》', url=''] }
+            { tag='li', class='d-bg02', buttons=[text='[研讨]《中华杂纂》整理出版研讨会在京召开6月28日，“古籍整理研究与中西文化交流：《中华杂纂》整理出版研讨会”在北京师范大学召开。来自各高校的专家学者齐聚一堂，共同探讨《中华杂纂》整理出版的学术价值与意义、相关规范与体例。', url='http://news.bnu.edu.cn//zx/xzdt/32c446424fbf41339315496f8ee7b83f.htm'] }
+                { tag='div', class='item-txt03', buttons=[text='[研讨]《中华杂纂》整理出版研讨会在京召开', url=''] }
+          { tag='div', class='listTitle01 listTitle04', buttons=[text='', url='http://news.bnu.edu.cn/'] }
+            { tag='a' }
+                { tag='span', class='item-img04', buttons=[text='', url='http://news.bnu.edu.cn//zx/bsrw/d3ab69c3761d4465b3c61b3e16f4491b.htm'] }
+                { tag='div', class='item-txt04', buttons=[text='黎锦熙：任重能背、道远不退的语文教育家', url='http://news.bnu.edu.cn//zx/bsrw/d3ab69c3761d4465b3c61b3e16f4491b.htm'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/Y0dEBjHa-0_YnY6vm24p7g'] }
+                { tag='div', class='item-txt04', buttons=[text='师大月历丨七月，流光...', url='https://mp.weixin.qq.com/s/Y0dEBjHa-0_YnY6vm24p7g'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/yWW4bhzAz2Zd9uLAkxYLQA'] }
+                { tag='div', class='item-txt04', buttons=[text='建功西部 校友风采｜北师大广西选调生...', url='https://mp.weixin.qq.com/s/yWW4bhzAz2Zd9uLAkxYLQA'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/rRRiU8-fxkfT_jfDQtGzUQ'] }
+                { tag='div', class='item-txt04', buttons=[text='凡星灿烂 | 张雨露：心随舞动，热爱...', url='https://mp.weixin.qq.com/s/rRRiU8-fxkfT_jfDQtGzUQ'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/JndpN-W2ECAOnRoIW7N76A'] }
+                { tag='div', class='item-txt04', buttons=[text='育体育心，健康成长！聚焦北师大实验中...', url='https://mp.weixin.qq.com/s/JndpN-W2ECAOnRoIW7N76A'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/WE5LdDw9uVyGgWWTn2A3ug'] }
+                { tag='div', class='item-txt04', buttons=[text='征兵报名进行时！听听北师大人的迷彩青...', url='https://mp.weixin.qq.com/s/WE5LdDw9uVyGgWWTn2A3ug'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/FKhmierqRbd4F3tRlpmw9A'] }
+                { tag='div', class='item-txt04', buttons=[text='黄济：鸿德济世 诗书传家', url='https://mp.weixin.qq.com/s/FKhmierqRbd4F3tRlpmw9A'] }
+                { tag='span', class='item-img04', buttons=[text='+查看更多+', url='bsgs/index.htm'] }
+                { tag='span', class='item-img04', buttons=[text='', url='https://mp.weixin.qq.com/s/I9ufZM9CeDTplUDAXsb_lw'] }
+                { tag='div', class='item-txt04', buttons=[text='当BNUers驶入春...', url='https://mp.weixin.qq.com/s/I9ufZM9CeDTplUDAXsb_lw'] }
+            { tag='div', class='listTitle01 listTitle05', buttons=[text='', url='tzgg/index.htm'] }
+              { tag='a' }
+                  { tag='div', class='notice-txt', buttons=[text='关于第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛拟推报作...', url='tzgg/23659986a78e4cbea52971e189e4f181.htm'] }
+              { tag='a' }
+              { tag='li', buttons=[text='', url='https://xyjljh.bnu.edu.cn/'] }
+              { tag='li', buttons=[text='', url='https://news.bnu.edu.cn/zx/ztxw/srkzdjxxjy/index.htm'] }
+              { tag='li', buttons=[text='', url='https://news.bnu.edu.cn/14ddh/'] }
+              { tag='li', buttons=[text='', url='https://news.bnu.edu.cn/xuexijingshen/index.htm'] }
+            { tag='div', class='sina_inner', buttons=[text='@ 北京师范大学', url='https://weibo.com/lovebnu'] }
+            { tag='div', class='sina_inner', buttons=[text='@ 北京师范大学', url='https://mp.weixin.qq.com/s/pEqCr7o6l7jNAYeG6iRJ5A'] }
+      { tag='span', buttons=[text='京ICP备10031106号-58', url='https://beian.miit.gov.cn'] }

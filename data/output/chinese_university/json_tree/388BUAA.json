@@ -1,0 +1,916 @@
+[
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "北航新闻",
+        "url": "http://news.buaa.edu.cn"
+      },
+      {
+        "text": "学校概况",
+        "url": "xygk/jrbh.htm",
+        "children": [
+          {
+            "text": "今日北航",
+            "url": "xygk/jrbh.htm"
+          },
+          {
+            "text": "历史沿革",
+            "url": "xygk/lsyg.htm"
+          },
+          {
+            "text": "学校领导",
+            "url": "xygk/xxld.htm"
+          },
+          {
+            "text": "北航校历",
+            "url": "xygk/bhxl.htm"
+          },
+          {
+            "text": "校园地图",
+            "url": "xygk/xydt1/xylxq.htm"
+          }
+        ]
+      },
+      {
+        "text": "机构设置",
+        "url": "jgsz/jxkyjg.htm",
+        "children": [
+          {
+            "text": "教学科研机构",
+            "url": "jgsz/jxkyjg.htm"
+          },
+          {
+            "text": "党政机关",
+            "url": "jgsz/dzjg.htm"
+          },
+          {
+            "text": "服务支撑机构",
+            "url": "jgsz/fwzcjg.htm"
+          },
+          {
+            "text": "其他教学科研机构",
+            "url": "jgsz/qtjxkyjg.htm"
+          }
+        ]
+      },
+      {
+        "text": "教育教学",
+        "url": "jyjx/szdw/lyys.htm",
+        "children": [
+          {
+            "text": "师资队伍",
+            "url": "jyjx/szdw/lyys.htm"
+          },
+          {
+            "text": "本科生教育",
+            "url": "jyjx/bksjy1.htm"
+          },
+          {
+            "text": "研究生教育",
+            "url": "jyjx/yjsjy1.htm"
+          },
+          {
+            "text": "国际学生教育",
+            "url": "jyjx/gjxsjy.htm"
+          },
+          {
+            "text": "继续教育",
+            "url": "jyjx/jxjy.htm"
+          }
+        ]
+      },
+      {
+        "text": "科学研究",
+        "url": "kxyj1.htm",
+        "children": [
+          {
+            "text": "科研概况",
+            "url": "kxyj1/kygk.htm"
+          },
+          {
+            "text": "科研项目",
+            "url": "kxyj1/kyxm1/xlzdxm.htm"
+          },
+          {
+            "text": "科研基地",
+            "url": "kxyj1/kyjd/zfsljd.htm"
+          },
+          {
+            "text": "科研合作",
+            "url": "kxyj1/kyhz/xdhz.htm"
+          },
+          {
+            "text": "科研成果",
+            "url": "kxyj1/kycg/hjcg.htm"
+          },
+          {
+            "text": "学术交流",
+            "url": "kxyj1/xsjl/bhdjt.htm"
+          }
+        ]
+      },
+      {
+        "text": "招生就业",
+        "url": "zsjy.htm"
+      },
+      {
+        "text": "招聘引智",
+        "url": "https://recruit.buaa.edu.cn/#/app/buaa/epxing-recruit/zpwz"
+      },
+      {
+        "text": "全球合作",
+        "url": "qqhz/qqhzgk.htm",
+        "children": [
+          {
+            "text": "全球合作概况",
+            "url": "qqhz/qqhzgk.htm"
+          }
+        ]
+      },
+      {
+        "text": "EN",
+        "url": "https://ev.buaa.edu.cn/"
+      },
+      {
+        "text": "学生",
+        "url": "cy/xs.htm"
+      },
+      {
+        "text": "教职工",
+        "url": "cy/jzg.htm"
+      },
+      {
+        "text": "校友",
+        "url": "https://xyh.buaa.edu.cn/"
+      },
+      {
+        "text": "OA系统",
+        "url": "https://oa2.buaa.edu.cn/"
+      },
+      {
+        "text": "邮件系统",
+        "url": "http://mail.buaa.edu.cn/"
+      },
+      {
+        "text": "VPN系统",
+        "url": "https://e.buaa.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "url": "https://lib.buaa.edu.cn/"
+      },
+      {
+        "text": "智慧门户",
+        "url": "https://it.buaa.edu.cn/portal"
+      },
+      {
+        "text": "实用信息",
+        "url": "cy/syxx/xszx.htm"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "北航新闻",
+        "url": "http://news.buaa.edu.cn"
+      },
+      {
+        "text": "学校概况",
+        "url": "xygk/jrbh.htm",
+        "children": [
+          {
+            "text": "今日北航",
+            "url": "xygk/jrbh.htm"
+          },
+          {
+            "text": "历史沿革",
+            "url": "xygk/lsyg.htm"
+          },
+          {
+            "text": "学校领导",
+            "url": "xygk/xxld.htm"
+          },
+          {
+            "text": "北航校历",
+            "url": "xygk/bhxl.htm"
+          },
+          {
+            "text": "校园地图",
+            "url": "xygk/xydt1/xylxq.htm"
+          }
+        ]
+      },
+      {
+        "text": "机构设置",
+        "url": "jgsz/jxkyjg.htm",
+        "children": [
+          {
+            "text": "教学科研机构",
+            "url": "jgsz/jxkyjg.htm"
+          },
+          {
+            "text": "党政机关",
+            "url": "jgsz/dzjg.htm"
+          },
+          {
+            "text": "服务支撑机构",
+            "url": "jgsz/fwzcjg.htm"
+          },
+          {
+            "text": "其他教学科研机构",
+            "url": "jgsz/qtjxkyjg.htm"
+          }
+        ]
+      },
+      {
+        "text": "教育教学",
+        "url": "jyjx/szdw/lyys.htm",
+        "children": [
+          {
+            "text": "师资队伍",
+            "url": "jyjx/szdw/lyys.htm"
+          },
+          {
+            "text": "本科生教育",
+            "url": "jyjx/bksjy1.htm"
+          },
+          {
+            "text": "研究生教育",
+            "url": "jyjx/yjsjy1.htm"
+          },
+          {
+            "text": "国际学生教育",
+            "url": "jyjx/gjxsjy.htm"
+          },
+          {
+            "text": "继续教育",
+            "url": "jyjx/jxjy.htm"
+          }
+        ]
+      },
+      {
+        "text": "科学研究",
+        "url": "kxyj1.htm",
+        "children": [
+          {
+            "text": "科研概况",
+            "url": "kxyj1/kygk.htm"
+          },
+          {
+            "text": "科研项目",
+            "url": "kxyj1/kyxm1/xlzdxm.htm"
+          },
+          {
+            "text": "科研基地",
+            "url": "kxyj1/kyjd/zfsljd.htm"
+          },
+          {
+            "text": "科研合作",
+            "url": "kxyj1/kyhz/xdhz.htm"
+          },
+          {
+            "text": "科研成果",
+            "url": "kxyj1/kycg/hjcg.htm"
+          },
+          {
+            "text": "学术交流",
+            "url": "kxyj1/xsjl/bhdjt.htm"
+          }
+        ]
+      },
+      {
+        "text": "招生就业",
+        "url": "zsjy.htm"
+      },
+      {
+        "text": "招聘引智",
+        "url": "https://recruit.buaa.edu.cn/#/app/buaa/epxing-recruit/zpwz"
+      },
+      {
+        "text": "全球合作",
+        "url": "qqhz/qqhzgk.htm",
+        "children": [
+          {
+            "text": "全球合作概况",
+            "url": "qqhz/qqhzgk.htm"
+          }
+        ]
+      },
+      {
+        "text": "EN",
+        "url": "https://ev.buaa.edu.cn/",
+        "children": [
+          {
+            "text": "学生",
+            "url": "cy/xs.htm"
+          },
+          {
+            "text": "教职工",
+            "url": "cy/jzg.htm"
+          },
+          {
+            "text": "校友",
+            "url": "https://xyh.buaa.edu.cn/"
+          },
+          {
+            "text": "OA系统",
+            "url": "https://oa2.buaa.edu.cn/"
+          },
+          {
+            "text": "邮件系统",
+            "url": "http://mail.buaa.edu.cn/"
+          },
+          {
+            "text": "VPN系统",
+            "url": "https://e.buaa.edu.cn/"
+          },
+          {
+            "text": "图书馆",
+            "url": "https://lib.buaa.edu.cn/"
+          },
+          {
+            "text": "智慧门户",
+            "url": "https://it.buaa.edu.cn/portal"
+          },
+          {
+            "text": "实用信息",
+            "url": "cy/syxx/xszx.htm"
+          }
+        ]
+      },
+      {
+        "text": "",
+        "url": "http://news.buaa.edu.cn/info/1003/64298.htm"
+      },
+      {
+        "text": "",
+        "url": "https://news.buaa.edu.cn/info/1002/63010.htm"
+      }
+    ]
+  },
+  {
+    "text": "往期回顾",
+    "url": "index/wqhg.htm",
+    "children": [
+      {
+        "text": "",
+        "url": "https://news.buaa.edu.cn/info/1002/66170.htm"
+      }
+    ]
+  },
+  {
+    "text": "往期回顾",
+    "url": "index/wqhg.htm",
+    "children": [
+      {
+        "text": "头条新闻《Science》刊发北航在柔性磁电材料方面取得的最新研究进展",
+        "url": "http://news.buaa.edu.cn/info/1002/66583.htm",
+        "children": [
+          {
+            "text": "《Science》刊发北航在柔性磁电材料方面取得的最新研究进展",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "头条新闻《光明日报》头版：在边疆，写下“光与电”的诗篇",
+        "url": "http://news.buaa.edu.cn/info/1002/66558.htm",
+        "children": [
+          {
+            "text": "《光明日报》头版：在边疆，写下“光与电”的诗篇",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "062025.08体育部教师周宇娇荣获首都高校第八届体育教师教学基本功比赛一等奖",
+        "url": "http://news.buaa.edu.cn/info/1002/66578.htm",
+        "children": [
+          {
+            "text": "体育部教师周宇娇荣获首都高校第八届体育教师教学基本功比赛一等奖",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "062025.08北航拳击队在2025年中国大学生拳击锦标赛中取得佳绩",
+        "url": "http://news.buaa.edu.cn/info/1002/66576.htm",
+        "children": [
+          {
+            "text": "北航拳击队在2025年中国大学生拳击锦标赛中取得佳绩",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "042025.08北航青年教师安炜荣获全国高校物理青年教师讲课比赛一等奖",
+        "url": "http://news.buaa.edu.cn/info/1002/66565.htm",
+        "children": [
+          {
+            "text": "北航青年教师安炜荣获全国高校物理青年教师讲课比赛一等奖",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "042025.08北航房建成教授团队提出超高灵敏可溯源测量新方法，为精密测量提供“量子标尺”",
+        "url": "http://news.buaa.edu.cn/info/1002/66564.htm",
+        "children": [
+          {
+            "text": "北航房建成教授团队提出超高灵敏可溯源测量新方法，为精密测量提供“量子标尺”",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "032025.082025年中国大学生工程实践与创新能力大赛飞行器设计仿真赛项决赛在北航杭州国际创新研究院举办",
+        "url": "http://news.buaa.edu.cn/info/1002/66560.htm",
+        "children": [
+          {
+            "text": "2025年中国大学生工程实践与创新能力大赛飞行器设计仿真赛项决赛在北航杭州国际创新研究院举办",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "022025.08我校於水副教授执导动画电影《浪浪山小妖怪》上映",
+        "url": "http://news.buaa.edu.cn/info/1002/66559.htm",
+        "children": [
+          {
+            "text": "我校於水副教授执导动画电影《浪浪山小妖怪》上映",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "北航人物",
+        "url": "http://news.buaa.edu.cn/bhrw.htm"
+      },
+      {
+        "text": "BEIHANG PEOPLE",
+        "url": ""
+      },
+      {
+        "text": "北航人物",
+        "url": "",
+        "children": [
+          {
+            "text": "青春·奋斗【青春·奋斗】刘平凡：名为平凡 实为不凡7月28日，湖南省永州市江华瑶族自治县高考生刘平凡收到了来自北航的录取通知书，他以651分的成绩通过国家专项计划，被北京航空航天大学工科试验班类（航空航天类）录取。而收到录取通知书的时候，他正在皮具厂打暑假工。刘平凡从邮政工作人员手中签收北航录取通知书消息经媒体报道后，相关话题新闻登上微博热搜。对于这位励志少年的成长经历，网友纷纷点赞并留言祝福。刘平凡的父母已年近六旬，父亲常年患有腰椎间盘突出，无法...查看详情 >",
+            "url": "http://news.buaa.edu.cn/info/1052/66548.htm",
+            "children": [
+              {
+                "text": "【青春·奋斗】刘平凡：名为平凡 实为不凡",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "青春·奋斗【青春·奋斗】赵福睿：全国游泳冠军，AI卓越英才水花飞溅间，速度划破时光的静谧；蝶泳起伏中，节奏激荡思维的火焰。在北航这片充满机遇与挑战的沃土上，他以执着与热爱编织出青春的多彩篇章！他在泳池中劈波斩浪、奋勇争先，连夺多项桂冠，刷新赛会纪录，为北航摘得中国大学生游泳锦标赛历史首金；他在课堂上披荆斩棘、潜心求索，以大一加权平均分96.33，稳居专业第一，并投身多智能体强化学习的AI4Science前沿课题。他以竞速之姿奋勇前行，以求知之心步履不停，以探索之志逐...查看详情 >",
+            "url": "http://news.buaa.edu.cn/info/1052/66536.htm",
+            "children": [
+              {
+                "text": "【青春·奋斗】赵福睿：全国游泳冠军，AI卓越英才",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "青春·奋斗【青春·奋斗】普布：情系西部赤子心他翻山越岭，矢志求学，从平均海拔4500米的藏区来到北航，曾因课业压力陷入自我怀疑，却奋起直追成功逆袭；他笃学力行，回馈相助，撰写130页数理笔记无私分享，在志愿活动中彰显青春担当；他心系桑梓，情归西部，毕业后响应“西部计划”奔赴新疆，反哺那片养育他的西部大地。他是空间与地球科学学院2025届本科毕业生普布。雪域启程，骤陷迷津普布的故事，始于西藏松多村——一个被群山环抱的小村落。孩童时期对群山之外世界的探...查看详情 >",
+            "url": "http://news.buaa.edu.cn/info/1052/66505.htm",
+            "children": [
+              {
+                "text": "【青春·奋斗】普布：情系西部赤子心",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "青春·奋斗【青春·奋斗】杨文菁：用科研解构AI 用音乐引燃灵感当看似冰冷的算法遇上温润的大提琴，当严谨的科研思维碰撞澎湃的艺术激情，成长在北航的“沃土”中，科技与人文不再是平行的轨道，而是奏响和谐共鸣的交响乐章。她，聚焦AI领域研究，为人机交互赋予“温度”，硕士期间以一作发表3篇学术论文，曾获2024年研究生国家奖学金、2023届北航优秀毕业生；她，担任北航学生交响乐团大提琴声部长，在琴声里构建科研之外的“第二宇宙”，获北京市大学生艺术节金奖、大学生全国艺术展演活动...查看详情 >",
+            "url": "http://news.buaa.edu.cn/info/1052/66412.htm",
+            "children": [
+              {
+                "text": "【青春·奋斗】杨文菁：用科研解构AI 用音乐引燃灵感",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "http://news.buaa.edu.cn/info/1052/66548.htm"
+          },
+          {
+            "text": "",
+            "url": "http://news.buaa.edu.cn/info/1052/66536.htm"
+          },
+          {
+            "text": "",
+            "url": "http://news.buaa.edu.cn/info/1052/66505.htm"
+          },
+          {
+            "text": "",
+            "url": "http://news.buaa.edu.cn/info/1052/66412.htm"
+          }
+        ]
+      },
+      {
+        "text": "教学科研",
+        "url": "http://news.buaa.edu.cn/kjzx_new.htm"
+      },
+      {
+        "text": "TEACHING & RESEARCH",
+        "url": ""
+      },
+      {
+        "text": "教学科研",
+        "url": ""
+      },
+      {
+        "text": "科教在线《Science》刊发北航在柔性磁电材料方面取得的最新研究进展",
+        "url": "http://news.buaa.edu.cn/info/1005/66584.htm",
+        "children": [
+          {
+            "text": "《Science》刊发北航在柔性磁电材料方面取得的最新研究进展",
+            "url": ""
+          },
+          {
+            "text": "科教在线经济管理学院郝壮副教授等撰文：绿色信贷政策如何影响企业的违约风险",
+            "url": "http://news.buaa.edu.cn/info/1005/66507.htm",
+            "children": [
+              {
+                "text": "经济管理学院郝壮副教授等撰文：绿色信贷政策如何影响企业的违约风险",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "科教在线北航耿立升教授及其合作者理论预言全新奇特强子态 为探索物质深层次结构开辟新方向",
+            "url": "http://news.buaa.edu.cn/info/1005/66532.htm",
+            "children": [
+              {
+                "text": "北航耿立升教授及其合作者理论预言全新奇特强子态 为探索物质深层次结构开辟新方向",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "媒体北航",
+        "url": "http://news.buaa.edu.cn/mtbh_new.htm"
+      },
+      {
+        "text": "IN THE MEDIA",
+        "url": "",
+        "children": [
+          {
+            "text": "媒体北航",
+            "url": ""
+          },
+          {
+            "text": "中国青年报客户端：全国大学生飞行器设计仿真赛落幕2025.08.06",
+            "url": "http://news.buaa.edu.cn/info/1006/66574.htm",
+            "children": [
+              {
+                "text": "中国青年报客户端：全国大学生飞行器设计仿真赛落幕2025.08.06",
+                "url": ""
+              },
+              {
+                "text": "视频新闻北航新闻：北航喜迎7868名研究生新生",
+                "url": "https://news.buaa.edu.cn/info/1031/63217.htm",
+                "children": [
+                  {
+                    "text": "视频新闻",
+                    "url": ""
+                  },
+                  {
+                    "text": "北航新闻：北航喜迎7868名研究生新生",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "中国日报等：“新天工开物——科技成就发布会”航空科技专场在京举行 北航“机械蜂鸟”打开微型飞行器研发新思路2025.08.01",
+                "url": "http://news.buaa.edu.cn/info/1006/66555.htm",
+                "children": [
+                  {
+                    "text": "中国日报等：“新天工开物——科技成就发布会”航空科技专场在京举行 北航“机械蜂鸟”打开微型飞行器研发新思路",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "中国教育新闻网：中国将发布《卓越工程师培养认证标准》 填补国际标准空白2025.07.23",
+                "url": "http://news.buaa.edu.cn/info/1006/66514.htm",
+                "children": [
+                  {
+                    "text": "中国教育新闻网：中国将发布《卓越工程师培养认证标准》 填补国际标准空白",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "官方公众号喜报！北航2024年度国家自然科学基金获批数量再创新高",
+                "url": "https://mp.weixin.qq.com/s/HIdfgkLj1Usuk0ySlyFyxA",
+                "children": [
+                  {
+                    "text": "官方公众号",
+                    "url": ""
+                  },
+                  {
+                    "text": "喜报！北航2024年度国家自然科学基金获批数量再创新高",
+                    "url": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "BRTV新闻《特别关注》：首届卓越工程师毕业生整体实现高质量就业2025.07.20",
+            "url": "http://news.buaa.edu.cn/info/1006/66498.htm",
+            "children": [
+              {
+                "text": "BRTV新闻《特别关注》：首届卓越工程师毕业生整体实现高质量就业2025.07.20",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "中国青年报客户端：全国大学生飞行器设计仿真赛落幕2025.08.06",
+            "url": "http://news.buaa.edu.cn/info/1006/66574.htm",
+            "children": [
+              {
+                "text": "中国青年报客户端：全国大学生飞行器设计仿真赛落幕2025.08.06",
+                "url": ""
+              },
+              {
+                "text": "视频新闻【师德讲堂】李英姿——以榜样之光 照育人之路",
+                "url": "http://news.buaa.edu.cn/info/1031/66546.htm",
+                "children": [
+                  {
+                    "text": "视频新闻",
+                    "url": ""
+                  },
+                  {
+                    "text": "【师德讲堂】李英姿——以榜样之光 照育人之路",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "北京青年报客户端：中国大学生工程实践与创新能力大赛飞行器设计仿真赛...2025.08.06",
+                "url": "http://news.buaa.edu.cn/info/1006/66573.htm",
+                "children": [
+                  {
+                    "text": "北京青年报客户端：中国大学生工程实践与创新能力大赛飞行器设计仿真赛...",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "中国日报等：“新天工开物——科技成就发布会”航空科技专场在京举行 北航“机械蜂鸟”打开微型飞行器研发新思路2025.08.01",
+                "url": "http://news.buaa.edu.cn/info/1006/66555.htm",
+                "children": [
+                  {
+                    "text": "中国日报等：“新天工开物——科技成就发布会”航空科技专场在京举行 北航“机械蜂鸟”打开微型飞行器研发新思路",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "官方公众号北航，《Science》再+1！",
+                "url": "https://mp.weixin.qq.com/s/zcEJhp9gHFROQdQG122JVw",
+                "children": [
+                  {
+                    "text": "官方公众号",
+                    "url": ""
+                  },
+                  {
+                    "text": "北航，《Science》再+1！",
+                    "url": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "中国教育新闻网：中国将发布《卓越工程师培养认证标准》 填补国际标准空白2025.07.23",
+            "url": "http://news.buaa.edu.cn/info/1006/66514.htm",
+            "children": [
+              {
+                "text": "中国教育新闻网：中国将发布《卓越工程师培养认证标准》 填补国际标准空白2025.07.23",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "学术文化",
+        "url": "index/xswh1.htm"
+      },
+      {
+        "text": "ACADEMICS & CULTURE",
+        "url": "",
+        "children": [
+          {
+            "text": "学术文化",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "text": "展览纪念中国人民抗日战争暨世界反法西斯战争胜利80周年专题展览展览名称纪念中国人民抗日战争暨世界反法西斯战争胜利80周年专题展览烽火抗战——抗战时期的人民军队展览时间2025年8月-9月 (暑期：周一至周六9:00-16:30，周日闭馆。)展览地点学院路校区 逸夫科学馆5层参观方式无需预约，直接到馆参观即可展览介绍80年前，中国人民经过十四年艰苦卓绝的浴血奋战，赢得了抗日战争的伟大胜利，也为世界反法西斯战争的最终胜利作出了不可磨灭的历史贡献。在这场关乎民族生死存亡的斗争中，人民军...",
+        "url": "info/1076/5244.htm",
+        "children": [
+          {
+            "text": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年专题展览",
+            "url": ""
+          },
+          {
+            "text": "272025.06讲座7月2日-7月5日Machine Design系列讲座7月2日-7月5日沙河主楼F座3层数字发动机会议室",
+            "url": "info/1076/5094.htm",
+            "children": [
+              {
+                "text": "Machine Design系列讲座",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "132025.06展览6月13日—6月20日2025新媒体艺术与设计学院冯如杯艺术专项赛道展览6月13日—6月20日学院路校区逸夫科学馆5层",
+            "url": "info/1076/4950.htm",
+            "children": [
+              {
+                "text": "2025新媒体艺术与设计学院冯如杯艺术专项赛道展览",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "182025.06北航大讲堂6月16日【北航大讲堂】巴西科学院院士Carlos Gustavo Moreira：Fractal geometry of the Markov and Lagrange spectra and their set difference6月16日学院路校区2号楼309",
+            "url": "info/1076/5007.htm",
+            "children": [
+              {
+                "text": "【北航大讲堂】巴西科学院院士Carlos Gustavo Moreira：Fractal geometry of the Markov and Lagrange spectra and their set difference",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "182025.06讲座6月20日当代中国环境治理的政治逻辑6月20日学院路校区七号楼302",
+            "url": "info/1076/5005.htm",
+            "children": [
+              {
+                "text": "当代中国环境治理的政治逻辑",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "数据北航",
+        "url": ""
+      },
+      {
+        "text": "FACTS & FIGURES",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": "index.htm",
+        "children": [
+          {
+            "text": "本研教育管理系统",
+            "url": "https://byxt.buaa.edu.cn/jwapp/sys/jwsybuaa/login/index.html"
+          },
+          {
+            "text": "研究生信息系统",
+            "url": "http://gsmis.buaa.edu.cn/"
+          },
+          {
+            "text": "财务系统",
+            "url": "https://icw.buaa.edu.cn/"
+          },
+          {
+            "text": "人事系统",
+            "url": "http://10.212.26.73/"
+          },
+          {
+            "text": "智慧门户",
+            "url": "https://it.buaa.edu.cn/portal"
+          },
+          {
+            "text": "邮件系统",
+            "url": "http://mail.buaa.edu.cn/"
+          },
+          {
+            "text": "招标公布",
+            "url": "http://zbcg.buaa.edu.cn/"
+          },
+          {
+            "text": "新闻网",
+            "url": "https://news.buaa.edu.cn"
+          },
+          {
+            "text": "档案馆",
+            "url": "https://archives.buaa.edu.cn/"
+          },
+          {
+            "text": "基金会",
+            "url": "http://bhuef.buaa.edu.cn/"
+          },
+          {
+            "text": "图书馆",
+            "url": "http://lib.buaa.edu.cn/"
+          },
+          {
+            "text": "北航校历",
+            "url": "xygk/bhxl.htm"
+          },
+          {
+            "text": "校园地图",
+            "url": "xygk/xydt1/shxq.htm"
+          },
+          {
+            "text": "期刊中心",
+            "url": "https://qk.buaa.edu.cn/"
+          },
+          {
+            "text": "本研教育管理系统",
+            "url": "https://byxt.buaa.edu.cn/jwapp/sys/jwsybuaa/login/index.html"
+          },
+          {
+            "text": "研究生信息系统",
+            "url": "http://gsmis.buaa.edu.cn/"
+          },
+          {
+            "text": "财务系统",
+            "url": "https://icw.buaa.edu.cn/"
+          },
+          {
+            "text": "人事系统",
+            "url": "http://10.212.26.73/"
+          },
+          {
+            "text": "智慧门户",
+            "url": "https://it.buaa.edu.cn/portal"
+          },
+          {
+            "text": "邮件系统",
+            "url": "http://mail.buaa.edu.cn/"
+          },
+          {
+            "text": "招标公布",
+            "url": "http://zbcg.buaa.edu.cn/"
+          },
+          {
+            "text": "新闻网",
+            "url": "https://news.buaa.edu.cn"
+          },
+          {
+            "text": "档案馆",
+            "url": "https://archives.buaa.edu.cn/"
+          },
+          {
+            "text": "基金会",
+            "url": "http://bhuef.buaa.edu.cn/"
+          },
+          {
+            "text": "图书馆",
+            "url": "http://lib.buaa.edu.cn/"
+          },
+          {
+            "text": "北航校历",
+            "url": "xygk/bhxl.htm"
+          },
+          {
+            "text": "校园地图",
+            "url": "xygk/xydt1/shxq.htm"
+          },
+          {
+            "text": "期刊中心",
+            "url": "https://qk.buaa.edu.cn/"
+          },
+          {
+            "text": "智慧北航-OA",
+            "url": "index/zhbhOA.htm"
+          },
+          {
+            "text": "I北航",
+            "url": "index/ibh.htm"
+          }
+        ]
+      },
+      {
+        "text": "京ICP备05004617-3",
+        "url": "https://beian.miit.gov.cn/"
+      }
+    ]
+  }
+]

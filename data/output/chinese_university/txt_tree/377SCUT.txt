@@ -1,0 +1,217 @@
+          { tag='div', class='wp-window logo-window window-1', buttons=[text='', url='https://www.scut.edu.cn/new'] }
+                    { tag='li', class='nav-item i1', buttons=[text='广州国际校区', url='http://www2.scut.edu.cn/gzic/'] }
+                    { tag='li', class='nav-item i2', buttons=[text='Guangzhou International Campus', url='http://www2.scut.edu.cn/gzic_en/'] }
+                    { tag='li', class='nav-item i1', buttons=[text='在校生', url='https://www.scut.edu.cn/new/241/list.htm'] }
+                    { tag='li', class='nav-item i2', buttons=[text='教职员工', url='https://www.scut.edu.cn/new/242/list.htm'] }
+                    { tag='li', class='nav-item i3', buttons=[text='校友', url='https://www.scut.edu.cn/new/243/list.htm'] }
+                    { tag='li', class='nav-item i4', buttons=[text='未来学生', url='https://www.scut.edu.cn/new/244/list.htm'] }
+                    { tag='li', class='nav-item i5', buttons=[text='访客', url='https://www.scut.edu.cn/new/245/list.htm'] }
+                    { tag='li', class='nav-item i1', buttons=[text='新闻网', url='http://news.scut.edu.cn'] }
+                    { tag='li', class='nav-item i2', buttons=[text='门户', url='http://my.scut.edu.cn'] }
+                    { tag='li', class='nav-item i3', buttons=[text='邮箱', url='https://webmail.scut.edu.cn/'] }
+                    { tag='li', class='nav-item i4', buttons=[text='网络服务', url='http://web.scut.edu.cn/'] }
+                    { tag='li', class='nav-item i5', buttons=[text='English', url='http://www.scut.edu.cn/en/'] }
+              { tag='li', class='menu-item i1', buttons=[text='在校学生', url='/new/241/list.htm'] }
+              { tag='li', class='menu-item i2', buttons=[text='教职员工', url='/new/242/list.htm'] }
+              { tag='li', class='menu-item i3', buttons=[text='校友', url='/new/243/list.htm'] }
+              { tag='li', class='menu-item i4', buttons=[text='未来学生', url='/new/244/list.htm'] }
+              { tag='li', class='menu-item i5', buttons=[text='访客', url='/new/245/list.htm'] }
+              { tag='li', class='menu-item i1', buttons=[text='门户', url='http://my.scut.edu.cn'] }
+              { tag='li', class='menu-item i2', buttons=[text='邮箱', url='https://webmail.scut.edu.cn/'] }
+              { tag='li', class='menu-item i3', buttons=[text='网络服务', url='http://web.scut.edu.cn/'] }
+              { tag='li', class='menu-item i4', buttons=[text='English', url='http://www.scut.edu.cn/en/'] }
+              { tag='li', class='menu-item i5', buttons=[text='广州国际校区', url='http://www2.scut.edu.cn/gzic/'] }
+              { tag='li', class='menu-item i6', buttons=[text='Guangzhou International Campus', url='http://www2.scut.edu.cn/gzic_en/'] }
+            { tag='div', class='navi-slide-head' }
+                  { tag='li', class='sub-item i1-1', buttons=[text='学校简介', url='/new/9015/list.htm'] }
+                  { tag='li', class='sub-item i1-2', buttons=[text='学校沿革', url='/new/9016/list.htm'] }
+                  { tag='li', class='sub-item i1-3', buttons=[text='学校标识', url='/new/9017/list.htm'] }
+                  { tag='li', class='sub-item i1-4', buttons=[text='学校章程', url='/new/9018/list.htm'] }
+                  { tag='li', class='sub-item i1-5', buttons=[text='学校领导', url='/new/9019/list.htm'] }
+              { tag='li', class='menu-item i2', buttons=[text='机构设置', url='/new/8996/list.htm'] }
+                  { tag='li', class='sub-item i3-1', buttons=[text='本科生教育', url='http://jw.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i3-2', buttons=[text='研究生教育', url='http://www2.scut.edu.cn/graduate/'] }
+                  { tag='li', class='sub-item i3-3', buttons=[text='留学生教育', url='http://www.scut.edu.cn/sie/'] }
+                  { tag='li', class='sub-item i3-4', buttons=[text='继续教育', url='http://sce.scut.edu.cn'] }
+                  { tag='li', class='sub-item i3-5', buttons=[text='干部教育培训', url='http://pxxy.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i3-6', buttons=[text='出国留学教育', url='https://aos.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i3-7', buttons=[text='教学在线', url='https://eonline.jw.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i3-8', buttons=[text='课程中心', url='https://ecourse.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i4-1', buttons=[text='研究机构', url='https://www2.scut.edu.cn/ist/zlcg/list.htm'] }
+                  { tag='li', class='sub-item i4-2', buttons=[text='学术期刊', url='/new/9108/list.htm'] }
+                  { tag='li', class='sub-item i4-3', buttons=[text='自然科学', url='http://www2.scut.edu.cn/ist/'] }
+                  { tag='li', class='sub-item i4-4', buttons=[text='社会科学', url='http://www.scut.edu.cn/socialsci/'] }
+                  { tag='li', class='sub-item i5-1', buttons=[text='本科生招生', url='http://admission.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i5-2', buttons=[text='研究生招生', url='https://yz.scut.edu.cn'] }
+                  { tag='li', class='sub-item i5-3', buttons=[text='继续教育招生', url='http://sce.scut.edu.cn'] }
+                  { tag='li', class='sub-item i5-4', buttons=[text='就业服务', url='http://jyzx.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i5-5', buttons=[text='数字迎新系统', url='http://freshman.scut.edu.cn/'] }
+              { tag='li', class='menu-item i6', buttons=[text='图书馆', url='http://www.lib.scut.edu.cn/main.htm'] }
+                  { tag='li', class='sub-item i7-1', buttons=[text='校园风光', url='/new/9284/list.htm'] }
+                  { tag='li', class='sub-item i7-2', buttons=[text='校园地图', url='http://map.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i7-3', buttons=[text='社交应用', url='/new/227/list.htm'] }
+                  { tag='li', class='sub-item i7-4', buttons=[text='心理咨询', url='http://www2.scut.edu.cn/xlzxzx/'] }
+                  { tag='li', class='sub-item i7-5', buttons=[text='校园安全', url='http://www.scut.edu.cn/security/'] }
+                  { tag='li', class='sub-item i7-6', buttons=[text='后勤服务', url='http://www2.scut.edu.cn/houqin'] }
+                  { tag='li', class='sub-item i7-7', buttons=[text='校医院', url='http://www.scut.edu.cn/hospital/'] }
+                  { tag='li', class='sub-item i7-8', buttons=[text='统一支付平台', url='https://pay.cw.scut.edu.cn'] }
+                  { tag='li', class='sub-item i7-9', buttons=[text='师生服务中心', url='http://fssc.scut.edu.cn/'] }
+                  { tag='li', class='sub-item i7-10', buttons=[text='VPN', url='http://www.scut.edu.cn/vpn/'] }
+              { tag='li', class='menu-item i8', buttons=[text='人才招聘', url='https://zp.rs.scut.edu.cn/recruitWeb'] }
+                  { tag='li', class='sub-item i9-1', buttons=[text='出访事务', url='http://www2.scut.edu.cn/io/15697/list.htm'] }
+                  { tag='li', class='sub-item i9-2', buttons=[text='外专和引智', url='http://www2.scut.edu.cn/io/15861/list.htm'] }
+                  { tag='li', class='sub-item i9-3', buttons=[text='国际交流', url='http://www2.scut.edu.cn/io/qbxw_15914/list.htm'] }
+                  { tag='li', class='sub-item i9-4', buttons=[text='对港澳台交流', url='http://www2.scut.edu.cn/io/tzgg/list.htm'] }
+                  { tag='li', class='sub-item i9-5', buttons=[text='海外学习', url='http://studyabroad.gl.scut.edu.cn'] }
+                  { tag='li', class='sub-item i9-6', buttons=[text='中外合作办学机构和项目', url='http://www2.scut.edu.cn/io/15924/list.htm'] }
+                  { tag='li', class='sub-item i9-7', buttons=[text='国际联合研究中心', url='http://www2.scut.edu.cn/io/15862/list.htm'] }
+            { tag='div', class='huigu', buttons=[text='', url='https://www.scut.edu.cn/new/2025/list.htm'] }
+                { tag='div', class='head-bar', buttons=[text='校园新闻', url=''] }
+                  { tag='div', class='post-more', buttons=[text='more', url='http://news.scut.edu.cn/41/list.htm'] }
+                    { tag='div', class='item-meta meta-img', buttons=[text='', url='http://news.scut.edu.cn/2025/0729/c41a57776/page.htm'] }
+                    { tag='div', class='item-meta meta-title fabu-title', buttons=[text='共商军民融合发展　校领导在建军节前夕走访慰问共建部队', url='http://news.scut.edu.cn/2025/0729/c41a57776/page.htm'] }
+                    { tag='div', class='item-meta meta-img', buttons=[text='', url='http://news.scut.edu.cn/2025/0724/c41a57768/page.htm'] }
+                    { tag='div', class='item-meta meta-title fabu-title', buttons=[text='在重大工程中积极贡献“华工力量”　黄茅峡水库工程正式动工', url='http://news.scut.edu.cn/2025/0724/c41a57768/page.htm'] }
+                    { tag='div', class='item-meta meta-img', buttons=[text='', url='http://news.scut.edu.cn/2025/0724/c41a57766/page.htm'] }
+                    { tag='div', class='item-meta meta-title fabu-title', buttons=[text='汇聚改革智慧　谋划“十五五”发展　华南理工召开2025年暑期...', url='http://news.scut.edu.cn/2025/0724/c41a57766/page.htm'] }
+                  { tag='li', class='news-item item-1 clearfix', buttons=[text='教育部简报介绍华南理工大学拔尖创新人才培养经验做法', url='http://news.scut.edu.cn/2025/0808/c41a57797/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='教育部简报介绍华南理工大学拔尖创新人才培养经验做法', url='http://news.scut.edu.cn/2025/0808/c41a57797/page.htm'] }
+                  { tag='li', class='news-item item-2 clearfix', buttons=[text='李远课题组揭示经典“给体-受体”型有机半导体的“聚集诱导自由基”机理...', url='http://news.scut.edu.cn/2025/0804/c41a57793/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='李远课题组揭示经典“给体-受体”型有机半导体的“聚集诱导自由基”机理...', url='http://news.scut.edu.cn/2025/0804/c41a57793/page.htm'] }
+                  { tag='li', class='news-item item-3 clearfix', buttons=[text='第25届海外华人交通协会国际交通科技年会举行', url='http://news.scut.edu.cn/2025/0804/c41a57792/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='第25届海外华人交通协会国际交通科技年会举行', url='http://news.scut.edu.cn/2025/0804/c41a57792/page.htm'] }
+                  { tag='li', class='news-item item-4 clearfix', buttons=[text='数量居全省第一　华南理工大学6家基地获评省社科联优秀研究基地', url='http://news.scut.edu.cn/2025/0731/c41a57777/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='数量居全省第一　华南理工大学6家基地获评省社科联优秀研究基地', url='http://news.scut.edu.cn/2025/0731/c41a57777/page.htm'] }
+                  { tag='li', class='news-item item-5 clearfix', buttons=[text='树立消防安全“一盘棋”思想　2025年校园消防安全工作暨业务培训会召开', url='http://news.scut.edu.cn/2025/0802/c41a57791/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='树立消防安全“一盘棋”思想　2025年校园消防安全工作暨业务培训会召开', url='http://news.scut.edu.cn/2025/0802/c41a57791/page.htm'] }
+                  { tag='li', class='news-item item-6 clearfix', buttons=[text='发挥学科特色　华南理工“智兴惠来”双百先锋队“电”亮青春', url='http://news.scut.edu.cn/2025/0727/c41a57773/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='发挥学科特色　华南理工“智兴惠来”双百先锋队“电”亮青春', url='http://news.scut.edu.cn/2025/0727/c41a57773/page.htm'] }
+                  { tag='li', class='news-item item-7 clearfix', buttons=[text='共商军民融合发展　校领导在建军节前夕走访慰问共建部队', url='http://news.scut.edu.cn/2025/0729/c41a57776/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='共商军民融合发展　校领导在建军节前夕走访慰问共建部队', url='http://news.scut.edu.cn/2025/0729/c41a57776/page.htm'] }
+                  { tag='li', class='news-item item-8 clearfix', buttons=[text='山河相连　艺术“乡见”　华南理工大学师生赴云县开展文化采风交流活动', url='http://news.scut.edu.cn/2025/0725/c41a57770/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='山河相连　艺术“乡见”　华南理工大学师生赴云县开展文化采风交流活动', url='http://news.scut.edu.cn/2025/0725/c41a57770/page.htm'] }
+                  { tag='li', class='news-item item-1 clearfix', buttons=[text='在重大工程中积极贡献“华工力量”　黄茅峡水库工程正式动工', url='http://news.scut.edu.cn/2025/0724/c41a57768/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='在重大工程中积极贡献“华工力量”　黄茅峡水库工程正式动工', url='http://news.scut.edu.cn/2025/0724/c41a57768/page.htm'] }
+                  { tag='li', class='news-item item-2 clearfix', buttons=[text='共商半导体产学研协同创新　大族半导体一行来访华南理工', url='http://news.scut.edu.cn/2025/0724/c41a57769/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='共商半导体产学研协同创新　大族半导体一行来访华南理工', url='http://news.scut.edu.cn/2025/0724/c41a57769/page.htm'] }
+                  { tag='li', class='news-item item-3 clearfix', buttons=[text='汇聚改革智慧　谋划“十五五”发展　华南理工召开2025年暑期学校领导班子...', url='http://news.scut.edu.cn/2025/0724/c41a57766/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='汇聚改革智慧　谋划“十五五”发展　华南理工召开2025年暑期学校领导班子...', url='http://news.scut.edu.cn/2025/0724/c41a57766/page.htm'] }
+                  { tag='li', class='news-item item-4 clearfix', buttons=[text='4项一等奖　华南理工学生团队在广东省微纳传感技术与智能应用赛中创佳绩', url='http://news.scut.edu.cn/2025/0718/c41a57761/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='4项一等奖　华南理工学生团队在广东省微纳传感技术与智能应用赛中创佳绩', url='http://news.scut.edu.cn/2025/0718/c41a57761/page.htm'] }
+                  { tag='li', class='news-item item-5 clearfix', buttons=[text='跨越山海的思维盛宴　华南理工大学2025新工科国际暑期学校闭幕', url='http://news.scut.edu.cn/2025/0720/c41a57762/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='跨越山海的思维盛宴　华南理工大学2025新工科国际暑期学校闭幕', url='http://news.scut.edu.cn/2025/0720/c41a57762/page.htm'] }
+                  { tag='li', class='news-item item-6 clearfix', buttons=[text='广东省政协“践行以人民为中心的发展思想”理论研讨会在华南理工大学召开', url='http://news.scut.edu.cn/2025/0717/c41a57760/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='广东省政协“践行以人民为中心的发展思想”理论研讨会在华南理工大学召开', url='http://news.scut.edu.cn/2025/0717/c41a57760/page.htm'] }
+                  { tag='li', class='news-item item-7 clearfix', buttons=[text='传播历史文化　赋能科学教育　阳江、澄海中小学生赴华南理工研学', url='http://news.scut.edu.cn/2025/0715/c41a57754/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='传播历史文化　赋能科学教育　阳江、澄海中小学生赴华南理工研学', url='http://news.scut.edu.cn/2025/0715/c41a57754/page.htm'] }
+                  { tag='li', class='news-item item-8 clearfix', buttons=[text='分享对外开放新实践　华南理工大学出席粤港澳高校联盟年会暨大学校长论坛', url='http://news.scut.edu.cn/2025/0716/c41a57758/page.htm'] }
+                      { tag='span', class='item-meta meta-title', buttons=[text='分享对外开放新实践　华南理工大学出席粤港澳高校联盟年会暨大学校长论坛', url='http://news.scut.edu.cn/2025/0716/c41a57758/page.htm'] }
+              { tag='div', class='tt', buttons=[text='专题学习', url=''] }
+              { tag='div', class='ztwz_links', buttons=[text='MORE>', url='https://www.scut.edu.cn/new/9007/list.htm'] }
+                  { tag='span', class='item-meta meta-img', buttons=[text='', url='https://www2.scut.edu.cn/ddesd/'] }
+                  { tag='span', class='item-meta meta-title', buttons=[text='学习宣传贯彻党的二十大精神', url='https://www2.scut.edu.cn/ddesd/', text='', url='http://admission.scut.edu.cn/17519/list.htm'] }
+                  { tag='span', class='item-meta meta-img', buttons=[text='', url='http://news.scut.edu.cn/2025/0704/c161a57702/page.htm'] }
+                  { tag='span', class='item-meta meta-title', buttons=[text='梁小静：亚洲女飞人的奔跑人生', url='http://news.scut.edu.cn/2025/0704/c161a57702/page.htm'] }
+              { tag='div', class='head-bar', buttons=[text='学术预告', url=''] }
+                { tag='div', class='post-more', buttons=[text='more', url='/new/9010/list.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='香港科技大学（广州）胡国标副研究员：环境能量采集与信息感知的一体化无源系统研究', url='/new/2025/0806/c235a57795/page.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='加拿大温尼伯大学Jitendra Paliwal博士：Effect Of Advanced Oxidative Decontamination o...', url='/new/2025/0806/c235a57794/page.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='英国利物浦大学屠昕教授：等离子体固氮:挑战和机遇、等离子体催化转化碳一小分子', url='/new/2025/0801/c235a57790/page.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='北京大学陈良怡教授：发展活细胞超分辨率成像技术，解析疾病发生机制', url='/new/2025/0801/c235a57789/page.htm'] }
+              { tag='div', class='head-bar', buttons=[text='教学科研通知', url=''] }
+                { tag='div', class='post-more', buttons=[text='more', url='/new/9011/list.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='关于2025年上半年全国大学英语四、六级考试有关注意事项的通知', url='/new/2025/0605/c236a57582/page.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='关于举行“GZIC平台共享行”宣讲活动的通知', url='/new/2025/0520/c236a57473/page.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='关于2025年上半年全国大学英语四、六级考试报名工作的通知', url='/new/2025/0313/c236a57045/page.htm'] }
+                { tag='div', class='cont-2-bt', buttons=[text='关于公示2024年本科专业设置材料的通知', url='/new/2024/0929/c236a52537/page.htm'] }
+              { tag='div', class='head-bar', buttons=[text='媒体华园', url=''] }
+                { tag='div', class='post-more', buttons=[text='more', url='http://news.scut.edu.cn/44/list.htm'] }
+              { tag='div', class='biaoti', buttons=[text='教育部网站：华南理工大学以“四个聚力”提高拔尖创新人...', url='http://news.scut.edu.cn/2025/0808/c44a57796/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='中国日报网：华南理工学子王伟莹在世界大运会上勇夺4金1...', url='http://news.scut.edu.cn/2025/0731/c44a57788/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='信息时报：华工学子王伟莹夺得世界大运会跳水项目4金1银', url='http://news.scut.edu.cn/2025/0731/c44a57787/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='羊城晚报：华南理工学子王伟莹在世界大运会上勇夺4金1银...', url='http://news.scut.edu.cn/2025/0731/c44a57786/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='中国教育在线：华南理工学子王伟莹在世界大运会上勇夺4...', url='http://news.scut.edu.cn/2025/0731/c44a57785/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='南方都市报：太飒了！华南理工学子王伟莹在世界大运会上...', url='http://news.scut.edu.cn/2025/0731/c44a57784/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='广州日报：世界大运会上勇夺4金1银！她来自广东！华工！', url='http://news.scut.edu.cn/2025/0731/c44a57783/page.htm'] }
+              { tag='div', class='biaoti', buttons=[text='信息时报：华工2025年广东省本科招生录取圆满结束 普通...', url='http://news.scut.edu.cn/2025/0731/c44a57782/page.htm'] }
+                { tag='div', class='shipin', buttons=[text='', url='/new/2024/0929/c237a52587/page.htm'] }
+                  { tag='div', class='biaoti2', buttons=[text='2024年高校党组织示范微党课——创新驱动科技赋能 制造...', url='/new/2024/0929/c237a52587/page.htm'] }
+                    { tag='div', class='post-more', buttons=[text='more', url='http://www.scut.edu.cn/new/9012/list.htm'] }
+                { tag='div', class='more', buttons=[text='', url='/new/9012/list.htm'] }
+                      { tag='div', class='scroll_pic', buttons=[text='', url='/new/2024/0929/c237a52586/page.htm'] }
+                      { tag='div', class='scroll_title', buttons=[text='华南理工大学2024年本科招生宣传...', url='/new/2024/0929/c237a52586/page.htm'] }
+                      { tag='div', class='scroll_play', buttons=[text='', url='/new/2024/0929/c237a52586/page.htm'] }
+                      { tag='div', class='scroll_pic', buttons=[text='', url='http://news.scut.edu.cn/2023/0611/c137a47027/page.htm'] }
+                      { tag='div', class='scroll_title', buttons=[text='华南理工大学2023年本科招生宣传...', url='http://news.scut.edu.cn/2023/0611/c137a47027/page.htm'] }
+                      { tag='div', class='scroll_play', buttons=[text='', url='http://news.scut.edu.cn/2023/0611/c137a47027/page.htm'] }
+                      { tag='div', class='scroll_pic', buttons=[text='', url='/new/2024/0929/c237a52579/page.htm'] }
+                      { tag='div', class='scroll_title', buttons=[text='华南理工大学2022年本科招生宣传...', url='/new/2024/0929/c237a52579/page.htm'] }
+                      { tag='div', class='scroll_play', buttons=[text='', url='/new/2024/0929/c237a52579/page.htm'] }
+                      { tag='div', class='scroll_pic', buttons=[text='', url='/new/2024/0929/c237a52585/page.htm'] }
+                      { tag='div', class='scroll_title', buttons=[text='“我在华工 等你来” 欢迎报考华...', url='/new/2024/0929/c237a52585/page.htm'] }
+                      { tag='div', class='scroll_play', buttons=[text='', url='/new/2024/0929/c237a52585/page.htm'] }
+                      { tag='div', class='scroll_pic', buttons=[text='', url='/new/2024/0929/c237a52578/page.htm'] }
+                      { tag='div', class='scroll_title', buttons=[text='红色甲工 血色浪漫——党史故事百...', url='/new/2024/0929/c237a52578/page.htm'] }
+                      { tag='div', class='scroll_play', buttons=[text='', url='/new/2024/0929/c237a52578/page.htm'] }
+                      { tag='div', class='scroll_pic', buttons=[text='', url='/new/2024/0929/c237a52584/page.htm'] }
+                      { tag='div', class='scroll_title', buttons=[text='《通往振兴之路》——广东省第十二...', url='/new/2024/0929/c237a52584/page.htm'] }
+                      { tag='div', class='scroll_play', buttons=[text='', url='/new/2024/0929/c237a52584/page.htm'] }
+            { tag='div', class='fbox1', buttons=[text='', url='http://www.scut.edu.cn/new/9013/list.htm'] }
+            { tag='div', class='fbox2', buttons=[text='', url='https://vcampus.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='https://xxgk.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='http://xzxx.dxb.scut.edu.cn/xzxx/'] }
+                { tag='p', buttons=[text='', url='/new/250/list.htm'] }
+                { tag='p', buttons=[text='', url='http://news.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='http://news.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='http://news.scut.edu.cn/', text='', url='http://news.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='https://xb.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='/new/2016/1214/c317a49748/page.htm'] }
+                { tag='p', buttons=[text='', url='https://www2.scut.edu.cn/qfy/'] }
+                { tag='p', buttons=[text='', url='http://alumni.scut.edu.cn/', text='', url='http://foundation.scut.edu.cn/'] }
+                { tag='p', buttons=[text='', url='https://www.gcu.edu.cn/main.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='学校简介', url='/new/9015/list.htm'] }
+                  { tag='li', class='nav-item i2', buttons=[text='学校沿革', url='/new/9016/list.htm'] }
+                  { tag='li', class='nav-item i3', buttons=[text='学校标识', url='/new/9017/list.htm'] }
+                  { tag='li', class='nav-item i4', buttons=[text='学校章程', url='/new/9018/list.htm'] }
+                  { tag='li', class='nav-item i5', buttons=[text='学校领导', url='/new/9019/list.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='机构设置', url='/new/8996/list.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='本科生教育', url='http://jw.scut.edu.cn/'] }
+                  { tag='li', class='nav-item i2', buttons=[text='研究生教育', url='http://www2.scut.edu.cn/graduate/'] }
+                  { tag='li', class='nav-item i3', buttons=[text='留学生教育', url='http://www.scut.edu.cn/sie/'] }
+                  { tag='li', class='nav-item i4', buttons=[text='继续教育', url='http://sce.scut.edu.cn'] }
+                  { tag='li', class='nav-item i1', buttons=[text='研究机构', url='https://www2.scut.edu.cn/ist/zlcg/list.htm'] }
+                  { tag='li', class='nav-item i2', buttons=[text='学术期刊', url='/new/9108/list.htm'] }
+                  { tag='li', class='nav-item i3', buttons=[text='自然科学', url='http://www2.scut.edu.cn/ist/'] }
+                  { tag='li', class='nav-item i4', buttons=[text='社会科学', url='http://www.scut.edu.cn/socialsci/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='本科生招生', url='http://admission.scut.edu.cn/'] }
+                  { tag='li', class='nav-item i2', buttons=[text='研究生招生', url='https://yz.scut.edu.cn'] }
+                  { tag='li', class='nav-item i3', buttons=[text='继续教育招生', url='http://sce.scut.edu.cn'] }
+                  { tag='li', class='nav-item i4', buttons=[text='就业服务', url='http://jyzx.scut.edu.cn/'] }
+                  { tag='li', class='nav-item i5', buttons=[text='数字迎新系统', url='http://freshman.scut.edu.cn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='图书馆', url='http://www.lib.scut.edu.cn/main.htm'] }
+                  { tag='li', class='nav-item i1', buttons=[text='校园风光', url='/new/9284/list.htm'] }
+                  { tag='li', class='nav-item i2', buttons=[text='校园地图', url='http://map.scut.edu.cn/'] }
+                  { tag='li', class='nav-item i3', buttons=[text='社交应用', url='/new/227/list.htm'] }
+                  { tag='li', class='nav-item i4', buttons=[text='心理咨询', url='http://www2.scut.edu.cn/xlzxzx/'] }
+                  { tag='li', class='nav-item i5', buttons=[text='校园安全', url='http://www.scut.edu.cn/security/'] }
+                  { tag='li', class='nav-item i6', buttons=[text='后勤服务', url='http://www2.scut.edu.cn/houqin'] }
+                  { tag='li', class='nav-item i7', buttons=[text='校医院', url='http://www.scut.edu.cn/hospital/'] }
+                  { tag='li', class='nav-item i8', buttons=[text='统一支付平台', url='https://pay.cw.scut.edu.cn'] }
+                  { tag='li', class='nav-item i9', buttons=[text='师生服务中心', url='http://fssc.scut.edu.cn/'] }
+                  { tag='li', class='nav-item i10', buttons=[text='VPN', url='http://www.scut.edu.cn/vpn/'] }
+                  { tag='li', class='nav-item i1', buttons=[text='人才招聘', url='https://zp.rs.scut.edu.cn/recruitWeb'] }
+                  { tag='li', class='nav-item i1', buttons=[text='出访事务', url='http://www2.scut.edu.cn/io/15697/list.htm'] }
+                  { tag='li', class='nav-item i2', buttons=[text='外专和引智', url='http://www2.scut.edu.cn/io/15861/list.htm'] }
+                  { tag='li', class='nav-item i3', buttons=[text='国际交流', url='http://www2.scut.edu.cn/io/qbxw_15914/list.htm'] }
+                  { tag='li', class='nav-item i4', buttons=[text='对港澳台交流', url='http://www2.scut.edu.cn/io/tzgg/list.htm'] }
+                  { tag='li', class='nav-item i5', buttons=[text='海外学习', url='http://studyabroad.gl.scut.edu.cn'] }
+                  { tag='li', class='nav-item i6', buttons=[text='中外合作办学机构和项目', url='http://www2.scut.edu.cn/io/15924/list.htm'] }
+                  { tag='li', class='nav-item i7', buttons=[text='国际联合研究中心', url='http://www2.scut.edu.cn/io/15862/list.htm'] }
+            { tag='span', class='zipcode', buttons=[text='中华人民共和国教育部', url='http://www.moe.gov.cn/'] }
+            { tag='span', class='address', buttons=[text='广东省人民政府', url='http://www.gd.gov.cn/'] }
+            { tag='span', class='zipcode', buttons=[text='广州市人民政府', url='http://www.gz.gov.cn/'] }
+            { tag='span', class='address', buttons=[text='网上查号', url='http://web.scut.edu.cn/2018/0531/c15721a269066/page.htm'] }
+              { tag='span', class='icp', buttons=[text='党委宣传部', url='http://www2.scut.edu.cn/publicizing/', text='信息网络工程研究中心', url='http://web.scut.edu.cn/'] }
+              { tag='span', class='copyright', buttons=[text='粤ICP备05084312号', url='https://beian.miit.gov.cn/'] }
+              { tag='span', buttons=[text='粤公网安备 44010602010122号', url='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010602010122'] }
+              { tag='span', buttons=[text='', url='http://bszs.conac.cn/sitename?method=show&id=4FD79072438C0990E053012819AC7B66'] }

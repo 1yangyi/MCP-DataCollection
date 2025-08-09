@@ -1,0 +1,962 @@
+[
+  {
+    "text": "请升级浏览器版本",
+    "url": "",
+    "children": [
+      {
+        "text": "Chrome",
+        "url": "https://www.google.cn/intl/zh-CN/chrome/"
+      },
+      {
+        "text": "Firefox",
+        "url": "http://www.firefox.com.cn/"
+      },
+      {
+        "text": "Safari",
+        "url": "https://www.apple.com.cn/safari/"
+      },
+      {
+        "text": "Edge",
+        "url": "https://www.microsoft.com/zh-cn/edge"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "深大新闻",
+        "url": "index/sdxw.htm"
+      },
+      {
+        "text": "通知公告",
+        "url": "index/tzgg.htm"
+      },
+      {
+        "text": "媒体深大",
+        "url": "index/mtsd.htm"
+      },
+      {
+        "text": "学校简介",
+        "url": "xxgk/xxjj.htm"
+      },
+      {
+        "text": "深大标识",
+        "url": "xxgk/sdbs.htm"
+      },
+      {
+        "text": "现任领导",
+        "url": "xxgk/xrld.htm"
+      },
+      {
+        "text": "历任领导",
+        "url": "xxgk/lrld.htm"
+      },
+      {
+        "text": "杰出校友",
+        "url": "xxgk/jcxy.htm"
+      },
+      {
+        "text": "校园地图",
+        "url": "xxgk/xydt.htm"
+      },
+      {
+        "text": "校园风光",
+        "url": "xxgk/xyfg/yhxq.htm"
+      },
+      {
+        "text": "校历",
+        "url": "xxgk/xl.htm"
+      },
+      {
+        "text": "学部学院",
+        "url": "yxjg/xbxy.htm"
+      },
+      {
+        "text": "相对独立科研机构",
+        "url": "yxjg/xddlkyjg.htm"
+      },
+      {
+        "text": "教授委员会",
+        "url": "yxjg/jswyh.htm"
+      },
+      {
+        "text": "职能部门",
+        "url": "yxjg/znbm.htm"
+      },
+      {
+        "text": "直属单位",
+        "url": "yxjg/zsdw.htm"
+      },
+      {
+        "text": "附属单位",
+        "url": "yxjg/fsdw.htm"
+      },
+      {
+        "text": "教师简介",
+        "url": "szdw/jsjj.htm"
+      },
+      {
+        "text": "岗位招聘",
+        "url": "https://hr.szu.edu.cn/rczp1.htm"
+      },
+      {
+        "text": "博士后招聘",
+        "url": "https://hr.szu.edu.cn/bsh.htm"
+      },
+      {
+        "text": "教学动态",
+        "url": "jyjx1/jxdt.htm"
+      },
+      {
+        "text": "本科生教育",
+        "url": "https://jwb.szu.edu.cn/"
+      },
+      {
+        "text": "研究生教育",
+        "url": "http://gra.szu.edu.cn/"
+      },
+      {
+        "text": "留学生教育",
+        "url": "http://lxs.szu.edu.cn/"
+      },
+      {
+        "text": "继续教育",
+        "url": "http://cce.szu.edu.cn/"
+      },
+      {
+        "text": "非学历教育",
+        "url": "https://jxjy.szu.edu.cn/"
+      },
+      {
+        "text": "自然科学",
+        "url": "kxyj/zrkx.htm"
+      },
+      {
+        "text": "人文社科",
+        "url": "kxyj/rwsk.htm"
+      },
+      {
+        "text": "学术动态",
+        "url": "kxyj/xsdt.htm"
+      },
+      {
+        "text": "研究机构",
+        "url": "kxyj/yjjg.htm"
+      },
+      {
+        "text": "学术期刊",
+        "url": "kxyj/xsqk.htm"
+      },
+      {
+        "text": "国际交流",
+        "url": "hzjl/gjjl.htm"
+      },
+      {
+        "text": "港澳台交流",
+        "url": "https://hmt.szu.edu.cn/"
+      },
+      {
+        "text": "外事资讯",
+        "url": "https://szupu.szu.edu.cn/cmsArticlesController/synopsi/000000006cd1e966016cdd42c3e90024"
+      },
+      {
+        "text": "本科生招生",
+        "url": "zsyjy1/bkszs.htm"
+      },
+      {
+        "text": "研究生招生",
+        "url": "zsyjy1/yjszs1.htm"
+      },
+      {
+        "text": "留学生招生",
+        "url": "zsyjy1/lxszs1.htm"
+      },
+      {
+        "text": "继续教育招生",
+        "url": "zsyjy1/jxjyzs1.htm"
+      },
+      {
+        "text": "出国留学招生",
+        "url": "zsyjy1/cglxzs.htm"
+      },
+      {
+        "text": "就业招聘",
+        "url": "https://jobszu.jysd.com/"
+      },
+      {
+        "text": "学生资助",
+        "url": "zsyjy1/xszz.htm"
+      },
+      {
+        "text": "校园生活",
+        "url": "xysh1/xshd.htm",
+        "children": [
+          {
+            "text": "工会活动",
+            "url": "https://sdgh.szu.edu.cn/"
+          },
+          {
+            "text": "创新创业",
+            "url": "https://cxcy.szu.edu.cn/"
+          },
+          {
+            "text": "学科竞赛",
+            "url": "http://jingsai.szu.edu.cn/"
+          },
+          {
+            "text": "学生活动",
+            "url": "xysh1/xshd.htm",
+            "children": [
+              {
+                "text": "学生",
+                "url": "jsrk/xs.htm"
+              },
+              {
+                "text": "教工",
+                "url": "jsrk/jg.htm"
+              },
+              {
+                "text": "校友",
+                "url": "jsrk/xy.htm"
+              },
+              {
+                "text": "考生",
+                "url": "jsrk/ks.htm"
+              },
+              {
+                "text": "访客",
+                "url": "jsrk/fk.htm"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "qwjs.jsp?wbtreeid=1001"
+          }
+        ]
+      },
+      {
+        "text": "En",
+        "url": "https://en.szu.edu.cn/",
+        "children": [
+          {
+            "text": "首页",
+            "url": "index.htm"
+          },
+          {
+            "text": "学校概况",
+            "url": "xxgk/xxjj.htm"
+          },
+          {
+            "text": "院系机构",
+            "url": "yxjg/xbxy.htm"
+          },
+          {
+            "text": "师资队伍",
+            "url": "https://www.szu.edu.cn/szdw/jsjj.htm"
+          },
+          {
+            "text": "教育教学",
+            "url": "jyjx1/jxdt.htm"
+          },
+          {
+            "text": "科学研究",
+            "url": "kxyj.htm"
+          },
+          {
+            "text": "交流合作",
+            "url": "hzjl/gjjl.htm"
+          },
+          {
+            "text": "招生与就业",
+            "url": "https://www.szu.edu.cn/zsyjy1/bkszs.htm"
+          },
+          {
+            "text": "校园生活",
+            "url": "xysh1/xshd.htm",
+            "children": [
+              {
+                "text": "深大新闻网",
+                "url": "https://news.szu.edu.cn/"
+              },
+              {
+                "text": "内部网",
+                "url": "http://www1.szu.edu.cn/"
+              },
+              {
+                "text": "图书馆",
+                "url": "http://www.lib.szu.edu.cn/"
+              },
+              {
+                "text": "预决算公开",
+                "url": "http://xxgk.szu.edu.cn/cw_zcjsf1/ndbmys.htm"
+              },
+              {
+                "text": "OA",
+                "url": "http://210.39.3.155:9090/goLogin.do"
+              },
+              {
+                "text": "办事大厅",
+                "url": "http://ehall.szu.edu.cn/"
+              },
+              {
+                "text": "教师邮箱",
+                "url": "https://mail.szu.edu.cn/"
+              },
+              {
+                "text": "学生邮箱",
+                "url": "https://www1.szu.edu.cn/nc/view.asp?id=633"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "学生",
+        "url": "jsrk/xs.htm"
+      },
+      {
+        "text": "教工",
+        "url": "jsrk/jg.htm"
+      },
+      {
+        "text": "校友",
+        "url": "jsrk/xy.htm"
+      },
+      {
+        "text": "考生",
+        "url": "jsrk/ks.htm"
+      },
+      {
+        "text": "访客",
+        "url": "jsrk/fk.htm"
+      }
+    ]
+  },
+  {
+    "text": "SZUer请收藏！暑假温馨提示看这篇~",
+    "url": "",
+    "children": [
+      {
+        "text": "SZUer请收藏！暑假温馨提示看这篇~",
+        "url": "https://mp.weixin.qq.com/s/kvmt53veR6Ul8oEGaatP3Q"
+      }
+    ]
+  },
+  {
+    "text": "深圳大学召开2025春季学期期末工作会议",
+    "url": "",
+    "children": [
+      {
+        "text": "深圳大学召开2025春季学期期末工作会议",
+        "url": "https://mp.weixin.qq.com/s/sConnXXtwBtEXbTVQtYH4g"
+      }
+    ]
+  },
+  {
+    "text": "关注！深圳大学2025年高考录取日程来了~",
+    "url": "",
+    "children": [
+      {
+        "text": "关注！深圳大学2025年高考录取日程来了~",
+        "url": "https://mp.weixin.qq.com/s/ZJjN0CSnNehbfn3sRtXgLQ"
+      }
+    ]
+  },
+  {
+    "text": "学生",
+    "url": "jsrk/xs.htm"
+  },
+  {
+    "text": "教工",
+    "url": "jsrk/jg.htm"
+  },
+  {
+    "text": "校友",
+    "url": "jsrk/xy.htm"
+  },
+  {
+    "text": "考生",
+    "url": "jsrk/ks.htm"
+  },
+  {
+    "text": "访客",
+    "url": "jsrk/fk.htm"
+  },
+  {
+    "text": "深大新闻",
+    "url": "",
+    "children": [
+      {
+        "text": "深大新闻",
+        "url": "index/sdxw.htm",
+        "children": [
+          {
+            "text": "2025-08-05深圳大学与教育部（中国）留学服务中心签署全面战略合作协议",
+            "url": "info/1161/20358.htm",
+            "children": [
+              {
+                "text": "深圳大学与教育部（中国）留学服务中心签署全面战略合作协议",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "2025-08-01出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开",
+            "url": "info/1161/20357.htm",
+            "children": [
+              {
+                "text": "出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "2025-07-25深圳大学与青岛大学举行战略合作签约仪式",
+            "url": "info/1161/20350.htm",
+            "children": [
+              {
+                "text": "深圳大学与青岛大学举行战略合作签约仪式",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "进入深大新闻网",
+            "url": "http://news.szu.edu.cn/",
+            "children": [
+              {
+                "text": "052025-08深圳大学与教育部（中国）留学服务中心签署全面战略合作协议",
+                "url": "info/1161/20358.htm",
+                "children": [
+                  {
+                    "text": "深圳大学与教育部（中国）留学服务中心签署全面战略合作协议",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "012025-08出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开",
+                "url": "info/1161/20357.htm",
+                "children": [
+                  {
+                    "text": "出口管制人才培养工作推进会暨深圳大学出口管制研究中心成立专家座谈会召开",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "252025-07深圳大学与青岛大学举行战略合作签约仪式",
+                "url": "info/1161/20350.htm",
+                "children": [
+                  {
+                    "text": "深圳大学与青岛大学举行战略合作签约仪式",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "182025-072025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动",
+                "url": "info/1161/20347.htm",
+                "children": [
+                  {
+                    "text": "2025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "152025-072025年第四届深圳高校台湾师生嘉年华在深圳大学启动",
+                "url": "info/1161/20344.htm",
+                "children": [
+                  {
+                    "text": "2025年第四届深圳高校台湾师生嘉年华在深圳大学启动",
+                    "url": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "通知公告",
+    "url": "",
+    "children": [
+      {
+        "text": "通知公告",
+        "url": "index/tzgg.htm",
+        "children": [
+          {
+            "text": "2025-07-10关注！深圳大学2025年高考录取日程来了",
+            "url": "https://mp.weixin.qq.com/s/ZJjN0CSnNehbfn3sRtXgLQ",
+            "children": [
+              {
+                "text": "关注！深圳大学2025年高考录取日程来了",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "2025-06-21关于拟推荐参加第十九届“挑战杯”全国大学生课外学术科技作品竞赛的公示",
+            "url": "info/1154/20345.htm",
+            "children": [
+              {
+                "text": "关于拟推荐参加第十九届“挑战杯”全国大学生课外学术科技作品竞赛的公示",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "2025-05-19关于2025年“6·9”国际档案日主题海报设计大赛获奖作品名单的公示",
+            "url": "info/1154/20215.htm",
+            "children": [
+              {
+                "text": "关于2025年“6·9”国际档案日主题海报设计大赛获奖作品名单的公示",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "2025-05-09深圳大学2025年夏季普通高考招生章程（内含咨询群）",
+            "url": "https://mp.weixin.qq.com/s/zGazwxFPle6H1QXIEUweVw",
+            "children": [
+              {
+                "text": "深圳大学2025年夏季普通高考招生章程（内含咨询群）",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "text": "2025-05-06深圳大学“双百行动”校地合作共建项目清单（2025）公告",
+            "url": "info/1154/20187.htm",
+            "children": [
+              {
+                "text": "深圳大学“双百行动”校地合作共建项目清单（2025）公告",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "媒体深大",
+        "url": "",
+        "children": [
+          {
+            "text": "媒体深大",
+            "url": "index/mtsd.htm",
+            "children": [
+              {
+                "text": "听！维也纳金色大厅来了一群中国少年072025-08",
+                "url": "https://mp.weixin.qq.com/s/TGaKtBLDb7O37cz-p5z1AQ",
+                "children": [
+                  {
+                    "text": "听！维也纳金色大厅来了一群中国少年",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年062025-08",
+                "url": "https://m.bjnews.com.cn/detail/1754449976129831.html",
+                "children": [
+                  {
+                    "text": "《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年062025-08",
+                "url": "http://hs.china.com.cn/2025-08/06/content_43195301.html",
+                "children": [
+                  {
+                    "text": "《烽火青春》原创歌曲全球发布，社科大与深圳大学共同纪念抗战胜利80周年",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "深大就业数据亮眼！已落实去向研究生中，每2人就有1人进入腾讯华为等名企302025-07",
+                "url": "https://site.szplus.com/content/s6889c42fe4b0a181ee16c3eb.html",
+                "children": [
+                  {
+                    "text": "深大就业数据亮眼！已落实去向研究生中，每2人就有1人进入腾讯华为等名企",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "AI教育圳行动沙龙聚焦福田：探索人工智能教育的先锋密码232025-07",
+                "url": "https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx17458fd100376282&redirect_uri=https%3A%2F%2Fm.mp.oeeee.com%2Fuser.php%3Fm%3DWXOAuth2%26a%3DbaseScopeCallback&response_type=code&scope=snsapi_base&state=#wechat_redirect",
+                "children": [
+                  {
+                    "text": "AI教育圳行动沙龙聚焦福田：探索人工智能教育的先锋密码",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "2025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动212025-07",
+                "url": "https://site.szplus.com/content/s687dda0ee4b0a181ee16b350.html",
+                "children": [
+                  {
+                    "text": "2025年教育部内地与港澳高等学校师生交流计划暨“双创领航精英训练营”在深圳大学正式启动",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "聚焦“双创”主题，探索创新密码！粤港澳多所高校师生汇聚深大192025-07",
+                "url": "https://appdetail.netwin.cn/dc-h5s/dc_new/newdetail?id=s687b0b13e4b0da3882cfe633",
+                "children": [
+                  {
+                    "text": "聚焦“双创”主题，探索创新密码！粤港澳多所高校师生汇聚深大",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "text": "先锋快报 | 国家社科基金重大项目“中国文学在世界文明进程中的作用和影响研究”开题报告会在深大举办152025-07",
+                "url": "https://www.sztv.com.cn/ysz/yszlm/mt/xfkb/80471134.shtml",
+                "children": [
+                  {
+                    "text": "先锋快报 | 国家社科基金重大项目“中国文学在世界文明进程中的作用和影响研究”开题报告会在深大举办",
+                    "url": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "科学研究",
+        "url": "",
+        "children": [
+          {
+            "text": "科学研究",
+            "url": "kxyj/xsdt.htm",
+            "children": [
+              {
+                "text": "查看详情",
+                "url": "info/1302/20343.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1302/20342.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1302/20320.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1302/20322.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1302/20306.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1302/20307.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1303/20205.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1303/20030.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1303/20022.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1303/19979.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1303/19910.htm"
+              },
+              {
+                "text": "查看详情",
+                "url": "info/1303/19879.htm"
+              }
+            ]
+          },
+          {
+            "text": "教育教学",
+            "url": "",
+            "children": [
+              {
+                "text": "教育教学",
+                "url": "jyjx1/jxdt.htm",
+                "children": [
+                  {
+                    "text": "2025-06-25广东 | 招多少人？多少分能上深大？",
+                    "url": "https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI3MDA1MjU5Ng==&scene=1&album_id=4045892607208325121&count=3#wechat_redirect",
+                    "children": [
+                      {
+                        "text": "广东 | 招多少人？多少分能上深大？",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2025-06-04深大招生重磅升级！六大院士领航“科创营”+五大“院士班”，锻造科创新生力",
+                    "url": "https://mp.weixin.qq.com/s/UULzzsmXEO8MTFgIOW0BVQ",
+                    "children": [
+                      {
+                        "text": "深大招生重磅升级！六大院士领航“科创营”+五大“院士班”，锻造科创新生力",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2025-07-01深圳首家！国内外院士与诺奖得主“坐镇”，深大医学发展速度惊人！",
+                    "url": "https://mp.weixin.qq.com/s/v5U9c8dTGPdYa8HsAaCaxg",
+                    "children": [
+                      {
+                        "text": "深圳首家！国内外院士与诺奖得主“坐镇”，深大医学发展速度惊人！",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2025-06-26院士领衔×10个ESI全球前1%｜深大生科院：40万亿生物经济风口，等你定义未来",
+                    "url": "https://mp.weixin.qq.com/s/n059PiVQF1jlp44aL4hsfw",
+                    "children": [
+                      {
+                        "text": "院士领衔×10个ESI全球前1%｜深大生科院：40万亿生物经济风口，等你定义未来",
+                        "url": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "交流合作",
+                "url": "",
+                "children": [
+                  {
+                    "text": "国际交流",
+                    "url": "hzjl/gjjl.htm",
+                    "children": [
+                      {
+                        "text": "国际交流",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "港澳台交流",
+                    "url": "https://hmt.szu.edu.cn/",
+                    "children": [
+                      {
+                        "text": "港澳台交流",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "外事资讯",
+                    "url": "https://szupu.szu.edu.cn/cmsArticlesController/synopsi/000000006cd1e966016cdd42c3e90024",
+                    "children": [
+                      {
+                        "text": "外事资讯",
+                        "url": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "校园生活",
+        "url": "",
+        "children": [
+          {
+            "text": "人物",
+            "url": "indexxyxh/rw.htm"
+          },
+          {
+            "text": "文娱",
+            "url": "indexxyxh/wy.htm"
+          },
+          {
+            "text": "风情",
+            "url": "indexxyxh/fq.htm"
+          },
+          {
+            "text": "故事",
+            "url": "indexxyxh/gs.htm"
+          },
+          {
+            "text": "研究生招生研究生招生",
+            "url": "http://yz.szu.edu.cn/"
+          },
+          {
+            "text": "本科生招生本科生招生",
+            "url": "http://zs.szu.edu.cn/"
+          },
+          {
+            "text": "继续教育招生继续教育招生",
+            "url": "http://cce.szu.edu.cn/"
+          },
+          {
+            "text": "留学生招生留学生招生",
+            "url": "http://lxs.szu.edu.cn/",
+            "children": [
+              {
+                "text": "查看详情",
+                "url": "https://giving.szu.edu.cn/"
+              },
+              {
+                "text": "查看详情",
+                "url": "https://xxgk.szu.edu.cn/"
+              },
+              {
+                "text": "查看详情",
+                "url": "https://bidding.szu.edu.cn/",
+                "children": [
+                  {
+                    "text": "教学动态",
+                    "url": "jyjx1/jxdt.htm"
+                  },
+                  {
+                    "text": "本科生教育",
+                    "url": "https://jwb.szu.edu.cn/"
+                  },
+                  {
+                    "text": "研究生教育",
+                    "url": "http://gra.szu.edu.cn/"
+                  },
+                  {
+                    "text": "留学生教育",
+                    "url": "http://lxs.szu.edu.cn/"
+                  },
+                  {
+                    "text": "继续教育",
+                    "url": "http://cce.szu.edu.cn/"
+                  },
+                  {
+                    "text": "非学历教育",
+                    "url": "https://jxjy.szu.edu.cn/"
+                  },
+                  {
+                    "text": "国际交流",
+                    "url": "hzjl/gjjl.htm"
+                  },
+                  {
+                    "text": "港澳台交流",
+                    "url": "https://hmt.szu.edu.cn/"
+                  },
+                  {
+                    "text": "外事资讯",
+                    "url": "https://szupu.szu.edu.cn/cmsArticlesController/synopsi/000000006cd1e966016cdd42c3e90024"
+                  },
+                  {
+                    "text": "本科生招生",
+                    "url": "zsyjy1/bkszs.htm"
+                  },
+                  {
+                    "text": "研究生招生",
+                    "url": "zsyjy1/yjszs1.htm"
+                  },
+                  {
+                    "text": "留学生招生",
+                    "url": "zsyjy1/lxszs1.htm"
+                  },
+                  {
+                    "text": "继续教育招生",
+                    "url": "zsyjy1/jxjyzs1.htm"
+                  },
+                  {
+                    "text": "出国留学招生",
+                    "url": "zsyjy1/cglxzs.htm"
+                  },
+                  {
+                    "text": "就业招聘",
+                    "url": "https://jobszu.jysd.com/"
+                  },
+                  {
+                    "text": "学生资助",
+                    "url": "zsyjy1/xszz.htm"
+                  },
+                  {
+                    "text": "工会活动",
+                    "url": "https://sdgh.szu.edu.cn/"
+                  },
+                  {
+                    "text": "创新创业",
+                    "url": "https://cxcy.szu.edu.cn/"
+                  },
+                  {
+                    "text": "学科竞赛",
+                    "url": "http://jingsai.szu.edu.cn/"
+                  },
+                  {
+                    "text": "学生活动",
+                    "url": "xysh1/xshd.htm"
+                  },
+                  {
+                    "text": "预决算公开",
+                    "url": "https://xxgk.szu.edu.cn/cw_zcjsf1/ndbmys.htm"
+                  },
+                  {
+                    "text": "图书馆",
+                    "url": "http://www.lib.szu.edu.cn/"
+                  },
+                  {
+                    "text": "总医院",
+                    "url": "http://sugh.szu.edu.cn/"
+                  },
+                  {
+                    "text": "附属华南医院",
+                    "url": "https://sch.szu.edu.cn/hnyycmsweb/"
+                  },
+                  {
+                    "text": "招标采购",
+                    "url": "http://bidding.szu.edu.cn/"
+                  },
+                  {
+                    "text": "深大基金会",
+                    "url": "http://edf.szu.edu.cn/"
+                  },
+                  {
+                    "text": "深圳大学报",
+                    "url": "http://szunews.ihwrm.com/"
+                  },
+                  {
+                    "text": "深大广播电台",
+                    "url": "https://weibo.com/u/7671203007"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "粤ICP备11018045号",
+            "url": "https://beian.miit.gov.cn/"
+          }
+        ]
+      },
+      {
+        "text": "",
+        "url": "https://bszs.conac.cn/sitename?method=show&id=2E14CEE4F4D16601E053012819ACC44D"
+      }
+    ]
+  }
+]

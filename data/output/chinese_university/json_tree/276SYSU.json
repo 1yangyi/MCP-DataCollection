@@ -1,0 +1,1120 @@
+[
+  {
+    "text": "门户",
+    "url": "https://portal.sysu.edu.cn"
+  },
+  {
+    "text": "邮箱",
+    "url": "https://mail.sysu.edu.cn/"
+  },
+  {
+    "text": "USC",
+    "url": "https://usc.sysu.edu.cn"
+  },
+  {
+    "text": "校历",
+    "url": "index/xl.htm"
+  },
+  {
+    "text": "图书馆",
+    "url": "http://library.sysu.edu.cn/"
+  },
+  {
+    "text": "博物馆（校史馆）",
+    "url": "https://bwgxsg.sysu.edu.cn"
+  },
+  {
+    "text": "招生",
+    "url": "zs1.htm"
+  },
+  {
+    "text": "招聘",
+    "url": "https://rcb.sysu.edu.cn"
+  },
+  {
+    "text": "访客",
+    "url": "index/fk.htm"
+  },
+  {
+    "text": "校友",
+    "url": "http://alumni.sysu.edu.cn/"
+  },
+  {
+    "text": "捐赠",
+    "url": "http://edf-edaao.sysu.edu.cn"
+  },
+  {
+    "text": "EN",
+    "url": "http://www.sysu.edu.cn/sysuen"
+  },
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "首页",
+        "url": "index.htm"
+      },
+      {
+        "text": "中大新闻",
+        "url": "http://www.sysu.edu.cn/news"
+      },
+      {
+        "text": "学校概况",
+        "url": "xxg/zdjj1.htm",
+        "children": [
+          {
+            "text": "中大简介",
+            "url": "xxg/zdjj1.htm"
+          },
+          {
+            "text": "现任领导",
+            "url": "xxg/xrld.htm"
+          },
+          {
+            "text": "服务机构",
+            "url": "xxg/fwjg.htm"
+          },
+          {
+            "text": "中大校区",
+            "url": "xxg/zdxq.htm"
+          },
+          {
+            "text": "信息公开",
+            "url": "https://xxgk.sysu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "院系设置",
+        "url": "yxsz.htm",
+        "children": [
+          {
+            "text": "学部",
+            "url": "yxsz/xb.htm"
+          },
+          {
+            "text": "院系",
+            "url": "yxsz/yx.htm"
+          },
+          {
+            "text": "附属医院",
+            "url": "yxsz/fsyy.htm"
+          }
+        ]
+      },
+      {
+        "text": "师资队伍",
+        "url": "szdw1/ys.htm",
+        "children": [
+          {
+            "text": "院士",
+            "url": "szdw1/ys.htm"
+          },
+          {
+            "text": "名医",
+            "url": "szdw1/my.htm"
+          },
+          {
+            "text": "优秀社会科学家",
+            "url": "szdw1/yxshkxj1.htm"
+          },
+          {
+            "text": "教学名师",
+            "url": "szdw1/jxms/gjj.htm"
+          },
+          {
+            "text": "杰出中青年学者",
+            "url": "szdw1/jczqnxz.htm"
+          },
+          {
+            "text": "本科生培养",
+            "url": "https://jwb.sysu.edu.cn/"
+          },
+          {
+            "text": "研究生培养",
+            "url": "https://graduate.sysu.edu.cn/"
+          },
+          {
+            "text": "国际生培养",
+            "url": "http://iso.sysu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "text": "科学研究",
+        "url": "kxyj.htm",
+        "children": [
+          {
+            "text": "科研进展",
+            "url": "kxyj/kyjz.htm"
+          },
+          {
+            "text": "重大科技创新平台",
+            "url": "kxyj/zdkjcxpt.htm"
+          },
+          {
+            "text": "重点研究机构",
+            "url": "kxyj/zdyjjg/gjjpt1.htm"
+          },
+          {
+            "text": "学术期刊",
+            "url": "kxyj/xsqk.htm"
+          }
+        ]
+      },
+      {
+        "text": "中大看点",
+        "url": "zdkd1/xysh.htm",
+        "children": [
+          {
+            "text": "校园生活",
+            "url": "zdkd1/xysh.htm"
+          },
+          {
+            "text": "校园文化",
+            "url": "zdkd1/xywh1.htm"
+          },
+          {
+            "text": "校园风光",
+            "url": "zdkd1/xyfg1.htm"
+          },
+          {
+            "text": "校园看点",
+            "url": "zdkd1/xykd.htm"
+          },
+          {
+            "text": "图说中大",
+            "url": "zdkd1/tszd1.htm"
+          },
+          {
+            "text": "校园媒体",
+            "url": "zdkd1/xymt.htm"
+          },
+          {
+            "text": "数字虚拟医学博物馆",
+            "url": "https://www.gzsys.org.cn/basic/28532"
+          }
+        ]
+      },
+      {
+        "text": "百年校庆",
+        "url": "https://sysu100.sysu.edu.cn/"
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "index.htm",
+    "children": [
+      {
+        "text": "EN",
+        "url": "http://www.sysu.edu.cn/sysuen",
+        "children": [
+          {
+            "text": "首页",
+            "url": "",
+            "children": [
+              {
+                "text": "首页",
+                "url": "index.htm"
+              }
+            ]
+          },
+          {
+            "text": "中大新闻",
+            "url": "",
+            "children": [
+              {
+                "text": "中大新闻",
+                "url": "http://www.sysu.edu.cn/news"
+              }
+            ]
+          },
+          {
+            "text": "学校概况",
+            "url": "",
+            "children": [
+              {
+                "text": "学校概况",
+                "url": "xxg/zdjj1.htm"
+              },
+              {
+                "text": "中大简介",
+                "url": ""
+              },
+              {
+                "text": "现任领导",
+                "url": ""
+              },
+              {
+                "text": "服务机构",
+                "url": ""
+              },
+              {
+                "text": "中大校区",
+                "url": ""
+              },
+              {
+                "text": "信息公开",
+                "url": ""
+              },
+              {
+                "text": "中大简介",
+                "url": "xxg/zdjj1.htm"
+              },
+              {
+                "text": "现任领导",
+                "url": "xxg/xrld.htm"
+              },
+              {
+                "text": "服务机构",
+                "url": "xxg/fwjg.htm"
+              },
+              {
+                "text": "中大校区",
+                "url": "xxg/zdxq.htm"
+              },
+              {
+                "text": "信息公开",
+                "url": "https://xxgk.sysu.edu.cn/"
+              }
+            ]
+          },
+          {
+            "text": "院系设置",
+            "url": "",
+            "children": [
+              {
+                "text": "院系设置",
+                "url": "yxsz.htm"
+              },
+              {
+                "text": "学部",
+                "url": ""
+              },
+              {
+                "text": "院系",
+                "url": ""
+              },
+              {
+                "text": "附属医院",
+                "url": ""
+              },
+              {
+                "text": "学部",
+                "url": "yxsz/xb.htm"
+              },
+              {
+                "text": "院系",
+                "url": "yxsz/yx.htm"
+              },
+              {
+                "text": "附属医院",
+                "url": "yxsz/fsyy.htm"
+              }
+            ]
+          },
+          {
+            "text": "师资队伍",
+            "url": "",
+            "children": [
+              {
+                "text": "师资队伍",
+                "url": "szdw1/ys.htm"
+              },
+              {
+                "text": "院士",
+                "url": ""
+              },
+              {
+                "text": "名医",
+                "url": ""
+              },
+              {
+                "text": "优秀社会科学家",
+                "url": ""
+              },
+              {
+                "text": "教学名师国家级省级",
+                "url": ""
+              },
+              {
+                "text": "杰出中青年学者",
+                "url": ""
+              },
+              {
+                "text": "院士",
+                "url": "szdw1/ys.htm"
+              },
+              {
+                "text": "名医",
+                "url": "szdw1/my.htm"
+              },
+              {
+                "text": "优秀社会科学家",
+                "url": "szdw1/yxshkxj1.htm"
+              },
+              {
+                "text": "教学名师",
+                "url": "szdw1/jxms/gjj.htm",
+                "children": [
+                  {
+                    "text": "国家级",
+                    "url": "szdw1/jxms/gjj.htm"
+                  },
+                  {
+                    "text": "省级",
+                    "url": "szdw1/jxms/sj.htm"
+                  }
+                ]
+              },
+              {
+                "text": "杰出中青年学者",
+                "url": "szdw1/jczqnxz.htm"
+              }
+            ]
+          },
+          {
+            "text": "人才培养",
+            "url": "",
+            "children": [
+              {
+                "text": "本科生培养",
+                "url": ""
+              },
+              {
+                "text": "研究生培养",
+                "url": ""
+              },
+              {
+                "text": "国际生培养",
+                "url": ""
+              },
+              {
+                "text": "本科生培养",
+                "url": "https://jwb.sysu.edu.cn/"
+              },
+              {
+                "text": "研究生培养",
+                "url": "https://graduate.sysu.edu.cn/"
+              },
+              {
+                "text": "国际生培养",
+                "url": "http://iso.sysu.edu.cn/"
+              }
+            ]
+          },
+          {
+            "text": "科学研究",
+            "url": "",
+            "children": [
+              {
+                "text": "科学研究",
+                "url": "kxyj.htm"
+              },
+              {
+                "text": "科研进展",
+                "url": ""
+              },
+              {
+                "text": "重大科技创新平台",
+                "url": ""
+              },
+              {
+                "text": "重点研究机构国家级平台省部级平台",
+                "url": ""
+              },
+              {
+                "text": "学术期刊",
+                "url": ""
+              },
+              {
+                "text": "科研进展",
+                "url": "kxyj/kyjz.htm"
+              },
+              {
+                "text": "重大科技创新平台",
+                "url": "kxyj/zdkjcxpt.htm"
+              },
+              {
+                "text": "重点研究机构",
+                "url": "kxyj/zdyjjg/gjjpt1.htm",
+                "children": [
+                  {
+                    "text": "国家级平台",
+                    "url": "kxyj/zdyjjg/gjjpt1.htm"
+                  },
+                  {
+                    "text": "省部级平台",
+                    "url": "kxyj/zdyjjg/sbjpt.htm"
+                  }
+                ]
+              },
+              {
+                "text": "学术期刊",
+                "url": "kxyj/xsqk.htm"
+              }
+            ]
+          },
+          {
+            "text": "中大看点",
+            "url": "",
+            "children": [
+              {
+                "text": "中大看点",
+                "url": "zdkd1/xysh.htm"
+              },
+              {
+                "text": "校园生活",
+                "url": ""
+              },
+              {
+                "text": "校园文化",
+                "url": ""
+              },
+              {
+                "text": "校园风光",
+                "url": ""
+              },
+              {
+                "text": "校园看点",
+                "url": ""
+              },
+              {
+                "text": "图说中大202420232022往期回顾",
+                "url": ""
+              },
+              {
+                "text": "校园媒体",
+                "url": ""
+              },
+              {
+                "text": "数字虚拟医学博物馆",
+                "url": ""
+              },
+              {
+                "text": "校园生活",
+                "url": "zdkd1/xysh.htm"
+              },
+              {
+                "text": "校园文化",
+                "url": "zdkd1/xywh1.htm"
+              },
+              {
+                "text": "校园风光",
+                "url": "zdkd1/xyfg1.htm"
+              },
+              {
+                "text": "校园看点",
+                "url": "zdkd1/xykd.htm"
+              },
+              {
+                "text": "图说中大",
+                "url": "zdkd1/tszd1.htm",
+                "children": [
+                  {
+                    "text": "2024",
+                    "url": "zdkd1/tszd1/a2024.htm"
+                  },
+                  {
+                    "text": "2023",
+                    "url": "zdkd1/tszd1/a2023.htm"
+                  },
+                  {
+                    "text": "2022",
+                    "url": "zdkd1/tszd1/a2022.htm"
+                  },
+                  {
+                    "text": "往期回顾",
+                    "url": "http://www.sysu.edu.cn/news/tszd.htm"
+                  }
+                ]
+              },
+              {
+                "text": "校园媒体",
+                "url": "zdkd1/xymt.htm"
+              },
+              {
+                "text": "数字虚拟医学博物馆",
+                "url": "https://www.gzsys.org.cn/basic/28532"
+              }
+            ]
+          },
+          {
+            "text": "百年校庆",
+            "url": "",
+            "children": [
+              {
+                "text": "百年校庆",
+                "url": "https://sysu100.sysu.edu.cn/"
+              }
+            ]
+          },
+          {
+            "text": "门户",
+            "url": "https://portal.sysu.edu.cn"
+          },
+          {
+            "text": "邮箱",
+            "url": "https://mail.sysu.edu.cn/"
+          },
+          {
+            "text": "USC",
+            "url": "https://usc.sysu.edu.cn"
+          },
+          {
+            "text": "校历",
+            "url": "index/xl.htm"
+          },
+          {
+            "text": "图书馆",
+            "url": "http://library.sysu.edu.cn/"
+          },
+          {
+            "text": "博物馆（校史馆）",
+            "url": "https://bwgxsg.sysu.edu.cn"
+          },
+          {
+            "text": "招生",
+            "url": "zs1.htm"
+          },
+          {
+            "text": "招聘",
+            "url": "https://uems.sysu.edu.cn/hrrecruit/project/zsdx/defalt/recruitFirstpage.jsp?FM_SYS_ID=hrs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "url": "",
+    "children": [
+      {
+        "text": "",
+        "url": "http://www.sysu.edu.cn/srxxhxjs100hx",
+        "children": [
+          {
+            "text": "门户",
+            "url": "https://portal.sysu.edu.cn"
+          },
+          {
+            "text": "邮箱",
+            "url": "https://mail.sysu.edu.cn/"
+          },
+          {
+            "text": "USC",
+            "url": "https://usc.sysu.edu.cn"
+          },
+          {
+            "text": "校历",
+            "url": "index/xl.htm"
+          },
+          {
+            "text": "图书馆",
+            "url": "http://library.sysu.edu.cn/"
+          },
+          {
+            "text": "博物馆（校史馆）",
+            "url": "https://bwgxsg.sysu.edu.cn"
+          },
+          {
+            "text": "招生",
+            "url": "zs1.htm"
+          },
+          {
+            "text": "招聘",
+            "url": "https://rcb.sysu.edu.cn"
+          },
+          {
+            "text": "访客",
+            "url": "index/fk.htm"
+          },
+          {
+            "text": "校友",
+            "url": "http://alumni.sysu.edu.cn/"
+          },
+          {
+            "text": "捐赠",
+            "url": "http://edf-edaao.sysu.edu.cn"
+          },
+          {
+            "text": "EN",
+            "url": "http://www.sysu.edu.cn/sysuen"
+          },
+          {
+            "text": "",
+            "url": "index.htm",
+            "children": [
+              {
+                "text": "首页",
+                "url": "index.htm"
+              },
+              {
+                "text": "中大新闻",
+                "url": "http://www.sysu.edu.cn/news"
+              },
+              {
+                "text": "学校概况",
+                "url": "xxg/zdjj1.htm",
+                "children": [
+                  {
+                    "text": "中大简介",
+                    "url": "xxg/zdjj1.htm"
+                  },
+                  {
+                    "text": "现任领导",
+                    "url": "xxg/xrld.htm"
+                  },
+                  {
+                    "text": "服务机构",
+                    "url": "xxg/fwjg.htm"
+                  },
+                  {
+                    "text": "中大校区",
+                    "url": "xxg/zdxq.htm"
+                  },
+                  {
+                    "text": "信息公开",
+                    "url": "https://xxgk.sysu.edu.cn/"
+                  }
+                ]
+              },
+              {
+                "text": "院系设置",
+                "url": "yxsz.htm",
+                "children": [
+                  {
+                    "text": "学部",
+                    "url": "yxsz/xb.htm"
+                  },
+                  {
+                    "text": "院系",
+                    "url": "yxsz/yx.htm"
+                  },
+                  {
+                    "text": "附属医院",
+                    "url": "yxsz/fsyy.htm"
+                  }
+                ]
+              },
+              {
+                "text": "师资队伍",
+                "url": "szdw1/ys.htm",
+                "children": [
+                  {
+                    "text": "院士",
+                    "url": "szdw1/ys.htm"
+                  },
+                  {
+                    "text": "名医",
+                    "url": "szdw1/my.htm"
+                  },
+                  {
+                    "text": "优秀社会科学家",
+                    "url": "szdw1/yxshkxj1.htm"
+                  },
+                  {
+                    "text": "教学名师",
+                    "url": "szdw1/jxms/gjj.htm"
+                  },
+                  {
+                    "text": "杰出中青年学者",
+                    "url": "szdw1/jczqnxz.htm"
+                  },
+                  {
+                    "text": "本科生培养",
+                    "url": "https://jwb.sysu.edu.cn/"
+                  },
+                  {
+                    "text": "研究生培养",
+                    "url": "https://graduate.sysu.edu.cn/"
+                  },
+                  {
+                    "text": "国际生培养",
+                    "url": "http://iso.sysu.edu.cn/"
+                  }
+                ]
+              },
+              {
+                "text": "科学研究",
+                "url": "kxyj.htm",
+                "children": [
+                  {
+                    "text": "科研进展",
+                    "url": "kxyj/kyjz.htm"
+                  },
+                  {
+                    "text": "重大科技创新平台",
+                    "url": "kxyj/zdkjcxpt.htm"
+                  },
+                  {
+                    "text": "重点研究机构",
+                    "url": "kxyj/zdyjjg/gjjpt1.htm"
+                  },
+                  {
+                    "text": "学术期刊",
+                    "url": "kxyj/xsqk.htm"
+                  }
+                ]
+              },
+              {
+                "text": "中大看点",
+                "url": "zdkd1/xysh.htm",
+                "children": [
+                  {
+                    "text": "校园生活",
+                    "url": "zdkd1/xysh.htm"
+                  },
+                  {
+                    "text": "校园文化",
+                    "url": "zdkd1/xywh1.htm"
+                  },
+                  {
+                    "text": "校园风光",
+                    "url": "zdkd1/xyfg1.htm"
+                  },
+                  {
+                    "text": "校园看点",
+                    "url": "zdkd1/xykd.htm"
+                  },
+                  {
+                    "text": "图说中大",
+                    "url": "zdkd1/tszd1.htm"
+                  },
+                  {
+                    "text": "校园媒体",
+                    "url": "zdkd1/xymt.htm"
+                  },
+                  {
+                    "text": "数字虚拟医学博物馆",
+                    "url": "https://www.gzsys.org.cn/basic/28532"
+                  }
+                ]
+              },
+              {
+                "text": "百年校庆",
+                "url": "https://sysu100.sysu.edu.cn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "中大新闻",
+        "url": "",
+        "children": [
+          {
+            "text": "查看更多",
+            "url": "http://www.sysu.edu.cn/news",
+            "children": [
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/info/1881/1391321.htm",
+                "children": [
+                  {
+                    "text": "2025中国国际大学生创新大赛广东决赛落幕，中大项目夺冠！",
+                    "url": "http://www.sysu.edu.cn/news/info/1881/1391321.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/info/2161/1391351.htm",
+                "children": [
+                  {
+                    "text": "第二届逸仙医院管理创新论坛举办",
+                    "url": "http://www.sysu.edu.cn/news/info/2161/1391351.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/info/1901/1391341.htm",
+                "children": [
+                  {
+                    "text": "中山大学出版社5种图书入选粤港澳大湾区书籍设计艺术展（2025）",
+                    "url": "http://www.sysu.edu.cn/news/info/1901/1391341.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/info/1881/1391321.htm",
+                "children": [
+                  {
+                    "text": "2025中国国际大学生创新大赛广东决赛落幕，中大项目夺冠！",
+                    "url": "http://www.sysu.edu.cn/news/info/1881/1391321.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/info/2161/1391351.htm",
+                "children": [
+                  {
+                    "text": "第二届逸仙医院管理创新论坛举办",
+                    "url": "http://www.sysu.edu.cn/news/info/2161/1391351.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/info/1901/1391341.htm",
+                "children": [
+                  {
+                    "text": "中山大学出版社5种图书入选粤港澳大湾区书籍设计艺术展（2025）",
+                    "url": "http://www.sysu.edu.cn/news/info/1901/1391341.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/ztjj2/gdzt/ndzsdxgzhy2025.htm",
+                "children": [
+                  {
+                    "text": "2025年度中山大学工作会议",
+                    "url": "http://www.sysu.edu.cn/news/ztjj2/gdzt/ndzsdxgzhy2025.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/ztjj2/gdzt/rgzn.htm",
+                "children": [
+                  {
+                    "text": "人工智能，赋能高质量发展",
+                    "url": "http://www.sysu.edu.cn/news/ztjj2/gdzt/rgzn.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/news/ztjj2/gdzt/srgczybxgdjsxxjy.htm",
+                "children": [
+                  {
+                    "text": "深入贯彻中央八项规定精神学习教育",
+                    "url": "http://www.sysu.edu.cn/news/ztjj2/gdzt/srgczybxgdjsxxjy.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "http://www.sysu.edu.cn/srxxhxjs100hx",
+                "children": [
+                  {
+                    "text": "深入学习贯彻习近平总书记致中山大学建校100周年贺信精神",
+                    "url": "http://www.sysu.edu.cn/srxxhxjs100hx"
+                  }
+                ]
+              },
+              {
+                "text": "数说中大",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "校园看点",
+        "url": "",
+        "children": [
+          {
+            "text": "查看更多",
+            "url": "zdkd1/xykd.htm",
+            "children": [
+              {
+                "text": "开赛在即！我在中山大学等你！2025-07-30",
+                "url": "https://mp.weixin.qq.com/s/RDpZ61mYSf8XTKovJLh6yw"
+              },
+              {
+                "text": "深圳校区文科特色通识课程介绍 16至19世纪的海洋中国与世界2025-07-22",
+                "url": "https://mp.weixin.qq.com/s/a92_rXHJl32wAZTL3ND77w"
+              },
+              {
+                "text": "活动预告 | 经史传统——2025年中国哲学暑期讲习班议程2025-07-20",
+                "url": "https://mp.weixin.qq.com/s/LOn9UBmKv90OamXBZuoihw"
+              },
+              {
+                "text": "讲座预告｜传统商品货币经济的局限与调造——以中古佛教本土化为中心的考察2025-07-20",
+                "url": "https://mp.weixin.qq.com/s/raHYMfh8bUt5QDQzcAKJSg"
+              },
+              {
+                "text": "芙兰论坛高层次学术报告第二十五期 (7月21日10:00）| Quantum Field Theory, an Overview2025-07-17",
+                "url": "https://mp.weixin.qq.com/s/kBodY3ClfbJnt-jsuVgM9g"
+              },
+              {
+                "text": "谦之名家讲坛预告 | 万俊人：美德伦理如何重返现代2025-07-04",
+                "url": "https://mp.weixin.qq.com/s/Y9RTQkPq1Bs-_V0MYCxPWw"
+              }
+            ]
+          },
+          {
+            "text": "教学科研",
+            "url": ""
+          },
+          {
+            "text": "查看更多",
+            "url": "jxky.htm",
+            "children": [
+              {
+                "text": "",
+                "url": "info/2011/51102.htm"
+              },
+              {
+                "text": "",
+                "url": "info/2011/51082.htm"
+              },
+              {
+                "text": "",
+                "url": "info/2011/51012.htm"
+              },
+              {
+                "text": "",
+                "url": "info/2011/51102.htm",
+                "children": [
+                  {
+                    "text": "颜光美、银巍团队发现：己糖激酶2通过蛋白激酶活性促进外泌体生成参与急性缺血性脑卒中损伤",
+                    "url": "info/2011/51102.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "info/2011/51082.htm",
+                "children": [
+                  {
+                    "text": "张潇悦课题组发展极性与分子构象耦合关系的纳尺度表征新方法",
+                    "url": "info/2011/51082.htm"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "info/2011/51012.htm",
+                "children": [
+                  {
+                    "text": "通过眼睛可识别肾病 中大团队研发智能诊断系统",
+                    "url": "info/2011/51012.htm"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "公告",
+        "url": "",
+        "children": [
+          {
+            "text": "查看更多",
+            "url": "http://www.sysu.edu.cn/news/jzlm_ws/jxky.htm",
+            "children": [
+              {
+                "text": "社交媒体",
+                "url": "",
+                "children": [
+                  {
+                    "text": "查看更多",
+                    "url": "zdkd1/xymt.htm"
+                  },
+                  {
+                    "text": "",
+                    "url": "https://mp.weixin.qq.com/s/0jbf8SklF3D-FSviWbv3Bg"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "",
+            "url": "https://mp.weixin.qq.com/s/0jbf8SklF3D-FSviWbv3Bg"
+          },
+          {
+            "text": "",
+            "url": "https://weibo.com/1892723783/5193714944970920?wm=3333_2001&from=10F5093010&sourcetype=weixin&s_trans=2032760815_5193714944970920&s_channel=4"
+          },
+          {
+            "text": "",
+            "url": "https://article.xuexi.cn/articles/index.html?art_id=11989688575371758090&item_id=11989688575371758090&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single",
+            "children": [
+              {
+                "text": "欢迎投稿",
+                "url": "tg.jsp?urltype=tree.TreeTempUrl&wbtreeid=4942"
+              },
+              {
+                "text": "中山大学2025—2030年度资金存放银行中选公告",
+                "url": "info/5272/48872.htm",
+                "children": [
+                  {
+                    "text": "教育部",
+                    "url": "http://www.moe.gov.cn/"
+                  },
+                  {
+                    "text": "广东省人民政府",
+                    "url": "http://www.gd.gov.cn/"
+                  },
+                  {
+                    "text": "广州市人民政府",
+                    "url": "http://www.gz.gov.cn/"
+                  },
+                  {
+                    "text": "深圳市人民政府",
+                    "url": "http://www.sz.gov.cn/"
+                  },
+                  {
+                    "text": "珠海市人民政府",
+                    "url": "http://www.zhuhai.gov.cn/"
+                  },
+                  {
+                    "text": "中组部干训基地",
+                    "url": "http://ceat.sysu.edu.cn"
+                  },
+                  {
+                    "text": "干部在线学习中心",
+                    "url": "http://www.enaea.edu.cn/"
+                  },
+                  {
+                    "text": "本科招生网",
+                    "url": "http://admission.sysu.edu.cn"
+                  },
+                  {
+                    "text": "就业信息网",
+                    "url": "http://career.sysu.edu.cn/"
+                  },
+                  {
+                    "text": "信息公开网",
+                    "url": "http://xxgk.sysu.edu.cn/"
+                  },
+                  {
+                    "text": "视觉形象识别系统",
+                    "url": "http://home3.sysu.edu.cn/sysuvi/"
+                  },
+                  {
+                    "text": "科研项目经费管理政策",
+                    "url": "https://kyxmzc.sysu.edu.cn/"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "url": "index.htm"
+              },
+              {
+                "text": "",
+                "url": "https://bszs.conac.cn/sitename?method=show&id=2C57240C3CAB1EBCE053022819ACC861"
+              },
+              {
+                "text": "粤ICP备05008892号",
+                "url": "https://beian.miit.gov.cn/#/Integrated/index"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

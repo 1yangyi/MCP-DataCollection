@@ -1,0 +1,322 @@
+                { tag='div', buttons=[text='', url='index.htm'] }
+                  { tag='div', class='li lis1', buttons=[text='学生', url='index/js/xs.htm'] }
+                  { tag='div', class='li lis2', buttons=[text='教职工', url='index/js/jzg.htm'] }
+                  { tag='div', class='li lis3', buttons=[text='校友', url='index/js/xy.htm'] }
+                  { tag='div', class='li lis4', buttons=[text='访客', url='index/js/fk.htm'] }
+                  { tag='div', class='li lis1', buttons=[text='网上办事大厅', url='https://my.scu.edu.cn/'] }
+                  { tag='div', class='li lis2', buttons=[text='WebVPN', url='https://webvpn.scu.edu.cn/'] }
+                  { tag='div', class='li lis3', buttons=[text='人才招聘', url='https://recruitment.scu.edu.cn/#/'] }
+                  { tag='div', class='li lis4', buttons=[text='邮件系统', url='https://mail.scu.edu.cn/'] }
+                  { tag='div', class='li lis5', buttons=[text='EN', url='https://en.scu.edu.cn/'] }
+                { tag='li', buttons=[text='学校概况', url='xxgk/xxjj.htm'] }
+                  { tag='a', buttons=[text='学校概况', url=''] }
+                    { tag='div', class='box', buttons=[text='学校简介', url='xxgk/xxjj.htm', text='历史沿革', url='xxgk/lsyg.htm', text='领导架构', url='xxgk/ldjg.htm', text='川大学科', url='xxgk/cdxk.htm', text='川大标识', url='xxgk/cdbs.htm'] }
+                { tag='li', buttons=[text='组织机构', url='zzjg1/jgbc.htm'] }
+                  { tag='a', buttons=[text='组织机构', url=''] }
+                    { tag='div', class='box', buttons=[text='机关部处', url='zzjg1/jgbc.htm', text='院系', url='zzjg1/yx.htm', text='业务单位', url='zzjg1/ywdw.htm', text='纪检监察机构', url='zzjg1/jjjcjg.htm'] }
+                { tag='li', buttons=[text='教育教学', url='jyjx.htm'] }
+                  { tag='a', buttons=[text='教育教学', url=''] }
+                    { tag='div', class='box', buttons=[text='人才培养概况', url='jyjx/rcpygk.htm', text='本科生教学', url='http://jwc.scu.edu.cn/', text='研究生教学', url='http://gs.scu.edu.cn/', text='留学生教育', url='http://global.scu.edu.cn/', text='教育培训', url='http://etd.scu.edu.cn/', text='课程资源', url='https://ecourse.scu.edu.cn/'] }
+                { tag='li', buttons=[text='科学研究', url='kxyj.htm'] }
+                  { tag='a', buttons=[text='科学研究', url=''] }
+                    { tag='div', class='box', buttons=[text='科学研究概况', url='kxyj/kxyjgk.htm', text='科研平台', url='kxyj/kypt1/skl.htm', text='人文社科', url='https://ssd.scu.edu.cn/index.htm', text='自然科学', url='https://kyy.scu.edu.cn/index.htm', text='科研成果（人文社科）', url='https://ssd.scu.edu.cn/kycg.htm', text='科研成果（自然科学）', url='https://kyy.scu.edu.cn/kycg/cgzs.htm', text='科技产业', url='kxyj/kjcy/cygk.htm'] }
+                { tag='li', buttons=[text='师资队伍', url='szdw3.htm'] }
+                  { tag='a', buttons=[text='师资队伍', url=''] }
+                    { tag='div', class='box', buttons=[text='师资队伍概况', url='https://rsc.scu.edu.cn/szdw/gk.htm', text='两院院士', url='https://rsc.scu.edu.cn/szdw/lyys.htm', text='四川大学杰出教授', url='https://rsc.scu.edu.cn/szdw/scdxjcjs.htm', text='国家级教学名师', url='https://rsc.scu.edu.cn/szdw/gjjjxms.htm'] }
+                { tag='li', buttons=[text='交流合作', url='jlhz.htm'] }
+                  { tag='a', buttons=[text='交流合作', url=''] }
+                    { tag='div', class='box', buttons=[text='交流合作概况', url='jlhz/jlhzgk.htm', text='国内合作', url='jlhz/gnhz.htm', text='国际及港澳台合作', url='https://global.scu.edu.cn/'] }
+                { tag='li', buttons=[text='招生就业', url='zsjy.htm'] }
+                  { tag='a', buttons=[text='招生就业', url=''] }
+                    { tag='div', class='box', buttons=[text='招生就业概况', url='zsjy/zsjygk.htm', text='本科招生网', url='http://zs.scu.edu.cn/', text='研究生招生信息在线', url='https://yz.scu.edu.cn/', text='来华留学生招生信息', url='http://global.scu.edu.cn/', text='毕业生就业网', url='http://jy.scu.edu.cn', text='继续教育招生', url='http://cce.scu.edu.cn', text='出国留学预备教育招生', url='https://iltc.scu.edu.cn/', text='外语培训与考试', url='http://iltc.scu.edu.cn/iltc/'] }
+          { tag='li', buttons=[text='学校概况', url=''] }
+            { tag='h2', buttons=[text='学校概况', url='xxgk/xxjj.htm'] }
+            { tag='div', class='list', buttons=[text='学校简介', url='', text='历史沿革', url='', text='领导架构', url='', text='川大学科', url='', text='川大标识', url=''] }
+            { tag='h3', buttons=[text='学校简介', url='xxgk/xxjj.htm'] }
+            { tag='h3', buttons=[text='历史沿革', url='xxgk/lsyg.htm'] }
+            { tag='h3', buttons=[text='领导架构', url='xxgk/ldjg.htm'] }
+            { tag='h3', buttons=[text='川大学科', url='xxgk/cdxk.htm'] }
+            { tag='h3', buttons=[text='川大标识', url='xxgk/cdbs.htm'] }
+          { tag='li', buttons=[text='组织机构', url=''] }
+            { tag='h2', buttons=[text='组织机构', url='zzjg1/jgbc.htm'] }
+            { tag='div', class='list', buttons=[text='机关部处', url='', text='院系', url='', text='业务单位', url='', text='纪检监察机构', url=''] }
+            { tag='h3', buttons=[text='机关部处', url='zzjg1/jgbc.htm'] }
+            { tag='h3', buttons=[text='院系', url='zzjg1/yx.htm'] }
+            { tag='h3', buttons=[text='业务单位', url='zzjg1/ywdw.htm'] }
+            { tag='h3', buttons=[text='纪检监察机构', url='zzjg1/jjjcjg.htm'] }
+          { tag='li', buttons=[text='教育教学', url=''] }
+            { tag='h2', buttons=[text='教育教学', url='jyjx.htm'] }
+            { tag='div', class='list', buttons=[text='人才培养概况', url='', text='本科生教学', url='', text='研究生教学', url='', text='留学生教育', url='', text='教育培训', url='', text='课程资源', url=''] }
+            { tag='h3', buttons=[text='人才培养概况', url='jyjx/rcpygk.htm'] }
+            { tag='h3', buttons=[text='本科生教学', url='http://jwc.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='研究生教学', url='http://gs.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='留学生教育', url='http://global.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='教育培训', url='http://etd.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='课程资源', url='https://ecourse.scu.edu.cn/'] }
+          { tag='li', buttons=[text='科学研究', url=''] }
+            { tag='h2', buttons=[text='科学研究', url='kxyj.htm'] }
+            { tag='div', class='list', buttons=[text='科学研究概况', url='', text='科研平台', url='', text='人文社科', url='', text='自然科学', url='', text='科研成果（人文社科）', url='', text='科研成果（自然科学）', url='', text='科技产业', url=''] }
+            { tag='h3', buttons=[text='科学研究概况', url='kxyj/kxyjgk.htm'] }
+            { tag='h3', buttons=[text='科研平台', url='kxyj/kypt1/skl.htm'] }
+            { tag='h3', buttons=[text='人文社科', url='https://ssd.scu.edu.cn/index.htm'] }
+            { tag='h3', buttons=[text='自然科学', url='https://kyy.scu.edu.cn/index.htm'] }
+            { tag='h3', buttons=[text='科研成果（人文社科）', url='https://ssd.scu.edu.cn/kycg.htm'] }
+            { tag='h3', buttons=[text='科研成果（自然科学）', url='https://kyy.scu.edu.cn/kycg/cgzs.htm'] }
+            { tag='h3', buttons=[text='科技产业', url='kxyj/kjcy/cygk.htm'] }
+          { tag='li', buttons=[text='师资队伍', url=''] }
+            { tag='h2', buttons=[text='师资队伍', url='szdw3.htm'] }
+            { tag='div', class='list', buttons=[text='师资队伍概况', url='', text='两院院士', url='', text='四川大学杰出教授', url='', text='国家级教学名师', url=''] }
+            { tag='h3', buttons=[text='师资队伍概况', url='https://rsc.scu.edu.cn/szdw/gk.htm'] }
+            { tag='h3', buttons=[text='两院院士', url='https://rsc.scu.edu.cn/szdw/lyys.htm'] }
+            { tag='h3', buttons=[text='四川大学杰出教授', url='https://rsc.scu.edu.cn/szdw/scdxjcjs.htm'] }
+            { tag='h3', buttons=[text='国家级教学名师', url='https://rsc.scu.edu.cn/szdw/gjjjxms.htm'] }
+          { tag='li', buttons=[text='交流合作', url=''] }
+            { tag='h2', buttons=[text='交流合作', url='jlhz.htm'] }
+            { tag='div', class='list', buttons=[text='交流合作概况', url='', text='国内合作', url='', text='国际及港澳台合作', url=''] }
+            { tag='h3', buttons=[text='交流合作概况', url='jlhz/jlhzgk.htm'] }
+            { tag='h3', buttons=[text='国内合作', url='jlhz/gnhz.htm'] }
+            { tag='h3', buttons=[text='国际及港澳台合作', url='https://global.scu.edu.cn/'] }
+          { tag='li', buttons=[text='招生就业', url=''] }
+            { tag='h2', buttons=[text='招生就业', url='zsjy.htm'] }
+            { tag='div', class='list', buttons=[text='招生就业概况', url='', text='本科招生网', url='', text='研究生招生信息在线', url='', text='来华留学生招生信息', url='', text='毕业生就业网', url='', text='继续教育招生', url='', text='出国留学预备教育招生', url='', text='外语培训与考试', url=''] }
+            { tag='h3', buttons=[text='招生就业概况', url='zsjy/zsjygk.htm'] }
+            { tag='h3', buttons=[text='本科招生网', url='http://zs.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='研究生招生信息在线', url='https://yz.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='来华留学生招生信息', url='http://global.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='毕业生就业网', url='http://jy.scu.edu.cn'] }
+            { tag='h3', buttons=[text='继续教育招生', url='http://cce.scu.edu.cn'] }
+            { tag='h3', buttons=[text='出国留学预备教育招生', url='https://iltc.scu.edu.cn/'] }
+            { tag='h3', buttons=[text='外语培训与考试', url='http://iltc.scu.edu.cn/iltc/'] }
+            { tag='div', class='search-input f-cb clearfix', buttons=[text='搜索', url='ssjg.jsp?wbtreeid=1072'] }
+        { tag='div', buttons=[text='', url='index.htm'] }
+        { tag='form', class='header-search', buttons=[text='', url='ssjg.jsp?wbtreeid=1072'] }
+          { tag='div', class='con', buttons=[text='学校概况', url='xxgk/xxjj.htm'] }
+              { tag='p', buttons=[text='学校简介', url='xxgk/xxjj.htm'] }
+              { tag='p', buttons=[text='历史沿革', url='xxgk/lsyg.htm'] }
+              { tag='p', buttons=[text='领导架构', url='xxgk/ldjg.htm'] }
+              { tag='p', buttons=[text='川大学科', url='xxgk/cdxk.htm'] }
+              { tag='p', buttons=[text='川大标识', url='xxgk/cdbs.htm'] }
+          { tag='div', class='con', buttons=[text='组织机构', url='zzjg1/jgbc.htm'] }
+              { tag='p', buttons=[text='机关部处', url='zzjg1/jgbc.htm'] }
+              { tag='p', buttons=[text='院系', url='zzjg1/yx.htm'] }
+              { tag='p', buttons=[text='业务单位', url='zzjg1/ywdw.htm'] }
+              { tag='p', buttons=[text='纪检监察机构', url='zzjg1/jjjcjg.htm'] }
+          { tag='div', class='con', buttons=[text='教育教学', url='jyjx.htm'] }
+              { tag='p', buttons=[text='人才培养概况', url='jyjx/rcpygk.htm'] }
+              { tag='p', buttons=[text='本科生教学', url='http://jwc.scu.edu.cn/'] }
+              { tag='p', buttons=[text='研究生教学', url='http://gs.scu.edu.cn/'] }
+              { tag='p', buttons=[text='留学生教育', url='http://global.scu.edu.cn/'] }
+              { tag='p', buttons=[text='教育培训', url='http://etd.scu.edu.cn/'] }
+              { tag='p', buttons=[text='课程资源', url='https://ecourse.scu.edu.cn/'] }
+          { tag='div', class='con', buttons=[text='科学研究', url='kxyj.htm'] }
+              { tag='p', buttons=[text='科学研究概况', url='kxyj/kxyjgk.htm'] }
+              { tag='p', buttons=[text='科研平台', url='kxyj/kypt1/skl.htm'] }
+              { tag='div', class='navlist', buttons=[text='社科类', url='kxyj/kypt1/skl.htm', text='自然科学类', url='kxyj/kypt1/zrkxl.htm'] }
+              { tag='p', buttons=[text='人文社科', url='https://ssd.scu.edu.cn/index.htm'] }
+              { tag='p', buttons=[text='自然科学', url='https://kyy.scu.edu.cn/index.htm'] }
+              { tag='p', buttons=[text='科研成果（人文社科）', url='https://ssd.scu.edu.cn/kycg.htm'] }
+              { tag='p', buttons=[text='科研成果（自然科学）', url='https://kyy.scu.edu.cn/kycg/cgzs.htm'] }
+              { tag='p', buttons=[text='科技产业', url='kxyj/kjcy/cygk.htm'] }
+              { tag='div', class='navlist', buttons=[text='产业概况', url='kxyj/kjcy/cygk.htm', text='国家大学科技园', url='kxyj/kjcy/gjdxkjy.htm'] }
+          { tag='div', class='con', buttons=[text='师资队伍', url='szdw3.htm'] }
+              { tag='p', buttons=[text='师资队伍概况', url='https://rsc.scu.edu.cn/szdw/gk.htm'] }
+              { tag='p', buttons=[text='两院院士', url='https://rsc.scu.edu.cn/szdw/lyys.htm'] }
+              { tag='p', buttons=[text='四川大学杰出教授', url='https://rsc.scu.edu.cn/szdw/scdxjcjs.htm'] }
+              { tag='p', buttons=[text='国家级教学名师', url='https://rsc.scu.edu.cn/szdw/gjjjxms.htm'] }
+          { tag='div', class='con', buttons=[text='交流合作', url='jlhz.htm'] }
+              { tag='p', buttons=[text='交流合作概况', url='jlhz/jlhzgk.htm'] }
+              { tag='p', buttons=[text='国内合作', url='jlhz/gnhz.htm'] }
+              { tag='p', buttons=[text='国际及港澳台合作', url='https://global.scu.edu.cn/'] }
+          { tag='div', class='con', buttons=[text='招生就业', url='zsjy.htm'] }
+              { tag='p', buttons=[text='招生就业概况', url='zsjy/zsjygk.htm'] }
+              { tag='p', buttons=[text='本科招生网', url='http://zs.scu.edu.cn/'] }
+              { tag='p', buttons=[text='研究生招生信息在线', url='https://yz.scu.edu.cn/'] }
+              { tag='p', buttons=[text='来华留学生招生信息', url='http://global.scu.edu.cn/'] }
+              { tag='p', buttons=[text='毕业生就业网', url='http://jy.scu.edu.cn'] }
+              { tag='p', buttons=[text='继续教育招生', url='http://cce.scu.edu.cn'] }
+              { tag='p', buttons=[text='出国留学预备教育招生', url='https://iltc.scu.edu.cn/'] }
+              { tag='p', buttons=[text='外语培训与考试', url='http://iltc.scu.edu.cn/iltc/'] }
+        { tag='div', class='li', buttons=[text='学生', url='index/js/xs.htm'] }
+        { tag='div', class='li', buttons=[text='教职工', url='index/js/jzg.htm'] }
+        { tag='div', class='li', buttons=[text='校友', url='index/js/xy.htm'] }
+        { tag='div', class='li', buttons=[text='访客', url='index/js/fk.htm'] }
+        { tag='div', class='li', buttons=[text='网上办事大厅', url='https://my.scu.edu.cn/'] }
+        { tag='div', class='li', buttons=[text='WebVPN', url='https://webvpn.scu.edu.cn/'] }
+        { tag='div', class='li', buttons=[text='人才招聘', url='https://recruitment.scu.edu.cn/#/'] }
+        { tag='div', class='li', buttons=[text='邮件系统', url='https://mail.scu.edu.cn/'] }
+        { tag='div', class='li', buttons=[text='EN', url='https://en.scu.edu.cn/'] }
+            { tag='div', class='swiper-slide main-visual-item vde', buttons=[text='', url='https://xcb.scu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1030&wbnewsid=2301'] }
+            { tag='div', class='swiper-slide main-visual-item', buttons=[text='', url='http://news.scu.edu.cn/info/1843/48781.htm'] }
+            { tag='div', class='swiper-slide main-visual-item', buttons=[text='', url='info/1182/35335.htm'] }
+              { tag='div', class='h3 wl', buttons=[text='焦点新闻', url=''] }
+              { tag='div', class='more', buttons=[text='更多', url='http://news.scu.edu.cn/jdxw.htm'] }
+              { tag='li', buttons=[text='112025.07学校与贵州省人民政府签署深化战略合作协议', url='http://news.scu.edu.cn/info/1843/48817.htm'] }
+                  { tag='div', class='con flex wl', buttons=[text='学校与贵州省人民政府签署深化战略合作协议', url=''] }
+              { tag='li', buttons=[text='042025.08【特稿】守护生命起点  绽放高原希望——四川大学华西第二医院援藏工作纪实', url='info/1203/35510.htm'] }
+                  { tag='div', class='con flex wl', buttons=[text='【特稿】守护生命起点  绽放高原希望——四川大学华西第二医院援藏工作纪实', url=''] }
+              { tag='li', buttons=[text='012025.08【特稿】雪域高原上守护群众口腔健康——四川大学华西口腔医院援藏工作纪实', url='info/1203/35486.htm'] }
+                  { tag='div', class='con flex wl', buttons=[text='【特稿】雪域高原上守护群众口腔健康——四川大学华西口腔医院援藏工作纪实', url=''] }
+              { tag='li', buttons=[text='242025.07生命科学学院张跃林团队在《Nature》发文揭示阿司匹林药用成分水杨酸的完整生物合成机制', url='info/1203/35465.htm'] }
+                  { tag='div', class='con flex wl', buttons=[text='生命科学学院张跃林团队在《Nature》发文揭示阿司匹林药用成分水杨酸的完整生物合成机制', url=''] }
+              { tag='div', class='h3 wl', buttons=[text='综合新闻', url=''] }
+              { tag='div', class='more', buttons=[text='更多', url='http://news.scu.edu.cn/zhxw.htm'] }
+              { tag='li', buttons=[text='川大志愿者亮相2025年世界运动会开幕式2025-08-08', url='https://mp.weixin.qq.com/s/U7YHRkVZio9x_5wuZUuiYw'] }
+                { tag='a', class='wl', buttons=[text='川大志愿者亮相2025年世界运动会开幕式', url=''] }
+              { tag='li', buttons=[text='四川大学2025年本科招生录取工作圆满结束2025-08-04', url='https://mp.weixin.qq.com/s/U8zsYPCChSeNg2vcnjSWOA?scene=1&click_id=8'] }
+                { tag='a', class='wl', buttons=[text='四川大学2025年本科招生录取工作圆满结束', url=''] }
+              { tag='li', buttons=[text='聚天下英才而育之 校领导检查本科招生录取工作2025-07-30', url='info/1207/35477.htm'] }
+                { tag='a', class='wl', buttons=[text='聚天下英才而育之 校领导检查本科招生录取工作', url=''] }
+              { tag='li', buttons=[text='【特稿】让西藏百姓在家门口看上病、看好病——四川大学华西医院援藏医疗团队工作纪实2025-07-31', url='info/1207/35511.htm'] }
+                { tag='a', class='wl', buttons=[text='【特稿】让西藏百姓在家门口看上病、看好病——四川大学华西医院援藏医疗团队工作纪实', url=''] }
+              { tag='li', buttons=[text='高分子研究所冯玉军教授团队发表综述论文 总结机器学习在高分子材料研究中的应用进展2025-08-06', url='info/1207/35525.htm'] }
+                { tag='a', class='wl', buttons=[text='高分子研究所冯玉军教授团队发表综述论文 总结机器学习在高分子材料研究中的应用进展', url=''] }
+              { tag='li', buttons=[text='我校学子荣获第十届全国大学生生命科学竞赛一等奖6项2025-08-06', url='info/1207/35527.htm'] }
+                { tag='a', class='wl', buttons=[text='我校学子荣获第十届全国大学生生命科学竞赛一等奖6项', url=''] }
+              { tag='li', buttons=[text='我校学子在第十一届全国大学生医学创新大赛复赛中再创佳绩2025-08-04', url='info/1207/35487.htm'] }
+                { tag='a', class='wl', buttons=[text='我校学子在第十一届全国大学生医学创新大赛复赛中再创佳绩', url=''] }
+              { tag='li', buttons=[text='我校高分子学院学子在第五届全国大学生高分子材料实验实践大赛中荣获一等奖2025-08-04', url='info/1207/35489.htm'] }
+                { tag='a', class='wl', buttons=[text='我校高分子学院学子在第五届全国大学生高分子材料实验实践大赛中荣获一等奖', url=''] }
+              { tag='li', buttons=[text='【三年行动计划大家谈②】奋力答好“强国建设，川大有为”的时代命题——全力推进三年行动计划落地落实2025-07-10', url='info/1207/35412.htm'] }
+                { tag='a', class='wl', buttons=[text='【三年行动计划大家谈②】奋力答好“强国建设，川大有为”的时代命题——全力推进三年行动计划落地落实', url=''] }
+              { tag='li', buttons=[text='【三年行动计划大家谈①】奋力答好“强国建设，川大有为”的时代命题——全力推进三年行动计划落地落实2025-07-08', url='info/1207/35413.htm'] }
+                { tag='a', class='wl', buttons=[text='【三年行动计划大家谈①】奋力答好“强国建设，川大有为”的时代命题——全力推进三年行动计划落地落实', url=''] }
+        { tag='div', class='h1-b wow fadeInUp', buttons=[text='', url='https://ppcyb.vsbclub.com/ymqr/wl/scdx130/fa2/page/index_full.html'] }
+            { tag='div', class='h3 wl', buttons=[text='学术研究', url=''] }
+            { tag='div', class='more flex', buttons=[text='更多', url='http://news.scu.edu.cn/kxyj.htm'] }
+                { tag='li', class='on', buttons=[text='高分子研究所冯玉军教授团队发表综述论文 总结机器学习在高分子材料研究中的应用进展近日，我校高分子研究所冯玉军教授团队在国际材料科学领域顶级综述期刊《Progress in Materials Science》发表了题为“Machine learning in polymer science: A new lens for physical and chemical exploration”的综述论文。论文第一作者为在我校高分子研究所读博士研究生曹小琴，成都信息工程大学张永清教授为共同第一作者，通讯作者为我校高分子研究所殷鸿尧副研究员和冯玉军教授。高分子材料作为现代工业的基础性材料，由...', url='info/1776/35526.htm'] }
+                  { tag='a', class='wl', buttons=[text='高分子研究所冯玉军教授团队发表综述论文 总结机器学习在高分子材料研究中的应用进展', url=''] }
+                { tag='li', buttons=[text='算法模型国重教师张明洁在高超声速气动热研究方面取得新进展近日，工程数值模拟基础算法与模型全国重点实验室（简称“算法模型国重”）教师张明洁发表的题为“Heat Transfer and Recovery Factor of Aerodynamic Heating on a Flared Cone”的论文入选航空航天领域国际顶刊《AIAA Journal》的“Editor’s Choice”专栏。文章研究了高超声速裙锥模型的气动加热问题，采用基于实验测量壁温的数据处理方法，用于同步计算斯坦顿数与恢复因子。实验在马赫数6的高超声速风洞中进行，获得了光滑...', url='http://news.scu.edu.cn/info/1153/53019.htm'] }
+                  { tag='a', class='wl', buttons=[text='算法模型国重教师张明洁在高超声速气动热研究方面取得新进展', url=''] }
+                { tag='li', buttons=[text='我校承办第九届中美生物医学工程暨海内外生物力学学术研讨会7月22-26日，第九届中美生物医学工程暨海内外生物力学学术研讨会举办。该会议由中国力学学会/中国生物医学工程学会生物力学专业委员会主办，我校华西基础医学与法医学院、口腔疾病防治全国重点实验室（四川大学华西口腔医学院/华西口腔医院）、重庆大学生物工程学院共同承办，四川大学刘肖珩教授、重庆大学杨力教授（中方）和美国密歇根大学傅剑平教授（美方）共同担任大会主席。来自美国哥伦比亚大学、宾夕法尼亚州立大学、密...', url='http://news.scu.edu.cn/info/1153/53010.htm'] }
+                  { tag='a', class='wl', buttons=[text='我校承办第九届中美生物医学工程暨海内外生物力学学术研讨会', url=''] }
+                { tag='li', buttons=[text='生命科学学院张跃林团队在《Nature》发文揭示阿司匹林药用成分水杨酸的完整生物合成机制水杨酸（SA）是柳树皮中古老的消炎成分、药物阿司匹林的前体，更是植物对抗病原体的核心防御激素。其生物合成途径一直是植物科学领域的重大谜题。7月23日，四川大学生命科学学院张跃林教授团队在国际顶尖期刊Nature发表题为“Three-step biosynthesis of salicylic acid from benzoyl-CoA in plants”的突破性研究，首次完整解析植物中一条全新的水杨酸合成通路“PAL/BSH途径”，并证明该通路在种子植物中广泛存在且高度保守。...', url='info/1776/35464.htm'] }
+                  { tag='a', class='wl', buttons=[text='生命科学学院张跃林团队在《Nature》发文揭示阿司匹林药用成分水杨酸的完整生物合成机制', url=''] }
+                { tag='li', buttons=[text='', url='info/1776/35526.htm'] }
+                { tag='li', buttons=[text='', url='http://news.scu.edu.cn/info/1153/53019.htm'] }
+                { tag='li', buttons=[text='', url='http://news.scu.edu.cn/info/1153/53010.htm'] }
+                { tag='li', buttons=[text='', url='info/1776/35464.htm'] }
+          { tag='div', class='h3 wl', buttons=[text='川大故事', url=''] }
+          { tag='div', class='more', buttons=[text='更多', url='index/xw/cdgs.htm'] }
+            { tag='li', buttons=[text='四川大学先进班子、先进党支部、优秀共产党员和优秀党务工作者风采展6月30日，学校在望江校区文华活动中心举行庆祝“七一”表彰大会。教育部直属高校...', url='https://mp.weixin.qq.com/s/MaeRgtnzNI--CQyTKI7Xsw'] }
+                { tag='div', class='con', buttons=[text='四川大学先进班子、先进党支部、优秀共产党员和优秀党务工作者风采展', url=''] }
+            { tag='li', buttons=[text='全国政协委员、川大华西医院甘华田教授：医者仁心系民生 履职尽责筑健康近日，《中国政协杂志》对全国政协委员、我校华西医院甘华田教授进行了专访，报...', url='info/1864/34947.htm'] }
+                { tag='div', class='con', buttons=[text='全国政协委员、川大华西医院甘华田教授：医者仁心系民生 履职尽责筑健康', url=''] }
+            { tag='li', buttons=[text='川大援疆干部：充分发挥专业优势、用大爱传递仁心、用传承守护生命医疗援疆，传递大爱。2023年7月至2025年2月，华西医院吕建琴、何森、曹德宏，华...', url='https://mp.weixin.qq.com/s/YUjq1mM-gW_BS4Rb0iOWOA'] }
+                { tag='div', class='con', buttons=[text='川大援疆干部：充分发挥专业优势、用大爱传递仁心、用传承守护生命', url=''] }
+            { tag='li', buttons=[text='且以青春赴山海！看川大学子的时代答卷又到栀子花开
+
+川大的毕业生们
+
+带着理想与担当
+
+正赴往各自的星辰大海
+
+...', url='https://mp.weixin.qq.com/s/dWsyJlmkrS_mNwzk-ht9oA'] }
+                { tag='div', class='con', buttons=[text='且以青春赴山海！看川大学子的时代答卷', url=''] }
+              { tag='div', class='h3', buttons=[text='学术看板', url=''] }
+              { tag='div', class='more', buttons=[text='更多', url='index/xw/xskb.htm'] }
+              { tag='li', buttons=[text='碳中和未来技术青年学者论坛（第五十四期）--双碳背景下的追光技术：异质结光催化地　点：望江校区基础教学楼A302室主讲人：黄海涛，香港理工大学应用物理系教授，英国皇家化学会会士', url='index/xw/xskb.htm'] }
+                { tag='a', class='wl', buttons=[text='碳中和未来技术青年学者论坛（第五十四期）--双碳背景下的追光技术：异质结光催化', url=''] }
+              { tag='li', buttons=[text='Juggling with Three Cations: TheMagic of Catalysis with Superelectrophiles地　点：化学馆321主讲人：Prof. Hendrik F. T.  Klare', url='index/xw/xskb.htm'] }
+                { tag='a', class='wl', buttons=[text='Juggling with Three Cations: TheMagic of Catalysis with Superelectrophiles', url=''] }
+              { tag='li', buttons=[text='四川大学卓越大讲堂（第2期）暨化工学术大讲堂（117期）——从废弃物到有用物：循环经济中可持续利用和资源回收的创新策略地　点：望江校区化工楼313会议室主讲人：Wen Yi Chia 研究员，新加坡南洋理工大学、新加坡膜技术中心', url='index/xw/xskb.htm'] }
+                { tag='a', class='wl', buttons=[text='四川大学卓越大讲堂（第2期）暨化工学术大讲堂（117期）——从废弃物到有用物：循环经济中可持续利用和资源回收的创新策略', url=''] }
+              { tag='div', class='h3', buttons=[text='校园活动', url=''] }
+              { tag='div', class='more', buttons=[text='更多', url='index/xw/xyhd.htm'] }
+              { tag='li', buttons=[text='共赴风雅——“大川寻雅”古典国风趣游市集地　点：四川大学博物馆 详情请见：https://mp.weixin.qq.com/s/2hk4x1RbPgIgBC8_IqfD4A时　间：7月11日-7月13日每日15：00-21：00', url='index/xw/xyhd.htm'] }
+                { tag='a', class='wl', buttons=[text='共赴风雅——“大川寻雅”古典国风趣游市集', url=''] }
+              { tag='li', buttons=[text='2025年度四川大学安全宣传周活动地　点：望江校区基础教学楼前时　间：6月19日', url='index/xw/xyhd.htm'] }
+                { tag='a', class='wl', buttons=[text='2025年度四川大学安全宣传周活动', url=''] }
+              { tag='li', buttons=[text='“我们在一起”2021-2025年光影展地　点：江安校区多学科交叉融合平台及艺术教育中心门前广场时　间：6月16日—6月28日', url='index/xw/xyhd.htm'] }
+                { tag='a', class='wl', buttons=[text='“我们在一起”2021-2025年光影展', url=''] }
+              { tag='div', class='h3', buttons=[text='通知公告', url=''] }
+              { tag='div', class='more', buttons=[text='更多', url='index/xw/tzgg.htm'] }
+              { tag='li', buttons=[text='关于开展四川大学“十五五”事业发展规划编制建言献策活动的公告2025.07.02', url='info/1182/35335.htm'] }
+                { tag='a', class='wl', buttons=[text='关于开展四川大学“十五五”事业发展规划编制建言献策活动的公告', url=''] }
+              { tag='li', buttons=[text='四川大学幼儿园2025年招生公告2025.07.11', url='info/1182/35334.htm'] }
+                { tag='a', class='wl', buttons=[text='四川大学幼儿园2025年招生公告', url=''] }
+              { tag='li', buttons=[text='关于举办四川大学“奋进强国新征程”新媒体原创作品大赛暨第九届网络文化节的通知2025.06.19', url='info/1182/33324.htm'] }
+                { tag='a', class='wl', buttons=[text='关于举办四川大学“奋进强国新征程”新媒体原创作品大赛暨第九届网络文化节的通知', url=''] }
+              { tag='li', buttons=[text='四川大学关于面向师生和校友征集眉山校区部分道路、建筑与景观名称的公告2025.06.13', url='info/1182/33186.htm'] }
+                { tag='a', class='wl', buttons=[text='四川大学关于面向师生和校友征集眉山校区部分道路、建筑与景观名称的公告', url=''] }
+              { tag='li', buttons=[text='2025届毕业生离校手续办理指南2025.06.13', url='info/1182/33184.htm'] }
+                { tag='a', class='wl', buttons=[text='2025届毕业生离校手续办理指南', url=''] }
+          { tag='div', class='h3 wl', buttons=[text='媒体川大', url=''] }
+          { tag='div', class='more', buttons=[text='更多', url='index/xw/mtcd.htm'] }
+              { tag='li', buttons=[text='', url='info/1202/36784.htm'] }
+              { tag='li', buttons=[text='', url='info/1202/36785.htm'] }
+              { tag='li', buttons=[text='', url='info/1202/35484.htm'] }
+              { tag='li', buttons=[text='', url='info/1202/35472.htm'] }
+              { tag='li', buttons=[text='', url='info/1202/35471.htm'] }
+              { tag='li', buttons=[text='【中国社会科学报】霍巍：长江上游文明与中华文明多元一体的关系2025.08.07', url='info/1202/36784.htm'] }
+                { tag='a', class='wl flex', buttons=[text='【中国社会科学报】霍巍：长江上游文明与中华文明多元一体的关系', url=''] }
+              { tag='li', class='on', buttons=[text='【光明日报客户端】四川大学华西口腔医院：助力西藏打造口腔健康新高地2025.08.08', url='info/1202/36785.htm'] }
+                { tag='a', class='wl flex', buttons=[text='【光明日报客户端】四川大学华西口腔医院：助力西藏打造口腔健康新高地', url=''] }
+              { tag='li', buttons=[text='【新华网】华西公卫/华西四院扎实推进双拥工作2025.08.01', url='info/1202/35484.htm'] }
+                { tag='a', class='wl flex', buttons=[text='【新华网】华西公卫/华西四院扎实推进双拥工作', url=''] }
+              { tag='li', buttons=[text='【央视新闻频道东方时空栏目】文化中国行·打卡高校博物馆 川大考古人接续探秘三星堆2025.07.25', url='info/1202/35472.htm'] }
+                { tag='a', class='wl flex', buttons=[text='【央视新闻频道东方时空栏目】文化中国行·打卡高校博物馆 川大考古人接续探秘三星堆', url=''] }
+              { tag='li', buttons=[text='【央视新闻频道东方时空栏目】四川大学博物馆 包罗万象的“巴蜀文明基因库”2025.07.25', url='info/1202/35471.htm'] }
+                { tag='a', class='wl flex', buttons=[text='【央视新闻频道东方时空栏目】四川大学博物馆 包罗万象的“巴蜀文明基因库”', url=''] }
+          { tag='div', class='h3 wl', buttons=[text='专题专栏', url=''] }
+          { tag='div', class='more', buttons=[text='更多', url='http://news.scu.edu.cn/ztzl.htm'] }
+            { tag='li', buttons=[text='', url='http://news.scu.edu.cn/ztzl/srgczybxgdjsxxjy.htm'] }
+            { tag='li', buttons=[text='', url='http://news.scu.edu.cn/ztzl/ylbkfzdtl.htm'] }
+            { tag='li', buttons=[text='', url='http://news.scu.edu.cn/ztzl/srkzylbz_ylzzhyldwcjhd.htm'] }
+            { tag='li', buttons=[text='', url='http://news.scu.edu.cn/ztzl/a2025n_zyjxj__jwpyxjxj__hwlqnjsyxjxj_px.htm'] }
+            { tag='div', class='h3 wl', buttons=[text='文化川大', url=''] }
+                  { tag='div', class='icon', buttons=[text='', url='http://newspaper.scu.edu.cn/'] }
+          { tag='div', class='more', buttons=[text='更多', url='whcd.htm'] }
+              { tag='li', buttons=[text='有没有那么一张图，让你一看到就想起川大……', url='https://mp.weixin.qq.com/s/J2rBF44JydUTrTDWFvSKEw'] }
+                  { tag='div', class='con', buttons=[text='有没有那么一张图，让你一看到就想起川大……', url=''] }
+              { tag='li', buttons=[text='#大美川大#一点一滴的校园日常，绘染出一幅又一幅金色画像。', url='https://weibo.com/3624694175/5192257842971388'] }
+                  { tag='div', class='con', buttons=[text='#大美川大#一点一滴的校园日常，绘染出一幅又一幅金色画像。', url=''] }
+              { tag='li', buttons=[text='发射成功！“川大方案”首次入驻中国空间站！', url='https://www.douyin.com/video/7529119662362561828'] }
+                  { tag='div', class='con', buttons=[text='发射成功！“川大方案”首次入驻中国空间站！', url=''] }
+              { tag='dt', buttons=[text='图书馆', url='https://lib.scu.edu.cn/'] }
+              { tag='dt', buttons=[text='博物馆', url='http://sum.scu.edu.cn/'] }
+              { tag='dt', buttons=[text='校史展览馆', url='http://archives.scu.edu.cn/'] }
+              { tag='dt', buttons=[text='江姐纪念馆', url='http://202.115.44.102:9602/'] }
+              { tag='dt', buttons=[text='美术馆', url='whcd/msg.htm'] }
+              { tag='dt', buttons=[text='华西口腔医学博物馆', url='https://www.hxkq.org/Html/News/Main/502.html'] }
+              { tag='dt', buttons=[text='华西口腔健康教育博物馆', url='https://www.hxkq.org/Html/News/Articles/14429.html'] }
+              { tag='dt', buttons=[text='华西医学展览馆', url='https://wcums.scu.edu.cn/index/ztzl/yxzlg1.htm'] }
+              { tag='dt', buttons=[text='历史文化长廊', url='whcd/lswhzl.htm'] }
+              { tag='dt', buttons=[text='百年史苑', url='whcd/bnsy.htm'] }
+              { tag='dt', buttons=[text='川大期刊', url='http://journal.scu.edu.cn/qkdh1/zxshkxlqk.htm'] }
+              { tag='dt', buttons=[text='影像资源', url='whcd/yxzy/xyfj.htm'] }
+              { tag='dt', buttons=[text='川大文创', url='index/js/fk.htm#fk5'] }
+            { tag='li', buttons=[text='本科生招生', url='http://zs.scu.edu.cn/'] }
+                { tag='div', class='con flex', buttons=[text='本科生招生', url=''] }
+            { tag='li', buttons=[text='研究生招生', url='https://yz.scu.edu.cn/'] }
+                { tag='div', class='con flex', buttons=[text='研究生招生', url=''] }
+            { tag='li', buttons=[text='留学生招生', url='https://global.scu.edu.cn/'] }
+                { tag='div', class='con flex', buttons=[text='留学生招生', url=''] }
+            { tag='li', class='wl', buttons=[text='实用信息', url='index/syxx/xl.htm'] }
+            { tag='li', class='wl', buttons=[text='信息公开', url='https://xxgk.scu.edu.cn/'] }
+            { tag='li', class='wl', buttons=[text='招标投标', url='https://cg.scu.edu.cn/'] }
+            { tag='li', class='wl', buttons=[text='漫游校园', url='https://gis.scu.edu.cn'] }
+            { tag='li', class='wl', buttons=[text='书记信箱', url='index/sjxx.htm'] }
+            { tag='li', class='wl', buttons=[text='校长信箱', url='index/xzxx.htm'] }
+            { tag='div', class='img', buttons=[text='', url='index.htm'] }
+            { tag='div', class='select', buttons=[text='校内链接', url=''] }
+                { tag='li', buttons=[text='四川大学校友总会', url='http://scuaa.scu.edu.cn/'] }
+                { tag='li', buttons=[text='四川大学教育基金会', url='http://foundation.scu.edu.cn/'] }
+                { tag='li', buttons=[text='信息化建设与管理办公室', url='http://info.scu.edu.cn/'] }
+                { tag='li', buttons=[text='学术诚信与科学探索网', url='http://xscx.scu.edu.cn/'] }
+            { tag='div', class='select', buttons=[text='友情链接', url=''] }
+                { tag='li', buttons=[text='中华人民共和国教育部', url='http://www.moe.gov.cn/'] }
+                { tag='li', buttons=[text='网络理政平台', url='http://gxlz.scedu.net/webuser/index.html#/Home'] }
+                { tag='li', buttons=[text='北京大学', url='https://www.pku.edu.cn/'] }
+                { tag='li', buttons=[text='清华大学', url='https://www.tsinghua.edu.cn/'] }
+                { tag='li', buttons=[text='中国人民大学', url='https://www.ruc.edu.cn/'] }
+                { tag='li', buttons=[text='浙江大学', url='http://www.zju.edu.cn/'] }
+                { tag='li', buttons=[text='复旦大学', url='https://www.fudan.edu.cn/'] }
+                { tag='li', buttons=[text='武汉大学', url='http://www.whu.edu.cn/'] }
+                { tag='li', buttons=[text='上海交通大学', url='https://www.sjtu.edu.cn/'] }
+                { tag='li', buttons=[text='南京大学', url='https://www.nju.edu.cn/'] }
+                { tag='li', buttons=[text='人民日报', url='http://paper.people.com.cn/rmrb/html/2019-10/24/nbs.D110000renmrb_01.htm'] }
+                { tag='li', buttons=[text='新华社', url='http://www.xinhuanet.com/'] }
+                { tag='li', buttons=[text='光明日报', url='http://www.gmw.cn/'] }
+                { tag='li', buttons=[text='中国科学报', url='http://www.csd.cas.cn/'] }
+          { tag='p', buttons=[text='蜀ICP备05006382号', url='http://beian.miit.gov.cn/', text='川公网安备 51010702003474 号', url='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51010702003474'] }
